@@ -1,0 +1,62 @@
+name: Fetch GCAT Data
+
+on:
+  schedule:
+    # 6:00 AM EDT = 10:00 UTC (during DST)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch TSV files from planet4589.org
+        run: |
+          mkdir -p data
+          BASE="https://planet4589.org/space/gcat/tsv"
+          
+          # derived/ datasets
+          for f in launchlog active geotab currentcat; do
+            echo "Fetching ${f}.tsv from derived/..."
+            curl -sS -f -o "data/${f}.tsv" "${BASE}/derived/${f}.tsv"
+          done
+          
+          # cat/ datasets
+          for f in satcat psatcat ftocat deepcat; do
+            echo "Fetching ${f}.tsv from cat/..."
+            curl -sS -f -o "data/${f}.tsv" "${BASE}/cat/${f}.tsv"
+          done
+          
+          echo "All files fetched."
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes detected, skipping commit."
+            echo "CHANGED=false" >> $GITHUB_ENV
+          else
+            TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "archive: ${TIMESTAMP}"
+            git push
+            echo "CHANGED=true" >> $GITHUB_ENV
+            echo "TIMESTAMP=${TIMESTAMP}" >> $GITHUB_ENV
+            echo "DATE=${DATE}" >> $GITHUB_ENV
+          fi
+
+      - name: Create release
+        if: env.CHANGED == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${{ env.DATE }}" \
+            --title "GCAT Snapshot ${{ env.DATE }}" \
+            --notes "Automated daily archive snapshot at ${{ env.TIMESTAMP }}"
