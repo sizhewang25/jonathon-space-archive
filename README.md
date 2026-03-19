@@ -22,7 +22,7 @@ Source directories:
 
 ## Update Schedule
 
-A GitHub Actions workflow fetches fresh data daily at 6:00 AM EDT. Only commits when files actually change.
+A GitHub Actions workflow fetches fresh data daily at 6:00 AM EDT. Only commits when files actually change. Each new commit automatically creates a [GitHub Release](https://github.com/sizhewang25/jonathon-space-archive/releases) tagged with the date (e.g. `2026-03-19`), making it easy to browse or download any day's snapshot directly from the Releases page.
 
 ## Why Archive?
 
