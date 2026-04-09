@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Apr  8 0024:07
+# Updated 2026 Apr  8 2241:31
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF	Vang-ER9948
@@ -27632,7 +27632,7 @@
 2025-276 	2025 Nov 28 1844:30	2025-276C	P       ?   	Phasma-Lamarr	Phasma-Lamarr	S66668	LIBRE/ELKED	GR	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276D	P       ?   	HCT-SAT2	HCT-SAT2	S66669	HCT/MBRSC	UAE	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276E	P           	Hunity	Hunity	S66670	BME	HU	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
-2025-276 	2025 Nov 28 1844:30	2025-276F	P       ?   	Black Kite 1	Black Kite 1	S66671	TASA/RAPTEK	TW	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
+2025-276 	2025 Nov 28 1844:30	2025-276F	P       ?   	WISDOM B	WISDOM B	S66671	C3S	HU	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276G	P           	BRO-17	BRO-17	S66672	UNSEEN	F	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276H	P       ?   	TORO2	TORO2	S66673	TASA/PYRAS	TW	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276J	P           	BRO-20	BRO-20	S66674	UNSEEN	F	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
@@ -27702,7 +27702,7 @@
 2025-276 	2025 Nov 28 1844:30	2025-276CA	P           	Flock 4h-35	Dove 257a	S66738	PLAN	US	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276CB	P           	Flock 4h-36	Dove 255e	S66739	PLAN	US	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276CC	P           	Beatrice Tinsley	NuSat-51	S66740	URUGUS	UY	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
-2025-276 	2025 Nov 28 1844:30	2025-276CD	P       ?   	WISDOM B	WISDOM B	S66741	C3S	HU	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
+2025-276 	2025 Nov 28 1844:30	2025-276CD	P       ?   	Black Kite 1	Black Kite 1	S66741	TASA/RAPTEK	TW	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276CE	P           	Mercury One	Mercury One	S66742	PROTE	US	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276CF	P           	Melina Furman	NuSat-47	S66743	URUGUS	UY	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2025-276 	2025 Nov 28 1844:30	2025-276CG	P           	AC1-001	AC1-001	S66744	BAEG/INSBAE	UK	Falcon 9	564/B1071.30 F570	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
@@ -29562,21 +29562,26 @@
 2026-074 	2026 Apr  7 1133	2026-074E	P ------?   	MISR-C	MISR-C	S68631	SOCOM	US	Minotaur IV	9	-	VS	SLC8	-	-	NGIS	US	OS	Wire
 2026-074 	2026 Apr  7 1133	2026-074F	P ------?   	Rawhide 1	Rawhide	S68632	SMDC	US	Minotaur IV	9	-	VS	SLC8	-	-	NGIS	US	OS	Wire
 2026-074 	2026 Apr  7 1133	2026-074G	P ------?   	Rawhide 2	Rawhide	S68633	SMDC	US	Minotaur IV	9	-	VS	SLC8	-	-	NGIS	US	OS	Wire
-2026-075 	2026 Apr  7 1332	2026-075A	P      D    	Qianfan 07-01	Qianfan	S68635	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075B	P      D    	Qianfan 07-02	Qianfan	S68636	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075C	P      D    	Qianfan 07-03	Qianfan	S68637	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075D	P      D    	Qianfan 07-04	Qianfan	S68638	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075E	P      D    	Qianfan 07-05	Qianfan	S68639	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075F	P      D    	Qianfan 07-06	Qianfan	S68640	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075G	P      D    	Qianfan 07-07	Qianfan	S68641	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075H	P      D    	Qianfan 07-08	Qianfan	S68642	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075J	P      D    	Qianfan 07-09	Qianfan	S68643	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075K	P      D    	Qianfan 07-10	Qianfan	S68644	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075L	P      D    	Qianfan 07-11	Qianfan	S68645	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075M	P      D    	Qianfan 07-12	Qianfan	S68646	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075N	P      D    	Qianfan 07-13	Qianfan	S68647	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075P	P      D    	Qianfan 07-14	Qianfan	S68648	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075Q	P      D    	Qianfan 07-15	Qianfan	S68649	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075R	P      D    	Qianfan 07-16	Qianfan	S68650	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075S	P      D    	Qianfan 07-17	Qianfan	S68651	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
-2026-075 	2026 Apr  7 1332	2026-075T	P      D    	Qianfan 07-18	Qianfan	S68652	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075A	P      D    	Qianfan 07-01	Qianfan	S68636	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075B	P      D    	Qianfan 07-02	Qianfan	S68637	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075C	P      D    	Qianfan 07-03	Qianfan	S68638	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075D	P      D    	Qianfan 07-04	Qianfan	S68639	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075E	P      D    	Qianfan 07-05	Qianfan	S68640	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075F	P      D    	Qianfan 07-06	Qianfan	S68641	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075G	P      D    	Qianfan 07-07	Qianfan	S68642	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075H	P      D    	Qianfan 07-08	Qianfan	S68643	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075J	P      D    	Qianfan 07-09	Qianfan	S68644	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075K	P      D    	Qianfan 07-10	Qianfan	S68645	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075L	P      D    	Qianfan 07-11	Qianfan	S68646	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075M	P      D    	Qianfan 07-12	Qianfan	S68647	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075N	P      D    	Qianfan 07-13	Qianfan	S68648	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075P	P      D    	Qianfan 07-14	Qianfan	S68649	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075Q	P      D    	Qianfan 07-15	Qianfan	S68650	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075R	P      D    	Qianfan 07-16	Qianfan	S68651	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075S	P      D    	Qianfan 07-17	Qianfan	S68652	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-075 	2026 Apr  7 1332	2026-075T	P      D    	Qianfan 07-18	Qianfan	S68653	YUANX	CN	Chang Zheng 8	Y7	-	HCSLS	LC1	-	-	CALT	CN	OS	nasaspaceflight.com
+2026-076 	2026 Apr  8 1938	2026-076A	P      O    	WHDW 21-01	Xingwang Digui 21-01	S68656	ZXW	CN	Chang Zheng 6A	Yxx	-	TYSC	LC9A	-	-	SAST	CN	OS	nasaspaceflight.com
+2026-076 	2026 Apr  8 1938	2026-076B	P      O    	WHDW 21-02	Xingwang Digui 21-02	S68657	ZXW	CN	Chang Zheng 6A	Yxx	-	TYSC	LC9A	-	-	SAST	CN	OS	nasaspaceflight.com
+2026-076 	2026 Apr  8 1938	2026-076C	P      O    	WHDW 21-03	Xingwang Digui 21-03	S68658	ZXW	CN	Chang Zheng 6A	Yxx	-	TYSC	LC9A	-	-	SAST	CN	OS	nasaspaceflight.com
+2026-076 	2026 Apr  8 1938	2026-076D	P      O    	WHDW 21-04	Xingwang Digui 21-04	S68659	ZXW	CN	Chang Zheng 6A	Yxx	-	TYSC	LC9A	-	-	SAST	CN	OS	nasaspaceflight.com
+2026-076 	2026 Apr  8 1938	2026-076E	P      O    	WHDW 21-05	Xingwang Digui 21-05	S68660	ZXW	CN	Chang Zheng 6A	Yxx	-	TYSC	LC9A	-	-	SAST	CN	OS	nasaspaceflight.com
