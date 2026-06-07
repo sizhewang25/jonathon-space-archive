@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Jun  5 1031:27
+# Updated 2026 Jun  6 2122:48
 S00002	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -12606,7 +12606,7 @@ S50197	2021-125AT	Starlink-3267	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4
 S50198	2021-125AU	Starlink-3264	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S50199	2021-125AV	Starlink-3270	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S50200	2021-125AW	Starlink-3235	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
-S50201	2021-125AX	Starlink-3255	2021 Dec 18 	2023 Mar  1	2025 May  7	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
+S50201	2021-125AX	Starlink-3255	2021 Dec 18 	2023 Mar  1	2025 May  7	2025 May 28?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S50202	2021-125AY	Starlink-3256	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.2 	     334	     335	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S50203	2021-125AZ	Starlink-3257	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S50204	2021-125BA	Starlink-3254	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
@@ -15054,7 +15054,7 @@ S54832	2022-177N	Starlink-5393	2022 Dec 28 	2023 Mar  1	2025 Jul 29	2025 Oct  8?
 S54833	2022-177P	Starlink-5391	2022 Dec 28 	2023 Mar  1	2025 Nov 26	2026 Feb  9?	-	Starlink 1.5 G5	5 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     558	     560	 43.00 	-
 S54834	2022-177Q	Starlink-5386	2022 Dec 28 	2023 Mar  1	*	*	-	Starlink 1.5 G5	5 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     558	     560	 43.00 	-
 S54835	2022-177R	Starlink-5389	2022 Dec 28 	2023 Mar  1	*	*	-	Starlink 1.5 G5	5 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     558	     560	 43.00 	-
-S54836	2022-177S	Starlink-5384	2022 Dec 28 	2023 Mar  1	*	*	-	Starlink 1.5 G5	5 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     558	     560	 43.00 	-
+S54836	2022-177S	Starlink-5384	2022 Dec 28 	2023 Mar  1	2026 Feb 15	2026 Feb 15?	-	Starlink 1.5 G5	5 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     558	     560	 43.00 	-
 S54837	2022-177T	Starlink-5369	2022 Dec 28 	2023 Mar  1	2026 Mar 12	2026 May 12	-	Starlink 1.5 G5	5 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     557	     560	 43.00 	-
 S54838	2022-177U	Starlink-5372	2022 Dec 28 	2023 Mar  1	*	*	-	Starlink 1.5 G5	5 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Oct 13 	     558	     560	 43.00 	-
 S54839	2022-177V	Starlink-5110	2022 Dec 28 	2024 May  6	2024 May  6	2024 Jun 23?	-	Starlink 1.5 G5	5 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.6 	     353	     355	 43.0 	2024 Jun 25 	     237	     239	 43.00 	-
@@ -17802,7 +17802,7 @@ S58463	2023-185B	425 EO/IR	2023 Dec  1 	2023 Dec  1	*	*	-	DAPA425	-	P	M	D	IMG	S	
 S58464	2023-185C	KOYOH	2023 Dec  1 	2023 Dec  1	*	*	-	Kanayama	-	-	-	A	TECH	S	-	-	J	ST/SG/SER.E/1240	   95.8 	     552	     567	 97.6 	2023 Dec  6 	     553	     567	 97.65 	 -
 S58465	2023-185D	Bane	2023 Dec  1 	2023 Dec  1	*	*	-	York Bane	-	-	-	B	TECH	S	-	-	US	ST/SG/SER.E/1188	   94.9 	     507	     523	 97.5 	2023 Dec  4 	     511	     524	 97.45 	-
 S58466	2023-185E	uHETsat	2023 Dec  1 	2023 Dec  1	*	*	-	SITAEL	-	-	-	B	TECH	S	-	-	[I]	-	-	-	-	-	2023 Dec  4 	     509	     524	 97.45 	-
-S58467	2023-185F	Lilium 1	2023 Dec  1 	2023 Dec  1	*	*	-	NCKU	-	-	-	A	TECH	S	-	-	[TW]	-	-	-	-	-	2023 Dec  4 	     508	     524	 97.45 	-
+S58467	2023-185F	Lilium 1	2023 Dec  1 	2023 Dec  1	2026 May?	2026 May?	-	NCKU	-	-	-	A	TECH	S	-	-	[TW]	-	-	-	-	-	2023 Dec  4 	     508	     524	 97.45 	-
 S58468	2023-185G	SpIRIT	2023 Dec  1 	2023 Dec  1	*	*	-	Melbourne	-	-	-	A	AST	S	-	-	[AU]	-	-	-	-	-	2023 Dec  4 	     507	     524	 97.45 	-
 S58469	2023-185H	ION SCV-0015 Daring Diego	2023 Dec  1 	2023 Dec  1	*	*	-	DORBIT	-	P	M	B	TECH	S	-	-	I	ST/SG/SER.E/1228	   95.8 	     556	     563	 97.6 	2024 Oct 12 	     490	     517	 97.58 	-
 S58470	2023-185J	ENSO	2023 Dec  1 	2023 Dec  1	2025 Oct?	2025 Oct?	-	Montpellier	-	-	-	A	TECH	S	-	-	[F]	-	-	-	-	-	2023 Dec  4 	     506	     524	 97.46 	-
@@ -19047,7 +19047,7 @@ S59808	2024-094D	Beijing-3C 04	2024 May 20 	2024 May 20	*	*	-	21AT	-	P	M	B	IMG	S
 S59809	2024-092K	SITRO-AIS-56	2024 May 16 	2024 May 16	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2024 May 20 	     534	     552	 97.59 	-
 S59810	2024-095A	Wuhan-1	2024 May 21 	2024 May 21	*	*	-	Wuhan	-	P	-	B	IMG	S	-	-	[CN]	-	-	-	-	-	2024 May 23 	     525	     538	 97.60 	-
 S59811	2024-095B	Chutian xingzuo 001	2024 May 21 	2024 May 21	2025 May 20	2025 May 20	-	Chutian	-	P	-	C	IMG	S	-	-	[CN]	-	-	-	-	-	2024 May 23 	     525	     538	 97.60 	-
-S59812	2024-095C	Tianyan-22	2024 May 21 	2024 May 21	*	*	-	Tianyan	-	P	-	B	IMG	S	-	-	[CN]	-	-	-	-	-	2024 May 23 	     525	     537	 97.60 	-
+S59812	2024-095C	Tianyan-22	2024 May 21 	2024 May 21	2026 May?	2026 May?	-	Tianyan	-	P	-	B	IMG	S	-	-	[CN]	-	-	-	-	-	2024 May 23 	     525	     537	 97.60 	-
 S59813	2024-095D	Lingque-3 01	2024 May 21 	2024 May 21	2026 Feb?	2026 Feb?	-	ZGL	-	P	-	B	TECH	S	-	-	[CN]	-	-	-	-	-	2024 May 23 	     525	     535	 97.60 	-
 S59814	2024-096A	USA 354	2024 May 22 	2024 May 22	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	US	ST/SG/SER.E/1215	   90.6 	     303	     305	 70.0 	2024 Sep 14 	     574	     579	 70.00 	-
 S59815	2024-096B	USA 355	2024 May 22 	2024 May 22	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	US	ST/SG/SER.E/1215	   90.6 	     303	     305	 70.0 	2024 Sep 14 	     575	     578	 70.00 	-
@@ -26377,7 +26377,7 @@ S68359	2026-060K	Weili Kongjian 02-10	2026 Mar 22 	2026 Mar 22	*	*	-	Centispace	
 S68360	2026-061A	Rassvet-3 No. 1	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68361	2026-061B	Rassvet-3 No. 2	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68362	2026-061C	Rassvet-3 No. 3	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S68363	2026-061D	Rassvet-3 No. 4	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S68363	2026-061D	Rassvet-3 No. 4	2026 Mar 23 	2026 Mar 23	2026 Mar 23	2026 Mar 23	-	Rassvet	-	-	-	B	COM	F	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68364	2026-061E	Rassvet-3 No. 5	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68365	2026-061F	Rassvet-3 No. 6	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68366	2026-061G	Rassvet-3 No. 7	2026 Mar 23 	2026 Mar 23	*	*	-	Rassvet	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-

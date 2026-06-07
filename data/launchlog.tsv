@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Jun  5 1029:30
+# Updated 2026 Jun  6 2120:57
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF	Vang-ER9948
@@ -17761,7 +17761,7 @@
 2022-177 	2022 Dec 28 0934:00	2022-177P	P      R    	Starlink 5391	Starlink Group 5-1-14	S54833	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
 2022-177 	2022 Dec 28 0934:00	2022-177Q	P      O    	Starlink 5386	Starlink Group 5-1-15	S54834	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
 2022-177 	2022 Dec 28 0934:00	2022-177R	P      O    	Starlink 5389	Starlink Group 5-1-16	S54835	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
-2022-177 	2022 Dec 28 0934:00	2022-177S	P      L    	Starlink 5384	Starlink Group 5-1-17	S54836	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
+2022-177 	2022 Dec 28 0934:00	2022-177S	P      M    	Starlink 5384	Starlink Group 5-1-17	S54836	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
 2022-177 	2022 Dec 28 0934:00	2022-177T	P      R    	Starlink 5369	Starlink Group 5-1-18	S54837	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
 2022-177 	2022 Dec 28 0934:00	2022-177U	P      O    	Starlink 5372	Starlink Group 5-1-19	S54838	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
 2022-177 	2022 Dec 28 0934:00	2022-177V	P      R+   	Starlink 5110	Starlink Group 5-1-20	S54839	SPXS	US	Falcon 9	195/B1062.11 F194	-	CC	LC40	-	-	SPX	US	OS	spaceflightnow.com
@@ -29293,22 +29293,22 @@
 2026-060 	2026 Mar 22 1549	2026-060H	P           	Weili Kongjian 02-08	Centispace-02-08	S68357	CENTI	CN	Jielong-3	Y10	DFHT	HHAI	LP4	-	-	CZHJ	CN	OS	nasaspaceflight.com
 2026-060 	2026 Mar 22 1549	2026-060J	P           	Weili Kongjian 02-09	Centispace-02-09	S68358	CENTI	CN	Jielong-3	Y10	DFHT	HHAI	LP4	-	-	CZHJ	CN	OS	nasaspaceflight.com
 2026-060 	2026 Mar 22 1549	2026-060K	P           	Weili Kongjian 02-10	Centispace-02-10	S68359	CENTI	CN	Jielong-3	Y10	DFHT	HHAI	LP4	-	-	CZHJ	CN	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061A	P           	Rassvet-3 No. 1	Rassvet-3 No. 1	S68360	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061B	P           	Rassvet-3 No. 2	Rassvet-3 No. 2	S68361	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061C	P           	Rassvet-3 No. 3	Rassvet-3 No. 3	S68362	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061D	P           	Rassvet-3 No. 4	Rassvet-3 No. 4	S68363	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061E	P           	Rassvet-3 No. 5	Rassvet-3 No. 5	S68364	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061F	P           	Rassvet-3 No. 6	Rassvet-3 No. 6	S68365	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061G	P           	Rassvet-3 No. 7	Rassvet-3 No. 7	S68366	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061H	P           	Rassvet-3 No. 8	Rassvet-3 No. 8	S68367	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061J	P           	Rassvet-3 No. 9	Rassvet-3 No. 9	S68368	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061K	P           	Rassvet-3 No. 10	Rassvet-3 No. 10	S68369	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061L	P           	Rassvet-3 No. 11	Rassvet-3 No. 11	S68370	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061M	P           	Rassvet-3 No. 12	Rassvet-3 No. 12	S68371	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061N	P           	Rassvet-3 No. 13	Rassvet-3 No. 13	S68372	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061P	P           	Rassvet-3 No. 14	Rassvet-3 No. 14	S68373	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061Q	P           	Rassvet-3 No. 15	Rassvet-3 No. 15	S68374	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061R	P           	Rassvet-3 No. 16	Rassvet-3 No. 16	S68375	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061A	P      D    	Rassvet-3 No. 1	Rassvet-3 No. 1	S68360	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061B	P      D    	Rassvet-3 No. 2	Rassvet-3 No. 2	S68361	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061C	P      A    	Rassvet-3 No. 3	Rassvet-3 No. 3	S68362	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061D	P      F r  	Rassvet-3 No. 4	Rassvet-3 No. 4	S68363	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061E	P      A    	Rassvet-3 No. 5	Rassvet-3 No. 5	S68364	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061F	P      A    	Rassvet-3 No. 6	Rassvet-3 No. 6	S68365	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061G	P      A    	Rassvet-3 No. 7	Rassvet-3 No. 7	S68366	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061H	P      D    	Rassvet-3 No. 8	Rassvet-3 No. 8	S68367	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061J	P      D    	Rassvet-3 No. 9	Rassvet-3 No. 9	S68368	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061K	P      D r  	Rassvet-3 No. 10	Rassvet-3 No. 10	S68369	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061L	P      D    	Rassvet-3 No. 11	Rassvet-3 No. 11	S68370	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061M	P      A    	Rassvet-3 No. 12	Rassvet-3 No. 12	S68371	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061N	P      A    	Rassvet-3 No. 13	Rassvet-3 No. 13	S68372	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061P	P      D    	Rassvet-3 No. 14	Rassvet-3 No. 14	S68373	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061Q	P      D    	Rassvet-3 No. 15	Rassvet-3 No. 15	S68374	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061R	P      D    	Rassvet-3 No. 16	Rassvet-3 No. 16	S68375	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
 2026-061 	2026 Mar 23 1724	2026-061S	P A         	OBZP-1	OBZP-1	S68537	UNKRU	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS	nasaspaceflight.com
 2026-062 	2026 Mar 25 2251	2026-062A	P           	Siwei Gaojing 2-05	Siwei 2-05	S68377	SIWEI	CN	Chang Zheng 2D	Y105	-	TYSC	-	-	-	SAST	CN	OS	nasaspaceflight.com
 2026-062 	2026 Mar 25 2251	2026-062B	P           	Siwei Gaojing 2-06	Siwei 2-06	S68378	SIWEI	CN	Chang Zheng 2D	Y105	-	TYSC	-	-	-	SAST	CN	OS	nasaspaceflight.com
@@ -29947,7 +29947,7 @@
 2026-100 	2026 May  3 0700:00	2026-100AU	P           	Hydra-3	Hydra-3	S69022	AISTS	E	Falcon 9	xxx/B1071.33 F636	-	VSFBS	SLC4E	-	-	SPX	US	OS	nasaspaceflight.com
 2026-100 	2026 May  3 0700:00	2026-100AV	P           	QUBE-II	QUBE-II	S69023	ZFT	D	Falcon 9	xxx/B1071.33 F636	-	VSFBS	SLC4E	-	-	SPX	US	OS	nasaspaceflight.com
 2026-100 	2026 May  3 0700:00	2026-100AW	P           	Balkan-2	Balkan-2	S69024	ENDUR	BGN	Falcon 9	xxx/B1071.33 F636	-	VSFBS	SLC4E	-	-	SPX	US	OS	nasaspaceflight.com
-2026-100 	2026 May  3 0700:00	2026-100	PXAA        	RideshareX-2026-100	Rideshare Adapter Stack	A11839	SPX	US	Falcon 9	xxx/B1071.33 F636	-	VSFBS	SLC4E	-	-	SPX	US	OS	nasaspaceflight.com
+2026-100 	2026 May  3 0700:00	2026-100	PXAA        	CAS500-2 Rideshare	Rideshare Adapter Stack	A11839	SPX	US	Falcon 9	xxx/B1071.33 F636	-	VSFBS	SLC4E	-	-	SPX	US	OS	nasaspaceflight.com
 2026-101 	2026 May  6 0359:19	2026-101A	P      A    	Starlink 37592	Starlink Group 17-29-01	S69025	SPXS	US	Falcon 9	xxx/B1081.24 F637	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2026-101 	2026 May  6 0359:19	2026-101B	P      D    	Starlink 37637	Starlink Group 17-29-02	S69026	SPXS	US	Falcon 9	xxx/B1081.24 F637	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2026-101 	2026 May  6 0359:19	2026-101C	P      A    	Starlink 37548	Starlink Group 17-29-03	S69027	SPXS	US	Falcon 9	xxx/B1081.24 F637	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
