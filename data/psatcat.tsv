@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Jun 19 1728:40
+# Updated 2026 Jun 20 2128:35
 S00002	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -10162,7 +10162,7 @@ S45863	2020-045A	Yatai 6D (Apstar 6D)	2020 Jul  9 	2023 Mar  2	*	*	-	Apstar	-	-	
 S45873	2020-046A	USA 305	2020 Jul 15 	2023 Jan	*	*	-	NRO TS	-	-	M	D	SIG?*	S	-	-	US	ST/SG/SER.E/951	   96.2 	     577	     579	 53.9 	2023 Mar 23 	     471	     495	 54.38 	-
 S45874	2020-046B	USA 306	2020 Jul 15 	2023 Jan	2026?	2026?	-	NRO TS	-	-	M	D	SIG?*	S	-	-	US	ST/SG/SER.E/951	   96.2 	     577	     579	 53.9 	2023 Apr 26 	     454	     454	 53.97 	-
 S45875	2020-046C	USA 307	2020 Jul 15 	2023 Jan	2026?	2026?	-	NRO TS	-	-	M	D	SIG?*	S	-	-	US	ST/SG/SER.E/951	   96.2 	     577	     579	 53.9 	2023 Apr 25 	     450	     468	 53.98 	-
-S45876	2020-046D	USA 308	2020 Jul 15 	2023 Jan	*	*	-	NRO TS	-	-	M	D	SIG?*	S	-	-	US	ST/SG/SER.E/951	   96.2 	     577	     579	 53.9 	2023 Apr 26 	     459	     459	 53.97 	-
+S45876	2020-046D	USA 308	2020 Jul 15 	2023 Jan	2026?	2026?	-	NRO TS	-	-	M	D	SIG?*	S	-	-	US	ST/SG/SER.E/951	   96.2 	     577	     579	 53.9 	2023 Apr 26 	     459	     459	 53.97 	-
 S45915	2019-079E	Kosmos-2543 projectile	2019 Nov 25 	2020 Jul 15	2020 Jul 15	2020 Jul 15	-	Nivelir	-	-	-	D	TECH	S	-	-	[RU]	-	-	-	-	-	2020 Jul 17 	     504	     783	 97.87 	-
 S45916	1998-067RP	DeMi	2020 Feb 15 	2022 Mar 13	2022 Mar 13	2022 Mar 13 2348	-	MIT Cube	-	-	-	D	TECH	S	-	-	US	ST/SG/SER.E/951	   92.9 	     415	     418	 51.6 	2020 Jul 16 	     415	     418	 51.64 	-
 S45917	1998-067RQ	TechEdSat-10	2020 Feb 15 	2020 Feb 15	2021 Mar 15?	2021 Mar 15?	-	TES	-	-	-	C	TECH	S	-	-	US	ST/SG/SER.E/951	   92.9 	     410	     418	 51.6 	2020 Jul 16 	     412	     418	 51.64 	-
@@ -13015,7 +13015,7 @@ S51789	2022-017X	Starlink-3639	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 
 S51790	2022-017Y	Starlink-3631	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     328	     329	 53.2 	2024 Oct 13 	     539	     540	 53.21 	-
 S51791	2022-017Z	Starlink-3602	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     328	     329	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
 S51792	2022-017AA	Starlink-3626	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     329	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
-S51793	2022-017AB	Starlink-3633	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     328	     329	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
+S51793	2022-017AB	Starlink-3633	2022 Feb 25 	2023 Mar  1	2026 Jan 24	2026 Apr  1?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     328	     329	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
 S51794	2022-017AC	Starlink-3573	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     329	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S51795	2022-017AD	Starlink-3586	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     329	 53.2 	2024 Oct 13 	     538	     540	 53.22 	-
 S51796	2022-017AE	Starlink-3630	2022 Feb 25 	2023 Mar  1	2024 Jun 15	2024 Aug 28?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     329	 53.2 	2024 Aug 29 	     155	     161	 53.20 	-
@@ -14744,7 +14744,7 @@ S54076	2022-136AB	Starlink-5201	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4
 S54077	2022-136AC	Starlink-5171	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2024 Oct 13 	     526	     528	 53.22 	-
 S54078	2022-136AD	Starlink-5138	2022 Oct 20 	2023 Mar  1	2025 Sep  6	2025 Nov 13?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2024 Oct 13 	     539	     540	 53.21 	-
 S54079	2022-136AE	Starlink-5175	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
-S54080	2022-136AF	Starlink-5160	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.0 	     373	     375	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
+S54080	2022-136AF	Starlink-5160	2022 Oct 20 	2023 Mar  1	2026 Apr  7	2026 Jun  6?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.0 	     373	     375	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
 S54081	2022-136AG	Starlink-5165	2022 Oct 20 	2023 Mar  1	2025 Aug 16	2025 Oct  3?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
 S54082	2022-136AH	Starlink-5210	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
 S54083	2022-136AJ	Starlink-5178	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2024 Oct 13 	     538	     540	 53.21 	-
@@ -26829,6 +26829,7 @@ S68832	2026-091B	Xingwang Jishu Shiyan W.	2026 Apr 24 	2026 Apr 24	*	*	-	RSW	7 1
 S68833	2026-091C	Xingwang Jishu Shiyan W.	2026 Apr 24 	2026 Apr 24	*	*	-	RSW	7 1	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68834	2026-091D	Xingwang Jishu Shiyan W.	2026 Apr 24 	2026 Apr 24	*	*	-	RSW	7 1	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68835	2026-092A	PRSC-EO3	2026 Apr 25 	2026 Apr 25	*	*	-	PakTES	-	-	M	C	IMG	S	-	-	[PK]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S68836	2026-067CX	MARS-1B	2026 Mar 30 	2026 Mar 30	*	*	-	Lunar Outpost	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68837	2026-093A	Progress MS-34	2026 Apr 25 	2026 Apr 25	*	*	-	Progress MS	-	P	M	C	SS	S	-	-	[RU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68839	2026-094A	Starlink 37475	2026 Apr 26 	2026 Apr 26	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S68840	2026-094B	Starlink 37452	2026 Apr 26 	2026 Apr 26	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
@@ -27416,8 +27417,8 @@ S69439	2026-126V	Starlink 37771	2026 Jun  7 	2026 Jun  7	*	*	-	Starlink 2MO S4	1
 S69440	2026-126W	Starlink 37747	2026 Jun  7 	2026 Jun  7	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69441	2026-126X	USA 608	2026 Jun  7 	2026 Jun  7	*	*	-	NRO Star B	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69442	2026-126Y	USA 609	2026 Jun  7 	2026 Jun  7	*	*	-	NRO Star B	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69443	2026-127A	Starlink 37629	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-xfra
-S69444	2026-127B	Starlink 37509	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-xfra
+S69443	2026-127A	Starlink 37629	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69444	2026-127B	Starlink 37509	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69445	2026-127C	Starlink 37641	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69446	2026-127D	Starlink 37522	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69447	2026-127E	Starlink 37640	2026 Jun  8 	2026 Jun  8	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
@@ -27605,16 +27606,4 @@ S69642	2026-141F	USA 615	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S
 S69643	2026-141G	USA 616	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69644	2026-141H	USA 617	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69645	2026-141J	USA 618	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69646	2026-141K	USA 619	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69647	2026-141L	USA 620	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69648	2026-141M	USA 621	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69649	2026-141N	USA 622	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69650	2026-141P	USA 623	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69651	2026-141Q	USA 624	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69652	2026-141R	USA 625	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69653	2026-141S	USA 626	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69654	2026-141T	USA 627	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69655	2026-141U	USA 628	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69656	2026-141V	USA 629	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69657	2026-141W	USA 630	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69658	2026-141X	USA 631	2026 Jun 19 	2026 Jun 19	*	*	-	NRO Star A	-	P	M	D	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69646	2026-142A	VICTUS HAZE Puma	2026 Jun 19 	2026 Jun 19	*	*	-	Safari	-	P	-	D	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
