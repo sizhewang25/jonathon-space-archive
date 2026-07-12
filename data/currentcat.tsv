@@ -1,5 +1,5 @@
 #JCAT	DeepCat	Satcat	Piece	Active	Type	Name	LDate	Parent	Owner	State	SDate	ExpandedStatus	DDate	ODate	Period	Perigee	PF	Apogee	AF	Inc	IF	OpOrbit
-# Updated 2026 Jul 11 0940:47
+# Updated 2026 Jul 11 1354:38
 S00001	-	00001	1957 ALP 1	R	R2          	8K71PS No. M1-10 Stage 2	1957 Oct  4	-	RKKE	SU	1957 Oct  4 1933	Reentered Earth atmosphere	1957 Dec  1 1000?	-	-	-	-	-	-	-	-	-
 S00002	-	00002	1957 ALP 2	P	P           	1-y ISZ	1957 Oct  4	S00001	RKKE	SU	1957 Oct  4 1933	Reentered Earth atmosphere	1958 Jan  4?	-	-	-	-	-	-	-	-	-
 S00003	-	00003	1957 BET 1	P	P A         	2-y ISZ	1957 Nov  3	A00002	RKKE	SU	1957 Nov  3 0235	Reentered attached to A00002 8K71PS No. M1-11 Stage 2	1958 Apr 14 0200?	-	-	-	-	-	-	-	-	-
@@ -29850,29 +29850,29 @@ S29868	-	29868	1999-025FN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	20
 S29869	-	29869	1999-025FP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.187 	     704	 	     830	 	 98.89 	 	LEO/S
 S29870	-	29870	1999-025FQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.765 	     709	 	     880	 	 98.49 	 	LEO/S
 S29871	-	29871	1999-025FR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.729 	     705	 	     785	 	 98.99 	 	LEO/S
-S29872	-	29872	1999-025FS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.009 	     591	 	     926	 	 98.33 	 	LEO/S
-S29873	-	29873	1999-025FT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.978 	     831	 	     967	 	 99.42 	 	LEO/S
-S29874	-	29874	1999-025FU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.601 	     714	 	     859	 	 98.37 	 	LEO/S
-S29875	-	29875	1999-025FV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.058 	     749	 	     868	 	 98.37 	 	LEO/S
-S29876	-	29876	1999-025FW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     101.378 	     779	 	     868	 	 98.30 	 	LEO/S
+S29872	-	29872	1999-025FS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.009 	     591	 	     926	 	 98.33 	 	LEO/S
+S29873	-	29873	1999-025FT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.978 	     831	 	     967	 	 99.42 	 	LEO/S
+S29874	-	29874	1999-025FU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.600 	     714	 	     859	 	 98.37 	 	LEO/S
+S29875	-	29875	1999-025FV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.058 	     749	 	     868	 	 98.37 	 	LEO/S
+S29876	-	29876	1999-025FW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.378 	     778	 	     868	 	 98.30 	 	LEO/S
 S29877	-	29877	1999-025FX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.035 	     775	 	     840	 	 98.54 	 	LEO/S
 S29878	-	29878	1999-025FY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2026 Mar 13	-	-	-	-	-	-	-	-	-
 S29879	-	29879	1999-025FZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Sep 24	-	-	-	-	-	-	-	-	-
-S29880	-	29880	1999-025GA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     103.250 	     746	 	    1078	 	 98.19 	 	LEO/S
+S29880	-	29880	1999-025GA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     103.249 	     746	 	    1078	 	 98.19 	 	LEO/S
 S29881	-	29881	1999-025GB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     105.856 	     822	 	    1246	 	 98.73 	 	LEO/S
 S29882	-	29882	1999-025GC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2010 Apr  4	-	-	-	-	-	-	-	-	-
 S29883	-	29883	1999-025GD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Sep  5	-	-	-	-	-	-	-	-	-
-S29884	-	29884	1999-025GE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.922 	     724	 	     785	 	 99.58 	 	LEO/S
-S29885	-	29885	1999-025GF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.859 	     762	 	     931	 	 98.37 	 	LEO/S
+S29884	-	29884	1999-025GE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      99.921 	     724	 	     785	 	 99.58 	 	LEO/S
+S29885	-	29885	1999-025GF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.859 	     762	 	     931	 	 98.37 	 	LEO/S
 S29886	-	29886	1999-025GG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 Feb 21	-	-	-	-	-	-	-	-	-
-S29887	-	29887	1999-025GH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.346 	     571	 	     978	 	 98.71 	 	LEO/S
-S29888	-	29888	1999-025GJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.375 	     627	 	    1020	 	 99.18 	 	LEO/S
+S29887	-	29887	1999-025GH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.346 	     571	 	     978	 	 98.71 	 	LEO/S
+S29888	-	29888	1999-025GJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.375 	     626	 	    1020	 	 99.18 	 	LEO/S
 S29889	-	29889	1999-025GK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.852 	     735	 	     957	 	 99.50 	 	LEO/S
 S29890	-	29890	1999-025GL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.111 	     800	 	     821	 	 99.49 	 	LEO/S
 S29891	-	29891	1999-025GM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     102.841 	     849	 	     936	 	 98.73 	 	LEO/S
 S29892	-	29892	1999-025GN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.242 	     641	 	     898	 	 99.19 	 	LEO/S
-S29893	-	29893	1999-025GP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     104.382 	     839	 	    1091	 	 98.55 	 	LEO/S
-S29894	-	29894	1999-025GQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     104.255 	     836	 	    1082	 	 99.46 	 	LEO/S
+S29893	-	29893	1999-025GP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     104.382 	     839	 	    1091	 	 98.55 	 	LEO/S
+S29894	-	29894	1999-025GQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     104.255 	     836	 	    1082	 	 99.46 	 	LEO/S
 S29895	-	29895	1999-025GR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.046 	     641	 	    1069	 	 99.90 	 	LEO/S
 S29896	-	29896	1999-025GS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  4 	     105.449 	     839	 	    1191	 	 99.40 	 	LEO/S
 S29897	-	29897	1999-025GT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     106.042 	     823	 	    1263	 	 98.61 	 	LEO/S
@@ -30153,15 +30153,15 @@ S30171	-	30171	1999-025UC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	20
 S30172	-	30172	1999-025UD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.864 	     797	 	     896	 	 99.25 	 	LEO/S
 S30173	-	30173	1999-025UE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.948 	     792	 	     909	 	 98.96 	 	LEO/S
 S30174	-	30174	1999-025UF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      95.919 	     553	 	     572	 	 98.78 	 	LLEO/S
-S30175	-	30175	1999-025UG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     104.042 	     842	 	    1056	 	 99.35 	 	LEO/S
+S30175	-	30175	1999-025UG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     104.042 	     842	 	    1056	 	 99.35 	 	LEO/S
 S30176	-	30176	1999-025UH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2007 Jul  5	-	-	-	-	-	-	-	-	-
 S30177	-	30177	1999-025UJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     105.614 	     692	 	    1353	 	 98.64 	 	LEO/S
 S30178	-	30178	1999-025UK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     105.929 	     826	 	    1249	 	102.25 	 	LEO/S
 S30179	-	30179	1999-025UL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Aug 28	-	-	-	-	-	-	-	-	-
 S30180	-	30180	1999-025UM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 Mar 18	-	-	-	-	-	-	-	-	-
-S30181	-	30181	1999-025UN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.643 	     759	 	     819	 	 98.84 	 	LEO/S
-S30182	-	30182	1999-025UP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     103.111 	     851	 	     960	 	 99.04 	 	LEO/S
-S30183	-	30183	1999-025UQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     101.907 	     829	 	     868	 	 98.76 	 	LEO/S
+S30181	-	30181	1999-025UN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.643 	     759	 	     819	 	 98.84 	 	LEO/S
+S30182	-	30182	1999-025UP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     103.111 	     851	 	     960	 	 99.04 	 	LEO/S
+S30183	-	30183	1999-025UQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.907 	     829	 	     868	 	 98.76 	 	LEO/S
 S30184	-	30184	1999-025UR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Jan 23	-	-	-	-	-	-	-	-	-
 S30185	-	30185	1999-025US	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Jan  4	-	-	-	-	-	-	-	-	-
 S30186	-	30186	1999-025UT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Mar 12	-	-	-	-	-	-	-	-	-
@@ -30169,16 +30169,16 @@ S30187	-	30187	1999-025UU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	20
 S30188	-	30188	1999-025UV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2013 Sep  4	-	-	-	-	-	-	-	-	-
 S30189	-	30189	1999-025UW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2015 Apr 12	-	-	-	-	-	-	-	-	-
 S30190	-	30190	1999-025UX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 May 17	-	-	-	-	-	-	-	-	-
-S30191	-	30191	1999-025UY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      97.234 	     562	 	     690	 	 98.76 	 	LEO/S
+S30191	-	30191	1999-025UY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      97.234 	     562	 	     690	 	 98.76 	 	LEO/S
 S30192	-	30192	1999-025UZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2016 Nov 12	-	-	-	-	-	-	-	-	-
 S30193	-	30193	1999-025VA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      99.275 	     650	 	     797	 	 98.75 	 	LEO/S
 S30194	-	30194	1999-025VB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 Apr 19	-	-	-	-	-	-	-	-	-
 S30195	-	30195	1999-025VC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2015 Jun 18	-	-	-	-	-	-	-	-	-
-S30196	-	30196	1999-025VD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.988 	     743	 	     867	 	 98.64 	 	LEO/S
+S30196	-	30196	1999-025VD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.988 	     743	 	     867	 	 98.64 	 	LEO/S
 S30197	-	30197	1999-025VE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.127 	     724	 	     805	 	 98.95 	 	LEO/S
 S30198	-	30198	1999-025VF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      99.120 	     644	 	     788	 	 98.47 	 	LEO/S
-S30199	-	30199	1999-025VG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.024 	     703	 	     815	 	 98.37 	 	LEO/S
-S30200	-	30200	1999-025VH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     101.235 	     712	 	     921	 	 99.10 	 	LEO/S
+S30199	-	30199	1999-025VG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.023 	     703	 	     815	 	 98.37 	 	LEO/S
+S30200	-	30200	1999-025VH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.235 	     712	 	     922	 	 99.10 	 	LEO/S
 S30201	-	30201	1999-025VJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.169 	     792	 	     835	 	 99.43 	 	LEO/S
 S30202	-	30202	1999-025VK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      98.885 	     678	 	     732	 	 98.64 	 	LEO/S
 S30203	-	30203	1999-025VL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Jan  9	-	-	-	-	-	-	-	-	-
@@ -30318,12 +30318,12 @@ S30336	-	30336	1999-025AAX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30337	-	30337	1999-025AAY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Feb 26	-	-	-	-	-	-	-	-	-
 S30338	-	30338	1999-025AAZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      99.329 	     539	 	     913	 	 98.44 	 	LEO/S
 S30339	-	30339	1999-025ABA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.912 	     737	 	     771	 	 98.98 	 	LEO/S
-S30340	-	30340	1999-025ABB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.514 	     772	 	     982	 	 98.97 	 	LEO/S
-S30341	-	30341	1999-025ABC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.200 	     735	 	     800	 	 99.21 	 	LEO/S
-S30342	-	30342	1999-025ABD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     104.324 	     839	 	    1085	 	100.20 	 	LEO/S
+S30340	-	30340	1999-025ABB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.514 	     772	 	     982	 	 98.97 	 	LEO/S
+S30341	-	30341	1999-025ABC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.200 	     735	 	     800	 	 99.21 	 	LEO/S
+S30342	-	30342	1999-025ABD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     104.324 	     840	 	    1085	 	100.20 	 	LEO/S
 S30343	-	30343	1999-025ABE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 Nov  6	-	-	-	-	-	-	-	-	-
 S30344	-	30344	1999-025ABF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      98.914 	     700	 	     712	 	 98.82 	 	LEO/S
-S30345	-	30345	1999-025ABG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.708 	     734	 	     754	 	 98.91 	 	LEO/S
+S30345	-	30345	1999-025ABG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      99.708 	     734	 	     754	 	 98.91 	 	LEO/S
 S30346	-	30346	1999-025ABH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.265 	     730	 	     811	 	 98.81 	 	LEO/S
 S30347	-	30347	1999-025ABJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     103.383 	     808	 	    1028	 	 98.39 	 	LEO/S
 S30348	-	30348	1999-025ABK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.190 	     752	 	     782	 	 98.86 	 	LEO/S
@@ -30334,20 +30334,20 @@ S30352	-	30352	1999-025ABP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30353	-	30353	1999-025ABQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Mar 23	-	-	-	-	-	-	-	-	-
 S30354	-	30354	1999-025ABR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2010 Feb 20	-	-	-	-	-	-	-	-	-
 S30355	-	30355	1999-025ABS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.453 	     787	 	     867	 	 98.59 	 	LEO/S
-S30356	-	30356	1999-025ABT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.870 	     808	 	     886	 	 98.69 	 	LEO/S
-S30357	-	30357	1999-025ABU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.465 	     838	 	     911	 	 98.78 	 	LEO/S
+S30356	-	30356	1999-025ABT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.870 	     808	 	     886	 	 98.69 	 	LEO/S
+S30357	-	30357	1999-025ABU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.465 	     838	 	     911	 	 98.78 	 	LEO/S
 S30358	-	30358	1999-025ABV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.269 	     760	 	     876	 	 98.56 	 	LEO/S
-S30359	-	30359	1999-025ABW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     103.203 	     809	 	    1011	 	101.62 	 	LEO/S
-S30360	-	30360	1999-025ABX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.852 	     779	 	     818	 	 98.75 	 	LEO/S
-S30361	-	30361	1999-025ABY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.966 	     756	 	     852	 	 98.55 	 	LEO/S
+S30359	-	30359	1999-025ABW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     103.203 	     809	 	    1011	 	101.62 	 	LEO/S
+S30360	-	30360	1999-025ABX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.851 	     778	 	     818	 	 98.75 	 	LEO/S
+S30361	-	30361	1999-025ABY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.966 	     756	 	     852	 	 98.55 	 	LEO/S
 S30362	-	30362	1999-025ABZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.886 	     780	 	     915	 	 99.05 	 	LEO/S
 S30363	-	30363	1999-025ACA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	     101.548 	     774	 	     889	 	 99.02 	 	LEO/S
-S30364	-	30364	1999-025ACB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  6 	     101.421 	     592	 	    1059	 	 98.13 	 	LEO/S
+S30364	-	30364	1999-025ACB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.418 	     591	 	    1059	 	 98.13 	 	LEO/S
 S30365	-	30365	1999-025ACC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.446 	     707	 	     946	 	 98.63 	 	LEO/S
 S30366	-	30366	1999-025ACD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.413 	     733	 	     822	 	 98.93 	 	LEO/S
 S30367	-	30367	1999-025ACE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Oct 23	-	-	-	-	-	-	-	-	-
-S30368	-	30368	1999-025ACF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     104.688 	     841	 	    1117	 	 99.20 	 	LEO/S
-S30369	-	30369	1999-025ACG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.966 	     780	 	     923	 	 98.73 	 	LEO/S
+S30368	-	30368	1999-025ACF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     104.688 	     841	 	    1117	 	 99.20 	 	LEO/S
+S30369	-	30369	1999-025ACG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.966 	     780	 	     922	 	 98.73 	 	LEO/S
 S30370	-	30370	1999-025ACH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.399 	     752	 	     897	 	 99.04 	 	LEO/S
 S30371	-	30371	1999-025ACJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.614 	     781	 	     794	 	 98.56 	 	LEO/S
 S30372	-	30372	1999-025ACK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 May  3?	-	-	-	-	-	-	-	-	-
@@ -30603,7 +30603,7 @@ S30621	-	30621	1999-025ANC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30622	-	30622	1999-025AND	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     100.392 	     725	 	     828	 	100.99 	 	LEO/S
 S30623	-	30623	1999-025ANE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     108.310 	     845	 	    1451	 	 98.85 	 	LEO/S
 S30624	-	30624	1999-025ANF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      97.771 	     643	 	     660	 	 98.88 	 	LEO/S
-S30625	-	30625	1999-025ANG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.552 	     702	 	     772	 	 98.92 	 	LEO/S
+S30625	-	30625	1999-025ANG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      99.552 	     702	 	     772	 	 98.92 	 	LEO/S
 S30626	-	30626	1999-025ANH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2013 Oct 29	-	-	-	-	-	-	-	-	-
 S30627	-	30627	1999-025ANJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 Feb  9	-	-	-	-	-	-	-	-	-
 S30628	-	30628	1999-025ANK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      97.574 	     628	 	     656	 	 99.34 	 	LEO/S
@@ -30611,14 +30611,14 @@ S30629	-	30629	1999-025ANL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30630	-	30630	1999-025ANM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.184 	     796	 	     832	 	 99.18 	 	LEO/S
 S30631	-	30631	1999-025ANN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 Oct 22	-	-	-	-	-	-	-	-	-
 S30632	-	30632	1999-025ANP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      97.838 	     644	 	     665	 	 98.83 	 	LEO/S
-S30633	-	30633	1999-025ANQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.495 	     781	 	     972	 	 98.41 	 	LEO/S
+S30633	-	30633	1999-025ANQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.495 	     781	 	     972	 	 98.41 	 	LEO/S
 S30634	-	30634	1999-025ANR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.032 	     770	 	     938	 	 99.30 	 	LEO/S
 S30635	-	30635	1999-025ANS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2009 Feb 18	-	-	-	-	-	-	-	-	-
 S30636	-	30636	1999-025ANT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2022 May 26	-	-	-	-	-	-	-	-	-
 S30637	-	30637	1999-025ANU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 Mar 28	-	-	-	-	-	-	-	-	-
 S30638	-	30638	1999-025ANV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Aug 24	-	-	-	-	-	-	-	-	-
 S30639	-	30639	1999-025ANW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.300 	     727	 	     817	 	 99.02 	 	LEO/S
-S30640	-	30640	1999-025ANX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.716 	     782	 	     897	 	 99.04 	 	LEO/S
+S30640	-	30640	1999-025ANX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.715 	     782	 	     897	 	 99.04 	 	LEO/S
 S30641	-	30641	1999-025ANY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	      97.214 	     534	 	     716	 	 98.96 	 	LEO/S
 S30642	-	30642	1999-025ANZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 Sep  6	-	-	-	-	-	-	-	-	-
 S30643	-	30643	1999-025APA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2013 Dec 18	-	-	-	-	-	-	-	-	-
@@ -30627,10 +30627,10 @@ S30645	-	30645	1999-025APC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30646	-	30646	1999-025APD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.118 	     823	 	     894	 	 98.64 	 	LEO/S
 S30647	-	30647	1999-025APE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      98.542 	     670	 	     707	 	 98.99 	 	LEO/S
 S30648	-	30648	1999-025APF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	      99.229 	     698	 	     744	 	 98.64 	 	LEO/S
-S30649	-	30649	1999-025APG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.613 	     753	 	     821	 	 98.81 	 	LEO/S
+S30649	-	30649	1999-025APG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.613 	     753	 	     821	 	 98.81 	 	LEO/S
 S30650	-	30650	1999-025APH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.770 	     792	 	     892	 	 99.19 	 	LEO/S
 S30651	-	30651	2007-005G	D	D  P        	deb H-2A F12	2007 Feb 24	S30588	JAXA	J	2007 Feb 24 0455?	Reentered Earth atmosphere	2008 Oct 27	-	-	-	-	-	-	-	-	-
-S30652	-	30652	1999-025APJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.282 	     860	 	     873	 	 98.76 	 	LEO/S
+S30652	-	30652	1999-025APJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.282 	     860	 	     873	 	 98.76 	 	LEO/S
 S30653	-	30653	1999-025APK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2009 Dec 25	-	-	-	-	-	-	-	-	-
 S30654	-	30654	1999-025APL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     101.555 	     809	 	     855	 	 99.25 	 	LEO/S
 S30655	-	30655	1999-025APM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 May 27	-	-	-	-	-	-	-	-	-
@@ -30639,7 +30639,7 @@ S30657	-	30657	1999-025APP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30658	-	30658	1999-025APQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     103.739 	     802	 	    1068	 	 98.42 	 	LEO/S
 S30659	-	30659	1999-025APR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 Jun  3	-	-	-	-	-	-	-	-	-
 S30660	-	30660	1999-025APS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      96.590 	     504	 	     685	 	 98.14 	 	LLEO/S
-S30661	-	30661	1999-025APT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     101.316 	     717	 	     924	 	 99.49 	 	LEO/S
+S30661	-	30661	1999-025APT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.316 	     717	 	     924	 	 99.49 	 	LEO/S
 S30662	-	30662	1999-025APU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.154 	     789	 	     836	 	 99.04 	 	LEO/S
 S30663	-	30663	1999-025APV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  3 	     108.712 	     671	 	    1662	 	 99.30 	 	LEO/S
 S30664	-	30664	1999-025APW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 May 11	-	-	-	-	-	-	-	-	-
@@ -30743,10 +30743,10 @@ S30761	-	30761	1999-025ATX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30762	-	30762	1999-025ATY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.977 	     754	 	    1044	 	 98.89 	 	LEO/S
 S30763	-	30763	1999-025ATZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      97.943 	     649	 	     670	 	 98.89 	 	LEO/S
 S30764	-	30764	1999-025AUA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	      92.944 	     384	 	     453	 	 98.78 	 	LLEO/S
-S30765	-	30765	1999-025AUB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     101.745 	     793	 	     889	 	 98.77 	 	LEO/S
+S30765	-	30765	1999-025AUB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.744 	     793	 	     888	 	 98.77 	 	LEO/S
 S30766	-	30766	1999-025AUC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  4 	     102.126 	     800	 	     917	 	 98.68 	 	LEO/S
 S30767	-	30767	1999-025AUD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2007 Apr  2	-	-	-	-	-	-	-	-	-
-S30768	-	30768	1999-025AUE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      99.251 	     704	 	     741	 	 98.62 	 	LEO/S
+S30768	-	30768	1999-025AUE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      99.250 	     704	 	     741	 	 98.62 	 	LEO/S
 S30769	-	30769	1999-025AUF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Jan 18	-	-	-	-	-	-	-	-	-
 S30770	-	30770	1999-025AUG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.700 	     828	 	     849	 	 98.65 	 	LEO/S
 S30771	-	30771	1999-025AUH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.554 	     720	 	     754	 	 98.91 	 	LEO/S
@@ -30761,19 +30761,19 @@ S30779	-	30779	1999-057NN	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	
 S30780	-	30780	1999-057NP	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2007 Mar 10	-	-	-	-	-	-	-	-	-
 S30781	-	30781	1999-057NQ	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2007 Mar 14	-	-	-	-	-	-	-	-	-
 S30782	-	30782	1999-057NR	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2010 Oct 22	-	-	-	-	-	-	-	-	-
-S30783	-	30783	1999-057NS	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul 10 	      99.092 	     688	 	     741	 	 98.28 	 	LEO/S
+S30783	-	30783	1999-057NS	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul 11 	      99.092 	     688	 	     741	 	 98.28 	 	LEO/S
 S30784	-	30784	1999-057NT	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2011 Mar 10	-	-	-	-	-	-	-	-	-
 S30785	-	30785	1999-057NU	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2010 May 21	-	-	-	-	-	-	-	-	-
 S30786	-	30786	1999-057NV	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2008 Oct 25	-	-	-	-	-	-	-	-	-
 S30787	-	30787	1999-057NW	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2007 Jul  4	-	-	-	-	-	-	-	-	-
 S30788	-	30788	1999-057NX	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2007 Jul 19	-	-	-	-	-	-	-	-	-
-S30789	-	30789	1999-057NY	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul  9 	      98.676 	     691	 	     699	 	 98.63 	 	LEO/S
+S30789	-	30789	1999-057NY	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul 11 	      98.676 	     691	 	     699	 	 98.63 	 	LEO/S
 S30790	-	30790	1999-057NZ	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	Reentered Earth atmosphere	2009 Aug 13	-	-	-	-	-	-	-	-	-
-S30791	-	30791	1999-057PA	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul 10 	      98.077 	     663	 	     669	 	 98.53 	 	LEO/S
+S30791	-	30791	1999-057PA	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul 11 	      98.077 	     663	 	     669	 	 98.53 	 	LEO/S
 S30792	-	30792	1999-057PB	D	D  B        	deb ZY-1 01	1999 Oct 14	S25940	CNSA	CN	2007 Feb 18 1107	In Earth orbit	-	2026 Jul  9 	     100.181 	     763	 	     770	 	 98.85 	 	LEO/S
-S30793	-	30793	2007-007A	P	P           	Insat 4B	2007 Mar 11	S30795	ISRO	IN	2007 Mar 11 2234	In Earth orbit	-	2026 Jul 10 	    1453.449 	   36058	 	   36192	 	  6.15 	 	GEO/ID
-S30794	-	30794	2007-007B	P	P           	Skynet 5A	2007 Mar 11	S30796	BABCK	UK	2007 Mar 11 2229	In Earth orbit	-	2026 Jul 10 	    1436.108 	   35771	 	   35802	 	  5.36 	 	GEO/I
-S30795	-	30795	2007-007C	R	R2          	Ariane 5 L535 ESC-A	2007 Mar 11	A07181	AESP	F	2007 Mar 11 2212	In Earth orbit	-	2026 Jul 10 	     520.895 	     225	 	   29908	 	  4.28 	 	HEO
+S30793	-	30793	2007-007A	P	P           	Insat 4B	2007 Mar 11	S30795	ISRO	IN	2007 Mar 11 2234	In Earth orbit	-	2026 Jul 11 	    1453.451 	   36058	 	   36192	 	  6.15 	 	GEO/ID
+S30794	-	30794	2007-007B	P	P           	Skynet 5A	2007 Mar 11	S30796	BABCK	UK	2007 Mar 11 2229	In Earth orbit	-	2026 Jul 10 	    1436.109 	   35771	 	   35802	 	  5.36 	 	GEO/I
+S30795	-	30795	2007-007C	R	R2          	Ariane 5 L535 ESC-A	2007 Mar 11	A07181	AESP	F	2007 Mar 11 2212	In Earth orbit	-	2026 Jul 11 	     520.859 	     225	 	   29906	 	  4.28 	 	HEO
 S30796	-	30796	2007-007D	C	C  A        	Sylda 5C	2007 Mar 11	S30795	AESP	F	2007 Mar 11 2231	Reentered Earth atmosphere	2013 Apr  6 1905?	-	-	-	-	-	-	-	-	-
 S30797	-	30797	2007-004D	A	P           	THEMIS D	2007 Feb 17	A07173	GSFC	US	2007 Feb 18 0014	In Earth orbit	-	2026 Jul  7 	    1644.040 	    1336	 	   78191	 	  7.82 	 	VHEO
 S30798	-	30798	2007-004E	A	P           	THEMIS E	2007 Feb 17	A07173	GSFC	US	2007 Feb 18 0014	In Earth orbit	-	2026 Jul  3 	    1635.585 	     808	 	   78403	 	  6.53 	 	VHEO
@@ -30782,9 +30782,9 @@ S30800	-	30800	1999-025AUJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30801	-	30801	1999-025AUK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2008 Aug 15	-	-	-	-	-	-	-	-	-
 S30802	-	30802	1999-025AUL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.396 	     762	 	     792	 	 98.83 	 	LEO/S
 S30803	-	30803	1999-025AUM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     101.968 	     777	 	     926	 	 99.23 	 	LEO/S
-S30804	-	30804	1999-025AUN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	      98.941 	     578	 	     837	 	 98.88 	 	LEO/S
-S30805	-	30805	1999-025AUP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.613 	     828	 	     935	 	 98.80 	 	LEO/S
-S30806	-	30806	1999-025AUQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     105.045 	     800	 	    1192	 	 99.02 	 	LEO/S
+S30804	-	30804	1999-025AUN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      98.941 	     578	 	     837	 	 98.88 	 	LEO/S
+S30805	-	30805	1999-025AUP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.613 	     828	 	     935	 	 98.80 	 	LEO/S
+S30806	-	30806	1999-025AUQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     105.045 	     800	 	    1192	 	 99.02 	 	LEO/S
 S30807	-	30807	1999-025AUR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Aug 15	-	-	-	-	-	-	-	-	-
 S30808	-	30808	1999-025AUS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2010 Feb 12	-	-	-	-	-	-	-	-	-
 S30809	-	30809	1999-025AUT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.638 	     754	 	     823	 	 98.79 	 	LEO/S
@@ -30793,8 +30793,8 @@ S30811	-	30811	1999-025AUV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30812	-	30812	1999-025AUW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Jan 11	-	-	-	-	-	-	-	-	-
 S30813	-	30813	1999-025AUX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 Mar  7	-	-	-	-	-	-	-	-	-
 S30814	-	30814	1999-025AUY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      98.226 	     654	 	     693	 	 99.09 	 	LEO/S
-S30815	-	30815	1999-025AUZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      96.982 	     613	 	     614	 	 99.30 	 	LEO/S
-S30816	-	30816	1999-025AVA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.462 	     789	 	     866	 	 98.90 	 	LEO/S
+S30815	-	30815	1999-025AUZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      96.981 	     613	 	     614	 	 99.30 	 	LEO/S
+S30816	-	30816	1999-025AVA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.461 	     789	 	     866	 	 98.90 	 	LEO/S
 S30817	-	30817	1999-025AVB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     102.795 	     847	 	     934	 	 98.78 	 	LEO/S
 S30818	-	30818	1999-025AVC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Dec  9	-	-	-	-	-	-	-	-	-
 S30819	-	30819	1999-025AVD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2016 Oct 29	-	-	-	-	-	-	-	-	-
@@ -30808,7 +30808,7 @@ S30826	-	30826	1999-025AVL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S30827	-	30827	1999-025AVM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.922 	     726	 	     783	 	 99.01 	 	LEO/S
 S30828	-	30828	1999-025AVN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      97.196 	     488	 	     760	 	 98.39 	 	LEO/S
 S30829	-	30829	1999-025AVP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     102.205 	     836	 	     889	 	 98.79 	 	LEO/S
-S30830	-	30830	1999-025AVQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.951 	     829	 	     872	 	 98.74 	 	LEO/S
+S30830	-	30830	1999-025AVQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.951 	     829	 	     872	 	 98.74 	 	LEO/S
 S30831	-	30831	1999-025AVR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     100.591 	     746	 	     826	 	 99.35 	 	LEO/S
 S30832	-	30832	1999-025AVS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2024 Jun 10 	     103.657 	     811	 	    1051	 	100.36 	 	LEO/S
 S30833	-	30833	1999-025AVT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.897 	     778	 	     823	 	 99.87 	 	LEO/S
@@ -31120,7 +31120,7 @@ S31138	-	31138	1979-101H	D	D  P        	deb Satcom 3	1979 Dec  7	S11635	LM	US	19
 S31139	-	31139	2003-049E	C	C  F        	CZ-4B sep motor cover?	2003 Oct 21	S28059	CNSA	CN	2003 Oct 21 0330?	In Earth orbit	-	2026 Jul 10 	      98.085 	     619	 	     714	 	 98.48 	 	LEO/S
 S31140	-	31140	2007-014A	P	P           	NFIRE	2007 Apr 24	S31141	MDA	US	2007 Apr 24 0659?	Reentered Earth atmosphere	2015 Nov  4 1012	-	-	-	-	-	-	-	-	-
 S31141	-	31141	2007-014B	R	R4          	Minotaur I (7) Stage 4	2007 Apr 24	R68762	NGISC	US	2007 Apr 24 0657?	Reentered Earth atmosphere	2007 Sep 26	-	-	-	-	-	-	-	-	-
-S31142	-	31142	1966-040AQ	D	D  J        	Nimbus 2 debris	1966 May 15	S02173	GSFC	US	2007 Apr?	In Earth orbit	-	2026 Jul 10 	     106.588 	    1027	 	    1109	 	100.60 	 	LEO/S
+S31142	-	31142	1966-040AQ	D	D  J        	Nimbus 2 debris	1966 May 15	S02173	GSFC	US	2007 Apr?	In Earth orbit	-	2026 Jul 11 	     106.588 	    1027	 	    1109	 	100.60 	 	LEO/S
 S31143	-	31143	1995-059D	D	D  J        	deb Delta	1995 Nov  4	S23711	BOHB	US	2007 Apr?	Reentered Earth atmosphere	2007 Apr 27	-	-	-	-	-	-	-	-	-
 S31144	-	31144	1999-025BGW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Lost	-	2013 Oct  3 	     102.799 	     819	 	     962	 	 99.24 	 	LEO/S
 S31145	-	31145	1999-025BGX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2010 Oct  8	-	-	-	-	-	-	-	-	-
@@ -31129,11 +31129,11 @@ S31147	-	31147	1999-025BGZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31148	-	31148	1999-025BHA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.680 	     648	 	     838	 	 98.85 	 	LEO/S
 S31149	-	31149	1999-025BHB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 Mar  1	-	-	-	-	-	-	-	-	-
 S31150	-	31150	1999-025BHC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     101.921 	     839	 	     859	 	 98.68 	 	LEO/S
-S31151	-	31151	1999-025BHD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     100.849 	     758	 	     839	 	 99.13 	 	LEO/S
+S31151	-	31151	1999-025BHD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.848 	     758	 	     839	 	 99.13 	 	LEO/S
 S31152	-	31152	1999-025BHE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.280 	     678	 	     864	 	 98.43 	 	LEO/S
 S31153	-	31153	1999-025BHF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2013 Nov 17	-	-	-	-	-	-	-	-	-
 S31154	-	31154	1999-025BHG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 May 31	-	-	-	-	-	-	-	-	-
-S31155	-	31155	1999-025BHH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.183 	     796	 	     927	 	 99.03 	 	LEO/S
+S31155	-	31155	1999-025BHH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.183 	     796	 	     927	 	 99.03 	 	LEO/S
 S31156	-	31156	1999-025BHJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2015 Oct 15	-	-	-	-	-	-	-	-	-
 S31157	-	31157	1999-025BHK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     101.208 	     742	 	     888	 	 98.50 	 	LEO/S
 S31158	-	31158	1999-025BHL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.339 	     740	 	     809	 	 98.77 	 	LEO/S
@@ -31147,7 +31147,7 @@ S31165	-	31165	1999-025BHT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31166	-	31166	1999-025BHU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 Mar 25	-	-	-	-	-	-	-	-	-
 S31167	-	31167	1999-025BHV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 May 15?	-	-	-	-	-	-	-	-	-
 S31168	-	31168	1999-025BHW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	      98.002 	     588	 	     737	 	 98.92 	 	LEO/S
-S31169	-	31169	1999-025BHX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     100.816 	     754	 	     839	 	 99.14 	 	LEO/S
+S31169	-	31169	1999-025BHX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.815 	     754	 	     839	 	 99.14 	 	LEO/S
 S31170	-	31170	1999-025BHY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2015 Mar 20	-	-	-	-	-	-	-	-	-
 S31171	-	31171	1999-025BHZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.055 	     655	 	     866	 	 98.03 	 	LEO/S
 S31172	-	31172	1999-025BJA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.580 	     679	 	     892	 	 98.43 	 	LEO/S
@@ -31159,13 +31159,13 @@ S31177	-	31177	1999-025BJF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31178	-	31178	1999-025BJG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     101.138 	     722	 	     902	 	 99.51 	 	LEO/S
 S31179	-	31179	1999-025BJH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  1 	     103.411 	     763	 	    1076	 	 99.00 	 	LEO/S
 S31180	-	31180	1999-025BJJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	     105.062 	     631	 	    1363	 	 99.25 	 	LEO/S
-S31181	-	31181	1999-025BJK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     101.943 	     817	 	     884	 	 98.76 	 	LEO/S
-S31182	-	31182	1999-025BJL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  6 	     101.779 	     827	 	     858	 	 98.70 	 	LEO/S
+S31181	-	31181	1999-025BJK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.942 	     816	 	     884	 	 98.76 	 	LEO/S
+S31182	-	31182	1999-025BJL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.778 	     827	 	     858	 	 98.70 	 	LEO/S
 S31183	-	31183	1999-025BJM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      99.142 	     685	 	     749	 	 99.05 	 	LEO/S
 S31184	-	31184	1999-025BJN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2007 May  6?	-	-	-	-	-	-	-	-	-
 S31185	-	31185	1999-025BJP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     102.627 	     854	 	     911	 	 98.84 	 	LEO/S
-S31186	-	31186	1999-025BJQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	     101.893 	     830	 	     865	 	 99.18 	 	LEO/S
-S31187	-	31187	1999-025BJR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	      98.179 	     530	 	     812	 	 99.22 	 	LEO/S
+S31186	-	31186	1999-025BJQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.893 	     830	 	     866	 	 99.18 	 	LEO/S
+S31187	-	31187	1999-025BJR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      98.171 	     530	 	     811	 	 99.22 	 	LEO/S
 S31188	-	31188	1999-025BJS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     101.044 	     766	 	     849	 	 98.73 	 	LEO/S
 S31189	-	31189	1999-025BJT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2015 Feb  9	-	-	-	-	-	-	-	-	-
 S31190	-	31190	1999-025BJU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  6 	     102.560 	     829	 	     929	 	 98.81 	 	LEO/S
@@ -31307,7 +31307,7 @@ S31325	-	31325	1999-025BQD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31326	-	31326	1999-025BQE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2026 Mar 15	-	-	-	-	-	-	-	-	-
 S31327	-	31327	1999-025BQF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      94.601 	     452	 	     545	 	 98.97 	 	LLEO/S
 S31328	-	31328	1999-025BQG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.767 	     720	 	     869	 	 98.51 	 	LEO/S
-S31329	-	31329	1999-025BQH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      97.907 	     621	 	     695	 	 98.90 	 	LEO/S
+S31329	-	31329	1999-025BQH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      97.907 	     621	 	     695	 	 98.90 	 	LEO/S
 S31330	-	31330	1999-025BQJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2026 Feb 10	-	-	-	-	-	-	-	-	-
 S31331	-	31331	1999-025BQK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.801 	     853	 	     928	 	 98.87 	 	LEO/S
 S31332	-	31332	1999-025BQL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.948 	     814	 	     887	 	 98.70 	 	LEO/S
@@ -31317,7 +31317,7 @@ S31335	-	31335	1999-025BQP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31336	-	31336	1999-025BQQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	     100.063 	     696	 	     826	 	 98.44 	 	LEO/S
 S31337	-	31337	1999-025BQR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 Sep 14	-	-	-	-	-	-	-	-	-
 S31338	-	31338	1999-025BQS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     101.202 	     766	 	     865	 	 98.71 	 	LEO/S
-S31339	-	31339	1999-025BQT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.923 	     794	 	     904	 	 98.70 	 	LEO/S
+S31339	-	31339	1999-025BQT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.922 	     794	 	     904	 	 98.70 	 	LEO/S
 S31340	-	31340	1999-025BQU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Lost	-	2022 Sep 10 	     101.417 	     795	 	     855	 	 98.96 	 	LEO/S
 S31341	-	31341	1999-025BQV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      98.934 	     670	 	     745	 	 99.54 	 	LEO/S
 S31342	-	31342	1999-025BQW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.211 	     689	 	     848	 	 98.96 	 	LEO/S
@@ -31349,7 +31349,7 @@ S31367	-	31367	1999-025BRX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31368	-	31368	1999-025BRY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jan 14 	     101.080 	     776	 	     842	 	 99.14 	 	LEO/S
 S31369	-	31369	1999-025BRZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  4 	     101.435 	     785	 	     867	 	 98.64 	 	LEO/S
 S31370	-	31370	1999-025BSA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     102.131 	     833	 	     885	 	 98.76 	 	LEO/S
-S31371	-	31371	1999-025BSB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     102.491 	     819	 	     933	 	 98.74 	 	LEO/S
+S31371	-	31371	1999-025BSB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     102.491 	     820	 	     933	 	 98.74 	 	LEO/S
 S31372	-	31372	1999-025BSC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     100.833 	     775	 	     820	 	 99.38 	 	LEO/S
 S31373	-	31373	1999-025BSD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Sep 12	-	-	-	-	-	-	-	-	-
 S31374	-	31374	1999-025BSE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jun  5 	     100.239 	     669	 	     869	 	 99.63 	 	LEO/S
@@ -31673,7 +31673,7 @@ S31691	-	31691	1999-025CCZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31692	-	31692	1999-025CDA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  2 	     101.361 	     763	 	     882	 	 99.18 	 	LEO/S
 S31693	-	31693	1999-025CDB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Feb 25	-	-	-	-	-	-	-	-	-
 S31694	-	31694	1999-025CDC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2015 Aug 31	-	-	-	-	-	-	-	-	-
-S31695	-	31695	1999-025CDD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	      97.425 	     521	 	     749	 	 98.26 	 	LEO/S
+S31695	-	31695	1999-025CDD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      97.424 	     521	 	     749	 	 98.26 	 	LEO/S
 S31696	-	31696	1999-025CDE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2024 Sep 14 	     103.604 	     818	 	    1039	 	 97.81 	 	LEO/S
 S31697	-	31697	1999-025CDF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Jan  4	-	-	-	-	-	-	-	-	-
 S31698	-	31698	2007-026A	A	P           	TerraSAR-X	2007 Jun 15	S31699	DLR2/ADSDF	D	2007 Jun 15 0229?	In Earth orbit	-	2026 Jul  7 	      94.790 	     507	 	     509	 	 97.45 	 	LLEO/S
@@ -31821,7 +31821,7 @@ S31839	-	31839	1999-025CJD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31840	-	31840	1999-025CJE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Lost	-	2019 Jan 21 	     103.373 	     847	 	     988	 	 99.10 	 	LEO/S
 S31841	-	31841	1999-025CJF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     102.458 	     654	 	    1095	 	 98.44 	 	LEO/S
 S31842	-	31842	1999-025CJG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 May 31	-	-	-	-	-	-	-	-	-
-S31843	-	31843	1999-025CJH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     107.791 	     652	 	    1596	 	 99.29 	 	LEO/S
+S31843	-	31843	1999-025CJH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     107.790 	     652	 	    1596	 	 99.29 	 	LEO/S
 S31844	-	31844	1999-025CJJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.375 	     749	 	     898	 	100.30 	 	LEO/S
 S31845	-	31845	1999-025CJK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2009 Jul 21	-	-	-	-	-	-	-	-	-
 S31846	-	31846	1999-025CJL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Jan 21	-	-	-	-	-	-	-	-	-
@@ -31840,7 +31840,7 @@ S31858	-	31858	1999-025CJY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31859	-	31859	1999-025CJZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Oct 10	-	-	-	-	-	-	-	-	-
 S31860	-	31860	1999-025CKA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2012 Oct 26	-	-	-	-	-	-	-	-	-
 S31861	-	31861	1999-025CKB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  3 	     108.181 	     773	 	    1511	 	102.34 	 	LEO/S
-S31862	-	31862	2007-032A	P	P           	T10	2007 Jul  7	S31864	DTVT	US	2007 Jul  7 1024	In Earth orbit	-	2026 Jul 10 	    1464.364 	   36314	 	   36361	 	  0.47 	 	GEO/D
+S31862	-	31862	2007-032A	P	P           	T10	2007 Jul  7	S31864	DTVT	US	2007 Jul  7 1024	In Earth orbit	-	2026 Jul 11 	    1464.363 	   36314	 	   36361	 	  0.47 	 	GEO/D
 S31863	-	31863	2007-032B	C	C  M        	Briz-M DTB	2007 Jul  7	S31864	KHRO	RU	2007 Jul  7 0454	In Earth orbit	-	2026 Jul 10 	     259.022 	     382	 	   13781	 	 45.97 	 	MEO
 S31864	-	31864	2007-032C	R	R4          	Briz-M No. 88520	2007 Jul  7	A07253	KHRO	RU	2007 Jul  7 0125	Reentered Earth atmosphere	2022 Jun  5	-	-	-	-	-	-	-	-	-
 S31865	-	31865	2005-031M	D	D  J        	deb OICETS	2005 Aug 23	S28809	KTRAS	RU	2007 Jul  4?	Reentered Earth atmosphere	2007 Jul 31	-	-	-	-	-	-	-	-	-
@@ -31881,7 +31881,7 @@ S31899	-	31899	1999-025CLA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31900	-	31900	1999-025CLB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Jan 30	-	-	-	-	-	-	-	-	-
 S31901	-	31901	1999-025CLC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  2 	     103.281 	     817	 	    1009	 	 98.63 	 	LEO/S
 S31902	-	31902	1999-025CLD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.151 	     684	 	     941	 	 98.53 	 	LEO/S
-S31903	-	31903	1999-025CLE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	      98.504 	     597	 	     777	 	 99.28 	 	LEO/S
+S31903	-	31903	1999-025CLE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	      98.503 	     596	 	     777	 	 99.28 	 	LEO/S
 S31904	-	31904	1999-025CLF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Lost	-	2019 Jul 18 	     103.468 	     789	 	    1055	 	 98.92 	 	LEO/S
 S31905	-	31905	1999-025CLG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.420 	     640	 	     916	 	 99.17 	 	LEO/S
 S31906	-	31906	1999-025CLH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.938 	     765	 	     840	 	 98.70 	 	LEO/S
@@ -31963,15 +31963,15 @@ S31981	-	31981	1999-025CPJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S31982	-	31982	1999-025CPK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 May  4	-	-	-	-	-	-	-	-	-
 S31983	-	31983	1999-025CPL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2025 Aug 20	-	-	-	-	-	-	-	-	-
 S31984	-	31984	1999-025CPM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     101.174 	     769	 	     859	 	 98.56 	 	LEO/S
-S31985	-	31985	1999-025CPN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  6 	     101.175 	     705	 	     923	 	 98.20 	 	LEO/S
-S31986	-	31986	1999-025CPP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.771 	     754	 	     931	 	 99.74 	 	LEO/S
+S31985	-	31985	1999-025CPN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.175 	     705	 	     922	 	 98.20 	 	LEO/S
+S31986	-	31986	1999-025CPP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     101.771 	     754	 	     930	 	 99.74 	 	LEO/S
 S31987	-	31987	1999-025CPQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	      99.556 	     702	 	     771	 	 99.05 	 	LEO/S
 S31988	-	31988	1999-025CPR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  4 	     101.272 	     774	 	     862	 	 98.12 	 	LEO/S
 S31989	-	31989	1999-025CPS	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     103.307 	     829	 	    1000	 	 99.19 	 	LEO/S
 S31990	-	31990	1999-025CPT	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     106.093 	     852	 	    1238	 	 99.15 	 	LEO/S
 S31991	-	31991	1999-025CPU	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jun 20 	     105.778 	     850	 	    1211	 	100.48 	 	LEO/S
 S31992	-	31992	1999-025CPV	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jun 27 	     108.821 	     765	 	    1578	 	 99.19 	 	LEO/S
-S31993	-	31993	1999-025CPW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     108.420 	     830	 	    1476	 	 99.23 	 	LEO/S
+S31993	-	31993	1999-025CPW	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     108.420 	     831	 	    1476	 	 99.23 	 	LEO/S
 S31994	-	31994	1999-025CPX	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     103.163 	     791	 	    1025	 	 98.55 	 	LEO/S
 S31995	-	31995	1999-025CPY	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2023 Dec 26 	     103.389 	     818	 	    1019	 	 98.40 	 	LEO/S
 S31996	-	31996	1999-025CPZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jun 27 	     105.911 	     815	 	    1258	 	 99.29 	 	LEO/S
@@ -32074,7 +32074,7 @@ S32092	-	32092	1999-025CQJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S32093	-	32093	1999-025CQK	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.131 	     707	 	     821	 	 98.90 	 	LEO/S
 S32094	-	32094	1999-025CQL	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     102.055 	     829	 	     881	 	 98.76 	 	LEO/S
 S32095	-	32095	1999-025CQM	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     101.675 	     782	 	     893	 	 98.63 	 	LEO/S
-S32096	-	32096	1999-025CQN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	     103.540 	     827	 	    1023	 	 99.05 	 	LEO/S
+S32096	-	32096	1999-025CQN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     103.539 	     827	 	    1023	 	 99.05 	 	LEO/S
 S32097	-	32097	1999-025CQP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2024 Jan  5	-	-	-	-	-	-	-	-	-
 S32098	-	32098	1999-025CQQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     101.363 	     684	 	     961	 	 98.62 	 	LEO/S
 S32099	-	32099	1999-025CQR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	     103.390 	     669	 	    1168	 	 98.30 	 	LEO/S
@@ -32089,7 +32089,7 @@ S32107	-	32107	1999-025CQZ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S32108	-	32108	1999-025CRA	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Dec 20	-	-	-	-	-	-	-	-	-
 S32109	-	32109	1999-025CRB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     100.382 	     629	 	     923	 	 98.34 	 	LEO/S
 S32110	-	32110	1999-025CRC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     100.669 	     766	 	     814	 	 99.55 	 	LEO/S
-S32111	-	32111	1999-025CRD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  8 	     100.571 	     700	 	     870	 	 98.45 	 	LEO/S
+S32111	-	32111	1999-025CRD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     100.571 	     700	 	     870	 	 98.45 	 	LEO/S
 S32112	-	32112	1999-025CRE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2022 Jul 20	-	-	-	-	-	-	-	-	-
 S32113	-	32113	1999-025CRF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  7 	     103.221 	     738	 	    1083	 	 99.00 	 	LEO/S
 S32114	-	32114	1999-025CRG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  1 	      97.091 	     590	 	     648	 	 99.94 	 	LEO/S
@@ -32253,8 +32253,8 @@ S32271	-	32271	2007-049D	R	R4          	Blok-2BL No. 50	2007 Oct 23	S32269	RVSNR
 S32272	-	32272	2007-050A	P	PH H-V      	Discovery (STS-120)	2007 Oct 23	A07297	JSC	US	2007 Oct 23 1547:06	Landed on Earth	2007 Nov  7 1801:18	-	-	-	-	-	-	-	-	-
 S32273	D00869	32273	2007-051A	P	P   D       	Chang'e-1	2007 Oct 24	S32274	CASC	CN	2007 Oct 24 1029	Impacted Luna	2009 Mar  1 0813	-	-	-	-	-	-	-	-	-
 S32274	-	32274	2007-051B	R	R3          	CZ-3A Y14 Stage 3	2007 Oct 24	R68973	CASC	CN	2007 Oct 24 1015	Reentered Earth atmosphere	2008 Jan 28	-	-	-	-	-	-	-	-	-
-S32275	-	32275	2007-052A	P	P           	Kosmos-2431	2007 Oct 26	S32278	VVKOV/IACG	RU	2007 Oct 26 1107	In Earth orbit	-	2026 Jul 10 	     675.725 	   19121	 	   19138	 	 65.56 	 	MEO
-S32276	-	32276	2007-052B	A	P           	Kosmos-2432	2007 Oct 26	S32278	VVKOV/IACG	RU	2007 Oct 26 1107	In Earth orbit	-	2026 Jul 10 	     675.729 	   19110	 	   19148	 	 65.58 	 	MEO
+S32275	-	32275	2007-052A	P	P           	Kosmos-2431	2007 Oct 26	S32278	VVKOV/IACG	RU	2007 Oct 26 1107	In Earth orbit	-	2026 Jul 10 	     675.726 	   19121	 	   19138	 	 65.56 	 	MEO
+S32276	-	32276	2007-052B	A	P           	Kosmos-2432	2007 Oct 26	S32278	VVKOV/IACG	RU	2007 Oct 26 1107	In Earth orbit	-	2026 Jul 11 	     675.729 	   19110	 	   19148	 	 65.58 	 	MEO
 S32277	-	32277	2007-052C	A	P           	Kosmos-2433	2007 Oct 26	S32278	VVKOV/IACG	RU	2007 Oct 26 1107	In Earth orbit	-	2026 Jul  8 	     675.393 	   19080	 	   19162	 	 65.58 	 	MEO
 S32278	-	32278	2007-052D	R	R4          	Blok DM-2 No. 110L	2007 Oct 26	S32279	KHRO	RU	2007 Oct 26 0745	In Earth orbit	-	2026 Jul  9 	     674.809 	   19058	 	   19154	 	 65.55 	 	MEO
 S32279	-	32279	2007-052E	R	R3          	Proton-K 410-17 Stage 3	2007 Oct 26	R68976	KHRO	RU	2007 Oct 26 0745	Reentered Earth atmosphere	2007 Oct 26 1045?	-	-	-	-	-	-	-	-	-
@@ -32267,13 +32267,13 @@ S32285	-	32285	1998-067BB	C	CC H E      	EVA debris	2007 Oct 23	A06952	JSC	US	20
 S32286	-	32286	1998-067BC	C	CC H E      	EVA debris (pliers)	2007 Oct 23	A06952	JSC	US	2007 Nov  3 1653	Reentered Earth atmosphere	2008 Feb  2?	-	-	-	-	-	-	-	-	-
 S32287	-	32287	2007-054A	P	P ------C   	DSP F23	2007 Nov 11	S32288	SFSSC	US	2007 Nov 11 0809	In Earth orbit	-	2025 Apr  3 	    1435.107 	   35741	 	   35792	 	  9.91 	 	GEO/ID
 S32288	-	32288	2007-054B	R	R2      c   	Delta 329	2007 Nov 11	R69004	ULAB	US	2007 Nov 11 0202	In Earth orbit	-	2026 Jul 10 	    1502.028 	   36008	 	   38126	 	 11.56 	 	VHEO
-S32289	-	32289	2007-055A	P	P           	Yaogan Weixing 3	2007 Nov 11	S32290	JHB	CN	2007 Nov 11 2309	In Earth orbit	-	2026 Jul 10 	      96.588 	     594	 	     596	 	 97.81 	 	LLEO/S
+S32289	-	32289	2007-055A	P	P           	Yaogan Weixing 3	2007 Nov 11	S32290	JHB	CN	2007 Nov 11 2309	In Earth orbit	-	2026 Jul 11 	      96.588 	     594	 	     596	 	 97.81 	 	LLEO/S
 S32290	-	32290	2007-055B	R	R3          	CZ-4C Y3 Stage 3	2007 Nov 11	R69008	CNSA	CN	2007 Nov 11 2258?	Reentered Earth atmosphere	2023 Nov 27 2300?	-	-	-	-	-	-	-	-	-
 S32291	-	32291	1991-063C	D	D  J        	deb UARS	1991 Sep 12	S21701	GSFC	US	2007 Nov 10	Reentered Earth atmosphere	2007 Nov 27?	-	-	-	-	-	-	-	-	-
 S32292	-	32292	1991-063D	D	D  J        	deb UARS	1991 Sep 12	S21701	GSFC	US	2007 Nov 10	Reentered Earth atmosphere	2007 Nov 27	-	-	-	-	-	-	-	-	-
-S32293	-	32293	2007-056A	P	P           	Star One C1	2007 Nov 14	S32295	STONE	BR	2007 Nov 14 2239	In Earth orbit	-	2026 Jul 10 	    1453.628 	   36082	 	   36175	 	  4.82 	 	GEO/ID
-S32294	-	32294	2007-056B	P	P           	Skynet 5B	2007 Nov 14	S32296	BABCK	UK	2007 Nov 14 2233	In Earth orbit	-	2026 Jul 10 	    1436.085 	   35770	 	   35802	 	  5.31 	 	GEO/I
-S32295	-	32295	2007-056C	R	R2          	Ariane 5 L538 ESC-A	2007 Nov 14	A07316	AESP	F	2007 Nov 14 2230	In Earth orbit	-	2026 Jul 10 	     471.657 	     250	 	   27135	 	  5.96 	 	HEO
+S32293	-	32293	2007-056A	P	P           	Star One C1	2007 Nov 14	S32295	STONE	BR	2007 Nov 14 2239	In Earth orbit	-	2026 Jul 11 	    1453.628 	   36082	 	   36175	 	  4.82 	 	GEO/ID
+S32294	-	32294	2007-056B	P	P           	Skynet 5B	2007 Nov 14	S32296	BABCK	UK	2007 Nov 14 2233	In Earth orbit	-	2026 Jul 10 	    1436.084 	   35770	 	   35802	 	  5.31 	 	GEO/I
+S32295	-	32295	2007-056C	R	R2          	Ariane 5 L538 ESC-A	2007 Nov 14	A07316	AESP	F	2007 Nov 14 2230	In Earth orbit	-	2026 Jul 10 	     471.656 	     250	 	   27135	 	  5.96 	 	HEO
 S32296	-	32296	2007-056D	C	C  A        	Sylda 5A	2007 Nov 14	S32295	AESP	F	2007 Nov 14 2235	Reentered Earth atmosphere	2013 Sep 20	-	-	-	-	-	-	-	-	-
 S32297	-	32297	1991-063E	D	D  J        	deb UARS	1991 Sep 12	S21701	GSFC	US	2007 Nov 10	Reentered Earth atmosphere	2008 Nov 20	-	-	-	-	-	-	-	-	-
 S32298	-	32298	1991-063F	D	D  J        	deb UARS	1991 Sep 12	S21701	GSFC	US	2007 Nov 10	Reentered Earth atmosphere	2008 Nov 13	-	-	-	-	-	-	-	-	-
@@ -32340,7 +32340,7 @@ S32358	-	32358	1999-025CZB	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S32359	-	32359	1999-025CZC	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2014 Apr  9	-	-	-	-	-	-	-	-	-
 S32360	-	32360	1999-025CZD	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     102.819 	     727	 	    1056	 	 98.13 	 	LEO/S
 S32361	-	32361	1999-025CZE	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 10 	      99.025 	     679	 	     744	 	 98.85 	 	LEO/S
-S32362	-	32362	1999-025CZF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  9 	     105.397 	     811	 	    1214	 	 99.84 	 	LEO/S
+S32362	-	32362	1999-025CZF	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul 11 	     105.396 	     811	 	    1214	 	 99.84 	 	LEO/S
 S32363	-	32363	1999-025CZG	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2026 Mar 10	-	-	-	-	-	-	-	-	-
 S32364	-	32364	1999-025CZH	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  4 	     101.700 	     746	 	     931	 	 98.30 	 	LEO/S
 S32365	-	32365	1999-025CZJ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2011 Nov 21	-	-	-	-	-	-	-	-	-
@@ -32351,24 +32351,24 @@ S32369	-	32369	1999-025CZN	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2
 S32370	-	32370	1999-025CZP	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2022 Jan  2	-	-	-	-	-	-	-	-	-
 S32371	-	32371	1999-025CZQ	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	Reentered Earth atmosphere	2023 Nov 23	-	-	-	-	-	-	-	-	-
 S32372	-	32372	1999-025CZR	D	D  W        	deb FY-1C	1999 May 10	S25730	CASC	CN	2007 Jan 11 2228	In Earth orbit	-	2026 Jul  5 	     107.785 	     783	 	    1464	 	 97.30 	 	LEO/S
-S32373	-	32373	2007-058A	P	P           	Raduga-1M	2007 Dec  9	S32375	VVKOV	RU	2007 Dec  9 0917	In Earth orbit	-	2026 Jul 10 	    1448.705 	   36027	 	   36038	 	 10.23 	 	GEO/ID
+S32373	-	32373	2007-058A	P	P           	Raduga-1M	2007 Dec  9	S32375	VVKOV	RU	2007 Dec  9 0917	In Earth orbit	-	2026 Jul 10 	    1448.704 	   36027	 	   36038	 	 10.23 	 	GEO/ID
 S32374	-	32374	2007-058B	C	C  M        	Briz-M DTB	2007 Dec  9	S32375	KHRO	RU	2007 Dec  9 0357?	In Earth orbit	-	2026 Jul 10 	     270.571 	     178	 	   14780	 	 46.02 	 	HEO
-S32375	-	32375	2007-058C	R	R4          	Briz-M No. 88526	2007 Dec  9	A07319	KHRO	RU	2007 Dec  9 0033	In Earth orbit	-	2026 Jul 10 	    1378.925 	   33633	 	   35686	 	 11.34 	 	MEO
-S32376	-	32376	2007-059A	A	P           	COSMO 2	2007 Dec  9	S32377	ASI	I	2007 Dec  9 0329	In Earth orbit	-	2026 Jul 10 	      97.156 	     621	 	     623	 	 97.89 	 	LEO/S
+S32375	-	32375	2007-058C	R	R4          	Briz-M No. 88526	2007 Dec  9	A07319	KHRO	RU	2007 Dec  9 0033	In Earth orbit	-	2026 Jul 10 	    1378.926 	   33633	 	   35686	 	 11.34 	 	MEO
+S32376	-	32376	2007-059A	A	P           	COSMO 2	2007 Dec  9	S32377	ASI	I	2007 Dec  9 0329	In Earth orbit	-	2026 Jul 11 	      97.156 	     621	 	     623	 	 97.89 	 	LEO/S
 S32377	-	32377	2007-059B	R	R2          	Delta 330	2007 Dec  9	R69030	BOHB	US	2007 Dec  9 0243	Reentered Earth atmosphere	2008 Feb 13	-	-	-	-	-	-	-	-	-
 S32378	-	32378	2007-060A	A	P ------C   	USA 198	2007 Dec 10	S32379	NROC	US	2007 Dec 10 1947	In Earth orbit	-	2025 Jun 14 	     717.857 	    1510	 	   38847	 	 63.95 	 	HEO/M
 S32379	-	32379	2007-060B	R	R2      c   	Centaur AV-015	2007 Dec 10	R69033	ULAL	US	2007 Dec 10 1847	In Earth orbit	-	2026 Jul 10 	     243.402 	     294	 	   12776	 	 60.79 	 	MEO
 S32380	-	32380	2007-003D	D	D  P        	deb CZ-3A Y12	2007 Feb  2	S30324	CNSA	CN	2007 Feb  2 2300?	Reentered Earth atmosphere	2007 Dec 14	-	-	-	-	-	-	-	-	-
 S32381	-	32381	2007-003E	D	D  P        	deb CZ-3A Y12	2007 Feb  2	S30324	CNSA	CN	2007 Feb  2 2300?	Reentered Earth atmosphere	2007 Dec 23	-	-	-	-	-	-	-	-	-
-S32382	-	32382	2007-061A	A	P           	Radarsat-2	2007 Dec 14	A07320	CSA	CA	2007 Dec 14 1410	In Earth orbit	-	2026 Jul 10 	     100.701 	     790	 	     792	 	 98.58 	 	LEO/S
+S32382	-	32382	2007-061A	A	P           	Radarsat-2	2007 Dec 14	A07320	CSA	CA	2007 Dec 14 1410	In Earth orbit	-	2026 Jul 11 	     100.701 	     790	 	     792	 	 98.58 	 	LEO/S
 S32383	-	32383	2007-061B	R	R3          	Soyuz-FG No. 025 Blok-I	2007 Dec 14	R69042	VVKOV	RU	2007 Dec 14 1326	Reentered Earth atmosphere	2007 Dec 16 0700?	-	-	-	-	-	-	-	-	-
 S32384	-	32384	2007-062A	A	P           	GPS IIR-18(M)	2007 Dec 20	S32385	SFSSC	US	2007 Dec 20 2112	In Earth orbit	-	2026 Jul 10 	     717.985 	   20086	 	   20278	 	 55.01 	 	MEO
 S32385	-	32385	2007-062B	R	R3          	Delta 331 Stage 3	2007 Dec 20	S32386	BOHB	US	2007 Dec 20 2108	Reentered Earth atmosphere	2010 Aug 24	-	-	-	-	-	-	-	-	-
 S32386	-	32386	2007-062C	R	R2          	Delta 331	2007 Dec 20	R69065	BOHB	US	2007 Dec 20 2014	Reentered Earth atmosphere	2008 Apr  8	-	-	-	-	-	-	-	-	-
-S32387	-	32387	2007-063A	P	P           	RASCOM-QAF 1	2007 Dec 21	S32390	I-RASC/RSQ	I-RASC	2007 Dec 21 2210	In Earth orbit	-	2026 Jul 10 	    1453.563 	   36082	 	   36173	 	 11.44 	 	GEO/ID
-S32388	-	32388	2007-063B	A	P           	Horizons 2	2007 Dec 21	S32389	HORZ	US	2007 Dec 21 2214	In Earth orbit	-	2026 Jul 10 	    1436.113 	   35771	 	   35802	 	  2.66 	 	GEO/S
+S32387	-	32387	2007-063A	P	P           	RASCOM-QAF 1	2007 Dec 21	S32390	I-RASC/RSQ	I-RASC	2007 Dec 21 2210	In Earth orbit	-	2026 Jul 10 	    1453.562 	   36082	 	   36173	 	 11.44 	 	GEO/ID
+S32388	-	32388	2007-063B	A	P           	Horizons 2	2007 Dec 21	S32389	HORZ	US	2007 Dec 21 2214	In Earth orbit	-	2026 Jul 11 	    1436.115 	   35771	 	   35802	 	  2.66 	 	GEO/S
 S32389	-	32389	2007-063C	R	R2          	Ariane 5 L530 EPS	2007 Dec 21	A07321	AESP	F	2007 Dec 21 2208	In Earth orbit	-	2026 Jul 10 	     624.469 	     550	 	   35095	 	  5.56 	 	GTO
-S32390	-	32390	2007-063D	C	C  A        	Sylda 5	2007 Dec 21	S32389	AESP	F	2007 Dec 21 2212	In Earth orbit	-	2026 Jul 10 	     634.303 	     569	 	   35583	 	  5.29 	 	GTO
+S32390	-	32390	2007-063D	C	C  A        	Sylda 5	2007 Dec 21	S32389	AESP	F	2007 Dec 21 2212	In Earth orbit	-	2026 Jul 11 	     634.303 	     569	 	   35582	 	  5.29 	 	GTO
 S32391	-	32391	2007-064A	P	PP H-V      	Progress M-62	2007 Dec 23	S32392	RKKE	RU	2007 Dec 23 0721	Deorbited into Earth atmosphere	2008 Feb 15 1029	-	-	-	-	-	-	-	-	-
 S32392	-	32392	2007-064B	R	R3          	Soyuz-U-PVB No. 109 Blok-I	2007 Dec 23	R69070	VVKOV	RU	2007 Dec 23 0721	Reentered Earth atmosphere	2007 Dec 26	-	-	-	-	-	-	-	-	-
 S32393	-	32393	2007-065A	A	P           	Kosmos-2434	2007 Dec 25	S32396	VVKOV/IACG	RU	2007 Dec 25 2302	In Earth orbit	-	2026 Jul 10 	     675.735 	   19126	 	   19133	 	 64.32 	 	MEO
@@ -32741,11 +32741,11 @@ S32759	-	32759	2006-026AQ	D	D  P        	deb Kosmos-2421	2006 Jun 25	S29247	VVKO
 S32760	-	32760	2006-026AR	D	D  P        	deb Kosmos-2421	2006 Jun 25	S29247	VVKOV	RU	2008 Mar 14 0429	Reentered Earth atmosphere	2008 May  3	-	-	-	-	-	-	-	-	-
 S32761	-	32761	2006-026AS	D	D  P        	deb Kosmos-2421	2006 Jun 25	S29247	VVKOV	RU	2008 Mar 14 0429	Reentered Earth atmosphere	2008 Apr 15	-	-	-	-	-	-	-	-	-
 S32762	-	32762	2006-026AT	D	D  P        	deb Kosmos-2421	2006 Jun 25	S29247	VVKOV	RU	2008 Mar 14 0429	Reentered Earth atmosphere	2008 Apr 16	-	-	-	-	-	-	-	-	-
-S32763	-	32763	2008-016A	P	P           	D1	2008 Apr 14	S32764	DISHE	US	2008 Apr 14 2042	In Earth orbit	-	2026 Jul 10 	    1436.080 	   35776	 	   35795	 	  5.53 	 	GEO/I
+S32763	-	32763	2008-016A	P	P           	D1	2008 Apr 14	S32764	DISHE	US	2008 Apr 14 2042	In Earth orbit	-	2026 Jul 11 	    1436.081 	   35776	 	   35795	 	  5.53 	 	GEO/I
 S32764	-	32764	2008-016B	R	R2          	Centaur AV-014	2008 Apr 14	R69182	ULAL	US	2008 Apr 14 2026	Reentered Earth atmosphere	2009 Feb  3	-	-	-	-	-	-	-	-	-
 S32765	-	32765	2008-017A	P	P           	C/NOFS	2008 Apr 16	S32766	AFRL	US	2008 Apr 16 1711?	Reentered Earth atmosphere	2015 Nov 28	-	-	-	-	-	-	-	-	-
 S32766	-	32766	2008-017B	R	R3          	Pegasus F39 Stage 3	2008 Apr 16	R69190	NGISC	US	2008 Apr 16 1711?	Reentered Earth atmosphere	2022 Oct 13 0534	-	-	-	-	-	-	-	-	-
-S32767	-	32767	2008-018A	A	P           	Vinasat	2008 Apr 18	S32769	VNPT	VN	2008 Apr 18 2247	In Earth orbit	-	2026 Jul 10 	    1436.103 	   35780	 	   35792	 	  0.04 	 	GEO/S
+S32767	-	32767	2008-018A	A	P           	Vinasat	2008 Apr 18	S32769	VNPT	VN	2008 Apr 18 2247	In Earth orbit	-	2026 Jul 11 	    1436.106 	   35780	 	   35792	 	  0.04 	 	GEO/S
 S32768	-	32768	2008-018B	A	P           	Star One C2	2008 Apr 18	S32770	STONE	BR	2008 Apr 18 2243	In Earth orbit	-	2026 Jul 10 	    1436.093 	   35775	 	   35797	 	  1.30 	 	GEO/S
 S32769	-	32769	2008-018C	R	R2          	Ariane 5 L539 ESC-A	2008 Apr 18	A07386	AESP	F	2008 Apr 18 2241	In Earth orbit	-	2026 Jul 11 	     521.032 	     272	 	   29868	 	  1.41 	 	HEO
 S32770	-	32770	2008-018D	C	C  A        	Sylda 5A	2008 Apr 18	S32769	AESP	F	2008 Apr 18 2245	Reentered Earth atmosphere	2014 Sep 26 0034?	-	-	-	-	-	-	-	-	-
@@ -62616,23 +62616,23 @@ S62634	-	62634	2025-009AB	A	P      O    	Flock 4g-28	2025 Jan 14	A11398	PLAN	US	
 S62635	-	62635	2025-009AC	A	P           	GARAI A	2025 Jan 14	A11398	SATLAN	E	2025 Jan 14 2009:47	In Earth orbit	-	2026 Jul 11 	      94.815 	     508	 	     510	 	 97.40 	 	LLEO/S
 S62636	-	62636	2025-009AD	A	P      O    	Flock 4g-20	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2013:24	In Earth orbit	-	2026 Jul 10 	      92.339 	     385	 	     393	 	 97.39 	 	LLEO/S
 S62637	-	62637	2025-009AE	A	P      O    	Flock 4g-24	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2010:37	In Earth orbit	-	2026 Jul 11 	      94.098 	     472	 	     477	 	 97.40 	 	LLEO/S
-S62638	-	62638	2025-009AF	P	P      O    	Flock 4g-16	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2009:32	In Earth orbit	-	2026 Jul 10 	      91.680 	     353	 	     360	 	 97.38 	 	LLEO/S
+S62638	-	62638	2025-009AF	P	P      O    	Flock 4g-16	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2009:32	In Earth orbit	-	2026 Jul 11 	      91.666 	     353	 	     359	 	 97.38 	 	LLEO/S
 S62639	-	62639	2025-009AG	A	P      O    	Flock 4g-3	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2008:05	In Earth orbit	-	2026 Jul 11 	      94.129 	     474	 	     478	 	 97.40 	 	LLEO/S
-S62640	-	62640	2025-009AH	A	P           	UzmaSat-1	2025 Jan 14	A11398	UZMA/URUGUS	MY	2025 Jan 14 2007:29	In Earth orbit	-	2026 Jul 10 	      94.097 	     473	 	     475	 	 97.36 	 	LLEO/S
+S62640	-	62640	2025-009AH	A	P           	UzmaSat-1	2025 Jan 14	A11398	UZMA/URUGUS	MY	2025 Jan 14 2007:29	In Earth orbit	-	2026 Jul 11 	      94.097 	     473	 	     475	 	 97.36 	 	LLEO/S
 S62641	-	62641	2025-009AJ	A	P      O    	Flock 4g-27	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2016:16	In Earth orbit	-	2026 Jul 11 	      94.133 	     474	 	     478	 	 97.39 	 	LLEO/S
 S62642	-	62642	2025-009AK	A	P      O    	Flock 4g-29	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2013:15	In Earth orbit	-	2026 Jul 11 	      94.129 	     474	 	     478	 	 97.40 	 	LLEO/S
 S62643	-	62643	2025-009AL	A	P      O    	Flock 4g-32	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2012:14	In Earth orbit	-	2026 Jun 18 	      88.517 	     190	 	     211	 	 97.37 	 	LLEO/S
 S62644	-	62644	2025-009AM	A	P           	ANSER-L-S	2025 Jan 14	A11398	INTA	E	2025 Jan 14 2007:22	In Earth orbit	-	2026 Jul 10 	      92.924 	     415	 	     420	 	 97.40 	 	LLEO/S
 S62645	-	62645	2025-009AN	A	P      O    	Flock 4g-22	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2010:25	In Earth orbit	-	2026 Jul 11 	      94.135 	     474	 	     478	 	 97.40 	 	LLEO/S
 S62646	-	62646	2025-009AP	A	P      O    	Flock 4g-25	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2005:14	In Earth orbit	-	2026 Jul 11 	      94.121 	     474	 	     477	 	 97.40 	 	LLEO/S
-S62647	-	62647	2025-009AQ	A	P      O    	Flock 4g-23	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2005:37	In Earth orbit	-	2026 Jul 10 	      93.842 	     460	 	     464	 	 97.39 	 	LLEO/S
+S62647	-	62647	2025-009AQ	A	P      O    	Flock 4g-23	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2005:37	In Earth orbit	-	2026 Jul 11 	      93.838 	     459	 	     464	 	 97.39 	 	LLEO/S
 S62648	-	62648	2025-009AR	A	P           	LIME	2025 Jan 14	A11398	NOVI	US	2025 Jan 14 2004:08	In Earth orbit	-	2026 Jul 10 	      94.034 	     471	 	     472	 	 97.40 	 	LLEO/S
-S62649	-	62649	2025-009AS	A	P           	AE1c	2025 Jan 14	A11398	ARKE	J	2025 Jan 14 2007:11	In Earth orbit	-	2026 Jul 10 	      93.071 	     423	 	     426	 	 97.40 	 	LLEO/S
-S62650	-	62650	2025-009AT	A	P      O    	Flock 4g-34	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2008:24	In Earth orbit	-	2026 Jul 11 	      94.135 	     475	 	     478	 	 97.40 	 	LLEO/S
-S62651	-	62651	2025-009AU	A	P      O    	Flock 4g-21	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2006:10	In Earth orbit	-	2026 Jul 10 	      93.955 	     466	 	     469	 	 97.40 	 	LLEO/S
+S62649	-	62649	2025-009AS	A	P           	AE1c	2025 Jan 14	A11398	ARKE	J	2025 Jan 14 2007:11	In Earth orbit	-	2026 Jul 10 	      93.069 	     423	 	     426	 	 97.40 	 	LLEO/S
+S62650	-	62650	2025-009AT	A	P      O    	Flock 4g-34	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2008:24	In Earth orbit	-	2026 Jul 11 	      94.135 	     475	 	     477	 	 97.40 	 	LLEO/S
+S62651	-	62651	2025-009AU	A	P      O    	Flock 4g-21	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2006:10	In Earth orbit	-	2026 Jul 11 	      93.953 	     465	 	     469	 	 97.40 	 	LLEO/S
 S62652	-	62652	2025-009AV	A	P      O    	Flock 4g-31	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2004:37	In Earth orbit	-	2026 Jul 11 	      94.147 	     476	 	     478	 	 97.40 	 	LLEO/S
-S62653	-	62653	2025-009AW	A	P           	PAUSAT-1	2025 Jan 14	A11398	PAU	PK	2025 Jan 14 2004:48	In Earth orbit	-	2026 Jul 10 	      94.504 	     493	 	     495	 	 97.40 	 	LLEO/S
-S62654	-	62654	2025-009AX	A	P           	BRO-16	2025 Jan 14	A11398	UNSEEN	F	2025 Jan 14 2003:18	In Earth orbit	-	2026 Jul 10 	      94.481 	     492	 	     494	 	 97.41 	 	LLEO/S
+S62653	-	62653	2025-009AW	A	P           	PAUSAT-1	2025 Jan 14	A11398	PAU	PK	2025 Jan 14 2004:48	In Earth orbit	-	2026 Jul 11 	      94.504 	     493	 	     495	 	 97.40 	 	LLEO/S
+S62654	-	62654	2025-009AX	A	P           	BRO-16	2025 Jan 14	A11398	UNSEEN	F	2025 Jan 14 2003:18	In Earth orbit	-	2026 Jul 11 	      94.481 	     492	 	     494	 	 97.41 	 	LLEO/S
 S62655	-	NNA	2025-009AY	A	P       ?   	FGN-100-d1	2025 Jan 14	A11398	FERG	TR	2025 Jan 14 2011:11	In Earth orbit	-	2026 Jul 10 	      93.351 	     436	 	     440	 	 97.40 	 	LLEO/S
 S62656	-	NNA	2025-009AZ	A	P       ?   	PARUS-T1	2025 Jan 14	A11398	TASA/PYRAS	J	2025 Jan 14 2006:25	In Earth orbit	-	2026 Jul  8 	      93.900 	     464	 	     465	 	 97.39 	 	LLEO/S
 S62657	-	NNA	2025-009BA	D	D  O    ?   	deb Transporter 12	2025 Jan 14	A11398	SPX	US	2025 Jan 14 2004:25	In Earth orbit	-	2026 Jul  8 	      94.157 	     476	 	     479	 	 97.39 	 	LLEO/S
@@ -62643,11 +62643,11 @@ S62661	-	62661	2025-009BE	A	P      O    	Flock 4g-2	2025 Jan 14	A11398	PLAN	US	2
 S62662	-	62662	2025-009BF	P	P           	W-2	2025 Jan 14	A11398	VARDA	US	2025 Jan 14 2018:35	Reentered Earth atmosphere	2025 Feb 27 1420?	-	-	-	-	-	-	-	-	-
 S62663	-	62663	2025-009BG	A	P      O    	Flock 4g-5	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2020:32	In Earth orbit	-	2026 Jul 10 	      94.065 	     471	 	     475	 	 97.40 	 	LLEO/S
 S62664	-	62664	2025-009BH	A	P           	Lyra-1	2025 Jan 14	A11398	ECHOAU	AU	2025 Jan 14 2017:43	In Earth orbit	-	2026 Jul 10 	      94.782 	     500	 	     515	 	 97.40 	 	LLEO/S
-S62665	-	62665	2025-009BJ	A	P           	Jay D2	2025 Jan 14	A11398	DRDC/UTIAS	CA	2025 Jan 14 2016:49	In Earth orbit	-	2026 Jul 10 	      94.581 	     496	 	     500	 	 97.39 	 	LLEO/S
+S62665	-	62665	2025-009BJ	A	P           	Jay D2	2025 Jan 14	A11398	DRDC/UTIAS	CA	2025 Jan 14 2016:49	In Earth orbit	-	2026 Jul 11 	      94.581 	     496	 	     500	 	 97.39 	 	LLEO/S
 S62666	-	62666	2025-009BK	A	P      O    	Flock 4g-1	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2016:42	In Earth orbit	-	2026 Jul 11 	      94.109 	     472	 	     477	 	 97.40 	 	LLEO/S
 S62667	-	62667	2025-009BL	A	P      O    	Flock 4g-14	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2011:33	In Earth orbit	-	2026 Jul 11 	      94.137 	     474	 	     479	 	 97.40 	 	LLEO/S
-S62668	-	62668	2025-009BM	A	P           	Jay C	2025 Jan 14	A11398	DRDC/UTIAS	CA	2025 Jan 14 2016:16	In Earth orbit	-	2026 Jul 10 	      94.581 	     496	 	     500	 	 97.40 	 	LLEO/S
-S62669	-	62669	2025-009BN	A	P           	Jay D1	2025 Jan 14	A11398	DRDC/UTIAS	CA	2025 Jan 14 2011:37	In Earth orbit	-	2026 Jul 10 	      94.580 	     495	 	     500	 	 97.40 	 	LLEO/S
+S62668	-	62668	2025-009BM	A	P           	Jay C	2025 Jan 14	A11398	DRDC/UTIAS	CA	2025 Jan 14 2016:16	In Earth orbit	-	2026 Jul 11 	      94.581 	     496	 	     500	 	 97.40 	 	LLEO/S
+S62669	-	62669	2025-009BN	A	P           	Jay D1	2025 Jan 14	A11398	DRDC/UTIAS	CA	2025 Jan 14 2011:37	In Earth orbit	-	2026 Jul 11 	      94.580 	     495	 	     500	 	 97.40 	 	LLEO/S
 S62670	-	62670	2025-009BP	A	P      O    	Flock 4g-10	2025 Jan 14	A11398	PLAN	US	2025 Jan 14 2009:57	In Earth orbit	-	2026 Jul 11 	      94.131 	     474	 	     478	 	 97.39 	 	LLEO/S
 S62671	-	62671	2025-009BQ	A	P           	SkyBee-AO1	2025 Jan 14	A11398	CNSTR	D	2025 Jan 14 2010:53	In Earth orbit	-	2026 Jul 11 	      94.667 	     499	 	     505	 	 97.40 	 	LLEO/S
 S62672	-	NNA	2025-009BR	A	P       ?   	Skylink-2	2025 Jan 14	S62630	HELLO	TR	2025 Jan 22?	In Earth orbit	-	2026 Jul 10 	      94.542 	     494	 	     498	 	 97.39 	 	LLEO/S
@@ -62920,10 +62920,10 @@ S62938	-	62938	1997-012J	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	U
 S62939	-	62939	1997-012K	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 11 	     101.489 	     822	 	     835	 	 98.80 	 	LEO/S
 S62940	-	62940	1997-012L	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	Reentered Earth atmosphere	2025 Oct 31	-	-	-	-	-	-	-	-	-
 S62941	-	62941	1997-012M	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 11 	     100.475 	     756	 	     805	 	 99.43 	 	LEO/S
-S62942	-	62942	1997-012N	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 10 	     101.392 	     731	 	     917	 	 99.32 	 	LEO/S
-S62943	-	62943	1997-012P	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 10 	      98.754 	     664	 	     733	 	 98.98 	 	LEO/S
-S62944	-	62944	1997-012Q	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 10 	      99.134 	     651	 	     783	 	 98.07 	 	LEO/S
-S62945	-	62945	1997-012R	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 10 	      96.948 	     496	 	     728	 	 98.35 	 	LEO/S
+S62942	-	62942	1997-012N	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 11 	     101.388 	     730	 	     917	 	 99.32 	 	LEO/S
+S62943	-	62943	1997-012P	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 11 	      98.747 	     664	 	     732	 	 98.97 	 	LEO/S
+S62944	-	62944	1997-012Q	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 11 	      99.134 	     651	 	     783	 	 98.07 	 	LEO/S
+S62945	-	62945	1997-012R	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	In Earth orbit	-	2026 Jul 11 	      96.947 	     496	 	     728	 	 98.35 	 	LEO/S
 S62946	-	62946	1997-012S	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	Reentered Earth atmosphere	2025 Dec 16	-	-	-	-	-	-	-	-	-
 S62947	-	62947	1997-012T	D	D  B    -   	deb DMSP F-14	1997 Apr  4	S24753	SFSSC	US	2024 Dec 19 0210	Reentered Earth atmosphere	2025 Dec 14	-	-	-	-	-	-	-	-	-
 S62948	-	62948	2025-029A	A	P      O    	Starlink 32728	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
@@ -62938,20 +62938,20 @@ S62956	-	62956	2025-029J	A	P      O    	Starlink 32815	2025 Feb 11	A11414	SPXS	U
 S62957	-	62957	2025-029K	A	P      O    	Starlink 32879	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      94.013 	     469	 	     471	 	 53.16 	 	LLEO/I
 S62958	-	62958	2025-029L	A	P      O    	Starlink 32885	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
 S62959	-	62959	2025-029M	A	P      O    	Starlink 32896	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      94.105 	     474	 	     475	 	 53.16 	 	LLEO/I
-S62960	-	62960	2025-029N	A	P      O    	Starlink 32877	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
-S62961	-	62961	2025-029P	A	P      O    	Starlink 32889	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
+S62960	-	62960	2025-029N	A	P      O    	Starlink 32877	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
+S62961	-	62961	2025-029P	A	P      O    	Starlink 32889	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.849 	     460	 	     464	 	 53.16 	 	LLEO/I
 S62962	-	62962	2025-029Q	A	P      O    	Starlink 32858	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      94.105 	     474	 	     476	 	 53.16 	 	LLEO/I
 S62963	-	62963	2025-029R	A	P      O    	Starlink 32882	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S62964	-	62964	2025-029S	A	P      O    	Starlink 32887	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
 S62965	-	62965	2025-029T	A	P      O    	Starlink 32836	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.848 	     462	 	     463	 	 53.16 	 	LLEO/I
-S62966	-	62966	2025-029U	A	P      L    	Starlink 32888	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.911 	     465	 	     466	 	 53.16 	 	LLEO/I
+S62966	-	62966	2025-029U	A	P      L    	Starlink 32888	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.870 	     461	 	     465	 	 53.16 	 	LLEO/I
 S62967	-	62967	2025-029V	A	P      O    	Starlink 32897	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      93.848 	     462	 	     463	 	 53.16 	 	LLEO/I
 S62968	-	62968	2025-029W	A	P      O    	Starlink 32863	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      94.013 	     469	 	     471	 	 53.16 	 	LLEO/I
 S62969	-	62969	2025-029X	A	P      O    	Starlink 32894	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      94.105 	     474	 	     475	 	 53.16 	 	LLEO/I
 S62970	-	62970	2025-029Y	A	P      O    	Starlink 32826	2025 Feb 11	A11414	SPXS	US	2025 Feb 11 0310:57	In Earth orbit	-	2026 Jul 11 	      94.107 	     474	 	     476	 	 53.16 	 	LLEO/I
-S62971	-	62971	2025-030A	A	P      O    	WHDW 02-01	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
-S62972	-	62972	2025-030B	A	P      O    	WHDW 02-02	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
-S62973	-	62973	2025-030C	A	P      O    	WHDW 02-03	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1148	 	    1149	 	 50.00 	 	LEO/I
+S62971	-	62971	2025-030A	A	P      O    	WHDW 02-01	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
+S62972	-	62972	2025-030B	A	P      O    	WHDW 02-02	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
+S62973	-	62973	2025-030C	A	P      O    	WHDW 02-03	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1148	 	    1149	 	 50.00 	 	LEO/I
 S62974	-	62974	2025-030D	A	P      O    	WHDW 02-04	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 11 	     108.325 	    1148	 	    1149	 	 50.00 	 	LEO/I
 S62975	-	62975	2025-030E	A	P      O    	WHDW 02-05	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
 S62976	-	62976	2025-030F	A	P      O    	WHDW 02-06	2025 Feb 11	S62980	ZXW	CN	2025 Feb 11 0950?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1148	 	    1149	 	 50.00 	 	LEO/I
@@ -63084,17 +63084,17 @@ S63102	D01181	63102	2025-038B	P	P   D       	Odin	2025 Feb 27	A11421	AFORGE	US	2
 S63103	D01184	63103	2025-038E	R	R2  D       	Falcon 9-444 Stage 2	2025 Feb 27	R84165	SPX	US	2025 Feb 27 0024:30	In solar orbit	-	-	-	-	-	-	-	-	-	-
 S63104	-	63104	2025-039A	A	P      O    	Starlink 11629	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.661 	     355	 	     356	 	 43.00 	 	LLEO/I
 S63105	-	63105	2025-039B	A	P      O    	Starlink 11624	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63106	-	63106	2025-039C	A	P      O    	Starlink 11584	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63107	-	63107	2025-039D	A	P      O    	Starlink 11627	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63106	-	63106	2025-039C	A	P      O    	Starlink 11584	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.665 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63107	-	63107	2025-039D	A	P      O    	Starlink 11627	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.674 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63108	-	63108	2025-039E	A	P      O    	Starlink 11632	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.661 	     354	 	     357	 	 43.00 	 	LLEO/I
 S63109	-	63109	2025-039F	A	P      O    	Starlink 11625	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63110	-	63110	2025-039G	A	P      O    	Starlink 11601	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63111	-	63111	2025-039H	A	P      O    	Starlink 11630	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63110	-	63110	2025-039G	A	P      O    	Starlink 11601	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63111	-	63111	2025-039H	A	P      O    	Starlink 11630	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.667 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63112	-	63112	2025-039J	A	P      O    	Starlink 11590	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63113	-	63113	2025-039K	A	P      O    	Starlink 11598	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63114	-	63114	2025-039L	A	P      O    	Starlink 11600	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63114	-	63114	2025-039L	A	P      O    	Starlink 11600	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.672 	     354	 	     358	 	 43.00 	 	LLEO/I
 S63115	-	63115	2025-039M	A	P      O    	Starlink 11597	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.669 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63116	-	63116	2025-039N	A	P      O    	Starlink 11591	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.673 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63116	-	63116	2025-039N	A	P      O    	Starlink 11591	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.669 	     354	 	     358	 	 43.00 	 	LLEO/I
 S63117	-	63117	2025-039P	A	P      R    	Starlink 32955	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      91.366 	     325	 	     358	 	 42.99 	 	LLEO/I
 S63118	-	63118	2025-039Q	A	P      O    	Starlink 32945	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63119	-	63119	2025-039R	A	P      O    	Starlink 32941	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
@@ -63103,8 +63103,8 @@ S63121	-	63121	2025-039T	A	P      O    	Starlink 32947	2025 Feb 27	A11425	SPXS	U
 S63122	-	63122	2025-039U	A	P      O    	Starlink 32961	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63123	-	63123	2025-039V	A	P      O    	Starlink 32948	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      94.266 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63124	-	63124	2025-039W	A	P      O    	Starlink 32957	2025 Feb 27	A11425	SPXS	US	2025 Feb 27 0439:42	In Earth orbit	-	2026 Jul 11 	      94.267 	     481	 	     484	 	 43.00 	 	LLEO/I
-S63125	-	63125	2025-040A	A	P           	Siwei Gaojing 1-03	2025 Feb 27	S63127	SIWEI	CN	2025 Feb 27 0720?	In Earth orbit	-	2026 Jul 10 	      94.636 	     499	 	     502	 	 97.35 	 	LLEO/S
-S63126	-	63126	2025-040B	A	P           	Siwei Gaojing 1-04	2025 Feb 27	S63127	SIWEI	CN	2025 Feb 27 0720?	In Earth orbit	-	2026 Jul 10 	      94.636 	     499	 	     502	 	 97.35 	 	LLEO/S
+S63125	-	63125	2025-040A	A	P           	Siwei Gaojing 1-03	2025 Feb 27	S63127	SIWEI	CN	2025 Feb 27 0720?	In Earth orbit	-	2026 Jul 11 	      94.636 	     499	 	     502	 	 97.35 	 	LLEO/S
+S63126	-	63126	2025-040B	A	P           	Siwei Gaojing 1-04	2025 Feb 27	S63127	SIWEI	CN	2025 Feb 27 0720?	In Earth orbit	-	2026 Jul 11 	      94.636 	     499	 	     502	 	 97.35 	 	LLEO/S
 S63127	-	63127	2025-040C	R	R2          	CZ-2C Y78 Stage 2	2025 Feb 27	R84171	CASC	CN	2025 Feb 27 0720?	In Earth orbit	-	2026 Jul 10 	      93.569 	     441	 	     457	 	 97.18 	 	LLEO/S
 S63128	-	63128	2025-041A	R	R3          	Soyuz-2-1a No. 078 Blok-I	2025 Feb 27	R84174	RVSNR	RU	2025 Feb 27 2133:12	Reentered Earth atmosphere	2025 Mar  1 1559	-	-	-	-	-	-	-	-	-
 S63129	-	63129	2025-041B	P	PP-H-V-     	Progress MS-30	2025 Feb 27	S63128	RKKE	RU	2025 Feb 27 2133:16	Deorbited into Earth atmosphere	2025 Sep  9 1939?	-	-	-	-	-	-	-	-	-
@@ -63112,10 +63112,10 @@ S63130	-	63130	2025-042A	A	P           	Kosmos-2584	2025 Mar  2	S63131	VVKOV/IAC
 S63131	-	63131	2025-042B	R	R4          	Fregat No. 112-17	2025 Mar  2	A11429	NPOLO	RU	2025 Mar  2 2232?	In Earth orbit	-	2026 Jul  9 	     673.669 	   19038	 	   19117	 	 65.10 	 	MEO
 S63132	-	63132	2025-043A	A	P      O    	Starlink 11609	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63133	-	63133	2025-043B	A	P      O    	Starlink 11604	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63134	-	63134	2025-043C	A	P      O    	Starlink 11605	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63134	-	63134	2025-043C	A	P      O    	Starlink 11605	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.665 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63135	-	63135	2025-043D	A	P      O    	Starlink 11610	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63136	-	63136	2025-043E	A	P      O    	Starlink 11613	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63137	-	63137	2025-043F	A	P      O    	Starlink 11616	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.673 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63137	-	63137	2025-043F	A	P      O    	Starlink 11616	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63138	-	63138	2025-043G	A	P      O    	Starlink 11611	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63139	-	63139	2025-043H	A	P      O    	Starlink 11628	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63140	-	63140	2025-043J	A	P      O    	Starlink 11607	2025 Mar  3	A11430	SPXS	US	2025 Mar  3 0329:16	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
@@ -63371,9 +63371,9 @@ S63389	-	63389	2025-063AC	A	P      O    	Starlink 33656	2025 Mar 26	A11449	SPXS	
 S63390	-	63390	2024-140ADM	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  2 	     101.472 	     787	 	     868	 	 89.01 	 	LEO/P
 S63391	-	63391	2024-140ADN	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  9 	     101.681 	     792	 	     884	 	 88.97 	 	LEO/P
 S63392	-	63392	2024-140ADP	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  9 	     101.323 	     792	 	     849	 	 89.03 	 	LEO/P
-S63393	-	63393	2024-140ADQ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.800 	     791	 	     896	 	 89.03 	 	LEO/P
+S63393	-	63393	2024-140ADQ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.800 	     790	 	     896	 	 89.03 	 	LEO/P
 S63394	-	63394	2024-140ADR	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  9 	     101.727 	     784	 	     896	 	 88.95 	 	LEO/P
-S63395	-	63395	2025-052BH	A	P           	Lemur-2 Balto	2025 Mar 15	A11437	SPIRE	US	2025 Mar 15 0900	In Earth orbit	-	2026 Jul 10 	      95.979 	     562	 	     569	 	 97.69 	 	LLEO/S
+S63395	-	63395	2025-052BH	A	P           	Lemur-2 Balto	2025 Mar 15	A11437	SPIRE	US	2025 Mar 15 0900	In Earth orbit	-	2026 Jul 11 	      95.978 	     562	 	     569	 	 97.69 	 	LLEO/S
 S63397	-	63397	2025-064A	A	P           	Tongxin Jishu Shiyan 16	2025 Mar 29	S63398	JHB	CN	2025 Mar 29 1630?	In Earth orbit	-	2026 Jul 10 	    1436.110 	   35776	 	   35797	 	  1.16 	 	GEO/S
 S63398	-	63398	2025-064B	R	R3          	CZ-7A Y11 Stage 3	2025 Mar 29	R84272	CASC	CN	2025 Mar 29 1615?	Reentered Earth atmosphere	2025 Jul 28 1525?	-	-	-	-	-	-	-	-	-
 S63399	-	63399	2025-065A	A	P      O    	Starlink 33531	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
@@ -63384,20 +63384,20 @@ S63403	-	63403	2025-065E	A	P      O    	Starlink 33676	2025 Mar 31	A11450	SPXS	U
 S63404	-	63404	2025-065F	A	P      O    	Starlink 33711	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63405	-	63405	2025-065G	A	P      O    	Starlink 33708	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63406	-	63406	2025-065H	A	P      O    	Starlink 33690	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.269 	     482	 	     484	 	 43.00 	 	LLEO/I
-S63407	-	63407	2025-065J	A	P      O    	Starlink 33694	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.269 	     482	 	     484	 	 43.00 	 	LLEO/I
-S63408	-	63408	2025-065K	A	P      O    	Starlink 33692	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     483	 	 43.00 	 	LLEO/I
+S63407	-	63407	2025-065J	A	P      O    	Starlink 33694	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.265 	     481	 	     484	 	 43.00 	 	LLEO/I
+S63408	-	63408	2025-065K	A	P      O    	Starlink 33692	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63409	-	63409	2025-065L	A	P      O    	Starlink 33693	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63410	-	63410	2025-065M	A	P      O    	Starlink 33677	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     484	 	 43.00 	 	LLEO/I
-S63411	-	63411	2025-065N	A	P      O    	Starlink 33647	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     483	 	 43.00 	 	LLEO/I
+S63411	-	63411	2025-065N	A	P      O    	Starlink 33647	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     480	 	     485	 	 42.98 	 	LLEO/I
 S63412	-	63412	2025-065P	A	P      O    	Starlink 33645	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63413	-	63413	2025-065Q	A	P      O    	Starlink 33670	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.265 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63414	-	63414	2025-065R	A	P      O    	Starlink 33644	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63415	-	63415	2025-065S	A	P      O    	Starlink 33664	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     483	 	 43.00 	 	LLEO/I
-S63416	-	63416	2025-065T	A	P      O    	Starlink 33649	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
+S63416	-	63416	2025-065T	A	P      O    	Starlink 33649	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.265 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63417	-	63417	2025-065U	A	P      O    	Starlink 33535	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
-S63418	-	63418	2025-065V	A	P      O    	Starlink 33703	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.265 	     482	 	     483	 	 43.00 	 	LLEO/I
+S63418	-	63418	2025-065V	A	P      O    	Starlink 33703	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63419	-	63419	2025-065W	A	P      O    	Starlink 33709	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
-S63420	-	63420	2025-065X	A	P      O    	Starlink 33698	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.269 	     482	 	     484	 	 43.00 	 	LLEO/I
+S63420	-	63420	2025-065X	A	P      O    	Starlink 33698	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63421	-	63421	2025-065Y	A	P      O    	Starlink 33606	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63422	-	63422	2025-065Z	A	P      O    	Starlink 33686	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.267 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63423	-	63423	2025-065AA	A	P      O    	Starlink 33675	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
@@ -63406,10 +63406,10 @@ S63425	-	63425	2025-065AC	A	P      O    	Starlink 33608	2025 Mar 31	A11450	SPXS	
 S63426	-	63426	2025-065AD	A	P      O    	Starlink 33615	2025 Mar 31	A11450	SPXS	US	2025 Mar 31 2058:14	In Earth orbit	-	2026 Jul 11 	      94.270 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63427	-	63427	2025-066A	P	PH-H-V-     	Dragon Reslience (Fram-2)	2025 Apr  1	A11451	SPX	US	2025 Apr  1 0155	Landed on Earth	2025 Apr  4 1619:28	-	-	-	-	-	-	-	-	-
 S63428	-	63428	2025-067A	P	P      F    	Xingwang Jishu SW 06-01	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	Reentered Earth atmosphere	2025 Oct 16 1700	-	-	-	-	-	-	-	-	-
-S63429	-	63429	2025-067B	A	P      O    	Xingwang Jishu SW 06-02	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	In Earth orbit	-	2026 Jul 10 	      94.782 	     501	 	     515	 	 55.00 	 	LLEO/I
-S63430	-	63430	2025-067C	A	P      O    	Xingwang Jishu SW 06-03	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	In Earth orbit	-	2026 Jul 10 	      94.783 	     501	 	     515	 	 55.00 	 	LLEO/I
-S63431	-	63431	2025-067D	A	P      O    	Xingwang Jishu SW 06-04	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	In Earth orbit	-	2026 Jul 10 	      94.790 	     502	 	     514	 	 55.00 	 	LLEO/I
-S63432	-	63432	2025-068A	A	P           	Tianping-3A(02)	2025 Apr  3	A11454	ZJUNI	CN	2025 Apr  3 0227?	In Earth orbit	-	2026 Jul 10 	      97.006 	     449	 	     781	 	 43.00 	 	LEO/I
+S63429	-	63429	2025-067B	A	P      O    	Xingwang Jishu SW 06-02	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	In Earth orbit	-	2026 Jul 11 	      94.782 	     501	 	     514	 	 55.00 	 	LLEO/I
+S63430	-	63430	2025-067C	A	P      O    	Xingwang Jishu SW 06-03	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	In Earth orbit	-	2026 Jul 11 	      94.782 	     501	 	     514	 	 55.00 	 	LLEO/I
+S63431	-	63431	2025-067D	A	P      O    	Xingwang Jishu SW 06-04	2025 Apr  1	A11453	ZXW	CN	2025 Apr  1 0415?	In Earth orbit	-	2026 Jul 11 	      94.789 	     502	 	     514	 	 55.00 	 	LLEO/I
+S63432	-	63432	2025-068A	A	P           	Tianping-3A(02)	2025 Apr  3	A11454	ZJUNI	CN	2025 Apr  3 0227?	In Earth orbit	-	2026 Jul 11 	      97.006 	     449	 	     781	 	 43.00 	 	LEO/I
 S63433	-	63433	2025-069A	A	P      O    	Starlink 33682	2025 Apr  4	A11455	SPXS	US	2025 Apr  4 0202:51	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
 S63434	-	63434	2025-069B	A	P      O    	Starlink 33710	2025 Apr  4	A11455	SPXS	US	2025 Apr  4 0202:51	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S63435	-	63435	2025-069C	A	P      O    	Starlink 33733	2025 Apr  4	A11455	SPXS	US	2025 Apr  4 0202:51	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
@@ -63525,11 +63525,11 @@ S63544	-	63544	2025-074U	A	P      DCm  	USA 517	2025 Apr 12	A11461	NROC	US	2025 
 S63545	-	63545	2025-074V	A	P      DCm  	USA 518	2025 Apr 12	A11461	NROC	US	2025 Apr 12 1325?	In Earth orbit	-	2025 Apr 17	      90.520 	     287	 	     313	 	 69.91 	 	LLEO/I
 S63546	-	63546	2025-074W	A	P      DCm  	USA 519	2025 Apr 12	A11461	NROC	US	2025 Apr 12 1325?	In Earth orbit	-	2025 Apr 17	      90.550 	     287	 	     316	 	 69.92 	 	LLEO/I
 S63547	-	63547	2025-074X	A	P      DCm  	USA 520	2025 Apr 12	A11461	NROC	US	2025 Apr 12 1325?	In Earth orbit	-	2025 Apr 17	      90.489 	     296	 	     301	 	 69.97 	 	LLEO/I
-S63548	-	63548	2025-075A	A	P      O    	Starlink 11669	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63548	-	63548	2025-075A	A	P      O    	Starlink 11669	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63549	-	63549	2025-075B	A	P      O    	Starlink 11665	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.669 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63550	-	63550	2025-075C	A	P      O    	Starlink 11667	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63551	-	63551	2025-075D	A	P      O    	Starlink 11695	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63552	-	63552	2025-075E	A	P      O    	Starlink 11685	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63552	-	63552	2025-075E	A	P      O    	Starlink 11685	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.663 	     353	 	     358	 	 43.00 	 	LLEO/I
 S63553	-	63553	2025-075F	A	P      O    	Starlink 11697	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.669 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63554	-	63554	2025-075G	A	P      O    	Starlink 11680	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63555	-	63555	2025-075H	P	P      R    	Starlink 11687	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	Reentered Earth atmosphere	2026 Mar 31 0712	-	-	-	-	-	-	-	-	-
@@ -63537,7 +63537,7 @@ S63556	-	63556	2025-075J	A	P      O    	Starlink 11626	2025 Apr 13	A11462	SPXS	U
 S63557	-	63557	2025-075K	A	P      O    	Starlink 11668	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63558	-	63558	2025-075L	A	P      O    	Starlink 11657	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.673 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63559	-	63559	2025-075M	A	P      O    	Starlink 11606	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
-S63560	-	63560	2025-075N	A	P      O    	Starlink 11592	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
+S63560	-	63560	2025-075N	A	P      O    	Starlink 11592	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      91.663 	     355	 	     357	 	 43.00 	 	LLEO/I
 S63561	-	63561	2025-075P	A	P      O    	Starlink 32953	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63562	-	63562	2025-075Q	A	P      O    	Starlink 32951	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     484	 	 43.00 	 	LLEO/I
 S63563	-	63563	2025-075R	A	P      O    	Starlink 32958	2025 Apr 13	A11462	SPXS	US	2025 Apr 13 0158:50	In Earth orbit	-	2026 Jul 11 	      94.271 	     482	 	     484	 	 43.00 	 	LLEO/I
@@ -63884,7 +63884,7 @@ S63903	-	63903	2025-095P	A	P      O    	Starlink 34097	2025 May 10	A11494	SPXS	U
 S63904	-	63904	2025-095Q	A	P      O    	Starlink 34092	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63905	-	63905	2025-095R	A	P      O    	Starlink 34114	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.265 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63906	-	63906	2025-095S	A	P      O    	Starlink 33770	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
-S63907	-	63907	2025-095T	A	P      O    	Starlink 34106	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.267 	     481	 	     484	 	 43.00 	 	LLEO/I
+S63907	-	63907	2025-095T	A	P      O    	Starlink 34106	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63908	-	63908	2025-095U	A	P      O    	Starlink 34083	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63909	-	63909	2025-095V	A	P      O    	Starlink 34066	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.265 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63910	-	63910	2025-095W	A	P      O    	Starlink 34071	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.265 	     482	 	     483	 	 43.00 	 	LLEO/I
@@ -63895,12 +63895,12 @@ S63914	-	63914	2025-095AA	A	P      O    	Starlink 34068	2025 May 10	A11494	SPXS	
 S63915	-	63915	2025-095AB	A	P      O    	Starlink 34076	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S63916	-	63916	2025-095AC	A	P      O    	Starlink 33910	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     481	 	     484	 	 43.00 	 	LLEO/I
 S63917	-	63917	2025-095AD	A	P      O    	Starlink 34075	2025 May 10	A11494	SPXS	US	2025 May 10 0733:23	In Earth orbit	-	2026 Jul 11 	      94.266 	     481	 	     484	 	 43.00 	 	LLEO/I
-S63918	-	63918	2025-096A	A	P           	Yaogan 40-02-01	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 10 	     101.950 	     849	 	     852	 	 86.00 	 	LEO/P
-S63919	-	63919	2025-096B	A	P           	Yaogan 40-02-02	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 10 	     101.950 	     849	 	     852	 	 86.00 	 	LEO/P
-S63920	-	63920	2025-096C	A	P           	Yaogan 40-02-03	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 10 	     101.950 	     849	 	     852	 	 86.00 	 	LEO/P
-S63921	-	63921	2025-096D	C	C  F        	CZ-6A lower fairing half?	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 10 	     100.938 	     793	 	     812	 	 85.99 	 	LEO/P
-S63922	-	63922	2025-096E	R	R2          	CZ-6A Y9 Stage 2	2025 May 11	R84412	CNSA	CN	2025 May 11 1340?	In Earth orbit	-	2026 Jul 10 	      98.348 	     629	 	     729	 	 86.02 	 	LEO/P
-S63923	-	63923	2025-096F	C	C  F        	CZ-6A lower fairing half?	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 10 	     100.891 	     792	 	     809	 	 86.00 	 	LEO/P
+S63918	-	63918	2025-096A	A	P           	Yaogan 40-02-01	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 11 	     101.950 	     849	 	     852	 	 86.00 	 	LEO/P
+S63919	-	63919	2025-096B	A	P           	Yaogan 40-02-02	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 11 	     101.950 	     849	 	     852	 	 86.00 	 	LEO/P
+S63920	-	63920	2025-096C	A	P           	Yaogan 40-02-03	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 11 	     101.950 	     849	 	     852	 	 86.00 	 	LEO/P
+S63921	-	63921	2025-096D	C	C  F        	CZ-6A lower fairing half?	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 11 	     100.938 	     794	 	     812	 	 85.99 	 	LEO/P
+S63922	-	63922	2025-096E	R	R2          	CZ-6A Y9 Stage 2	2025 May 11	R84412	CNSA	CN	2025 May 11 1340?	In Earth orbit	-	2026 Jul 11 	      98.348 	     629	 	     729	 	 86.02 	 	LEO/P
+S63923	-	63923	2025-096F	C	C  F        	CZ-6A lower fairing half?	2025 May 11	S63922	CAST	CN	2025 May 11 1342?	In Earth orbit	-	2026 Jul 11 	     100.891 	     792	 	     809	 	 86.00 	 	LEO/P
 S63924	-	63924	2025-097A	A	P           	Tongxin Jishu Shiyan 19	2025 May 12	S63925	SAST	CN	2025 May 12 1834?	In Earth orbit	-	2026 Jul 10 	    1436.152 	   35771	 	   35804	 	  3.25 	 	GEO/I
 S63925	-	63925	2025-097B	R	R3          	CZ-3C Y19? Stage 3	2025 May 12	R84418	CASC	CN	2025 May 12 1819	Reentered Earth atmosphere	2025 Sep  7 0908	-	-	-	-	-	-	-	-	-
 S63926	-	63926	2025-098A	A	P      O    	Starlink 34012	2025 May 13	A11495	SPXS	US	2025 May 13 0216:38	In Earth orbit	-	2026 Jul 11 	      96.109 	     569	 	     574	 	 70.00 	 	LLEO/I
@@ -64103,9 +64103,9 @@ S64122	-	64122	2025-110AC	A	P      O    	Starlink 33991	2025 May 23	A11504	SPXS	
 S64123	-	64123	2025-111A	A	P      O    	Starlink 11727	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
 S64124	-	64124	2025-111B	A	P      O    	Starlink 11724	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.669 	     355	 	     357	 	 43.00 	 	LLEO/I
 S64125	-	64125	2025-111C	A	P      O    	Starlink 11725	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.667 	     355	 	     357	 	 43.00 	 	LLEO/I
-S64126	-	64126	2025-111D	A	P      O    	Starlink 11717	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.668 	     355	 	     357	 	 43.00 	 	LLEO/I
+S64126	-	64126	2025-111D	A	P      O    	Starlink 11717	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.666 	     355	 	     357	 	 43.00 	 	LLEO/I
 S64127	-	64127	2025-111E	A	P      O    	Starlink 11721	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.669 	     355	 	     357	 	 43.00 	 	LLEO/I
-S64128	-	64128	2025-111F	A	P      O    	Starlink 11722	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.670 	     355	 	     357	 	 43.00 	 	LLEO/I
+S64128	-	64128	2025-111F	A	P      O    	Starlink 11722	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.668 	     355	 	     357	 	 43.00 	 	LLEO/I
 S64129	-	64129	2025-111G	A	P      O    	Starlink 11679	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
 S64130	-	64130	2025-111H	A	P      O    	Starlink 11735	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.672 	     355	 	     357	 	 43.00 	 	LLEO/I
 S64131	-	64131	2025-111J	A	P      O    	Starlink 11720	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      91.671 	     355	 	     357	 	 43.00 	 	LLEO/I
@@ -64116,8 +64116,8 @@ S64135	-	64135	2025-111N	A	P      O    	Starlink 11712	2025 May 24	A11505	SPXS	U
 S64136	-	64136	2025-111P	A	P      O    	Starlink 34254	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
 S64137	-	64137	2025-111Q	A	P      R r  	Starlink 34230	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      89.813 	     248	 	     282	 	 42.98 	 	LLEO/I
 S64138	-	64138	2025-111R	A	P      O    	Starlink 34129	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.268 	     481	 	     484	 	 43.00 	 	LLEO/I
-S64139	-	64139	2025-111S	A	P      O    	Starlink 34212	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     483	 	 43.00 	 	LLEO/I
-S64140	-	64140	2025-111T	A	P      O    	Starlink 34149	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.267 	     482	 	     483	 	 43.00 	 	LLEO/I
+S64139	-	64139	2025-111S	A	P      O    	Starlink 34212	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.266 	     482	 	     483	 	 43.00 	 	LLEO/I
+S64140	-	64140	2025-111T	A	P      O    	Starlink 34149	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.266 	     480	 	     485	 	 43.01 	 	LLEO/I
 S64141	-	64141	2025-111U	A	P      O    	Starlink 34054	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.269 	     482	 	     484	 	 43.00 	 	LLEO/I
 S64142	-	64142	2025-111V	A	P      O    	Starlink 34195	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.270 	     482	 	     484	 	 43.00 	 	LLEO/I
 S64143	-	64143	2025-111W	A	P      O    	Starlink 34133	2025 May 24	A11505	SPXS	US	2025 May 24 1824:12	In Earth orbit	-	2026 Jul 11 	      94.268 	     482	 	     483	 	 43.00 	 	LLEO/I
@@ -64447,13 +64447,13 @@ S64466	-	64466	2022-144M	A	P       C   	USA 547	2022 Nov  1	S54219	AFRL	US	2025 
 S64467	-	64467	2025-131A	A	P           	Kosmos-2589	2025 Jun 19	S64468	RESH	RU	2025 Jun 19 1530?	In Earth orbit	-	2026 Jul 10 	    1436.152 	   35781	 	   35793	 	  0.05 	 	GEO/S
 S64468	-	64468	2025-131B	R	R3          	Briz-M No. 88803	2025 Jun 19	A11530	KHRO	RU	2025 Jun 19 0319?	In Earth orbit	-	2026 Jun 17 	    1378.889 	   18837	 	   50480	 	  0.20 	 	MEO
 S64469	-	64469	2025-131D	C	C  M        	Briz-M DTB	2025 Jun 19	S64468	KHRO	RU	2025 Jun 19 0620?	Reentered Earth atmosphere	2026 Mar  1 1659	-	-	-	-	-	-	-	-	-
-S64470	-	64470	2025-132A	A	P           	Zhongxing 9C	2025 Jun 20	S64471	CAST	CN	2025 Jun 20 1300?	In Earth orbit	-	2026 Jul 10 	    1436.117 	   35774	 	   35799	 	  0.02 	 	GEO/S
+S64470	-	64470	2025-132A	A	P           	Zhongxing 9C	2025 Jun 20	S64471	CAST	CN	2025 Jun 20 1300?	In Earth orbit	-	2026 Jul 11 	    1436.119 	   35774	 	   35799	 	  0.02 	 	GEO/S
 S64471	-	64471	2025-132B	R	R3          	CZ-3B Y112 Stage 3	2025 Jun 20	R84568	CASC	CN	2025 Jun 20 1247	In Earth orbit	-	2026 Jul  8 	     609.272 	     232	 	   34624	 	 27.83 	 	GTO
 S64472	-	64472	2025-133A	A	P      O    	Starlink 34493	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64473	-	64473	2025-133B	A	P      O    	Starlink 34492	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
+S64473	-	64473	2025-133B	A	P      O    	Starlink 34492	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64474	-	64474	2025-133C	A	P      O    	Starlink 34474	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.907 	     464	 	     466	 	 53.16 	 	LLEO/I
 S64475	-	64475	2025-133D	A	P      O    	Starlink 34523	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64476	-	64476	2025-133E	A	P      O    	Starlink 34496	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64476	-	64476	2025-133E	A	P      O    	Starlink 34496	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64477	-	64477	2025-133F	A	P      O    	Starlink 34375	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64478	-	64478	2025-133G	A	P      O    	Starlink 34490	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64479	-	64479	2025-133H	A	P      O    	Starlink 34528	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
@@ -64464,15 +64464,15 @@ S64483	-	64483	2025-133M	A	P      O    	Starlink 34420	2025 Jun 23	A11531	SPXS	U
 S64484	-	64484	2025-133N	A	P      O    	Starlink 34509	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64485	-	64485	2025-133P	A	P      O    	Starlink 34409	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64486	-	64486	2025-133Q	A	P      O    	Starlink 34520	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64487	-	64487	2025-133R	A	P      O    	Starlink 34477	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.845 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64487	-	64487	2025-133R	A	P      O    	Starlink 34477	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64488	-	64488	2025-133S	A	P      O    	Starlink 34217	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      94.107 	     474	 	     476	 	 53.16 	 	LLEO/I
 S64489	-	64489	2025-133T	A	P      O    	Starlink 34307	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      94.106 	     474	 	     476	 	 53.16 	 	LLEO/I
-S64490	-	64490	2025-133U	A	P      O    	Starlink 34505	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      94.108 	     474	 	     476	 	 53.16 	 	LLEO/I
-S64491	-	64491	2025-133V	A	P      O    	Starlink 34530	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.851 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64492	-	64492	2025-133W	A	P      O    	Starlink 34522	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64493	-	64493	2025-133X	A	P      O    	Starlink 34462	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     462	 	 53.16 	 	LLEO/I
+S64490	-	64490	2025-133U	A	P      O    	Starlink 34505	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      94.106 	     473	 	     476	 	 53.16 	 	LLEO/I
+S64491	-	64491	2025-133V	A	P      O    	Starlink 34530	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64492	-	64492	2025-133W	A	P      O    	Starlink 34522	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64493	-	64493	2025-133X	A	P      O    	Starlink 34462	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.848 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64494	-	64494	2025-133Y	A	P      O    	Starlink 34226	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      94.014 	     469	 	     471	 	 53.16 	 	LLEO/I
-S64495	-	64495	2025-133Z	A	P      O    	Starlink 34364	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
+S64495	-	64495	2025-133Z	A	P      O    	Starlink 34364	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64496	-	64496	2025-133AA	P	P      R    	Starlink 34268	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	Reentered Earth atmosphere	2026 Apr 26 1624	-	-	-	-	-	-	-	-	-
 S64497	-	64497	2025-133AB	A	P      O    	Starlink 34363	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64498	-	64498	2025-133AC	A	P      L    	Starlink 34427	2025 Jun 23	A11531	SPXS	US	2025 Jun 23 0702:58	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
@@ -64589,15 +64589,15 @@ S64608	-	64608	2025-137Q	A	P      O    	Starlink 34519	2025 Jun 25	A11540	SPXS	U
 S64609	-	64609	2025-137R	A	P      O    	Starlink 34513	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.851 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64610	-	64610	2025-137S	A	P      O    	Starlink 34569	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.846 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64611	-	64611	2025-137T	A	P      O    	Starlink 34494	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.846 	     461	 	     463	 	 53.16 	 	LLEO/I
-S64612	-	64612	2025-137U	A	P      O    	Starlink 34521	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      94.103 	     474	 	     476	 	 53.16 	 	LLEO/I
+S64612	-	64612	2025-137U	A	P      O    	Starlink 34521	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      94.104 	     474	 	     476	 	 53.16 	 	LLEO/I
 S64613	-	64613	2025-137V	A	P      O    	Starlink 34500	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.850 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64614	-	64614	2025-137W	A	P      O    	Starlink 34440	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64615	-	64615	2025-137X	A	P      O    	Starlink 34469	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      94.105 	     474	 	     476	 	 53.16 	 	LLEO/I
 S64616	-	64616	2025-137Y	A	P      O    	Starlink 34413	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.850 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64617	-	64617	2025-137Z	A	P      O    	Starlink 34417	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64618	-	64618	2025-137AA	A	P      O    	Starlink 34415	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.846 	     461	 	     463	 	 53.16 	 	LLEO/I
-S64619	-	64619	2025-137AB	A	P      O    	Starlink 34416	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64620	-	64620	2025-137AC	A	P      O    	Starlink 34414	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64619	-	64619	2025-137AB	A	P      O    	Starlink 34416	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64620	-	64620	2025-137AC	A	P      O    	Starlink 34414	2025 Jun 25	A11540	SPXS	US	2025 Jun 25 2059:17	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64621	-	64621	2025-138A	A	P           	Hawk 12C	2025 Jun 26	S64625	HE360	US	2025 Jun 26 1818?	In Earth orbit	-	2026 Jul  9 	      94.838 	     499	 	     521	 	 97.44 	 	LLEO/S
 S64622	-	64622	2025-138B	A	P           	Hawk 12B	2025 Jun 26	S64625	HE360	US	2025 Jun 26 1818?	In Earth orbit	-	2026 Jul  9 	      94.838 	     500	 	     520	 	 97.45 	 	LLEO/S
 S64623	-	64623	2025-138C	A	P           	Hawk 12A	2025 Jun 26	S64625	HE360	US	2025 Jun 26 1818?	In Earth orbit	-	2026 Jul  9 	      94.838 	     500	 	     521	 	 97.44 	 	LLEO/S
@@ -64610,45 +64610,45 @@ S64629	-	64629	2024-140ADT	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	
 S64630	-	64630	2024-140ADU	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  8 	     100.269 	     739	 	     802	 	 88.52 	 	LEO/P
 S64631	-	64631	2024-140ADV	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	Reentered Earth atmosphere	2026 Jan  7	-	-	-	-	-	-	-	-	-
 S64632	-	64632	2024-140ADW	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     100.807 	     745	 	     847	 	 89.15 	 	LEO/P
-S64633	-	64633	2024-140ADX	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.938 	     771	 	     929	 	 88.99 	 	LEO/P
-S64634	-	64634	2024-140ADY	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  9 	     101.812 	     780	 	     908	 	 88.99 	 	LEO/P
+S64633	-	64633	2024-140ADX	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.938 	     770	 	     929	 	 88.99 	 	LEO/P
+S64634	-	64634	2024-140ADY	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.812 	     780	 	     908	 	 88.99 	 	LEO/P
 S64635	-	64635	2024-140ADZ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  8 	      98.502 	     615	 	     758	 	 89.12 	 	LEO/P
 S64636	-	64636	2024-140AEA	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  8 	     101.489 	     784	 	     873	 	 89.05 	 	LEO/P
 S64637	-	64637	2024-140AEB	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     100.079 	     752	 	     771	 	 89.01 	 	LEO/P
 S64638	-	64638	2024-140AEC	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	      99.518 	     704	 	     766	 	 88.86 	 	LEO/P
 S64639	-	64639	2024-140AED	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  8 	     102.979 	     796	 	    1002	 	 88.84 	 	LEO/P
-S64640	-	64640	2024-140AEE	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.130 	     776	 	     847	 	 89.00 	 	LEO/P
+S64640	-	64640	2024-140AEE	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.130 	     776	 	     847	 	 89.01 	 	LEO/P
 S64641	-	64641	2024-140AEF	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  3 	     102.453 	     789	 	     960	 	 88.87 	 	LEO/P
 S64642	-	64642	2024-140AEG	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	Reentered Earth atmosphere	2026 Feb 10	-	-	-	-	-	-	-	-	-
-S64643	-	64643	2024-140AEH	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     100.901 	     747	 	     855	 	 89.14 	 	LEO/P
+S64643	-	64643	2024-140AEH	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     100.901 	     747	 	     855	 	 89.14 	 	LEO/P
 S64644	-	64644	2024-140AEJ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  8 	     102.016 	     794	 	     913	 	 89.03 	 	LEO/P
-S64645	-	64645	2024-140AEK	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.957 	     783	 	     918	 	 88.32 	 	LEO/P
+S64645	-	64645	2024-140AEK	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.957 	     783	 	     918	 	 88.32 	 	LEO/P
 S64646	-	64646	2024-140AEL	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	      99.463 	     687	 	     778	 	 88.20 	 	LEO/P
 S64647	-	64647	2024-140AEM	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	Reentered Earth atmosphere	2025 Jun 28	-	-	-	-	-	-	-	-	-
 S64648	-	64648	2024-140AEN	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.102 	     776	 	     844	 	 88.99 	 	LEO/P
-S64649	-	64649	2024-140AEP	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	      99.110 	     677	 	     754	 	 88.92 	 	LEO/P
-S64650	-	64650	2024-140AEQ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  5 	      96.240 	     538	 	     618	 	 88.94 	 	LLEO/P
-S64651	-	64651	2024-140AER	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  8 	     101.768 	     783	 	     901	 	 88.34 	 	LEO/P
+S64649	-	64649	2024-140AEP	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	      99.110 	     677	 	     754	 	 88.92 	 	LEO/P
+S64650	-	64650	2024-140AEQ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	      96.224 	     537	 	     617	 	 88.94 	 	LLEO/P
+S64651	-	64651	2024-140AER	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.768 	     783	 	     901	 	 88.34 	 	LEO/P
 S64652	-	64652	2024-140AES	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	      99.740 	     710	 	     781	 	 88.91 	 	LEO/P
 S64653	-	64653	2024-140AET	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  5 	      95.501 	     511	 	     573	 	 88.92 	 	LLEO/P
-S64654	-	64654	2024-140AEU	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.683 	     779	 	     896	 	 88.33 	 	LEO/P
-S64655	-	64655	2024-140AEV	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     100.566 	     729	 	     841	 	 89.12 	 	LEO/P
+S64654	-	64654	2024-140AEU	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.683 	     779	 	     896	 	 88.33 	 	LEO/P
+S64655	-	64655	2024-140AEV	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     100.566 	     729	 	     841	 	 89.12 	 	LEO/P
 S64656	-	64656	2024-140AEW	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     100.319 	     761	 	     786	 	 89.02 	 	LEO/P
 S64657	-	64657	2024-140AEX	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  9 	     100.066 	     736	 	     787	 	 88.30 	 	LEO/P
-S64658	-	64658	2024-140AEY	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul  9 	     101.589 	     787	 	     880	 	 89.00 	 	LEO/P
-S64659	-	64659	2024-140AEZ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	      98.479 	     613	 	     757	 	 88.91 	 	LEO/P
+S64658	-	64658	2024-140AEY	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.589 	     787	 	     880	 	 89.00 	 	LEO/P
+S64659	-	64659	2024-140AEZ	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	      98.479 	     613	 	     758	 	 88.91 	 	LEO/P
 S64660	-	64660	2024-140AFA	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     100.526 	     755	 	     811	 	 88.33 	 	LEO/P
-S64661	-	64661	2024-140AFB	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.182 	     783	 	     846	 	 88.99 	 	LEO/P
-S64662	-	64662	2024-140AFC	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	     101.407 	     789	 	     860	 	 89.00 	 	LEO/P
-S64663	-	64663	2024-140AFD	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 10 	      98.350 	     615	 	     743	 	 89.05 	 	LEO/P
+S64661	-	64661	2024-140AFB	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.181 	     783	 	     846	 	 88.99 	 	LEO/P
+S64662	-	64662	2024-140AFC	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	     101.407 	     789	 	     860	 	 89.00 	 	LEO/P
+S64663	-	64663	2024-140AFD	D	D  P        	deb CZ-6A Y21	2024 Aug  6	S60397	CNSA	CN	2024 Aug  6 1715?	In Earth orbit	-	2026 Jul 11 	      98.350 	     615	 	     743	 	 89.05 	 	LEO/P
 S64664	-	64664	2025-139A	A	P      O    	Starlink 34464	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.850 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64665	-	64665	2025-139B	A	P      O    	Starlink 34555	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64666	-	64666	2025-139C	A	P      O    	Starlink 34390	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64667	-	64667	2025-139D	A	P      O    	Starlink 34382	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64668	-	64668	2025-139E	A	P      O    	Starlink 34395	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
+S64668	-	64668	2025-139E	A	P      O    	Starlink 34395	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64669	-	64669	2025-139F	A	P      O    	Starlink 34394	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.849 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64670	-	64670	2025-139G	A	P      O    	Starlink 34287	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.851 	     462	 	     463	 	 53.16 	 	LLEO/I
-S64671	-	64671	2025-139H	A	P      O    	Starlink 34365	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.852 	     462	 	     463	 	 53.16 	 	LLEO/I
+S64671	-	64671	2025-139H	A	P      O    	Starlink 34365	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.850 	     461	 	     464	 	 53.16 	 	LLEO/I
 S64672	-	64672	2025-139J	A	P      O    	Starlink 34442	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.846 	     461	 	     464	 	 53.15 	 	LLEO/I
 S64673	-	64673	2025-139K	A	P      O    	Starlink 34288	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.851 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64674	-	64674	2025-139L	A	P      O    	Starlink 34539	2025 Jun 28	A11541	SPXS	US	2025 Jun 28 0530:19	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
@@ -64730,14 +64730,14 @@ S64749	-	64749	2025-144AB	A	P      O    	Starlink 34595	2025 Jul  2	A11544	SPXS	
 S64750	-	64750	2025-144AC	A	P      O    	Starlink 34531	2025 Jul  2	A11544	SPXS	US	2025 Jul  2 0732:27	In Earth orbit	-	2026 Jul 11 	      93.850 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64751	-	64751	2025-146A	P	PP-H-V-     	Progress MS-31	2025 Jul  3	S64752	RKKE	RU	2025 Jul  3 1941	Deorbited into Earth atmosphere	2026 Mar 16 1721?	-	-	-	-	-	-	-	-	-
 S64752	-	64752	2025-146B	R	R3          	Soyuz-2-1a No. 048 Blok-I	2025 Jul  3	R84617	RVSNR	RU	2025 Jul  3 1941	Reentered Earth atmosphere	2025 Jul  5 1937	-	-	-	-	-	-	-	-	-
-S64753	-	64753	2025-145A	A	P           	Shiyan 28B-01	2025 Jul  3	S64754	JHB	CN	2025 Jul  3 0950?	In Earth orbit	-	2026 Jul 10 	     100.741 	     791	 	     795	 	 11.00 	 	LEO/E
-S64754	-	64754	2025-145B	R	R3          	CZ-4C Y63 Stage 3	2025 Jul  3	R84614	CNSA	CN	2025 Jul  3 0950?	In Earth orbit	-	2026 Jul  9 	      98.851 	     617	 	     789	 	 10.99 	 	LEO/E
+S64753	-	64753	2025-145A	A	P           	Shiyan 28B-01	2025 Jul  3	S64754	JHB	CN	2025 Jul  3 0950?	In Earth orbit	-	2026 Jul 11 	     100.741 	     791	 	     795	 	 11.00 	 	LEO/E
+S64754	-	64754	2025-145B	R	R3          	CZ-4C Y63 Stage 3	2025 Jul  3	R84614	CNSA	CN	2025 Jul  3 0950?	In Earth orbit	-	2026 Jul 10 	      98.851 	     617	 	     789	 	 10.99 	 	LEO/E
 S64755	-	64755	2025-147A	A	P      O    	Starlink 33965	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64756	-	64756	2025-147B	A	P      O    	Starlink 34371	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      94.013 	     470	 	     471	 	 53.16 	 	LLEO/I
 S64757	-	64757	2025-147C	A	P      O    	Starlink 34401	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64758	-	64758	2025-147D	A	P      O    	Starlink 34593	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64759	-	64759	2025-147E	A	P      O    	Starlink 34598	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
-S64760	-	64760	2025-147F	A	P      O    	Starlink 34235	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
+S64760	-	64760	2025-147F	A	P      O    	Starlink 34235	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.847 	     462	 	     463	 	 53.16 	 	LLEO/I
 S64761	-	64761	2025-147G	A	P      O    	Starlink 34635	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64762	-	64762	2025-147H	A	P      O    	Starlink 34638	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.849 	     461	 	     463	 	 53.16 	 	LLEO/I
 S64763	-	64763	2025-147J	A	P      O    	Starlink 34534	2025 Jul  8	A11547	SPXS	US	2025 Jul  8 0925:11	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
@@ -64847,29 +64847,29 @@ S64866	-	64866	2025-153A	A	P           	O3b mPOWER F9	2025 Jul 22	S64868	SESSA	U
 S64867	-	64867	2025-153B	A	P           	O3b mPOWER F10	2025 Jul 22	S64868	SESSA	UK	2025 Jul 22 2312	In Earth orbit	-	2026 Jul 10 	     287.934 	    8062	 	    8069	 	  0.06 	 	MEO
 S64868	-	64868	2025-153C	R	R2----      	Falcon 9-510 Stage 2	2025 Jul 22	R84656	SPX	US	2025 Jul 22 2119	In Earth orbit	-	2026 Jul 10 	     196.643 	    2647	 	    6999	 	  9.71 	 	MEO
 S64869	-	64869	2025-154A	A	P           	LIDE	2025 Jul 23	A11556	TYVI/PICO	I	2025 Jul 23 1958	In Earth orbit	-	2026 Jul 10 	      96.353 	     579	 	     588	 	 97.67 	 	LLEO/S
-S64870	-	64870	2025-154B	A	P           	TRACERS 1	2025 Jul 23	A11556	NASA/UIA	US	2025 Jul 23 1947	In Earth orbit	-	2026 Jul 10 	      96.415 	     582	 	     590	 	 97.67 	 	LLEO/S
-S64871	-	64871	2025-154C	A	P           	EPIC Athena	2025 Jul 23	A11556	LARCN/STP	US	2025 Jul 23 1957	In Earth orbit	-	2026 Jul 10 	      96.374 	     579	 	     589	 	 97.67 	 	LLEO/S
-S64872	-	64872	2025-154D	A	P           	Skykraft 4A	2025 Jul 23	A11556	SKYKR	AU	2025 Jul 23 2100?	In Earth orbit	-	2026 Jul 10 	      96.134 	     569	 	     576	 	 97.67 	 	LLEO/S
-S64873	-	64873	2025-154E	A	P           	TRACERS 2	2025 Jul 23	A11556	NASA/UIA	US	2025 Jul 23 1953	In Earth orbit	-	2026 Jul 10 	      96.415 	     584	 	     589	 	 97.67 	 	LLEO/S
+S64870	-	64870	2025-154B	A	P           	TRACERS 1	2025 Jul 23	A11556	NASA/UIA	US	2025 Jul 23 1947	In Earth orbit	-	2026 Jul 11 	      96.415 	     582	 	     590	 	 97.67 	 	LLEO/S
+S64871	-	64871	2025-154C	A	P           	EPIC Athena	2025 Jul 23	A11556	LARCN/STP	US	2025 Jul 23 1957	In Earth orbit	-	2026 Jul 11 	      96.374 	     579	 	     589	 	 97.67 	 	LLEO/S
+S64872	-	64872	2025-154D	A	P           	Skykraft 4A	2025 Jul 23	A11556	SKYKR	AU	2025 Jul 23 2100?	In Earth orbit	-	2026 Jul 11 	      96.134 	     569	 	     576	 	 97.67 	 	LLEO/S
+S64873	-	64873	2025-154E	A	P           	TRACERS 2	2025 Jul 23	A11556	NASA/UIA	US	2025 Jul 23 1953	In Earth orbit	-	2026 Jul 11 	      96.415 	     584	 	     589	 	 97.67 	 	LLEO/S
 S64874	-	64874	2025-154F	A	P           	Bard	2025 Jul 23	A11556	APL/NASA	US	2025 Jul 23 1907	In Earth orbit	-	2026 Jul 10 	      94.700 	     502	 	     506	 	 97.40 	 	LLEO/S
-S64875	-	64875	2025-154G	A	P           	REAL	2025 Jul 23	A11556	DART	US	2025 Jul 23 1907	In Earth orbit	-	2026 Jul  9 	      93.889 	     463	 	     465	 	 97.40 	 	LLEO/S
-S64876	-	64876	2025-155A	A	P           	Ionosfera-M No. 3	2025 Jul 25	A11558	VNIIEMI	RU	2025 Jul 25 0656:39	In Earth orbit	-	2026 Jul 10 	     101.302 	     818	 	     821	 	 98.60 	 	LEO/S
-S64877	-	64877	2025-155B	A	P           	Ionosfera-M No. 4	2025 Jul 25	A11558	VNIIEMI	RU	2025 Jul 25 0656:39	In Earth orbit	-	2026 Jul 10 	     101.302 	     819	 	     821	 	 98.60 	 	LEO/S
-S64878	-	64878	2025-155C	A	P           	Innosat16	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      94.382 	     480	 	     497	 	 97.46 	 	LLEO/S
-S64879	-	64879	2025-155D	A	P           	Geoskan-6	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      94.081 	     467	 	     480	 	 97.46 	 	LLEO/S
-S64880	-	64880	2025-155E	A	P           	Geoskan-1	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      94.041 	     465	 	     478	 	 97.46 	 	LLEO/S
-S64881	-	64881	2025-155F	A	P           	239Alferov	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.897 	     458	 	     471	 	 97.46 	 	LLEO/S
-S64882	-	NNA	2025-155G	A	P       ?   	CSTP-4.3	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0835:34	In Earth orbit	-	2026 Jul 10 	      94.123 	     469	 	     482	 	 97.46 	 	LLEO/S
-S64883	-	NNA	2025-155H	A	P       ?   	CSTP-4.2	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0835:04	In Earth orbit	-	2026 Jul 10 	      94.121 	     469	 	     482	 	 97.46 	 	LLEO/S
-S64884	-	NNA	2025-155J	A	P       ?   	CSTP-4.1	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0834:34	In Earth orbit	-	2026 Jul 10 	      94.123 	     469	 	     482	 	 97.46 	 	LLEO/S
-S64885	-	NNA	2025-155K	A	P       ?   	FSKL5695-14	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.438 	     435	 	     449	 	 97.45 	 	LLEO/S
-S64886	-	NNA	2025-155L	A	P       ?   	FSKL5695-12	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.313 	     430	 	     443	 	 97.45 	 	LLEO/S
-S64887	-	NNA	2025-155M	A	P       ?   	FSKL5695-13	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.535 	     440	 	     454	 	 97.45 	 	LLEO/S
-S64888	-	NNA	2025-155N	A	P       ?   	FSKL5695-11	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.307 	     430	 	     442	 	 97.45 	 	LLEO/S
-S64889	-	NNA	2025-155P	A	P       ?   	Nahid 2	2025 Jul 25	A11558	IRSA/IUST	IR	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      94.320 	     479	 	     491	 	 97.46 	 	LLEO/S
-S64890	-	64890	2025-155Q	A	P           	Geoskan-2	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      94.025 	     465	 	     477	 	 97.46 	 	LLEO/S
-S64891	-	64891	2025-155R	A	P           	Geoskan-5	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.879 	     458	 	     470	 	 97.45 	 	LLEO/S
-S64892	-	64892	2025-155S	A	P           	Geoskan-4	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 10 	      93.868 	     457	 	     469	 	 97.46 	 	LLEO/S
+S64875	-	64875	2025-154G	A	P           	REAL	2025 Jul 23	A11556	DART	US	2025 Jul 23 1907	In Earth orbit	-	2026 Jul 11 	      93.885 	     463	 	     465	 	 97.40 	 	LLEO/S
+S64876	-	64876	2025-155A	A	P           	Ionosfera-M No. 3	2025 Jul 25	A11558	VNIIEMI	RU	2025 Jul 25 0656:39	In Earth orbit	-	2026 Jul 11 	     101.302 	     818	 	     821	 	 98.60 	 	LEO/S
+S64877	-	64877	2025-155B	A	P           	Ionosfera-M No. 4	2025 Jul 25	A11558	VNIIEMI	RU	2025 Jul 25 0656:39	In Earth orbit	-	2026 Jul 11 	     101.302 	     819	 	     821	 	 98.60 	 	LEO/S
+S64878	-	64878	2025-155C	A	P           	Innosat16	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      94.382 	     480	 	     497	 	 97.46 	 	LLEO/S
+S64879	-	64879	2025-155D	A	P           	Geoskan-6	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      94.081 	     467	 	     480	 	 97.46 	 	LLEO/S
+S64880	-	64880	2025-155E	A	P           	Geoskan-1	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      94.041 	     465	 	     478	 	 97.46 	 	LLEO/S
+S64881	-	64881	2025-155F	A	P           	239Alferov	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.897 	     458	 	     471	 	 97.46 	 	LLEO/S
+S64882	-	NNA	2025-155G	A	P       ?   	CSTP-4.3	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0835:34	In Earth orbit	-	2026 Jul 11 	      94.123 	     469	 	     482	 	 97.46 	 	LLEO/S
+S64883	-	NNA	2025-155H	A	P       ?   	CSTP-4.2	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0835:04	In Earth orbit	-	2026 Jul 11 	      94.121 	     469	 	     482	 	 97.46 	 	LLEO/S
+S64884	-	NNA	2025-155J	A	P       ?   	CSTP-4.1	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0834:34	In Earth orbit	-	2026 Jul 11 	      94.123 	     469	 	     482	 	 97.46 	 	LLEO/S
+S64885	-	NNA	2025-155K	A	P       ?   	FSKL5695-14	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.437 	     435	 	     449	 	 97.45 	 	LLEO/S
+S64886	-	NNA	2025-155L	A	P       ?   	FSKL5695-12	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.312 	     430	 	     443	 	 97.45 	 	LLEO/S
+S64887	-	NNA	2025-155M	A	P       ?   	FSKL5695-13	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.534 	     440	 	     454	 	 97.45 	 	LLEO/S
+S64888	-	NNA	2025-155N	A	P       ?   	FSKL5695-11	2025 Jul 25	A11558	RATEKS	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.306 	     430	 	     442	 	 97.45 	 	LLEO/S
+S64889	-	NNA	2025-155P	A	P       ?   	Nahid 2	2025 Jul 25	A11558	IRSA/IUST	IR	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      94.319 	     479	 	     491	 	 97.46 	 	LLEO/S
+S64890	-	64890	2025-155Q	A	P           	Geoskan-2	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      94.025 	     465	 	     477	 	 97.46 	 	LLEO/S
+S64891	-	64891	2025-155R	A	P           	Geoskan-5	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.878 	     458	 	     470	 	 97.46 	 	LLEO/S
+S64892	-	64892	2025-155S	A	P           	Geoskan-4	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.868 	     457	 	     469	 	 97.46 	 	LLEO/S
 S64893	-	64893	2025-155T	A	P           	Geoskan-3	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.737 	     451	 	     463	 	 97.45 	 	LLEO/S
 S64894	-	64894	2025-155U	A	P           	Innosat3	2025 Jul 25	A11558	GEOSK	RU	2025 Jul 25	In Earth orbit	-	2026 Jul 11 	      93.167 	     423	 	     435	 	 97.45 	 	LLEO/S
 S64895	-	NNA	2025-155V	A	P       ?   	CSTP-4.4	2025 Jul 25	A11558	STTS	RU	2025 Jul 25 0836:04	In Earth orbit	-	2026 Jul 11 	      94.122 	     469	 	     482	 	 97.46 	 	LLEO/S
@@ -65016,33 +65016,33 @@ S65035	-	65035	2025-161W	A	P      O    	Starlink 34286	2025 Jul 30	A11564	SPXS	U
 S65036	-	65036	2025-161X	A	P      O    	Starlink 34770	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      94.108 	     474	 	     476	 	 53.16 	 	LLEO/I
 S65037	-	65037	2025-161Y	A	P      O    	Starlink 34776	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      94.108 	     474	 	     476	 	 53.16 	 	LLEO/I
 S65038	-	65038	2025-161Z	A	P      O    	Starlink 34827	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      93.850 	     461	 	     463	 	 53.16 	 	LLEO/I
-S65039	-	65039	2025-161AA	A	P      O    	Starlink 34721	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      94.108 	     474	 	     476	 	 53.16 	 	LLEO/I
-S65040	-	65040	2025-161AB	A	P      L    	Starlink 34819	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      93.853 	     462	 	     463	 	 53.16 	 	LLEO/I
+S65039	-	65039	2025-161AA	A	P      O    	Starlink 34721	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      94.106 	     474	 	     475	 	 53.16 	 	LLEO/I
+S65040	-	65040	2025-161AB	A	P      L    	Starlink 34819	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      93.855 	     461	 	     464	 	 53.16 	 	LLEO/I
 S65041	-	65041	2025-161AC	A	P      O    	Starlink 34820	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      93.850 	     461	 	     463	 	 53.16 	 	LLEO/I
-S65042	-	65042	2025-161AD	A	P      O    	Starlink 34824	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
-S65043	-	65043	2025-162A	A	P      O    	WHDW 06-01	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.325 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65044	-	65044	2025-162B	A	P      O    	WHDW 06-02	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65045	-	65045	2025-162C	A	P      O    	WHDW 06-03	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.325 	    1149	 	    1149	 	 49.99 	 	LEO/I
-S65046	-	65046	2025-162D	A	P      O    	WHDW 06-04	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65047	-	65047	2025-162E	A	P      O    	WHDW 06-05	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
-S65048	-	65048	2025-162F	A	P      O    	WHDW 06-06	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.325 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65049	-	65049	2025-162G	A	P      O    	WHDW 06-07	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65050	-	65050	2025-162H	A	P      O    	WHDW 06-08	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65051	-	65051	2025-162J	A	P      O    	WHDW 06-09	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 10 	     108.325 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65042	-	65042	2025-161AD	A	P      O    	Starlink 34824	2025 Jul 30	A11564	SPXS	US	2025 Jul 30 0441:49	In Earth orbit	-	2026 Jul 11 	      93.846 	     461	 	     463	 	 53.16 	 	LLEO/I
+S65043	-	65043	2025-162A	A	P      O    	WHDW 06-01	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.325 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65044	-	65044	2025-162B	A	P      O    	WHDW 06-02	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65045	-	65045	2025-162C	A	P      O    	WHDW 06-03	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.325 	    1149	 	    1149	 	 49.99 	 	LEO/I
+S65046	-	65046	2025-162D	A	P      O    	WHDW 06-04	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65047	-	65047	2025-162E	A	P      O    	WHDW 06-05	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1148	 	    1150	 	 50.00 	 	LEO/I
+S65048	-	65048	2025-162F	A	P      O    	WHDW 06-06	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.325 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65049	-	65049	2025-162G	A	P      O    	WHDW 06-07	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65050	-	65050	2025-162H	A	P      O    	WHDW 06-08	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65051	-	65051	2025-162J	A	P      O    	WHDW 06-09	2025 Jul 30	S65052	ZXW	CN	2025 Jul 30 0810?	In Earth orbit	-	2026 Jul 11 	     108.325 	    1149	 	    1149	 	 50.00 	 	LEO/I
 S65052	-	65052	2025-162K	R	R2          	CZ-8A Y3 Stage 2	2025 Jul 30	R84689	CASC	CN	2025 Jul 30 0800?	In Earth orbit	-	2026 Jul 10 	     100.648 	     704	 	     874	 	 50.00 	 	LEO/I
-S65053	-	65053	2025-163A	A	P           	NISAR	2025 Jul 30	S65054	ISRO/JPL	IN	2025 Jul 30 1228	In Earth orbit	-	2026 Jul 10 	      99.826 	     749	 	     751	 	 98.41 	 	LEO/S
-S65054	-	65054	2025-163B	R	R3          	GSLV CUS-14?	2025 Jul 30	R84697	ISRO	IN	2025 Jul 30 1228	In Earth orbit	-	2026 Jul 10 	      99.458 	     724	 	     740	 	 98.43 	 	LEO/S
-S65055	-	65055	2025-164A	A	P           	PRSC-S1	2025 Jul 31	A11565	SUPA	PK	2025 Jul 31 0215?	In Earth orbit	-	2026 Jul 10 	      95.579 	     542	 	     550	 	 41.13 	 	LLEO/I
+S65053	-	65053	2025-163A	A	P           	NISAR	2025 Jul 30	S65054	ISRO/JPL	IN	2025 Jul 30 1228	In Earth orbit	-	2026 Jul 11 	      99.826 	     749	 	     751	 	 98.41 	 	LEO/S
+S65054	-	65054	2025-163B	R	R3          	GSLV CUS-14?	2025 Jul 30	R84697	ISRO	IN	2025 Jul 30 1228	In Earth orbit	-	2026 Jul 10 	      99.457 	     724	 	     740	 	 98.43 	 	LEO/S
+S65055	-	65055	2025-164A	A	P           	PRSC-S1	2025 Jul 31	A11565	SUPA	PK	2025 Jul 31 0215?	In Earth orbit	-	2026 Jul 11 	      95.579 	     542	 	     550	 	 41.13 	 	LLEO/I
 S65056	-	65056	2025-165A	A	P      O    	Starlink 34788	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.639 	     548	 	     550	 	 97.28 	 	LLEO/S
-S65057	-	65057	2025-165B	A	P      O    	Starlink 34745	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.642 	     549	 	     550	 	 97.29 	 	LLEO/S
+S65057	-	65057	2025-165B	A	P      O    	Starlink 34745	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.640 	     548	 	     550	 	 97.29 	 	LLEO/S
 S65058	-	65058	2025-165C	A	P      O    	Starlink 34779	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.641 	     548	 	     550	 	 97.28 	 	LLEO/S
-S65059	-	65059	2025-165D	A	P      O    	Starlink 34803	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.641 	     548	 	     550	 	 97.28 	 	LLEO/S
+S65059	-	65059	2025-165D	A	P      O    	Starlink 34803	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.640 	     548	 	     550	 	 97.28 	 	LLEO/S
 S65060	-	65060	2025-165E	A	P      O    	Starlink 34717	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.641 	     549	 	     549	 	 97.28 	 	LLEO/S
 S65061	-	65061	2025-165F	A	P      O    	Starlink 34750	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.640 	     549	 	     549	 	 97.28 	 	LLEO/S
 S65062	-	65062	2025-165G	A	P      O    	Starlink 34708	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.642 	     548	 	     550	 	 97.28 	 	LLEO/S
 S65063	-	65063	2025-165H	A	P      O    	Starlink 34798	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.640 	     549	 	     549	 	 97.28 	 	LLEO/S
 S65064	-	65064	2025-165J	A	P      O    	Starlink 34793	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.642 	     549	 	     550	 	 97.28 	 	LLEO/S
-S65065	-	65065	2025-165K	A	P      O    	Starlink 34806	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.641 	     548	 	     550	 	 97.29 	 	LLEO/S
+S65065	-	65065	2025-165K	A	P      O    	Starlink 34806	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.639 	     548	 	     550	 	 97.29 	 	LLEO/S
 S65066	-	65066	2025-165L	A	P      O    	Starlink 34739	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.641 	     548	 	     550	 	 97.29 	 	LLEO/S
 S65067	-	65067	2025-165M	A	P      O    	Starlink 34802	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.641 	     548	 	     550	 	 97.28 	 	LLEO/S
 S65068	-	65068	2025-165N	A	P      O    	Starlink 34810	2025 Jul 31	A11566	SPXS	US	2025 Jul 31 1937:57	In Earth orbit	-	2026 Jul 11 	      95.639 	     548	 	     550	 	 97.29 	 	LLEO/S
@@ -65086,27 +65086,27 @@ S65105	-	65105	2025-167AD	A	P      O    	Starlink 34545	2025 Aug  4	A11569	SPXS	
 S65106	-	65106	2025-168A	A	P      O    	WHDW 07-01	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1143	 	    1155	 	 50.00 	 	LEO/I
 S65107	-	65107	2025-168B	A	P      O    	WHDW 07-02	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1142	 	    1156	 	 50.00 	 	LEO/I
 S65108	-	65108	2025-168C	A	P      O    	WHDW 07-03	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1141	 	    1157	 	 50.00 	 	LEO/I
-S65109	-	65109	2025-168D	A	P      O    	WHDW 07-04	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1141	 	    1157	 	 50.00 	 	LEO/I
-S65110	-	65110	2025-168E	A	P      O    	WHDW 07-05	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1142	 	    1156	 	 50.00 	 	LEO/I
-S65111	-	65111	2025-168F	A	P      O    	WHDW 07-06	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1141	 	    1157	 	 50.00 	 	LEO/I
-S65112	-	65112	2025-168G	A	P      O    	WHDW 07-07	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1140	 	    1158	 	 50.00 	 	LEO/I
-S65113	-	65113	2025-168H	A	P      O    	WHDW 07-08	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1140	 	    1158	 	 50.00 	 	LEO/I
-S65114	-	65114	2025-168J	A	P      O    	WHDW 07-09	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1142	 	    1156	 	 50.00 	 	LEO/I
-S65115	-	65115	2025-168K	R	R2          	CZ-12 Y2 Stage 2	2025 Aug  4	R84713	CNSA	CN	2025 Aug  4 1041?	In Earth orbit	-	2026 Jul 10 	     101.657 	     782	 	     892	 	 49.98 	 	LEO/I
-S65116	-	65116	2025-169A	A	P           	Kushinada-I	2025 Aug  5	S65117	QPS	J	2025 Aug  5 0503	In Earth orbit	-	2026 Jul 10 	      95.933 	     558	 	     568	 	 42.01 	 	LLEO/I
+S65109	-	65109	2025-168D	A	P      O    	WHDW 07-04	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1141	 	    1157	 	 50.00 	 	LEO/I
+S65110	-	65110	2025-168E	A	P      O    	WHDW 07-05	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1142	 	    1156	 	 50.00 	 	LEO/I
+S65111	-	65111	2025-168F	A	P      O    	WHDW 07-06	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1141	 	    1157	 	 50.00 	 	LEO/I
+S65112	-	65112	2025-168G	A	P      O    	WHDW 07-07	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1140	 	    1158	 	 50.00 	 	LEO/I
+S65113	-	65113	2025-168H	A	P      O    	WHDW 07-08	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1140	 	    1158	 	 50.00 	 	LEO/I
+S65114	-	65114	2025-168J	A	P      O    	WHDW 07-09	2025 Aug  4	S65115	ZXW	CN	2025 Aug  4 1045?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1142	 	    1156	 	 50.00 	 	LEO/I
+S65115	-	65115	2025-168K	R	R2          	CZ-12 Y2 Stage 2	2025 Aug  4	R84713	CNSA	CN	2025 Aug  4 1041?	In Earth orbit	-	2026 Jul 11 	     101.657 	     782	 	     892	 	 49.98 	 	LEO/I
+S65116	-	65116	2025-169A	A	P           	Kushinada-I	2025 Aug  5	S65117	QPS	J	2025 Aug  5 0503	In Earth orbit	-	2026 Jul 11 	      95.933 	     558	 	     568	 	 42.01 	 	LLEO/I
 S65117	-	65117	2025-169B	R	R3          	Electron 69 Kick Stage	2025 Aug  5	S65118	RLABN	NZ	2025 Aug  5 0419	In Earth orbit	-	2026 Jul 10 	      95.901 	     556	 	     567	 	 42.01 	 	LLEO/I
 S65118	-	65118	2025-169C	R	R2          	Electron 69 Stage 2	2025 Aug  5	R84716	RLABN	NZ	2025 Aug  5 0419	Reentered Earth atmosphere	2025 Sep  5 1848	-	-	-	-	-	-	-	-	-
-S65119	-	65119	2025-170A	A	P           	Geely Xingzuo 04 zu 01 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.031 	     609	 	     623	 	 49.99 	 	LEO/I
-S65120	-	65120	2025-170B	A	P           	Geely Xingzuo 04 zu 02 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.031 	     609	 	     623	 	 49.99 	 	LEO/I
-S65121	-	65121	2025-170C	A	P           	Geely Xingzuo 04 zu 03 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.030 	     602	 	     630	 	 49.99 	 	LEO/I
-S65122	-	65122	2025-170D	A	P           	Geely Xingzuo 04 zu 04 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.152 	     601	 	     643	 	 49.97 	 	LEO/I
-S65123	-	65123	2025-170E	A	P           	Geely Xingzuo 04 zu 05 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.152 	     616	 	     627	 	 50.00 	 	LEO/I
-S65124	-	65124	2025-170F	A	P           	Geely Xingzuo 04 zu 06 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.029 	     603	 	     629	 	 49.98 	 	LEO/I
-S65125	-	65125	2025-170G	A	P           	Geely Xingzuo 04 zu 07 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.028 	     603	 	     628	 	 49.99 	 	LEO/I
-S65126	-	65126	2025-170H	A	P           	Geely Xingzuo 04 zu 08 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.153 	     607	 	     636	 	 49.97 	 	LEO/I
-S65127	-	65127	2025-170J	A	P           	Geely Xingzuo 04 zu 09 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.202 	     609	 	     640	 	 49.99 	 	LEO/I
-S65128	-	65128	2025-170K	A	P           	Geely Xingzuo 04 zu 10 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.150 	     604	 	     639	 	 49.98 	 	LEO/I
-S65129	-	65129	2025-170L	A	P           	Geely Xingzuo 04 zu 11 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 10 	      97.030 	     611	 	     621	 	 49.98 	 	LEO/I
+S65119	-	65119	2025-170A	A	P           	Geely Xingzuo 04 zu 01 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.031 	     609	 	     623	 	 49.99 	 	LEO/I
+S65120	-	65120	2025-170B	A	P           	Geely Xingzuo 04 zu 02 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.031 	     609	 	     623	 	 49.99 	 	LEO/I
+S65121	-	65121	2025-170C	A	P           	Geely Xingzuo 04 zu 03 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.030 	     602	 	     630	 	 49.99 	 	LEO/I
+S65122	-	65122	2025-170D	A	P           	Geely Xingzuo 04 zu 04 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.152 	     601	 	     643	 	 49.97 	 	LEO/I
+S65123	-	65123	2025-170E	A	P           	Geely Xingzuo 04 zu 05 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.152 	     616	 	     627	 	 50.00 	 	LEO/I
+S65124	-	65124	2025-170F	A	P           	Geely Xingzuo 04 zu 06 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.029 	     603	 	     629	 	 49.98 	 	LEO/I
+S65125	-	65125	2025-170G	A	P           	Geely Xingzuo 04 zu 07 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.028 	     603	 	     628	 	 49.99 	 	LEO/I
+S65126	-	65126	2025-170H	A	P           	Geely Xingzuo 04 zu 08 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.153 	     607	 	     636	 	 49.97 	 	LEO/I
+S65127	-	65127	2025-170J	A	P           	Geely Xingzuo 04 zu 09 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.201 	     609	 	     640	 	 49.99 	 	LEO/I
+S65128	-	65128	2025-170K	A	P           	Geely Xingzuo 04 zu 10 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.150 	     604	 	     639	 	 49.98 	 	LEO/I
+S65129	-	65129	2025-170L	A	P           	Geely Xingzuo 04 zu 11 xing	2025 Aug  8	S65131	GEESP	CN	2025 Aug  8 1645?	In Earth orbit	-	2026 Jul 11 	      97.030 	     611	 	     621	 	 49.98 	 	LEO/I
 S65130	-	65130	2025-170M	C	C  A        	JL-3 adapter?	2025 Aug  8	S65131	CZHJ	CN	2025 Aug  8 1645?	Reentered Earth atmosphere	2025 Aug 12	-	-	-	-	-	-	-	-	-
 S65131	-	65131	2025-170N	R	R4          	Jielong-3 Y6 Stage 4	2025 Aug  8	R84722	CZHJ	CN	2025 Aug  8 1645?	Reentered Earth atmosphere	2025 Aug 12	-	-	-	-	-	-	-	-	-
 S65132	-	65132	2025-171A	A	P      O    	Kuiper-00081	2025 Aug 11	A11570	KUIP	US	2025 Aug 11 1457?	In Earth orbit	-	2026 Jul 11 	      97.302 	     629	 	     629	 	 51.90 	 	LEO/I
@@ -65136,7 +65136,7 @@ S65155	-	65155	2025-171Z	A	P      O    	Kuiper-00119	2025 Aug 11	A11570	KUIP	US	
 S65156	-	65156	2022-144P	A	P       C   	USA 551	2022 Nov  1	S54219	AFRL	US	2025 Jun 30?	In Earth orbit	-	2025 Jun 30	    1431.930 	   35700	?	   35710	?	  4.08 	?	GEO/ID
 S65157	-	65157	2022-144Q	A	P       C   	USA 552	2022 Nov  1	S54219	AFRL	US	2025 Jun 30?	In Earth orbit	-	2025 Jun 30	    1431.930 	   35700	?	   35710	?	  4.08 	?	GEO/ID
 S65158	-	65158	2022-144R	A	P       C   	USA 553	2022 Nov  1	S54219	AFRL	US	2025 Jun 30?	In Earth orbit	-	2025 Jun 30	    1431.930 	   35700	?	   35710	?	  4.08 	?	GEO/ID
-S65159	-	65159	2025-172A	A	P           	METOP-SG A1	2025 Aug 13	A11571	EUMET	I-EUM	2025 Aug 13 0142:40	In Earth orbit	-	2026 Jul 10 	     101.421 	     820	 	     831	 	 98.66 	 	LEO/S
+S65159	-	65159	2025-172A	A	P           	METOP-SG A1	2025 Aug 13	A11571	EUMET	I-EUM	2025 Aug 13 0142:40	In Earth orbit	-	2026 Jul 11 	     101.421 	     820	 	     831	 	 98.66 	 	LEO/S
 S65160	-	65160	2025-173A	A	P ------    	NTS 3	2025 Aug 13	S65162	USSF	US	2025 Aug 13 0750?	In Earth orbit	-	2026 Jul 11 	    1430.502 	   35675	 	   35678	 	  3.30 	 	GEO/ID
 S65161	-	65161	2025-173B	A	P ------c   	USA 554	2025 Aug 13	S65162	USSF	US	2025 Aug 13 0750?	In Earth orbit	-	2025 Dec 25 	    1454.908 	   36116	 	   36191	 	  2.85 	 	GEO/D
 S65162	-	65162	2025-173C	R	R2          	Centaur V-003	2025 Aug 13	R84728	ULAL	US	2025 Aug 13 0111?	In Earth orbit	-	2025 Aug 14	    1436.782 	   35700	?	   35900	?	  1.00 	?	GEO/D
@@ -65277,25 +65277,25 @@ S65296	-	65296	2025-184Z	A	P      O    	Starlink 34872	2025 Aug 22	A11582	SPXS	U
 S65297	-	65297	2025-185A	A	P      D    	Dresden	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul 10 	      97.308 	     622	 	     637	 	 97.96 	 	LEO/S
 S65298	-	65298	2025-185B	A	P      D    	Fourier	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul 10 	      97.309 	     622	 	     637	 	 97.97 	 	LEO/S
 S65299	-	65299	2025-185C	P	P      D    	Stark	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul 10 	      97.173 	     617	 	     629	 	 97.96 	 	LEO/S
-S65300	-	65300	2025-185D	R	R3          	Electron 70 Kick Stage	2025 Aug 23	S65303	RLABN	NZ	2025 Aug 23 2251	In Earth orbit	-	2026 Jul 10 	      97.873 	     649	 	     664	 	 97.95 	 	LEO/S
-S65301	-	65301	2025-185E	A	P      D    	Basil	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul  9 	      97.311 	     622	 	     637	 	 97.97 	 	LEO/S
-S65302	-	65302	2025-185F	A	P      D    	Dojo	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul 10 	      97.311 	     622	 	     637	 	 97.97 	 	LEO/S
+S65300	-	65300	2025-185D	R	R3          	Electron 70 Kick Stage	2025 Aug 23	S65303	RLABN	NZ	2025 Aug 23 2251	In Earth orbit	-	2026 Jul 11 	      97.873 	     649	 	     664	 	 97.95 	 	LEO/S
+S65301	-	65301	2025-185E	A	P      D    	Basil	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul 10 	      97.311 	     622	 	     637	 	 97.97 	 	LEO/S
+S65302	-	65302	2025-185F	A	P      D    	Dojo	2025 Aug 23	S65300	ESPACE	RW	2025 Aug 23 2342?	In Earth orbit	-	2026 Jul 11 	      97.311 	     622	 	     637	 	 97.97 	 	LEO/S
 S65303	-	65303	2025-185G	R	R2          	Electron 70 Stage 2	2025 Aug 23	R84771	RLABN	NZ	2025 Aug 23 2251	Reentered Earth atmosphere	2025 Sep  4	-	-	-	-	-	-	-	-	-
 S65304	-	65304	2025-186A	P	PP-H-V-     	Dragon CRS-33	2025 Aug 24	A11586	SPX	US	2025 Aug 24 0655:21	Landed on Earth	2026 Feb 27 0744	-	-	-	-	-	-	-	-	-
-S65305	-	65305	2025-187A	A	P      O    	WHDW 10-01	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65306	-	65306	2025-187B	A	P      O    	WHDW 10-02	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
-S65307	-	65307	2025-187C	A	P      O    	WHDW 10-03	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
-S65308	-	65308	2025-187D	A	P      O    	WHDW 10-04	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65309	-	65309	2025-187E	A	P      O    	WHDW 10-05	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65310	-	65310	2025-187F	A	P      O    	WHDW 10-06	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
-S65311	-	65311	2025-187G	A	P      O    	WHDW 10-07	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65312	-	65312	2025-187H	A	P      O    	WHDW 10-08	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
-S65313	-	65313	2025-187J	A	P      O    	WHDW 10-09	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 10 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
-S65314	-	65314	2025-187K	R	R2          	CZ-8A Y2 Stage 2	2025 Aug 25	R84779	CASC	CN	2025 Aug 25 1918?	In Earth orbit	-	2026 Jul 10 	     100.651 	     706	 	     872	 	 50.01 	 	LEO/I
+S65305	-	65305	2025-187A	A	P      O    	WHDW 10-01	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65306	-	65306	2025-187B	A	P      O    	WHDW 10-02	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
+S65307	-	65307	2025-187C	A	P      O    	WHDW 10-03	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
+S65308	-	65308	2025-187D	A	P      O    	WHDW 10-04	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65309	-	65309	2025-187E	A	P      O    	WHDW 10-05	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65310	-	65310	2025-187F	A	P      O    	WHDW 10-06	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
+S65311	-	65311	2025-187G	A	P      O    	WHDW 10-07	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65312	-	65312	2025-187H	A	P      O    	WHDW 10-08	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.00 	 	LEO/I
+S65313	-	65313	2025-187J	A	P      O    	WHDW 10-09	2025 Aug 25	S65314	ZXW	CN	2025 Aug 25 1929?	In Earth orbit	-	2026 Jul 11 	     108.326 	    1149	 	    1149	 	 50.01 	 	LEO/I
+S65314	-	65314	2025-187K	R	R2          	CZ-8A Y2 Stage 2	2025 Aug 25	R84779	CASC	CN	2025 Aug 25 1918?	In Earth orbit	-	2026 Jul 11 	     100.651 	     706	 	     872	 	 50.01 	 	LEO/I
 S65315	-	65315	2025-188A	A	P           	Pelican 3	2025 Aug 26	A11588	PLAN	US	2025 Aug 26 1905:36	In Earth orbit	-	2026 Jul 11 	      93.438 	     441	 	     444	 	 97.20 	 	LLEO/S
 S65316	-	65316	2025-188B	A	P           	Pelican 4	2025 Aug 26	A11588	PLAN	US	2025 Aug 26 1905:29	In Earth orbit	-	2026 Jul 11 	      93.455 	     442	 	     444	 	 97.20 	 	LLEO/S
-S65317	-	65317	2025-188C	A	P           	NAOS	2025 Aug 26	A11588	LUXDD/LUXEO	L	2025 Aug 26 1905:23	In Earth orbit	-	2026 Jul 10 	      93.588 	     449	 	     450	 	 97.20 	 	LLEO/S
-S65318	-	65318	2025-188D	A	P           	Capella 16	2025 Aug 26	A11588	CAPSP	US	2025 Aug 26 2002:31	In Earth orbit	-	2026 Jul  8 	      96.385 	     581	 	     589	 	 97.74 	 	LLEO/S
+S65317	-	65317	2025-188C	A	P           	NAOS	2025 Aug 26	A11588	LUXDD/LUXEO	L	2025 Aug 26 1905:23	In Earth orbit	-	2026 Jul 11 	      93.588 	     449	 	     450	 	 97.20 	 	LLEO/S
+S65318	-	65318	2025-188D	A	P           	Capella 16	2025 Aug 26	A11588	CAPSP	US	2025 Aug 26 2002:31	In Earth orbit	-	2026 Jul 11 	      96.384 	     581	 	     589	 	 97.74 	 	LLEO/S
 S65319	-	65319	2025-188E	A	P           	Firefly 6	2025 Aug 26	A11588	PIXX	IN	2025 Aug 26 2004:31	In Earth orbit	-	2026 Jul 11 	      96.462 	     582	 	     595	 	 97.73 	 	LLEO/S
 S65320	-	65320	2025-188F	A	P           	Firefly 4	2025 Aug 26	A11588	PIXX	IN	2025 Aug 26 2003:38	In Earth orbit	-	2026 Jul 11 	      96.469 	     581	 	     597	 	 97.74 	 	LLEO/S
 S65321	-	65321	2025-188G	A	P           	LEAP-1	2025 Aug 26	A11588	DHRUVA	IN	2025 Aug 26 2003:47	In Earth orbit	-	2026 Jul 11 	      96.538 	     589	 	     595	 	 97.74 	 	LLEO/S
@@ -65499,18 +65499,18 @@ S65518	-	65518	2025-198AC	A	P      O    	Starlink 35232	2025 Sep  5	A11605	SPXS	
 S65519	-	65519	2025-198AD	A	P      O    	Starlink 35164	2025 Sep  5	A11605	SPXS	US	2025 Sep  5 1336:40	In Earth orbit	-	2026 Jul 11 	      93.848 	     461	 	     463	 	 53.16 	 	LLEO/I
 S65520	-	65520	2025-200A	A	P      L    	Starlink 35112	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.155 	     476	 	     478	 	 97.28 	 	LLEO/S
 S65521	-	65521	2025-200B	A	P      L    	Starlink 35187	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.332 	     533	 	     535	 	 97.28 	 	LLEO/S
-S65522	-	65522	2025-200C	A	P      L    	Starlink 35188	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.132 	     523	 	     526	 	 97.28 	 	LLEO/S
+S65522	-	65522	2025-200C	A	P      L    	Starlink 35188	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.051 	     519	 	     522	 	 97.28 	 	LLEO/S
 S65523	-	65523	2025-200D	A	P      L    	Starlink 35078	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.353 	     486	 	     488	 	 97.28 	 	LLEO/S
 S65524	-	65524	2025-200E	A	P      L    	Starlink 35055	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.538 	     494	 	     497	 	 97.28 	 	LLEO/S
 S65525	-	65525	2025-200F	A	P      L    	Starlink 35057	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      93.984 	     468	 	     470	 	 97.29 	 	LLEO/S
 S65526	-	65526	2025-200G	A	P      L    	Starlink 34674	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.246 	     529	 	     531	 	 97.28 	 	LLEO/S
 S65527	-	65527	2025-200H	A	P      L    	Starlink 35067	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.851 	     510	 	     512	 	 97.29 	 	LLEO/S
 S65528	-	65528	2025-200J	A	P      L    	Starlink 35063	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.281 	     531	 	     533	 	 97.28 	 	LLEO/S
-S65529	-	65529	2025-200K	A	P      L    	Starlink 35077	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.249 	     529	 	     531	 	 97.29 	 	LLEO/S
+S65529	-	65529	2025-200K	A	P      L    	Starlink 35077	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.312 	     531	 	     535	 	 97.29 	 	LLEO/S
 S65530	-	65530	2025-200L	A	P      L    	Starlink 35152	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.131 	     523	 	     526	 	 97.28 	 	LLEO/S
 S65531	-	65531	2025-200M	A	P      L    	Starlink 35064	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.347 	     534	 	     536	 	 97.29 	 	LLEO/S
 S65532	-	65532	2025-200N	A	P      L    	Starlink 35170	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      95.048 	     519	 	     521	 	 97.28 	 	LLEO/S
-S65533	-	65533	2025-200P	A	P      L    	Starlink 35172	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.363 	     486	 	     488	 	 97.29 	 	LLEO/S
+S65533	-	65533	2025-200P	A	P      L    	Starlink 35172	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.409 	     488	 	     491	 	 97.28 	 	LLEO/S
 S65534	-	65534	2025-200Q	A	P      L    	Starlink 35125	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.390 	     487	 	     490	 	 97.29 	 	LLEO/S
 S65535	-	65535	2025-200R	A	P      L    	Starlink 35133	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.789 	     507	 	     509	 	 97.28 	 	LLEO/S
 S65536	-	65536	2025-200S	A	P      L    	Starlink 35044	2025 Sep  6	A11607	SPXS	US	2025 Sep  6 1909:13	In Earth orbit	-	2026 Jul 11 	      94.295 	     482	 	     485	 	 97.29 	 	LLEO/S
@@ -81842,7 +81842,6 @@ T00017	-	NNA	2025-274Q	A	P       ?   	Duri	2025 Nov 26	S66661	SNU	KR	2025 Dec  4
 T00018	-	NNA	1998-067	A	P       ?   	Qubesat-2	2026 Apr 11	A11814	UCB	US	2026 Apr 11 1200	Attached to A11814 NRCSD No. 30	-	-	-	-	-	-	-	-	-	-
 T00019	-	NNA	2026-156	A	P  A    ?   	Florbela	2026 Jul  7	A11919	LUSO	P	2026 Jul  7 0710	Attached to A11919 ION dispenser	-	-	-	-	-	-	-	-	-	-
 T00020	-	NNA	2026-156	A	P  A    ?   	Torga	2026 Jul  7	A11919	LUSO	P	2026 Jul  7 0710	Attached to A11919 ION dispenser	-	-	-	-	-	-	-	-	-	-
-T00021	-	NNA	2026-067	A	P  A    ?   	Saramago	2026 Mar 30	S68435	LUSO	P	2026 Mar 30 1211	Attached to S68435 ION SCV Astounding Alexandra	-	-	-	-	-	-	-	-	-	-
 T00022	-	NNA	2026-067	A	P  A    ?   	Pessoa	2026 Mar 30	S68435	LUSO	P	2026 Mar 30 1211	Attached to S68435 ION SCV Astounding Alexandra	-	-	-	-	-	-	-	-	-	-
 T00023	-	NNA	2025-276DZ	A	P       ?   	3UCUBED-A	2025 Nov 28	A11695	UNH	US	2025 Nov 28 1948:21	In Earth orbit	-	2025 Dec 18	      94.947 	     514	 	     518	 	 97.44 	 	LLEO/S
 S000270000	-	270000	1965-027	D	D  J        	deb SNAPSHOT	1965 Apr  3	S01314	AFSMC	US	1985 Jan?	In Earth orbit	-	2022 Jan 22	     111.181 	    1256	 	    1306	 	 90.29 	 	LEO/P
@@ -82210,3 +82209,4 @@ S000270446	-	270446	-	D	D  X        	Unk LEO debris	-	-	UNK	UNK	-	Reentered Eart
 S000270447	-	270447	-	D	D  X        	Unk polar debris	-	-	UNK	UNK	-	In Earth orbit	-	2026 Apr 23	      98.951 	     636	 	     781	 	 89.08 	 	LEO/P
 S000270448	-	270448	-	D	D  X        	Unk polar debris	-	-	UNK	UNK	-	In Earth orbit	-	2026 Apr 23	     101.781 	     790	 	     896	 	 89.15 	 	LEO/P
 S000270449	-	270449	-	D	D  X        	Unk polar debris	-	-	UNK	UNK	-	In Earth orbit	-	2026 Apr 23	     101.433 	     794	 	     859	 	 88.98 	 	LEO/P
+S000100000	-	100000	2026-067CY	A	P           	Saramago	2026 Mar 30	S68435	LUSO	P	2026 Jul	In Earth orbit	-	-	-	-	-	-	-	-	-	-

@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Jul 11 0853:52
+# Updated 2026 Jul 11 1310:55
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF	Vang-ER9948
@@ -29447,8 +29447,8 @@
 2026-067 	2026 Mar 30 1102:00	2026-067	P       ?   	Vegafly-1	Vegafly-1	T00007	VSGA	VN	Falcon 9	xxx/B1093.12 F622	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2026-067 	2026 Mar 30 1102:00	2026-067	P       ?   	Peaksat	Peaksat	T00008	AUTH	GR	Falcon 9	xxx/B1093.12 F622	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2026-067 	2026 Mar 30 1102:00	2026-067CX	P       ?   	Helloworld-1	Helloworld-1	T00009	UPKOI	US	Falcon 9	xxx/B1093.12 F622	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
-2026-067 	2026 Mar 30 1102:00	2026-067	P  A    ?   	Saramago	Lusiada-3	T00021	LUSO	P	Falcon 9	xxx/B1093.12 F622	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2026-067 	2026 Mar 30 1102:00	2026-067	P  A    ?   	Pessoa	Lusiada-4	T00022	LUSO	P	Falcon 9	xxx/B1093.12 F622	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
+2026-067 	2026 Mar 30 1102:00	2026-067CY	P           	Saramago	Lusiada-3	S000100000	LUSO	P	Falcon 9	xxx/B1093.12 F622	-	VSFBS	SLC4E	-	-	SPX	US	OS	SpaceX
 2026-068 	2026 Mar 30 2115:00	2026-068A	P      O    	Starlink 37262	Starlink Group 10-44-01	S68508	SPXS	US	Falcon 9	xxx/B1067.34 F623	-	CC	LC40	-	-	SPX	US	OS	nasaspaceflight.com
 2026-068 	2026 Mar 30 2115:00	2026-068B	P      O    	Starlink 36292	Starlink Group 10-44-02	S68509	SPXS	US	Falcon 9	xxx/B1067.34 F623	-	CC	LC40	-	-	SPX	US	OS	nasaspaceflight.com
 2026-068 	2026 Mar 30 2115:00	2026-068C	P      O    	Starlink 37260	Starlink Group 10-44-03	S68510	SPXS	US	Falcon 9	xxx/B1067.34 F623	-	CC	LC40	-	-	SPX	US	OS	nasaspaceflight.com
