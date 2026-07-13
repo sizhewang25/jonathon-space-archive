@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Jul 11 1310:55
+# Updated 2026 Jul 12 2307:17
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF	Vang-ER9948
@@ -10875,7 +10875,7 @@
 2017-054 	2017 Sep 12 2117:02	2017-054A	PH-H-V-     	Soyuz MS-06	Soyuz 11F732A48 No. 734	S42937	RKKE	RU	Soyuz-FG	U 15000-063	-	GIK-5	LC1	-	-	FKA	RU	OS	spaceflightnow.com
 2017-055 	2017 Sep 22 0002:32	2017-055A	P           	Kosmos-2522	Uragan-M No. 52L	S42939	VVKOV/IACG	RU	Soyuz-2-1B	U 15000-039/112-05	-	GIK-1	LC43/4	-	-	VVKO	RU	OS	spaceflightnow.com
 2017-056 	2017 Sep 24 0549:47	2017-056A	P ------C   	USA 278	RAVEN-7?/HEO-4	S42941	NROC	US	Atlas V 541	AV-072	-	VS	SLC3E	-	-	ULAL	US	OS	Wire
-2017-057 	2017 Sep 28 1852:16	2017-057A	P           	Asiasat 9	Asiasat 9	S42942	ASIA	HK	Proton-M/Briz-M	937-02/99572	-	GIK-5	LC200/39	-	-	ILSK	RU	OS	nasaspaceflight.com
+2017-057 	2017 Sep 28 1852:16	2017-057A	P           	Asiasat 9	Asiasat 9	S42942	ASIA	HK	Proton-M/Briz-M	937-03?/99572	-	GIK-5	LC200/39	-	-	ILSK	RU	OS	nasaspaceflight.com
 2017-058 	2017 Sep 29 0421:05	2017-058A	P           	Yaogan 30 hao 01 zu 01 xing	Chuangxin-5 01 xing	S42945	ZLZB	CN	Chang Zheng 2C	Y29	-	XSC	LC3	-	-	CALT	CN	OS	nasaspaceflight.com
 2017-058 	2017 Sep 29 0421:05	2017-058B	P           	Yaogan 30 hao 01 zu 02 xing	Chuangxin-5 02 xing	S42946	ZLZB	CN	Chang Zheng 2C	Y29	-	XSC	LC3	-	-	CALT	CN	OS	nasaspaceflight.com
 2017-058 	2017 Sep 29 0421:05	2017-058C	P           	Yaogan 30 hao 01 zu 03 xing	Chuangxin-5 03 xing	S42947	ZLZB	CN	Chang Zheng 2C	Y29	-	XSC	LC3	-	-	CALT	CN	OS	nasaspaceflight.com
