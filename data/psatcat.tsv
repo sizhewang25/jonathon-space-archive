@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Jul 29 2304:17
+# Updated 2026 Jul 30 2221:56
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -10392,7 +10392,7 @@ S46353    	2020-062AE	Starlink 1656	2020 Sep  3 	2023 Mar  1	*	*	-	Starlink 1.0V
 S46354    	2020-062AF	Starlink 1657	2020 Sep  3 	2023 Mar  1	2025 Oct 14	2026 Feb 24?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.6 	     349	     354	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S46355    	2020-062AG	Starlink 1661	2020 Sep  3 	2023 Mar  1	*	*	-	Starlink 1.0V1	1 3	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.6 	     348	     354	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S46356    	2020-062AH	Starlink 1665	2020 Sep  3 	2023 Mar  1	2025 Oct 15	2025 Oct 28?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.6 	     348	     355	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
-S46357    	2020-062AJ	Starlink 1666	2020 Sep  3 	2023 Mar  1	*	*	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.6 	     349	     352	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
+S46357    	2020-062AJ	Starlink 1666	2020 Sep  3 	2023 Mar  1	2025 Dec 10	2026 Feb  1?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.6 	     349	     352	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S46358    	2020-062AK	Starlink 1690	2020 Sep  3 	2023 Mar  1	2024 Aug 25	2024 Sep 21	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.6 	     350	     352	 53.0 	2024 Oct 13 	     313	     319	 53.05 	-
 S46359    	2020-062AL	Starlink 1707	2020 Sep  3 	2023 Mar  1	2025 Feb  3	2026 Jul 30?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.5 	     345	     353	 53.0 	2024 Oct 13 	     546	     547	 53.05 	-
 S46360    	2020-062AM	Starlink 1713	2020 Sep  3 	2023 Mar  1	2025 Mar 11	2025 May  5?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/956	   91.2 	     331	     333	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
@@ -11956,7 +11956,7 @@ S48669    	2021-044AH	Starlink-2707	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V
 S48670    	2021-044AJ	Starlink-2763	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S48671    	2021-044AK	Starlink-2745	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 3	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S48672    	2021-044AL	Starlink-2705	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
-S48673    	2021-044AM	Starlink-2711	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     545	     548	 53.05 	-
+S48673    	2021-044AM	Starlink-2711	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     545	     548	 53.05 	-
 S48674    	2021-044AN	Starlink-2712	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 3	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S48675    	2021-044AP	Starlink-2737	2021 May 26 	2023 Mar  1	2024 Dec 13	2025 Jan 26?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     546	     548	 53.05 	-
 S48676    	2021-044AQ	Starlink-2746	2021 May 26 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1010	   91.5 	     349	     350	 53.0 	2024 Oct 13 	     546	     547	 53.05 	-
@@ -27816,7 +27816,7 @@ S69869    	2026-156A	CAS500-4	2026 Jul  7 	2026 Jul  7	*	*	-	KAIST NEXT	-	-	-	C	
 S69870    	2026-156B	ICEYE-X79	2026 Jul  7 	2026 Jul  7	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[NL]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69871    	2026-156C	Pelican 11	2026 Jul  7 	2026 Jul  7	*	*	-	Pelican	-	P	M	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69872    	2026-156D	TOM-1	2026 Jul  7 	2026 Jul  7	*	*	-	ZFT	-	-	-	B	IMG	S	-	-	[D]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69873    	2026-156E	SCION-X	2026 Jul  7 	2026 Jul  7	*	*	-	NCU	-	-	-	A	SCI	S	-	-	[TW]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69873    	2026-156E	Firesat-2	2026 Jul  7 	2026 Jul  7	*	*	-	Muon	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69874    	2026-156F	Lemur-2-Crimborealis	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69875    	2026-156G	Navigator	2026 Jul  7 	2026 Jul  7	*	*	-	Argonaut	-	-	 -	B	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69876    	2026-156H	ION SCV Joyful Julia	2026 Jul  7 	2026 Jul  7	*	*	-	DORBIT	-	P	M	B	TECH	S	-	-	[I]	-	-	-	-	-	-	       0	       0	  0.00 	-
@@ -27829,11 +27829,11 @@ S69882    	2026-156P	Cuby-3	2026 Jul  7 	2026 Jul  7	*	*	-	S4	-	-	-	B	IMG	S	-	-	
 S69883    	2026-156Q	Hyperion GR1	2026 Jul  7 	2026 Jul  7	*	*	-	OpenCosmos B	-	P	-	B	COM	S	-	-	[GR]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69884    	2026-156R	EDC-08	2026 Jul  7 	2026 Jul  7	*	*	-	LOFT	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69885    	2026-156S	GRUS-3A	2026 Jul  7 	2026 Jul  7	*	*	-	AXEL	-	P	-	B	IMG	S	-	-	[J]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69886    	2026-156T	Lemur-2-Deloitte-4	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69886    	2026-156T	Firesat-1	2026 Jul  7 	2026 Jul  7	*	*	-	Muon	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69887    	2026-156U	Lemur-2-Deloitte-5	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69888    	2026-156V	Lemur-2-Deloitte-6	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69889    	2026-156W	ICEYE-Xn2	2026 Jul  7 	2026 Jul  7	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[FI]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69890    	2026-156X	Bohr	2026 Jul  7 	2026 Jul  7	*	*	-	CityLabs	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69890    	2026-156X	Firesat-3	2026 Jul  7 	2026 Jul  7	*	*	-	Muon	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69891    	2026-156Y	GRUS-3C	2026 Jul  7 	2026 Jul  7	*	*	-	AXEL	-	P	-	B	IMG	S	-	-	[J]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69892    	2026-156Z	ICEYE-Xn1	2026 Jul  7 	2026 Jul  7	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[FI]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69893    	2026-156AA	ICEYE-Xn3	2026 Jul  7 	2026 Jul  7	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[FI]	-	-	-	-	-	-	       0	       0	  0.00 	-
@@ -27848,7 +27848,7 @@ S69901    	2026-156AJ	Flashpoint 1	2026 Jul  7 	2026 Jul  7	*	*	-	Apex	-	-	 -	B	
 S69902    	2026-156AK	Oasis Alpha	2026 Jul  7 	2026 Jul  7	*	*	-	Tumbleweed	-	-	-	B	TECH	S	-	-	[AT]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69903    	2026-156AL	Balkan-3	2026 Jul  7 	2026 Jul  7	*	*	-	Endurosat	-	-	-	B	IMG	S	-	-	[BGN]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69904    	2026-156AM	MAVERIC	2026 Jul  7 	2026 Jul  7	*	*	-	USC	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69905    	2026-156AN	Lemur-2-Eleonore	2026 Jul  7 	2026 Jul  7	*	*	-	GHG	2	-	-	B	EOSCI	S	-	-	[CA]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69905    	2026-156AN	SCION-X	2026 Jul  7 	2026 Jul  7	*	*	-	NCU	-	-	-	A	SCI	S	-	-	[TW]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69906    	2026-156AP	TOM-3	2026 Jul  7 	2026 Jul  7	*	*	-	ZFT	-	-	-	B	IMG	S	-	-	[D]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69907    	2026-156AQ	Nova 1	2026 Jul  7 	2026 Jul  7	*	*	-	Apex	-	-	 -	B	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69908    	2026-156AR	RAFS Cubesat	2026 Jul  7 	2026 Jul  7	*	*	-	ITU	-	-	-	A	TECH	S	-	-	[TR]	-	-	-	-	-	-	       0	       0	  0.00 	-
@@ -27869,21 +27869,21 @@ S69922    	2026-156BF	Posidonia	2026 Jul  7 	2026 Jul  7	*	*	-	OpenCosmos B	-	P	
 S69923    	2026-156BG	SUCHAI-4	2026 Jul  7 	2026 Jul  7	*	*	-	UChile	-	-	-	A	TECH	S	-	-	[CL]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69924    	2026-156BH	Centauri 9	2026 Jul  7 	2026 Jul  7	*	*	-	Fleet	-	-	-	B	COM	S	-	-	[AU]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69925    	2026-156BJ	GRITSS	2026 Jul  7 	2026 Jul  7	*	*	-	GSFC Cube	-	-	-	C	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69926    	2026-156BK	Lemur-2-Nuray	2026 Jul  7 	2026 Jul  7	*	*	-	GHG	2	-	-	B	EOSCI	S	-	-	[CA]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69926    	2026-156BK	Bohr	2026 Jul  7 	2026 Jul  7	*	*	-	CityLabs	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69927    	2026-156BL	Replicator-2	2026 Jul  7 	2026 Jul  7	*	*	-	OrbMat	-	-	-	B	TECH	S	-	-	[PL]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69928    	2026-156BM	Lemur-2-Alex-Fulton	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69929    	2026-156BN	Earthtraq ET-01	2026 Jul  7 	2026 Jul  7	*	*	-	EarthTraq	-	-	-	B	NAV	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69930    	2026-156BP	GENIE N2-P-Body	2026 Jul  7 	2026 Jul  7	*	*	-	NOVI	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69931    	2026-156BQ	Firesat-1	2026 Jul  7 	2026 Jul  7	*	*	-	Muon	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69932    	2026-156BR	Firesat-2	2026 Jul  7 	2026 Jul  7	*	*	-	Muon	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69933    	2026-156BS	Firesat-3	2026 Jul  7 	2026 Jul  7	*	*	-	Muon	-	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69931    	2026-156BQ	Lemur-2-Deloitte-4	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69932    	2026-156BR	Lemur-2-Nuray	2026 Jul  7 	2026 Jul  7	*	*	-	GHG	2	-	-	B	EOSCI	S	-	-	[CA]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69933    	2026-156BS	Kita-53	2026 Jul  7 	2026 Jul  7	*	*	-	Sony SCC	-	-	-	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69934    	2026-156BT	Cuby-5	2026 Jul  7 	2026 Jul  7	*	*	-	S4	-	-	-	B	IMG	S	-	-	[D]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69935    	2026-156BU	Kostka	2026 Jul  7 	2026 Jul  7	*	*	-	Brno	-	-	-	A	COM	S	-	-	[CZ]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69936    	2026-156BV	Flashpoint 2	2026 Jul  7 	2026 Jul  7	*	*	-	Apex	-	-	 -	B	TECH	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69937    	2026-156BW	Leonav-1	2026 Jul  7 	2026 Jul  7	*	*	-	UAEU	-	-	-	A	TECH	S	-	-	[UAE]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69938    	2026-156BX	Cybercube	2026 Jul  7 	2026 Jul  7	*	*	-	ESA Cube	-	-	-	C	TECH	S	-	-	[RO]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69939    	2026-156BY	CloudCT-Precursor	2026 Jul  7 	2026 Jul  7	*	*	-	Techsat	-	-	-	A	IMG	S	-	-	[IL]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S69940    	2026-156BZ	Kita-53	2026 Jul  7 	2026 Jul  7	*	*	-	Sony SCC	-	-	-	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S69940    	2026-156BZ	Lemur-2-Eleonore	2026 Jul  7 	2026 Jul  7	*	*	-	GHG	2	-	-	B	EOSCI	S	-	-	[CA]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69941    	2026-156CA	Sentinel-1	2026 Jul  7 	2026 Jul  7	*	*	-	Ethereal	-	-	-	B	SCI	S	-	-	[D]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69942    	2026-156CB	Earthtraq ET-02	2026 Jul  7 	2026 Jul  7	*	*	-	EarthTraq	-	-	-	B	NAV	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S69943    	2026-157A	Starlink 37886	2026 Jul  9 	2026 Jul  9	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
