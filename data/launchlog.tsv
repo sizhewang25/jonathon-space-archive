@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Jul 30 2220:01
+# Updated 2026 Aug  1 2030:04
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -13463,7 +13463,7 @@
 2021-005 	2021 Jan 20 1302	2021-005AN	P      O    	Starlink 2105	Starlink V1.0-L16-37	S47385    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2021-005 	2021 Jan 20 1302	2021-005AP	P      O    	Starlink 2106	Starlink V1.0-L16-38	S47386    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2021-005 	2021 Jan 20 1302	2021-005AQ	P      R    	Starlink 2108	Starlink V1.0-L16-39	S47387    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2021-005 	2021 Jan 20 1302	2021-005AR	P      O    	Starlink 2109	Starlink V1.0-L16-40	S47388    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2021-005 	2021 Jan 20 1302	2021-005AR	P      L    	Starlink 2109	Starlink V1.0-L16-40	S47388    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2021-005 	2021 Jan 20 1302	2021-005AS	P      L    	Starlink 2110	Starlink V1.0-L16-41	S47389    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2021-005 	2021 Jan 20 1302	2021-005AT	P      O    	Starlink 2111	Starlink V1.0-L16-42	S47390    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2021-005 	2021 Jan 20 1302	2021-005AU	P      L    	Starlink 2112	Starlink V1.0-L16-43	S47391    	SPXS	US	Falcon 9	105/B1051.8  F106	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -13733,7 +13733,7 @@
 2021-012 	2021 Feb 16 0359:37	2021-012AJ	P      R    	Starlink 2036	Starlink V1.0-L19-33	S47652    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-012 	2021 Feb 16 0359:37	2021-012AK	P      R    	Starlink 2037	Starlink V1.0-L19-34	S47653    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-012 	2021 Feb 16 0359:37	2021-012AL	P      R    	Starlink 2038	Starlink V1.0-L19-35	S47654    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2021-012 	2021 Feb 16 0359:37	2021-012AM	P      O    	Starlink 2039	Starlink V1.0-L19-36	S47655    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2021-012 	2021 Feb 16 0359:37	2021-012AM	P      L    	Starlink 2039	Starlink V1.0-L19-36	S47655    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-012 	2021 Feb 16 0359:37	2021-012AN	P      O    	Starlink 2040	Starlink V1.0-L19-37	S47656    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-012 	2021 Feb 16 0359:37	2021-012AP	P      R    	Starlink 2041	Starlink V1.0-L19-38	S47657    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-012 	2021 Feb 16 0359:37	2021-012AQ	P      R    	Starlink 2042	Starlink V1.0-L19-39	S47658    	SPXS	US	Falcon 9	110/B1059.6  F109	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -14522,16 +14522,16 @@
 2021-044 	2021 May 26 1859	2021-044X	P      O    	Starlink 2717	Starlink V1.0-L28-22	S48659    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044Y	P      R    	Starlink 2688	Starlink V1.0-L28-23	S48660    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044Z	P      R+   	Starlink 2708	Starlink V1.0-L28-24	S48661    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2021-044 	2021 May 26 1859	2021-044AA	P      L    	Starlink 2726	Starlink V1.0-L28-25	S48662    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2021-044 	2021 May 26 1859	2021-044AA	P      O    	Starlink 2726	Starlink V1.0-L28-25	S48662    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AB	P      O    	Starlink 2667	Starlink V1.0-L28-26	S48663    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AC	P      R    	Starlink 2709	Starlink V1.0-L28-27	S48664    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AD	P      R+   	Starlink 2653	Starlink V1.0-L28-28	S48665    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2021-044 	2021 May 26 1859	2021-044AE	P      L    	Starlink 2666	Starlink V1.0-L28-29	S48666    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2021-044 	2021 May 26 1859	2021-044AE	P      O    	Starlink 2666	Starlink V1.0-L28-29	S48666    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AF	P      O    	Starlink 2735	Starlink V1.0-L28-30	S48667    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AG	P      O    	Starlink 2738	Starlink V1.0-L28-31	S48668    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AH	P      O    	Starlink 2707	Starlink V1.0-L28-32	S48669    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AJ	P      O    	Starlink 2763	Starlink V1.0-L28-33	S48670    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2021-044 	2021 May 26 1859	2021-044AK	P      L    	Starlink 2745	Starlink V1.0-L28-34	S48671    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2021-044 	2021 May 26 1859	2021-044AK	P      O    	Starlink 2745	Starlink V1.0-L28-34	S48671    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AL	P      O    	Starlink 2705	Starlink V1.0-L28-35	S48672    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AM	P      O    	Starlink 2711	Starlink V1.0-L28-36	S48673    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-044 	2021 May 26 1859	2021-044AN	P      L    	Starlink 2712	Starlink V1.0-L28-37	S48674    	SPXS	US	Falcon 9	120/B1063.2  F120	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -15267,14 +15267,14 @@
 2021-F11  	2021 Dec 30 0330	2021-F11	P   F       	Test payloads	Test Payloads	F01618    	IRSA/IUST	IR	Simorgh	6 UKS.C001	-	SEM	IKSC	-	-	IRSA	IR	OF  	mehrnews.com
 2022-001 	2022 Jan  6 2149	2022-001A	P      R    	Starlink 3321	Starlink Group 4-5-01	S50803    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001B	P      L    	Starlink 3323	Starlink Group 4-5-02	S50804    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-001 	2022 Jan  6 2149	2022-001C	P      O    	Starlink 3333	Starlink Group 4-5-03	S50805    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-001 	2022 Jan  6 2149	2022-001D	P      T    	Starlink 3335	Starlink Group 4-5-04	S50806    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-001 	2022 Jan  6 2149	2022-001C	P      L    	Starlink 3333	Starlink Group 4-5-03	S50805    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-001 	2022 Jan  6 2149	2022-001D	P      L    	Starlink 3335	Starlink Group 4-5-04	S50806    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001E	P      R    	Starlink 3353	Starlink Group 4-5-05	S50807    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001F	P      L    	Starlink 3355	Starlink Group 4-5-06	S50808    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001G	P      L    	Starlink 3232	Starlink Group 4-5-07	S50809    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001H	P      R+   	Starlink 3348	Starlink Group 4-5-08	S50810    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001J	P      R    	Starlink 3347	Starlink Group 4-5-09	S50811    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-001 	2022 Jan  6 2149	2022-001K	P      T    	Starlink 3338	Starlink Group 4-5-10	S50812    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-001 	2022 Jan  6 2149	2022-001K	P      L    	Starlink 3338	Starlink Group 4-5-10	S50812    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001L	P      R    	Starlink 3349	Starlink Group 4-5-11	S50813    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001M	P      L    	Starlink 3324	Starlink Group 4-5-12	S50814    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-001 	2022 Jan  6 2149	2022-001N	P      L    	Starlink 3234	Starlink Group 4-5-13	S50815    	SPXS	US	Falcon 9	138/B1062.4  F136	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -15434,16 +15434,16 @@
 2022-004 	2022 Jan 17 0235	2022-004A	P           	Shiyan 13	Shiyan 13	S51102    	CAS?	CN	Chang Zheng 2D	Y70	-	TYSC	LC9	-	-	SAST	CN	OS  	nasaspaceflight.com
 2022-005 	2022 Jan 19 0202:40	2022-005A	P      L    	Starlink 3366	Starlink Group 4-6-01	S51104    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005B	P      L    	Starlink 3350	Starlink Group 4-6-02	S51105    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-005 	2022 Jan 19 0202:40	2022-005C	P      O    	Starlink 3176	Starlink Group 4-6-03	S51106    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-005 	2022 Jan 19 0202:40	2022-005C	P      L    	Starlink 3176	Starlink Group 4-6-03	S51106    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005D	P      R    	Starlink 3368	Starlink Group 4-6-04	S51107    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005E	P      L    	Starlink 3362	Starlink Group 4-6-05	S51108    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005F	P      L    	Starlink 3358	Starlink Group 4-6-06	S51109    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005G	P      L    	Starlink 3344	Starlink Group 4-6-07	S51110    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005H	P      L    	Starlink 3173	Starlink Group 4-6-08	S51111    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-005 	2022 Jan 19 0202:40	2022-005J	P      O    	Starlink 3374	Starlink Group 4-6-09	S51112    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-005 	2022 Jan 19 0202:40	2022-005J	P      L    	Starlink 3374	Starlink Group 4-6-09	S51112    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005K	P      L    	Starlink 3372	Starlink Group 4-6-10	S51113    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005L	P      L    	Starlink 3375	Starlink Group 4-6-11	S51114    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-005 	2022 Jan 19 0202:40	2022-005M	P      O    	Starlink 3397	Starlink Group 4-6-12	S51115    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-005 	2022 Jan 19 0202:40	2022-005M	P      L    	Starlink 3397	Starlink Group 4-6-12	S51115    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005N	P      L    	Starlink 3243	Starlink Group 4-6-13	S51116    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005P	P      L    	Starlink 3391	Starlink Group 4-6-14	S51117    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-005 	2022 Jan 19 0202:40	2022-005Q	P      L    	Starlink 3394	Starlink Group 4-6-15	S51118    	SPXS	US	Falcon 9	139/B1060.10 F138	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -15494,7 +15494,7 @@
 2022-010 	2022 Feb  3 1813:20	2022-010F	P      L    	Starlink 3181	Starlink Group 4-7-03	S51461    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-010 	2022 Feb  3 1813:20	2022-010G	P      L    	Starlink 3166	Starlink Group 4-7-06	S51462    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-010 	2022 Feb  3 1813:20	2022-010H	P      L    	Starlink 3419	Starlink Group 4-7-10	S51463    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-010 	2022 Feb  3 1813:20	2022-010J	P      O    	Starlink 3189	Starlink Group 4-7-22	S51464    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-010 	2022 Feb  3 1813:20	2022-010J	P      L    	Starlink 3189	Starlink Group 4-7-22	S51464    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-010 	2022 Feb  3 1813:20	2022-010K	P      L    	Starlink 3401	Starlink Group 4-7-24	S51465    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-010 	2022 Feb  3 1813:20	2022-010L	P      F+   	Starlink 3418	Starlink Group 4-7-11	S51466    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-010 	2022 Feb  3 1813:20	2022-010M	P      L    	Starlink 3178	Starlink Group 4-7-31	S51467    	SPXS	US	Falcon 9	140/B1061.6  F141	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -15881,7 +15881,7 @@
 2022-029 	2022 Mar 19 0442:30	2022-029AT	P      O    	Starlink 3661	Starlink Group 4-12-42	S52129    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-029 	2022 Mar 19 0442:30	2022-029AU	P      F+   	Starlink 3710	Starlink Group 4-12-43	S52130    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-029 	2022 Mar 19 0442:30	2022-029AV	P      L    	Starlink 3711	Starlink Group 4-12-44	S52131    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-029 	2022 Mar 19 0442:30	2022-029AW	P      O    	Starlink 3718	Starlink Group 4-12-45	S52132    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-029 	2022 Mar 19 0442:30	2022-029AW	P      L    	Starlink 3718	Starlink Group 4-12-45	S52132    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-029 	2022 Mar 19 0442:30	2022-029AX	P      O    	Starlink 3707	Starlink Group 4-12-46	S52133    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-029 	2022 Mar 19 0442:30	2022-029AY	P      O    	Starlink 3721	Starlink Group 4-12-47	S52134    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-029 	2022 Mar 19 0442:30	2022-029AZ	P      R    	Starlink 3729	Starlink Group 4-12-48	S52135    	SPXS	US	Falcon 9	146/B1051.12 F146	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -15953,7 +15953,7 @@
 2022-041 	2022 Apr 21 1751:40	2022-041F	P      T    	Starlink 3739	Starlink Group 4-14-06	S52266    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041G	P      L    	Starlink 3748	Starlink Group 4-14-07	S52267    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041H	P      L    	Starlink 3746	Starlink Group 4-14-08	S52268    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-041 	2022 Apr 21 1751:40	2022-041J	P      O    	Starlink 3791	Starlink Group 4-14-09	S52269    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-041 	2022 Apr 21 1751:40	2022-041J	P      L    	Starlink 3791	Starlink Group 4-14-09	S52269    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041K	P      O    	Starlink 3804	Starlink Group 4-14-10	S52270    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041L	P      O    	Starlink 3788	Starlink Group 4-14-11	S52271    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041M	P      L    	Starlink 3781	Starlink Group 4-14-12	S52272    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -15962,7 +15962,7 @@
 2022-041 	2022 Apr 21 1751:40	2022-041Q	P      O    	Starlink 3784	Starlink Group 4-14-15	S52275    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041R	P      O    	Starlink 3778	Starlink Group 4-14-16	S52276    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041S	P      M*   	Starlink 3787	Starlink Group 4-14-17	S52277    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-041 	2022 Apr 21 1751:40	2022-041T	P      O    	Starlink 3780	Starlink Group 4-14-18	S52278    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-041 	2022 Apr 21 1751:40	2022-041T	P      L    	Starlink 3780	Starlink Group 4-14-18	S52278    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041U	P      R+   	Starlink 3686	Starlink Group 4-14-19	S52279    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041V	P      L    	Starlink 3764	Starlink Group 4-14-20	S52280    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-041 	2022 Apr 21 1751:40	2022-041W	P      O    	Starlink 3779	Starlink Group 4-14-21	S52281    	SPXS	US	Falcon 9	151/B1060.12 F150	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16005,7 +16005,7 @@
 2022-045 	2022 Apr 29 2127:10	2022-045A	P      O    	Starlink 3889	Starlink Group 4-16-01	S52331    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045B	P      O    	Starlink 3831	Starlink Group 4-16-02	S52332    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045C	P      L    	Starlink 3847	Starlink Group 4-16-03	S52333    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-045 	2022 Apr 29 2127:10	2022-045D	P      O    	Starlink 3880	Starlink Group 4-16-04	S52334    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-045 	2022 Apr 29 2127:10	2022-045D	P      L    	Starlink 3880	Starlink Group 4-16-04	S52334    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045E	P      O    	Starlink 3814	Starlink Group 4-16-05	S52335    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045F	P      L    	Starlink 3823	Starlink Group 4-16-06	S52336    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045G	P      O    	Starlink 3797	Starlink Group 4-16-07	S52337    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16026,7 +16026,7 @@
 2022-045 	2022 Apr 29 2127:10	2022-045X	P      L    	Starlink 3838	Starlink Group 4-16-22	S52352    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045Y	P      L    	Starlink 3807	Starlink Group 4-16-23	S52353    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045Z	P      R    	Starlink 3876	Starlink Group 4-16-24	S52354    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-045 	2022 Apr 29 2127:10	2022-045AA	P      O    	Starlink 3877	Starlink Group 4-16-25	S52355    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-045 	2022 Apr 29 2127:10	2022-045AA	P      L    	Starlink 3877	Starlink Group 4-16-25	S52355    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AB	P      L    	Starlink 3801	Starlink Group 4-16-26	S52356    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AC	P      L    	Starlink 3821	Starlink Group 4-16-27	S52357    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AD	P      L    	Starlink 3837	Starlink Group 4-16-28	S52358    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16035,12 +16035,12 @@
 2022-045 	2022 Apr 29 2127:10	2022-045AG	P      L    	Starlink 3728	Starlink Group 4-16-31	S52361    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AH	P      L    	Starlink 3848	Starlink Group 4-16-32	S52362    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AJ	P      L    	Starlink 3830	Starlink Group 4-16-33	S52363    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-045 	2022 Apr 29 2127:10	2022-045AK	P      O    	Starlink 3820	Starlink Group 4-16-34	S52364    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-045 	2022 Apr 29 2127:10	2022-045AK	P      L    	Starlink 3820	Starlink Group 4-16-34	S52364    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AL	P      L    	Starlink 3874	Starlink Group 4-16-35	S52365    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AM	P      L    	Starlink 3808	Starlink Group 4-16-36	S52366    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AN	P      L    	Starlink 3817	Starlink Group 4-16-37	S52367    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AP	P      L    	Starlink 3834	Starlink Group 4-16-38	S52368    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-045 	2022 Apr 29 2127:10	2022-045AQ	P      O    	Starlink 3841	Starlink Group 4-16-39	S52369    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-045 	2022 Apr 29 2127:10	2022-045AQ	P      L    	Starlink 3841	Starlink Group 4-16-39	S52369    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AR	P      L    	Starlink 3827	Starlink Group 4-16-40	S52370    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AS	P      L    	Starlink 3798	Starlink Group 4-16-41	S52371    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-045 	2022 Apr 29 2127:10	2022-045AT	P      L    	Starlink 3796	Starlink Group 4-16-42	S52372    	SPXS	US	Falcon 9	152/B1062.6  F152	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16206,7 +16206,7 @@
 2022-051 	2022 May 13 2207:50	2022-051AW	P      O    	Starlink 3919	Starlink Group 4-13-45	S52580    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AX	P      O    	Starlink 3915	Starlink Group 4-13-46	S52581    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AY	P      R    	Starlink 3886	Starlink Group 4-13-47	S52582    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2022-051 	2022 May 13 2207:50	2022-051AZ	P      O    	Starlink 3895	Starlink Group 4-13-48	S52583    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2022-051 	2022 May 13 2207:50	2022-051AZ	P      L    	Starlink 3895	Starlink Group 4-13-48	S52583    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051BA	P      O    	Starlink 3922	Starlink Group 4-13-49	S52584    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051BB	P      O    	Starlink 3906	Starlink Group 4-13-50	S52585    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051BC	P      O    	Starlink 3910	Starlink Group 4-13-51	S52586    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
@@ -16507,28 +16507,28 @@
 2022-076 	2022 Jul  7 1311:00	2022-076R	P      L    	Starlink 4190	Starlink Group 4-21-16	S53001    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076S	P      L    	Starlink 4121	Starlink Group 4-21-17	S53002    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076T	P      L    	Starlink 4255	Starlink Group 4-21-18	S53003    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-076 	2022 Jul  7 1311:00	2022-076U	P      O    	Starlink 4253	Starlink Group 4-21-19	S53004    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-076 	2022 Jul  7 1311:00	2022-076U	P      L    	Starlink 4253	Starlink Group 4-21-19	S53004    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076V	P      L    	Starlink 4288	Starlink Group 4-21-20	S53005    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076W	P      L    	Starlink 4290	Starlink Group 4-21-21	S53006    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076X	P      L    	Starlink 4215	Starlink Group 4-21-22	S53007    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076Y	P      L    	Starlink 4275	Starlink Group 4-21-23	S53008    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-076 	2022 Jul  7 1311:00	2022-076Z	P      O    	Starlink 4277	Starlink Group 4-21-24	S53009    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-076 	2022 Jul  7 1311:00	2022-076Z	P      L    	Starlink 4277	Starlink Group 4-21-24	S53009    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AA	P      L    	Starlink 4263	Starlink Group 4-21-25	S53010    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AB	P      L    	Starlink 4265	Starlink Group 4-21-26	S53011    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-076 	2022 Jul  7 1311:00	2022-076AC	P      O    	Starlink 4271	Starlink Group 4-21-27	S53012    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-076 	2022 Jul  7 1311:00	2022-076AC	P      L    	Starlink 4271	Starlink Group 4-21-27	S53012    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AD	P      L    	Starlink 4177	Starlink Group 4-21-28	S53013    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AE	P      L    	Starlink 4183	Starlink Group 4-21-29	S53014    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-076 	2022 Jul  7 1311:00	2022-076AF	P      O    	Starlink 4262	Starlink Group 4-21-30	S53015    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-076 	2022 Jul  7 1311:00	2022-076AF	P      L    	Starlink 4262	Starlink Group 4-21-30	S53015    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AG	P      L    	Starlink 4283	Starlink Group 4-21-31	S53016    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AH	P      L    	Starlink 4281	Starlink Group 4-21-32	S53017    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AJ	P      L    	Starlink 4279	Starlink Group 4-21-33	S53018    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AK	P      T    	Starlink 4282	Starlink Group 4-21-34	S53019    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-076 	2022 Jul  7 1311:00	2022-076AL	P      O    	Starlink 4287	Starlink Group 4-21-35	S53020    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-076 	2022 Jul  7 1311:00	2022-076AL	P      L    	Starlink 4287	Starlink Group 4-21-35	S53020    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AM	P      R    	Starlink 4203	Starlink Group 4-21-36	S53021    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AN	P      L    	Starlink 4216	Starlink Group 4-21-37	S53022    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AP	P      L    	Starlink 4284	Starlink Group 4-21-38	S53023    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AQ	P      L    	Starlink 4289	Starlink Group 4-21-39	S53024    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-076 	2022 Jul  7 1311:00	2022-076AR	P      O    	Starlink 4218	Starlink Group 4-21-40	S53025    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-076 	2022 Jul  7 1311:00	2022-076AR	P      L    	Starlink 4218	Starlink Group 4-21-40	S53025    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AS	P      L    	Starlink 4119	Starlink Group 4-21-41	S53026    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AT	P      L    	Starlink 4158	Starlink Group 4-21-42	S53027    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-076 	2022 Jul  7 1311:00	2022-076AU	P      F    	Starlink 4161	Starlink Group 4-21-43	S53028    	SPXS	US	Falcon 9	163/B1058.13 F163	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16630,7 +16630,7 @@
 2022-083 	2022 Jul 17 1420:00	2022-083V	P      L    	Starlink 4040	Starlink Group 4-22-20	S53151    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-083 	2022 Jul 17 1420:00	2022-083W	P      R    	Starlink 4045	Starlink Group 4-22-21	S53152    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-083 	2022 Jul 17 1420:00	2022-083X	P      O    	Starlink 4098	Starlink Group 4-22-22	S53153    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2022-083 	2022 Jul 17 1420:00	2022-083Y	P      O    	Starlink 4077	Starlink Group 4-22-23	S53154    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2022-083 	2022 Jul 17 1420:00	2022-083Y	P      L    	Starlink 4077	Starlink Group 4-22-23	S53154    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-083 	2022 Jul 17 1420:00	2022-083Z	P      O    	Starlink 4088	Starlink Group 4-22-24	S53155    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-083 	2022 Jul 17 1420:00	2022-083AA	P      O    	Starlink 4087	Starlink Group 4-22-25	S53156    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2022-083 	2022 Jul 17 1420:00	2022-083AB	P      R    	Starlink 4093	Starlink Group 4-22-26	S53157    	SPXS	US	Falcon 9	166/B1051.13 F166	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16708,12 +16708,12 @@
 2022-084 	2022 Jul 22 1739:40	2022-084AW	P      O    	Starlink 4372	Starlink Group 3-2-45	S53233    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-084 	2022 Jul 22 1739:40	2022-084AX	P      L    	Starlink 4368	Starlink Group 3-2-46	S53234    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-085 	2022 Jul 24 0622:30	2022-085A	PPTH-MU     	Wentian	Wentian	S53239    	CMSEO	CN	Chang Zheng 5B	Y3	-	WEN	LC101	-	-	CALT	CN	OS  	nasaspaceflight.com
-2022-086 	2022 Jul 24 1338:20	2022-086A	P      O    	Starlink 4056	Starlink Group 4-25-01	S53242    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-086 	2022 Jul 24 1338:20	2022-086A	P      L    	Starlink 4056	Starlink Group 4-25-01	S53242    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086B	P      L    	Starlink 4047	Starlink Group 4-25-02	S53243    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086C	P      L    	Starlink 4125	Starlink Group 4-25-03	S53244    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086D	P      R+   	Starlink 4124	Starlink Group 4-25-04	S53245    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086E	P      L    	Starlink 4131	Starlink Group 4-25-05	S53246    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-086 	2022 Jul 24 1338:20	2022-086F	P      O    	Starlink 4061	Starlink Group 4-25-06	S53247    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-086 	2022 Jul 24 1338:20	2022-086F	P      L    	Starlink 4061	Starlink Group 4-25-06	S53247    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086G	P      L    	Starlink 4135	Starlink Group 4-25-07	S53248    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086H	P      L    	Starlink 4128	Starlink Group 4-25-08	S53249    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-086 	2022 Jul 24 1338:20	2022-086J	P      L    	Starlink 4059	Starlink Group 4-25-09	S53250    	SPXS	US	Falcon 9	168/B1062.8  F168	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -16803,24 +16803,24 @@
 2022-096 	2022 Aug  9 0552:38	2022-096Q	P           	Siren	Siren	S53384    	BELGU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
 2022-096 	2022 Aug  9 0552:38	2022-096R	P           	Geoskan-Edel'veys	Geoskan-Edel'veys	S53385    	GEOSK	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
 2022-096 	2022 Aug  9 0552:38	2022-096S	P       ?   	VIZARD-SS1	VIZARD	S53386    	VIZ/NISYS	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-097 	2022 Aug 10 0214:40	2022-097A	P      O    	Starlink 4522	Starlink Group 4-26-01	S53388    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097B	P      O    	Starlink 4523	Starlink Group 4-26-02	S53389    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097C	P      O    	Starlink 4517	Starlink Group 4-26-03	S53390    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097A	P      L    	Starlink 4522	Starlink Group 4-26-01	S53388    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097B	P      L    	Starlink 4523	Starlink Group 4-26-02	S53389    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097C	P      L    	Starlink 4517	Starlink Group 4-26-03	S53390    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097D	P      L    	Starlink 4521	Starlink Group 4-26-04	S53391    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097E	P      L    	Starlink 4535	Starlink Group 4-26-05	S53392    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097F	P      O    	Starlink 4530	Starlink Group 4-26-06	S53393    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097F	P      L    	Starlink 4530	Starlink Group 4-26-06	S53393    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097G	P      L    	Starlink 4544	Starlink Group 4-26-07	S53394    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097H	P      L    	Starlink 4534	Starlink Group 4-26-08	S53395    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097J	P      O    	Starlink 4524	Starlink Group 4-26-09	S53396    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097K	P      O    	Starlink 4515	Starlink Group 4-26-10	S53397    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097L	P      O    	Starlink 4512	Starlink Group 4-26-11	S53398    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097M	P      O    	Starlink 4528	Starlink Group 4-26-12	S53399    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097N	P      O    	Starlink 4520	Starlink Group 4-26-13	S53400    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097P	P      O    	Starlink 4525	Starlink Group 4-26-14	S53401    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097K	P      L    	Starlink 4515	Starlink Group 4-26-10	S53397    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097L	P      L    	Starlink 4512	Starlink Group 4-26-11	S53398    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097M	P      L    	Starlink 4528	Starlink Group 4-26-12	S53399    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097N	P      L    	Starlink 4520	Starlink Group 4-26-13	S53400    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097P	P      L    	Starlink 4525	Starlink Group 4-26-14	S53401    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097Q	P      L    	Starlink 4499	Starlink Group 4-26-15	S53402    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097R	P      L    	Starlink 4507	Starlink Group 4-26-16	S53403    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097S	P      L    	Starlink 4509	Starlink Group 4-26-17	S53404    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
-2022-097 	2022 Aug 10 0214:40	2022-097T	P      O    	Starlink 4510	Starlink Group 4-26-18	S53405    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
+2022-097 	2022 Aug 10 0214:40	2022-097T	P      L    	Starlink 4510	Starlink Group 4-26-18	S53405    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097U	P      L    	Starlink 4533	Starlink Group 4-26-19	S53406    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097V	P      R    	Starlink 4537	Starlink Group 4-26-20	S53407    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097W	P      O    	Starlink 4491	Starlink Group 4-26-21	S53408    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -31101,3 +31101,27 @@
 2026-173 	2026 Jul 30 0100	2026-173A	P           	TJS 27A	TJS 27A	S100174   	ZLZB	CN	Chang Zheng 6A	Y18	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-173 	2026 Jul 30 0100	2026-173B	P           	TJS 27B	TJS 27B	S100175   	ZLZB	CN	Chang Zheng 6A	Y18	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-174 	2026 Jul 30 0710:19	2026-174A	P ------C   	USA 619	[INTRUDER 20]	S100177   	NROC/USN	US	Falcon 9	xxx/B1096.7  F671	-	CC	LC40	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-175 	2026 Aug  1 0308:43	2026-175A	P      D    	Starlink 38095	Starlink Group 17-52-01	S100178   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175B	P      D    	Starlink 38184	Starlink Group 17-52-02	S100179   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175C	P      D    	Starlink 38112	Starlink Group 17-52-03	S100180   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175D	P      D    	Starlink 38140	Starlink Group 17-52-04	S100181   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175E	P      D    	Starlink 38142	Starlink Group 17-52-05	S100182   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175F	P      D    	Starlink 37207	Starlink Group 17-52-06	S100183   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175G	P      D    	Starlink 38104	Starlink Group 17-52-07	S100184   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175H	P      D    	Starlink 38159	Starlink Group 17-52-08	S100185   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175J	P      D    	Starlink 38130	Starlink Group 17-52-09	S100186   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175K	P      D    	Starlink 38141	Starlink Group 17-52-10	S100187   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175L	P      D    	Starlink 38176	Starlink Group 17-52-11	S100188   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175M	P      D    	Starlink 38223	Starlink Group 17-52-12	S100189   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175N	P      D    	Starlink 38165	Starlink Group 17-52-13	S100190   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175P	P      D    	Starlink 38228	Starlink Group 17-52-14	S100191   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175Q	P      D    	Starlink 38227	Starlink Group 17-52-15	S100192   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175R	P      D    	Starlink 38225	Starlink Group 17-52-16	S100193   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175S	P      D    	Starlink 38218	Starlink Group 17-52-17	S100194   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175T	P      D    	Starlink 38195	Starlink Group 17-52-18	S100195   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175U	P      D    	Starlink 38224	Starlink Group 17-52-19	S100196   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175V	P      D    	Starlink 38137	Starlink Group 17-52-20	S100197   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175W	P      D    	Starlink 38148	Starlink Group 17-52-21	S100198   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175X	P      D    	Starlink 38196	Starlink Group 17-52-22	S100199   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175Y	P      D    	Starlink 38178	Starlink Group 17-52-23	S100200   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-175 	2026 Aug  1 0308:43	2026-175Z	P      D    	Starlink 38185	Starlink Group 17-52-24	S100201   	SPXS	US	Falcon 9	xxx/B1081.26 F672	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
