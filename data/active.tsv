@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LaunchDate	LState	Owner	OwnState	UNState	Mass	Class	Category	TF	Perigee	Apogee	Inc	OpOrbit
-# Updated 2026 Aug  2 2112:56
+# Updated 2026 Aug  5 1152:14
 S00965    	1964-083D	NNS 30020	1964 Dec 13 0008:10	US	BUWEPS	US	US	      54.000 	D	NAV	Z	    1027	    1084	 89.98 	LEO/P
 S01002    	1965-008C	LES 1	1965 Feb 11 1519:05	US	AFSSD	US	US	     158.000 	D	COM	Z	    2782	    2805	 32.14 	MEO
 S01291    	1965-016D	SR 7B	1965 Mar  9 1829:47	US	NRO/NRL	US	US	      47.000 	D	SIG	Z	     909	     938	 70.09 	LEO/I
@@ -6194,7 +6194,6 @@ S57924    	2023-147M	Starlink 30487	2023 Sep 24 0338:30	US	SPXS	US	US	     730.0
 S57925    	2023-147N	Starlink 30452	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
 S57926    	2023-147P	Starlink 30468	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
 S57928    	2023-147R	Starlink 30448	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
-S57930    	2023-147T	Starlink 30476	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
 S57931    	2023-147U	Starlink 30488	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
 S57932    	2023-147V	Starlink 30471	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
 S57933    	2023-147W	Starlink 30461	2023 Sep 24 0338:30	US	SPXS	US	US	     730.000 	B	COM	-	     283	     293	 43.00 	LLEO/I
@@ -14086,7 +14085,6 @@ S67680    	2026-023G	Kosmos-2606	2026 Feb  5 1859	RU	VVKOV	RU	[RU]	     500.000 
 S67681    	2026-023H	Kosmos-2607	2026 Feb  5 1859	RU	VVKOV	RU	[RU]	     500.000 	D	COM?	-	     484	     513	 96.63 	LLEO/S
 S67682    	2026-023J	Kosmos-2608	2026 Feb  5 1859	RU	VVKOV	RU	[RU]	     500.000 	D	COM?	-	     484	     513	 96.64 	LLEO/S
 S67683    	1998-067XZ	KNACKSAT-2	2025 Oct 26 0000:15	J	KMUTNB/KYUT	T	[T]	       3.000 	A	TECH	-	     413	     423	 51.63 	LLEO/I
-S67684    	1998-067YA	CORAL	2025 Oct 26 0000:15	J	ROSAP	I	[I]	       2.000 	A	TECH	-	     408	     426	 51.63 	LLEO/I
 S67685    	1998-067YB	Gxiba-1	2025 Oct 26 0000:15	J	UPAEP	MX	[MX]	       1.000 	A	TECH	-	     411	     426	 51.63 	LLEO/I
 S67686    	1998-067YC	UiTMSAT-2	2025 Oct 26 0000:15	J	UITM	MY	[MY]	       1.000 	A	TECH	-	     412	     423	 51.63 	LLEO/I
 S67687    	1998-067YD	LEOPARD	2025 Oct 26 0000:15	J	KYUT	J	[J]	       3.000 	A	TECH	-	     413	     423	 51.63 	LLEO/I
@@ -16484,6 +16482,44 @@ S100199   	2026-175W	Starlink 38148	2026 Aug  1 0308:43	US	SPXS	US	[US]	     575
 S100200   	2026-175X	Starlink 38196	2026 Aug  1 0308:43	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
 S100201   	2026-175Y	Starlink 38178	2026 Aug  1 0308:43	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
 S100202   	2026-175Z	Starlink 38185	2026 Aug  1 0308:43	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100203   	2026-176A	WHDW 23-01	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100204   	2026-176B	WHDW 23-02	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100205   	2026-176C	WHDW 23-03	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100206   	2026-176D	WHDW 23-04	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100207   	2026-176E	WHDW 23-05	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100208   	2026-176F	WHDW 23-06	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100209   	2026-176G	WHDW 23-07	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100210   	2026-176H	WHDW 23-08	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100211   	2026-176J	WHDW 23-09	2026 Aug  4 0852	CN	ZXW	CN	[CN]	     700.000 	C	COM	-	       0	       0	  0.00 	-
+S100213   	2026-177A	Starlink 38189	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100214   	2026-177B	Starlink 38172	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100215   	2026-177C	Starlink 38219	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100216   	2026-177D	Starlink 38133	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100217   	2026-177E	Starlink 38226	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100218   	2026-177F	Starlink 38199	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100219   	2026-177G	Starlink 38190	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100220   	2026-177H	Starlink 37721	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100221   	2026-177J	Starlink 38249	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100222   	2026-177K	Starlink 38254	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100223   	2026-177L	Starlink 38238	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100224   	2026-177M	Starlink 38164	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100225   	2026-177N	Starlink 38241	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100226   	2026-177P	Starlink 37717	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100227   	2026-177Q	Starlink 38075	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100228   	2026-177R	Starlink 37375	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100229   	2026-177S	Starlink 38251	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100230   	2026-177T	Starlink 38053	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100231   	2026-177U	Starlink 37832	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100232   	2026-177V	Starlink 38200	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100233   	2026-177W	Starlink 38188	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100234   	2026-177X	Starlink 38177	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100235   	2026-177Y	Starlink 38126	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100236   	2026-177Z	Starlink 38139	2026 Aug  4 1705:03	US	SPXS	US	[US]	     575.000 	B	COM	-	       0	       0	  0.00 	-
+S100237   	2026-178A	Lampung-1	2026 Aug  5 0238	CN	STARV/DFXL	CN	[CN]	     300.000 	B	IMG	-	       0	       0	  0.00 	-
+S100238   	2026-178B	Samarqand-2028	2026 Aug  5 0238	CN	STARV/DFXL	CN	[CN]	     300.000 	B	IMG	-	       0	       0	  0.00 	-
+S100240   	2026-179A	SpaceMobile-011	2026 Aug  5 0749	US	ASTS	US	[US]	    6740.000 	B	COM	-	       0	       0	  0.00 	-
+S100241   	2026-179B	SpaceMobile-012	2026 Aug  5 0749	US	ASTS	US	[US]	    6740.000 	B	COM	-	       0	       0	  0.00 	-
+S100242   	2026-179C	SpaceMobile-013	2026 Aug  5 0749	US	ASTS	US	[US]	    6740.000 	B	COM	-	       0	       0	  0.00 	-
 A06140    	1998-069F	PMA-2	1998 Dec  4 0835:34	US	JSC	US	-	       0.000 	C	SS	-	     387	     400	 51.59 	LLEO/I
 A06141    	1998-069F	PMA-1	1998 Dec  4 0835:34	US	JSC	US	-	       0.000 	C	SS	-	     387	     400	 51.59 	LLEO/I
 A06325    	2000-062	PMA-3	2000 Oct 11 2317:00	US	JSC	US	-	    1156.000 	C	SS	-	     374	     380	 51.58 	LLEO/I
