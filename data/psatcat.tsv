@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Aug  8 2202:44
+# Updated 2026 Aug 10 2211:40
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -7833,7 +7833,7 @@ S40663    	2015-026A	DirecTV-15	2015 May 27 	2023 Feb 23	*	*	-	DirecTV	-	-	M	B	C
 S40664    	2015-026B	SKYM-1	2015 May 27 	2023 Feb 24	*	*	-	DTVLA	-	-	M	B	COM	S	DTV/LongBeach	-	[MX]	-	-	-	-	-	2026 Aug  7 	   35776	   35797	  0.01 	-
 S40667    	2015-027A	Cosmos-2505	2015 Jun  5 	2015 Sep 17	2015 Sep 17	2015 Sep 17 2220?	-	Kobal't-M	-	-	M	D	IMG	S	Gol-2	-	RU	ST/SG/SER.E/752	   89.2 	     190	     313	 81.4 	2015 Sep 17 	     205	     327	 81.39 	-
 S40697    	2015-028A	Sentinel-2A	2015 Jun 23 	2023 Feb	*	*	-	Sentinel	-	-	-	C	IMG	S	ESOC	-	I-ESA*	ST/SG/SER.E/750	  100.7 	     788	     790	 98.6 	2015 Jun 25 	     785	     788	 98.57 	-
-S40699    	2015-029A	Cosmos-2506	2015 Jun 23 	2023 Feb	*	*	-	Persona	-	-	M	D	IMG	S	Gol-2	-	RU	ST/SG/SER.E/752	   93.2 	     187	     686	 98.3 	2026 Aug  7 	     706	     716	 98.04 	-
+S40699    	2015-029A	Cosmos-2506	2015 Jun 23 	2023 Feb	2023 Jun?	2023 Jun?	-	Persona	-	-	M	D	IMG	S	Gol-2	-	RU	ST/SG/SER.E/752	   93.2 	     187	     686	 98.3 	2026 Aug  7 	     706	     716	 98.04 	-
 S40701    	2015-030A	GF-8	2015 Jun 26 	2023 Feb	*	*	-	JB-13	-	-	M	D	IMG	S	-	-	CN	ST/SG/SER.E/789	-	-	-	-	2026 Aug  7 	     417	     429	 97.69 	-
 S40713    	2015-031A	Progress M-28M	2015 Jul  3 	2015 Dec 19	2015 Dec 19	2015 Dec 19	-	Progress MM	-	-	M	C	SS	S	TsUP	-	RU	ST/SG/SER.E/753	   88.6 	     193	     243	 51.7 	2015 Dec 18 	     396	     408	 51.64 	-
 S40715    	2015-032A	DMC 3-FM1	2015 Jul 10 	2023 Feb	*	*	-	DMC	-	-	M	B	IMG	S	-	-	UK	ST/SG/SER.E/754	   97.7 	     644	     671	 98.0 	2026 Aug  7 	     608	     613	 97.64 	-
@@ -17930,7 +17930,7 @@ S58610    	2023-200X	Starlink-31089	2023 Dec 19 	2023 Dec 19	*	*	-	Starlink 2M S
 S58611    	2023-200Y	Starlink-31061	2023 Dec 19 	2023 Dec 19	*	*	-	Starlink 2M S2	6 0	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1188	   94.4 	     487	     489	 43.0 	2026 Aug  7 	     481	     484	 43.00 	-
 S58612    	1998-067WD	BEAK	2023 Nov 10 	2024 Jun 29	2024 Jun 29	2024 Jun 29 0135:11	-	Tokyo	-	-	-	A	TECH	S	-	-	J	ST/SG/SER.E/1240	   92.8 	     416	     425	 51.6 	2023 Dec 21 	     409	     414	 51.64 	-
 S58613    	1998-067WE	Clark sat-1	2023 Nov 10 	2023 Nov 10	2024 Mar?	2024 Mar?	-	CMIHS	-	-	-	A	TECH	S	-	-	J	ST/SG/SER.E/1240	   92.8 	     406	     413	 51.6 	2023 Dec 21 	     409	     414	 51.64 	-
-S58614    	2023-201A	Kosmos-2573	2023 Dec 21 	2023 Dec 21	*	*	-	Bars	-	-	M	D	IMG	S	-	-	RU	ST/SG/SER.E/1165	   92.7 	     338	     488	 97.6 	2026 Aug  7 	     489	     491	 97.63 	-
+S58614    	2023-201A	Kosmos-2573	2023 Dec 21 	2026 Mar	*	*	-	Bars	-	-	M	D	IMG	S	-	-	RU	ST/SG/SER.E/1165	   92.7 	     338	     488	 97.6 	2026 Aug  7 	     489	     491	 97.63 	-
 S58616    	2023-202A	Tyvak-1015 (TANTRUM)	2023 Dec 22 	2023 Dec 22	2024 Feb 10?	2024 Feb 10?	-	LM Tech	-	-	-	B	TECH	S	-	-	US	ST/SG/SER.E/1188	   90.9 	     205	     428	140.0 	2023 Dec 25 	     215	     511	140.01 	-
 S58618    	2023-203A	Starlink-31119	2023 Dec 23 	2023 Dec 23	2023 Dec 23	2023 Dec 23 0639?	-	Starlink 2M S2	6 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1188	   88.5 	     187	     213	 43.0 	2023 Dec 26 	     186	     213	 43.00 	-
 S58619    	2023-203B	Starlink-31054	2023 Dec 23 	2023 Dec 23	*	*	-	Starlink 2M S2	6 0	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1188	   94.3 	     481	     484	 43.0 	2026 Aug  7 	     481	     484	 43.00 	-
@@ -27844,14 +27844,14 @@ S69897    	2026-156AE	Lemur-2-Jess-R	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	
 S69898    	2026-156AF	GRUS-3E	2026 Jul  7 	2026 Jul  7	*	*	-	AXEL	-	P	-	B	IMG	S	-	-	[J]	-	-	-	-	-	2026 Jul 20 	     588	     598	 97.75 	-
 S69899    	2026-156AG	FossaSat 2E-26	2026 Jul  7 	2026 Jul  7	*	*	-	Fossa	-	-	-	B	COM	S	-	-	[E]	-	-	-	-	-	2026 Jul 20 	     589	     598	 97.75 	-
 S69900    	2026-156AH	Lemur-2-Alyx	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     590	     598	 97.76 	-
-S69901    	2026-156AJ	Flashpoint 1	2026 Jul  7 	2026 Jul  7	*	*	-	Apex	-	-	 -	B	TECH	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     590	     598	 97.75 	-
+S69901    	2026-156AJ	Lemur-2-Deloitte-4	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     588	     598	 97.75 	-
 S69902    	2026-156AK	Cuby-1	2026 Jul  7 	2026 Jul  7	*	*	-	S4	-	-	-	B	IMG	S	-	-	[D]	-	-	-	-	-	2026 Jul 20 	     590	     598	 97.75 	-
 S69903    	2026-156AL	Balkan-3	2026 Jul  7 	2026 Jul  7	*	*	-	Endurosat	-	-	-	B	IMG	S	-	-	[BGN]	-	-	-	-	-	2026 Jul 20 	     591	     598	 97.76 	-
 S69904    	2026-156AM	MAVERIC	2026 Jul  7 	2026 Jul  7	*	*	-	USC	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2026 Jul 19 	     587	     598	 97.75 	-
 S69905    	2026-156AN	SCION-X	2026 Jul  7 	2026 Jul  7	*	*	-	NCU	-	-	-	A	SCI	S	-	-	[TW]	-	-	-	-	-	2026 Jul 20 	     591	     598	 97.76 	-
 S69906    	2026-156AP	TOM-3	2026 Jul  7 	2026 Jul  7	*	*	-	ZFT	-	-	-	B	IMG	S	-	-	[D]	-	-	-	-	-	2026 Jul 20 	     591	     598	 97.75 	-
 S69907    	2026-156AQ	Cuby-5	2026 Jul  7 	2026 Jul  7	*	*	-	S4	-	-	-	B	IMG	S	-	-	[D]	-	-	-	-	-	2026 Jul 20 	     591	     598	 97.75 	-
-S69908    	2026-156AR	Lemur-2-Deloitte-4	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     588	     598	 97.75 	-
+S69908    	2026-156AR	Flashpoint 1	2026 Jul  7 	2026 Jul  7	*	*	-	Apex	-	-	 -	B	TECH	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     590	     598	 97.75 	-
 S69909    	2026-156AS	Lemur-2-Crimborealis	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     588	     598	 97.75 	-
 S69910    	2026-156AT	SPEAR-1A	2026 Jul  7 	2026 Jul  7	*	*	-	NSLX	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     591	     598	 97.75 	-
 S69911    	2026-156AU	SPEAR-1B	2026 Jul  7 	2026 Jul  7	*	*	-	NSLX	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     593	     598	 97.75 	-
