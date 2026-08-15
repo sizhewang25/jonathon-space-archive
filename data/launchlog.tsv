@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Aug 12 1848:39
+# Updated 2026 Aug 15 0736:24
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -20874,11 +20874,11 @@
 2024-013 	2024 Jan 17 1427:30	2024-013E	P  D        	Nanjing	Bayi 08	S62056    	CASTIX	CN	Chang Zheng 7	Y8	-	WEN	LC201	-	-	CALT	CN	OS  	nasaspaceflight.com
 2024-014 	2024 Jan 18 2149:11	2024-014A	PH-H-V-     	Axiom Ax-3	Dragon C212.3	S58815    	SPX	US	Falcon 9	295/B1080.5  F292	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2024-015 	2024 Jan 20 0628:34	2024-015A	P   F       	Suraya	Suraya	S58817    	IRSA	IR	Qaem-100	FTM-B2	-	SHAHR	-	-	-	IRGC	IR	OS  	Wire
-2024-016 	2024 Jan 23 0403	2024-016A	P       ?   	Taijing-1 03	MN30-5	S58820    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
-2024-016 	2024 Jan 23 0403	2024-016B	P       ?   	Taijing-3 02	Taijing san hao 02 xing	S58821    	WEINA/STIL?	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
-2024-016 	2024 Jan 23 0403	2024-016C	P       ?   	Taijing-4 03	Taijing si hao 03 xing	S58822    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
-2024-016 	2024 Jan 23 0403	2024-016D	P       ?   	Taijing-2 04	Taijing er hao 04 xing	S58823    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
-2024-016 	2024 Jan 23 0403	2024-016F	P       ?   	Taijing-2 02	Beijing Huanbao-1	S58825    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
+2024-016 	2024 Jan 23 0403	2024-016A	P           	Taijing-2 04	Taijing er hao 04 xing	S58820    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
+2024-016 	2024 Jan 23 0403	2024-016B	P           	Taijing-1 03	MN30-5	S58821    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
+2024-016 	2024 Jan 23 0403	2024-016C	P           	Taijing-3 02	Taijing san hao 02 xing	S58822    	WEINA/STIL?	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
+2024-016 	2024 Jan 23 0403	2024-016D	P           	Taijing-4 03	Taijing si hao 03 xing	S58823    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
+2024-016 	2024 Jan 23 0403	2024-016F	P           	Taijing-2 02	Beijing Huanbao-1	S58825    	WEINA	CN	Lijian-1	Y3	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
 2024-017 	2024 Jan 24 0035:00	2024-017A	P      O r  	Starlink 31233	Starlink Group 7-11-01	S58826    	SPXS	US	Falcon 9	292/B1063.16 F293	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2024-017 	2024 Jan 24 0035:00	2024-017B	P      O    	Starlink 31271	Starlink Group 7-11-02	S58827    	SPXS	US	Falcon 9	292/B1063.16 F293	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2024-017 	2024 Jan 24 0035:00	2024-017C	P      O    	Starlink 31222	Starlink Group 7-11-03	S58828    	SPXS	US	Falcon 9	292/B1063.16 F293	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
