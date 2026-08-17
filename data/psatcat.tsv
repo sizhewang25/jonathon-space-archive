@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Aug 15 0738:32
+# Updated 2026 Aug 16 2316:18
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -11098,7 +11098,7 @@ S47586    	2021-009AQ	Starlink-1990	2021 Feb  4 	2023 Mar  1	2024 Nov  5	2025 Fe
 S47587    	2021-009AR	Starlink-1991	2021 Feb  4 	2023 Mar  1	2025 Oct 30	2026 Jan 10?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.1 	     379	     381	 53.1 	2026 Jan 12 	     407	     416	 53.05 	-
 S47588    	2021-009AS	Starlink-1993	2021 Feb  4 	2023 Mar  1	2025 Oct 20	2025 Nov  9?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.1 	     379	     380	 53.1 	2025 Nov 11 	     444	     447	 53.05 	-
 S47589    	2021-009AT	Starlink-1994	2021 Feb  4 	2023 Mar  1	2025 Dec 26	2026 Jan 12?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.1 	     379	     381	 53.1 	2026 Aug  7 	     157	     169	 53.02 	-
-S47590    	2021-009AU	Starlink-1995	2021 Feb  4 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.1 	     379	     380	 53.1 	2026 Aug  8 	     229	     249	 53.03 	-
+S47590    	2021-009AU	Starlink-1995	2021 Feb  4 	2023 Mar  1	2025 Dec 27	2026 Jan  1?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.1 	     379	     380	 53.1 	2026 Aug  8 	     229	     249	 53.03 	-
 S47591    	2021-009AV	Starlink-1996	2021 Feb  4 	2023 Mar  1	2024 Nov  9	2024 Dec  7?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.1 	     379	     380	 53.1 	2024 Dec  9 	     374	     376	 53.05 	-
 S47592    	2021-009AW	Starlink-1997	2021 Feb  4 	2023 Mar  1	2025 Oct 19	2025 Nov  5?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.4 	     390	     392	 53.1 	2025 Nov  7 	     449	     451	 53.07 	-
 S47593    	2021-009AX	Starlink-1998	2021 Feb  4 	2023 Mar  1	2024 Oct 29	2024 Dec 12?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/983	   92.3 	     386	     387	 53.1 	2024 Dec 14 	     342	     343	 53.05 	-
@@ -25668,7 +25668,7 @@ S67626    	2026-020K	Starlink 36436	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO 
 S67627    	2026-020L	Starlink 36502	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     482	     484	 43.00 	-
 S67628    	2026-020M	Starlink 36532	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     482	     484	 43.00 	-
 S67629    	2026-020N	Starlink 36367	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     482	     484	 43.00 	-
-S67630    	2026-020P	Starlink 36416	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     320	     322	 43.00 	-
+S67630    	2026-020P	Starlink 36416	2026 Jan 30 	2026 Jan 30	2026 Jul 26	2026 Aug 13?	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     320	     322	 43.00 	-
 S67631    	2026-020Q	Starlink 36527	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     481	     484	 43.00 	-
 S67632    	2026-020R	Starlink 36633	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     481	     484	 43.00 	-
 S67633    	2026-020S	Starlink 36637	2026 Jan 30 	2026 Jan 30	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     482	     484	 43.00 	-
