@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Aug 22 0913:20
+# Updated 2026 Aug 22 1718:12
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation

@@ -1,5 +1,5 @@
 #JCAT	Satcat	Launch_Tag	Piece	Type	Name	PLName	LDate	Parent	SDate	Primary	DDate	Status	Dest	Owner	State	Manufacturer	Bus	Motor	Mass	MassFlag	DryMass	DryFlag	TotMass	TotFlag	Length	LFlag	Diameter	DFlag	Span	SpanFlag	Shape	ODate	Perigee	PF	Apogee	AF	Inc	IF	OpOrbit	OQUAL	AltNames
-# Updated 2026 Aug 22 0913:15
+# Updated 2026 Aug 22 1718:06
 S00001    	00001	1957 ALP	1957 ALP 1	R2          	8K71PS No. M1-10 Stage 2	8K71A M1-10 (M1-1PS)	1957 Oct  4	-	1957 Oct  4 1933	Earth	1957 Dec  1 1000?	R	-	OKB1	SU	OKB1	Blok-A	-	    7790 	 	   7790 	 	    7800 	?	  28.0 	 	  2.6 	 	   28.0 	 	Cyl	1957 Oct  4	     214	 	     938	 	 65.10 	 	LLEO/I	-	-
 S00002    	00002	1957 ALP	1957 ALP 2	P           	1-y ISZ	PS-1	1957 Oct  4	S00001	1957 Oct  4 1933	Earth	1958 Jan  4?	R	-	OKB1	SU	OKB1	PS	-	      84 	 	     84 	 	      84 	 	   0.6 	 	  0.6 	 	    2.9 	 	Sphere + Ant	1957 Oct  4	     214	 	     938	 	 65.10 	 	LLEO/I	-	:RE,:RC
 S00003    	00003	1957 BET	1957 BET 1	P A         	2-y ISZ	PS-2	1957 Nov  3	A00002	1957 Nov  3 0235	Earth	1958 Apr 14 0200?	AR	-	OKB1	SU	OKB1	PS	-	     508 	 	    508 	 	    8298 	?	   2.0 	 	  1.0 	 	    2.0 	 	Cone	1957 Nov  3	     211	 	    1659	 	 65.33 	 	LEO/I	-	:RE,:RC
