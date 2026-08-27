@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Aug 26 0110:42
+# Updated 2026 Aug 26 1436:16
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -8910,7 +8910,7 @@ S43662    	2018-083A	Zhongfa haiyang w. 1 hao	2018 Oct 29 	2023 Feb	*	*	-	CFOSat
 S43663    	2018-083B	Zhaojin 1 hao	2018 Oct 29 	2023 Feb	2024 Aug?	2024 Aug?	-	Tianyi	-	-	-	B	AST	S	-	XRA	CN	ST/SG/SER.E/898	   95.0 	     528	     528	 97.0 	2018 Oct 31 	     510	     523	 97.53 	-
 S43664    	2018-083C	Xiaoxiang 1 hao 02 xing	2018 Oct 29 	2023 Feb	2024?	2024?	-	Tianyi	-	-	-	B	TECH	S	-	-	CN	ST/SG/SER.E/898	   95.0 	     528	     528	 97.0 	2018 Oct 31 	     508	     523	 97.52 	-
 S43665    	2018-083D	Tianfuguoxing 1	2018 Oct 29 	2023 Feb	2024 Dec?	2024 Dec?	-	Guoxing	-	-	-	B	IMG	S	-	-	CN	ST/SG/SER.E/898*	-	-	-	-	2018 Oct 31 	     507	     523	 97.52 	-
-S43666    	2018-083E	BSUSat-1 (CubeBel-1)	2018 Oct 29 	2023 Feb	2024 Feb?	2024 Feb?	-	BNU	-	-	-	A	COM	S	-	-	BY	ST/SG/SER.E/875	   94.5 	     471	     534	 97.6 	2018 Oct 31 	     505	     524	 97.54 	-
+S43666    	2018-083E	BSUSat-1 (CubeBel-1)	2018 Oct 29 	2023 Feb	2024 Feb?	2024 Feb?	-	BSU	-	-	-	A	COM	S	-	-	BY	ST/SG/SER.E/875	   94.5 	     471	     534	 97.6 	2018 Oct 31 	     505	     524	 97.54 	-
 S43668    	2018-083G	Tianqi-1 hao G	2018 Oct 29 	2022 Nov	2024 Aug?	2024 Aug?	-	Tianqi	-	-	-	B	COM	S	-	-	CN	ST/SG/SER.E/898	   95.0 	     521	     521	 97.5 	2018 Oct 31 	     510	     522	 97.52 	-
 S43669    	2018-083H	TY-4 hao (Changsha gaoxin)	2018 Oct 29 	2023 Feb	2024 Apr?	2024 Apr?	-	Tianyi	-	-	-	B	COM	S	-	-	CN	ST/SG/SER.E/898	   95.0 	     528	     528	 97.0 	2018 Oct 31 	     510	     523	 97.53 	-
 S43672    	2018-084B	Ibuki 2	2018 Oct 29 	2023 Feb	*	*	-	NASDA RS	-	-	M	C	EOSCI	S	-	ATM	J	ST/SG/SER.E/869	   97.0 	     612	     615	 97.8 	2026 Aug  7 	     615	     616	 97.88 	Climate study - greenhouse gases
@@ -16705,7 +16705,7 @@ S57171    	2023-091F	Yarilo No. 4	2023 Jun 27 	2023 Jun 27	*	*	-	Yarilo	-	-	-	A	
 S57172    	2023-091G	UmKA	2023 Jun 27 	2023 Jun 27	*	*	-	Shk29 Podol'sk	-	-	-	A	TECH	S	-	-	RU	ST/SG/SER.E/1133	   95.6 	     552	     572	 97.7 	2023 Jul  6 	     544	     568	 97.66 	-
 S57173    	2023-091H	SATURN	2023 Jun 27 	2023 Jun 27	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1133	   95.6 	     546	     570	 97.7 	2023 Jul  6 	     547	     568	 97.66 	-
 S57174    	2023-091J	Impul's-1	2023 Jun 27 	2023 Jun 27	*	*	-	KGTU	-	-	-	A	TECH	S	-	-	RU	ST/SG/SER.E/1133	   95.9 	     565	     576	 97.7 	2023 Jul  6 	     547	     568	 97.66 	-
-S57175    	2023-091K	BSUSat-2	2023 Jun 27 	2023 Jun 27	*	*	-	BNU	-	-	-	A	COM	S	-	-	BY	ST/SG/SER.E/1154	   96.0 	     530	     580	 97.5 	2023 Jul  6 	     547	     569	 97.66 	-
+S57175    	2023-091K	BSUSat-2	2023 Jun 27 	2023 Jun 27	*	*	-	BSU	-	-	-	A	COM	S	-	-	BY	ST/SG/SER.E/1154	   96.0 	     530	     580	 97.5 	2023 Jul  6 	     547	     569	 97.66 	-
 S57176    	2023-091L	SITRO-AIS-5	2023 Jun 27 	2023 Jun 27	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1133	   95.5 	     542	     564	 97.7 	2023 Jul  6 	     544	     570	 97.67 	-
 S57177    	2023-091M	SXC12-222 ZORKIY-2M	2023 Jun 27 	2023 Jun 27	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	RU	ST/SG/SER.E/1133	   95.5 	     542	     562	 97.7 	2023 Jul  6 	     544	     569	 97.67 	-
 S57178    	2023-091N	CubeSX-HSE-3	2023 Jun 27 	2023 Jun 27	*	*	-	VSHE	-	-	-	A	IMG/COM	S	-	-	RU	ST/SG/SER.E/1133	   95.6 	     550	     559	 97.7 	2023 Jul  6 	     544	     569	 97.67 	-
@@ -19201,8 +19201,8 @@ S59965    	2024-108A	Prefire-1	2024 Jun  5 	2024 Jun  5	*	*	-	JPL Cube	-	-	-	C	E
 S59968    	2024-109A	Starliner Calypso 1	2024 Jun  5 	2024 Sep  7	2024 Sep  7	2024 Sep  7 0401:35	-	Starliner	-	-	M	B	SS	S	-	-	US	ST/SG/SER.E/1216	   92.9 	     410	     424	 51.6 	2024 Sep  9 	     415	     425	 51.64 	-
 S60012    	2024-110A	TEE-01B	2024 Jun  6 	2024 Jun  6	*	*	-	TEE	-	-	-	B	IMG	S	-	-	[CN]	-	-	-	-	-	2024 Sep  2 	     534	     550	 97.60 	-
 S60013    	2024-110B	Naxing 3A	2024 Jun  6 	2024 Jun  6	*	*	-	Naxing	-	-	-	A	IMG	S	-	-	[CN]	-	-	-	-	-	2024 Jun  8 	     539	     555	 97.60 	-
-S60014    	2024-110C	Naxing 3B	2024 Jun  6 	2024 Jun  6	*	*	-	Naxing	-	-	-	A	IMG	S	-	-	[CN]	-	-	-	-	-	2024 Jun  8 	     538	     555	 97.60 	-
-S60015    	2024-110D	Ai Shen	2024 Jun  6 	2024 Jun  6	*	*	-	Xinghe Dongli	-	-	-	B	TECH	S	-	-	[CN]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S60014    	2024-110C	Ai Shen	2024 Jun  6 	2026 Aug 24	2026 Aug 24	2026 Aug 24	-	Xinghe Dongli	-	-	M	B	TECH	S	-	-	[CN]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S60015    	2024-110D	Naxing 3B	2024 Jun  6 	2024 Jun  6	*	*	-	Naxing	-	-	-	A	IMG	S	-	-	[CN]	-	-	-	-	-	2024 Jun  8 	     538	     555	 97.60 	-
 S60016    	2024-111A	Starlink-31978	2024 Jun  8 	2024 Jun  8	*	*	-	Starlink 2M S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1216	   93.5 	     446	     448	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S60017    	2024-111B	Starlink-31987	2024 Jun  8 	2024 Jun  8	*	*	-	Starlink 2M S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1216	   93.5 	     447	     448	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S60018    	2024-111C	Starlink-31984	2024 Jun  8 	2024 Jun  8	*	*	-	Starlink 2M S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1216	   93.5 	     445	     448	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
