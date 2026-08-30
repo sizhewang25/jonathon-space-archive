@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Aug 28 1801:40
+# Updated 2026 Aug 29 2209:25
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -27868,7 +27868,7 @@ S69921    	2026-156BE	Kita-36	2026 Jul  7 	2026 Jul  7	*	*	-	Sony SCC	-	-	-	B	CO
 S69922    	2026-156BF	Posidonia	2026 Jul  7 	2026 Jul  7	*	*	-	OpenCosmos B	-	P	-	B	COM	S	-	-	[ESIB]	-	-	-	-	-	2026 Jul 20 	     585	     598	 97.75 	-
 S69923    	2026-156BG	RAFS Cubesat	2026 Jul  7 	2026 Jul  7	*	*	-	ITU	-	-	-	A	TECH	S	-	-	[TR]	-	-	-	-	-	2026 Jul 20 	     585	     598	 97.75 	-
 S69924    	2026-156BH	Centauri 9	2026 Jul  7 	2026 Jul  7	*	*	-	Fleet	-	-	-	B	COM	S	-	-	[AU]	-	-	-	-	-	2026 Jul 20 	     584	     598	 97.75 	-
-S69925    	2026-156BJ	SUCHAI-4	2026 Jul  7 	2026 Jul  7	*	*	-	UChile	-	-	-	A	TECH	S	-	-	[CL]	-	-	-	-	-	2026 Jul 20 	     584	     598	 97.75 	-
+S69925    	2026-156BJ	Earthtraq ET-01	2026 Jul  7 	2026 Jul  7	*	*	-	EarthTraq	-	-	-	B	NAV	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     583	     598	 97.75 	-
 S69926    	2026-156BK	Lemur-2-Jess-R	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     593	     598	 97.76 	-
 S69927    	2026-156BL	Replicator-2	2026 Jul  7 	2026 Jul  7	*	*	-	OrbMat	-	-	-	B	TECH	S	-	-	[PL]	-	-	-	-	-	2026 Jul 20 	     584	     597	 97.75 	-
 S69928    	2026-156BM	Lemur-2-Alyx	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     590	     598	 97.76 	-
@@ -27879,13 +27879,13 @@ S69932    	2026-156BR	Lemur-2-Nuray	2026 Jul  7 	2026 Jul  7	*	*	-	GHG	2	-	-	B	E
 S69933    	2026-156BS	Lemur-2-Crimborealis	2026 Jul  7 	2026 Jul  7	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     588	     598	 97.75 	-
 S69934    	2026-156BT	Lemur-2-Deloitte-4	2026 Jul  7 	2026 Jul  7	*	*	-	Deloitte	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     588	     598	 97.75 	-
 S69935    	2026-156BU	Kostka	2026 Jul  7 	2026 Jul  7	*	*	-	Brno	-	-	-	A	COM	S	-	-	[CZ]	-	-	-	-	-	2026 Jul 20 	     582	     598	 97.75 	-
-S69936    	2026-156BV	Earthtraq ET-01	2026 Jul  7 	2026 Jul  7	*	*	-	EarthTraq	-	-	-	B	NAV	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     583	     598	 97.75 	-
+S69936    	2026-156BV	SUCHAI-4	2026 Jul  7 	2026 Jul  7	*	*	-	UChile	-	-	-	A	TECH	S	-	-	[CL]	-	-	-	-	-	2026 Jul 20 	     584	     598	 97.75 	-
 S69937    	2026-156BW	Leonav-1	2026 Jul  7 	2026 Jul  7	*	*	-	UAEU	-	-	-	A	TECH	S	-	-	[UAE]	-	-	-	-	-	2026 Jul 20 	     580	     598	 97.75 	-
 S69938    	2026-156BX	Cybercube	2026 Jul  7 	2026 Jul  7	*	*	-	ESA Cube	-	-	-	C	TECH	S	-	-	[RO]	-	-	-	-	-	2026 Jul 20 	     582	     598	 97.75 	-
 S69939    	2026-156BY	CloudCT-Precursor	2026 Jul  7 	2026 Jul  7	*	*	-	Techsat	-	-	-	A	IMG	S	-	-	[IL]	-	-	-	-	-	2026 Jul 20 	     582	     597	 97.76 	-
 S69940    	2026-156BZ	Lemur-2-Eleonore	2026 Jul  7 	2026 Jul  7	*	*	-	GHG	2	-	-	B	EOSCI	S	-	-	[CA]	-	-	-	-	-	2026 Jul 20 	     581	     598	 97.76 	-
 S69941    	2026-156CA	Sentinel-1	2026 Jul  7 	2026 Jul  7	2026 Jul  7	2026 Jul  7	-	Ethereal	-	-	-	B	SCI	F	-	-	[D]	-	-	-	-	-	2026 Jul 19 	     584	     598	 97.75 	-
-S69942    	2026-156CB	Earthtraq ET-02	2026 Jul  7 	2026 Jul  7	*	*	-	EarthTraq	-	-	-	B	NAV	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     584	     598	 97.75 	-
+S69942    	2026-156CB	Earthtraq ET-03	2026 Jul  7 	2026 Jul  7	*	*	-	EarthTraq	-	-	-	B	NAV	S	-	-	[US]	-	-	-	-	-	2026 Jul 20 	     584	     598	 97.75 	-
 S69943    	2026-157A	Starlink 37886	2026 Jul  9 	2026 Jul  9	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     417	     419	 53.16 	-
 S69944    	2026-157B	Starlink 37937	2026 Jul  9 	2026 Jul  9	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     417	     420	 53.16 	-
 S69945    	2026-157C	Starlink 37903	2026 Jul  9 	2026 Jul  9	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     417	     419	 53.16 	-
