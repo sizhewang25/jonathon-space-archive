@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Aug 29 2207:27
+# Updated 2026 Aug 30 2124:10
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -16573,7 +16573,7 @@
 2022-077 	2022 Jul 11 0139:40	2022-077AE	P      L    	Starlink 4328	Starlink Group 3-1-29	S53071    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-077 	2022 Jul 11 0139:40	2022-077AF	P      L    	Starlink 4344	Starlink Group 3-1-30	S53072    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-077 	2022 Jul 11 0139:40	2022-077AG	P      R    	Starlink 4346	Starlink Group 3-1-31	S53073    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2022-077 	2022 Jul 11 0139:40	2022-077AH	P      L    	Starlink 4310	Starlink Group 3-1-32	S53074    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2022-077 	2022 Jul 11 0139:40	2022-077AH	P      R    	Starlink 4310	Starlink Group 3-1-32	S53074    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-077 	2022 Jul 11 0139:40	2022-077AJ	P      L    	Starlink 4348	Starlink Group 3-1-33	S53075    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-077 	2022 Jul 11 0139:40	2022-077AK	P      L    	Starlink 4347	Starlink Group 3-1-34	S53076    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-077 	2022 Jul 11 0139:40	2022-077AL	P      R    	Starlink 4315	Starlink Group 3-1-35	S53077    	SPXS	US	Falcon 9	165/B1063.6  F164	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
@@ -31429,3 +31429,5 @@
 2026-197 	2026 Aug 25 0935:11	2026-197AB	P      D    	Starlink 38378	Starlink Group 15-22-26	S100527   	SPXS	US	Falcon 9	xxx/B1082.24 F684	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-197 	2026 Aug 25 0935:11	2026-197AC	P      D    	Starlink 38145	Starlink Group 15-22-27	S100528   	SPXS	US	Falcon 9	xxx/B1082.24 F684	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-198 	2026 Aug 27 2011:00	2026-198A	P           	Meteosat 14	MTG-I2	S100530   	EUMET	I-EUM	Ariane 62	VA270 (L6009?)	-	CSG	ELA4	-	-	AE	F	OS  	youtube/arianespace
+2026-199 	2026 Aug 30 1125:49	2026-199A	P   D       	Roman Space Telescope	Roman Space Telescope	D01208    	GSFC	US	Falcon Heavy	031/B1105.1  -	-	KSC	LC39A	-	-	SPX	US	DS  	Wire
+2026-199 	2026 Aug 30 1125:49	2026-199A	P   D       	Roman Space Telescope	Roman Space Telescope	S100532   	GSFC	US	Falcon Heavy	031/B1105.1  -	-	KSC	LC39A	-	-	SPX	US	DS  	Wire
