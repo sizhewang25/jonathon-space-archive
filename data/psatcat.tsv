@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Sep  2 2143:17
+# Updated 2026 Sep  4 0831:02
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -3837,8 +3837,8 @@ S16109    	1984-104AC	Kosmos-1601 SS 21	1984 Sep 27 	1985 Oct  2	1985 Oct  2	198
 S16110    	1985-090A	Cosmos-1689	1985 Oct  3 	1986 Dec 25	1986 Dec 25	1986 Dec 25	-	Resurs-O1	-	-	-	C	IMG	S	IKI	-	SU	ST/SG/SER.E/140	   97.0 	     574	     663	 98.0 	1985 Oct 18 	     574	     655	 97.96 	-
 S16112    	1985-091A	Molniya-3	1985 Oct  3 	1990 Oct 22	1990 Oct 22	1990 Oct 22	-	Molniya-3	-	-	M	C	COM	S	-	-	SU	ST/SG/SER.E/146	  735.0 	     644	   40605	 62.9 	1990 Oct 24 	    2255	   38130	 64.59 	-
 S16115    	1985-092A	[STS-51J]	1985 Oct  3 	1985 Oct  7	1985 Oct  7	1985 Oct  7 1700	-	OV-104	-	-	M	C	SS	S	-	P/BIO	US	ST/SG/SER.E/143	   94.6 	     478	     515	 28.5 	1985 Oct  7 	       0	     514	 28.52 	Life sci, particles
-S16116    	1985-092B	[USA-11]	1985 Oct  3 	2003	2007?	 2007?	-	DSCS 3	-	-	M	D	COM	S	-	-	US	ST/SG/SER.E/143	 1436.0 	   35434	   35963	  0.3 	2008 Mar  9 	   36119	   36180	 10.37 	-
-S16117    	1985-092C	[USA-12]	1985 Oct  3 	2003	2007?	 2007?	-	DSCS 3	-	-	M	D	COM	S	-	-	US	ST/SG/SER.E/143	 1436.0 	   35633	   35963	  0.3 	2008 Nov 20 	   36036	   36073	 10.72 	-
+S16116    	1985-092B	[USA-11]	1985 Oct  3 	2003	2007?	2007?	-	DSCS 3	-	-	M	D	COM	S	-	-	US	ST/SG/SER.E/143	 1436.0 	   35434	   35963	  0.3 	2008 Mar  9 	   36119	   36180	 10.37 	-
+S16117    	1985-092C	[USA-12]	1985 Oct  3 	2003	2007?	2007?	-	DSCS 3	-	-	M	D	COM	S	-	-	US	ST/SG/SER.E/143	 1436.0 	   35633	   35963	  0.3 	2008 Nov 20 	   36036	   36073	 10.72 	-
 S16129    	1985-093A	[Navstar 11]	1985 Oct  9 	1994 Apr 13	1994 Apr 13	1994 Apr 13	-	GPS I	2	-	M	D	NAV	S	-	-	US	ST/SG/SER.E/143	  717.9 	   19822	   20540	 63.4 	1994 Apr 15 	   20459	   21243	 64.74 	-
 S16138    	1985-094A	Cosmos-1690	1985 Oct  9 	1986?	1988?	1988?	-	Strela-3	A	-	-	D	COM	S	-	-	SU	ST/SG/SER.E/140	  114.0 	    1400	    1439	 82.6 	1985 Oct 18 	    1382	    1416	 82.61 	-
 S16139    	1985-094B	Cosmos-1691	1985 Oct  9 	1986?	1988?	1988?	-	Strela-3	A	-	-	D	COM	S	-	-	SU	ST/SG/SER.E/140	  114.0 	    1400	    1439	 82.6 	1985 Oct 17 	    1412	    1416	 82.62 	-
@@ -14248,7 +14248,7 @@ S53496    	2022-099AH	Starlink-4465	2022 Aug 12 	2023 Mar  1	2025 Jun 25	2026 Ma
 S53497    	2022-099AJ	Starlink-4453	2022 Aug 12 	2023 Mar  1	*	*	-	Starlink 1.5 G3	3 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.5 	     540	     543	 97.7 	2026 Aug  7 	     548	     550	 97.29 	-
 S53498    	2022-099AK	Starlink-4439	2022 Aug 12 	2023 Mar  1	*	*	-	Starlink 1.5 G3	3 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.5 	     541	     544	 97.7 	2026 Aug  7 	     464	     466	 97.29 	-
 S53499    	2022-099AL	Starlink-4454	2022 Aug 12 	2023 Mar  1	*	*	-	Starlink 1.5 G3	3 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.5 	     540	     542	 97.7 	2026 Aug  7 	     391	     393	 97.60 	-
-S53500    	2022-099AM	Starlink-4455	2022 Aug 12 	2023 Mar  1	*	*	-	Starlink 1.5 G3	3 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.5 	     541	     543	 97.7 	2026 Aug  7 	     295	     297	 97.59 	-
+S53500    	2022-099AM	Starlink-4455	2022 Aug 12 	2023 Mar  1	2026 Apr  3	2026 Aug  6?	-	Starlink 1.5 G3	3 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.5 	     541	     543	 97.7 	2026 Aug  7 	     295	     297	 97.59 	-
 S53501    	2022-099AN	Starlink-4434	2022 Aug 12 	2023 Mar  1	*	*	-	Starlink 1.5 G3	3 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.4 	     538	     541	 97.7 	2026 Aug  7 	     454	     455	 97.58 	-
 S53502    	2022-099AP	Starlink-4435	2022 Aug 12 	2023 Mar  1	*	*	-	Starlink 1.5 G3	3 2	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.5 	     539	     542	 97.7 	2026 Aug  7 	     453	     456	 97.58 	-
 S53503    	2022-099AQ	Starlink-4461	2022 Aug 12 	2023 Mar  1	2025 Jul  3	2026 Mar 28?	-	Starlink 1.5 G3	3 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.4 	     538	     541	 97.7 	2026 Mar 30 	     227	     231	 97.63 	-
