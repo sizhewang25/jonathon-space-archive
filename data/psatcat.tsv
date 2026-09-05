@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Sep  4 0831:02
+# Updated 2026 Sep  4 2346:11
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -9841,7 +9841,7 @@ S45265    	1998-067RJ	ICS-EF subsystem	2009 Jul 15 	2020 Feb 21	2020 Feb 21	2020
 S45341    	2020-016A	Dragon CRS-20	2020 Mar  7 	2020 Apr  7	2020 Apr  7	2020 Apr  7 1850	-	Dragon	-	-	M	B	SS	S	-	-	US	ST/SG/SER.E/942	   92.9 	     408	     422	 51.6 	2020 Apr  7 	      29	     422	 51.64 	-
 S45344    	2020-017A	di 54 ke Beidou Daohang WX.	2020 Mar  9 	2023 Feb	*	*	-	Beidou-3G	2	-	M	D	NAV	S	-	-	CN	ST/SG/SER.E/1033	 1436.1 	   35774	   35799	  2.3 	2026 Aug  7 	   35779	   35794	  2.96 	-
 S45358    	2020-018A	Kosmos-2545	2020 Mar 16 	2023 Feb	*	*	-	Uragan-M	-	-	M	D	NAV	S	-	-	RU	ST/SG/SER.E/938	  676.2 	   19129	   19155	 64.8 	2026 Aug  7 	   19102	   19156	 64.32 	-
-S45360    	2020-019A	Starlink 1279	2020 Mar 18 	2023 Mar  1	*	*	-	Starlink 1.0	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/942	   92.1 	     379	     381	 53.0 	2026 Aug  8 	     283	     287	 53.03 	-
+S45360    	2020-019A	Starlink 1279	2020 Mar 18 	2023 Mar  1	2025 Oct 12	2025 Oct 26?	-	Starlink 1.0	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/942	   92.1 	     379	     381	 53.0 	2026 Aug  8 	     283	     287	 53.03 	-
 S45361    	2020-019B	Starlink 1301	2020 Mar 18 	2023 Mar  1	2025 Oct 10	2025 Oct 25?	-	Starlink 1.0	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/942	   92.2 	     379	     381	 53.0 	2026 Aug  8 	     276	     280	 53.03 	-
 S45362    	2020-019C	Starlink 1306	2020 Mar 18 	2023 Mar  1	2025 Jul 21	2025 Aug  7?	-	Starlink 1.0	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/942	   93.6 	     450	     453	 53.0 	2025 Aug  9 	     426	     427	 53.05 	-
 S45363    	2020-019D	Starlink 1311	2020 Mar 18 	2020 Apr  5	2020 Apr  5?	2020 Apr  5?	-	Starlink 1.0	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/942	   92.0 	     372	     374	 53.0 	2020 Apr  8 	     376	     378	 53.00 	-
