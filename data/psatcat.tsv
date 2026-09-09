@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Sep  7 2242:19
+# Updated 2026 Sep  9 0144:09
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -5207,7 +5207,7 @@ S22978    	1994-007A	OREX	1994 Feb  3 	1994 Feb  3	1994 Feb  3	1994 Feb  4 0033	
 S22979    	1994-007B	VEP	1994 Feb  3 	1994 Feb  7	1994 Feb  7	1994 Feb  7	-	NASDA Tech	-	-	-	C	TECH	S	-	-	J	ST/SG/SER.E/272	  645.0 	     449	   36261	 28.6 	-	       0	       0	  0.00 	-
 S22981    	1994-008A	Raduga-1	1994 Feb  5 	1999 Sep	1999 Sep	1999 Sep	-	Globus	-	-	M	D	COM	S	-	-	RU	ST/SG/SER.E/275	 1473.0 	   36513	   36513	  1.4 	1999 Sep  3 	   35773	   35793	  2.69 	-
 S22987    	1994-004C	[ISA]	1994 Jan 25 	1994 May 12	1994 May 12	1994 May 12	-	DSPSE	-	-	-	C	SCI	S	-	P/F*	US	ST/SG/SER.E/274	 3074.0 	     360	  126950	 66.1 	1994 Feb  7 	     322	  126975	 66.34 	UN-registered as non-payload
-S22988    	1994-009A	[Milstar 1-01]	1994 Feb  7 	2023 Feb	*	*	-	Milstar	-	-	M	D	COM	S	-	-	US	ST/SG/SER.E/274	 1434.0 	   35733	   35790	 12.0 	2026 Aug  7 	   36217	   36237	 17.70 	-
+S22988    	1994-009A	[Milstar 1-01]	1994 Feb  7 	2026 Apr	2026 Apr 30	2026 May  1	-	Milstar	-	-	M	D	COM	S	-	-	US	ST/SG/SER.E/274	 1434.0 	   35733	   35790	 12.0 	2026 Aug  7 	   36217	   36237	 17.70 	-
 S22990    	1994-006B	[ODERACS A]	1994 Feb  3 	1994 Feb  9	1994 Feb  9	1994 Feb  9	-	ODERACS	-	-	-	C	CAL	S	-	-	US	ST/SG/SER.E/274	   91.3 	     327	     352	 57.0 	1994 Feb 12 	     332	     357	 56.98 	-
 S22991    	1994-006C	[ODERACS B]	1994 Feb  3 	1994 Feb  9	1994 Feb  9	1994 Feb  9	-	ODERACS	-	-	-	C	CAL	S	-	-	US	ST/SG/SER.E/274	   91.4 	     332	     352	 57.0 	1994 Feb 12 	     335	     356	 56.99 	-
 S22992    	1994-006D	[ODERACS C]	1994 Feb  3 	1994 Feb  9	1994 Feb  9	1994 Feb  9	-	ODERACS	-	-	-	C	CAL	S	-	-	US	ST/SG/SER.E/274	-	-	-	-	1994 Feb 17 	     329	     353	 56.99 	-
@@ -5352,7 +5352,7 @@ S23545    	1995-017A	[Orbcomm FM1]	1995 Apr  3 	1998 Mar  1	1998 Mar  1	1998 Mar
 S23546    	1995-017B	[Orbcomm FM2]	1995 Apr  3 	2007 Apr	2007 Apr  1	2007 Apr  1	-	Orbcomm	2	-	-	B	COM	S	-	-	US	ST/SG/SER.E/293	   99.6 	     732	     746	 69.9 	1995 Apr  5 	     734	     747	 69.98 	-
 S23547    	1995-017C	[Microlab 1]	1995 Apr  3 	2000 Apr	2000 Apr  3	2000 Apr  3	-	OrbView	-	-	-	B	IMG	S	-	ATM	US	ST/SG/SER.E/293	   99.6 	     729	     748	 69.9 	1995 Apr  6 	     733	     748	 69.98 	Lightning study
 S23549    	1995-018A	OFFEQ 3	1995 Apr  5 	2000 Jan?	2000 Jan?	2000 Jan?	-	Ofeq	-	-	-	C	IMG	S	-	-	IL	A/AC.105/INF.399	   95.7 	     354	     750	143.4 	1995 Apr  7 	     367	     728	143.38 	-
-S23553    	1995-019A	[AMSC 1]	1995 Apr  7 	2023 Feb  4	*	*	-	AMSC	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/293	  715.0 	     177	   40042	 26.6 	2026 Aug  7 	   36106	   36240	 13.38 	-
+S23553    	1995-019A	[AMSC 1]	1995 Apr  7 	2024 Jul  1	2024 Jun 18	2024 Jul  2	-	AMSC	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/293	  715.0 	     177	   40042	 26.6 	2026 Aug  7 	   36106	   36240	 13.38 	-
 S23555    	1995-020A	Progress M-27	1995 Apr  9 	1995 May 23	1995 May 23	1995 May 23	-	Progress M	-	-	M	C	SS	S	-	-	RU	ST/SG/SER.E/286	   88.6 	     193	     242	 51.6 	1995 May 23 	     396	     399	 51.64 	-
 S23558    	1986-017JE	GFZ-1	1995 Apr  9 	1995 Apr 19	1995 Apr 19	1995 Apr 19	-	GFZ	-	-	-	C	GEOD	S	-	GEOD	RU*	ST/SG/SER.E/286	   92.3 	     386	     411	 51.6 	1995 Apr 22 	     384	     393	 51.65 	Laser reflector
 S23560    	1995-021A	ERS-1/2	1995 Apr 21 	2011 Jul	2011 Jul  6	2011 Sep  5	-	ESA ERS	-	-	-	C	IMG-R/SCI	S	-	ATM/ALT	I-ESA	ST/SG/SER.E/285	  101.0 	     798	     798	 98.5 	1995 Apr 23 	     773	     776	 98.54 	SAR, Altimeter, radiometer
@@ -5604,7 +5604,7 @@ S24925    	1997-048A	Iridium MFS	1997 Sep  1 	1997 Sep	1997 Sep	1997 Sep	-	Iridi
 S24926    	1997-048B	Iridium MFS	1997 Sep  1 	1997 Sep	1997 Sep	1997 Sep	-	Iridium	D	-	M	C	COM	S	-	-	CN	ST/SG/SER.E/356	  100.0 	     626	     638	 86.4 	1997 Sep  3 	     622	     633	 86.34 	-
 S24931    	1997-049A	HotBird 3	1997 Sep  2 	2006 Aug	2011 Jun 30?	2011 Jun 30?	-	Eutelsat HB	-	-	M	C	COM	S	-	-	F	ST/SG/SER.E/445	-	-	-	-	2011 Jul  4 	   35710	   35858	  2.14 	-
 S24932    	1997-049B	Meteosat-7	1997 Sep  2 	2017 Apr	2017 Apr	2017 Apr  9	-	Meteosat	-	-	M	C	MET	S	-	-	I-EUM	ST/SG/SER.E/338	-	   35786	   35786	  0.0 	2017 Apr 11 	   36184	   36506	 10.65 	-
-S24936    	1997-050A	[GE 3]	1997 Sep  4 	2023 Feb  5	*	*	-	GE	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/339	 1439.4 	   35752	   35953	  0.0 	2026 Aug  7 	   36110	   36145	  8.29 	-
+S24936    	1997-050A	[GE 3]	1997 Sep  4 	2026 Jun 12	2026 Jun  2	2026 Jun 12	-	GE	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/339	 1439.4 	   35752	   35953	  0.0 	2026 Aug  7 	   36110	   36145	  8.29 	-
 S24944    	1997-051A	Iridium 29	1997 Sep 14 	2006 Aug	2014 Jan?	2014 Jan?	-	Iridium	B	-	M	B	COM	S	-	-	US	ST/SG/SER.E/688	-	-	-	-	2014 Jan  2 	     776	     779	 86.40 	-
 S24945    	1997-051B	Iridium 32	1997 Sep 14 	2006 Aug	2019 Feb  8	2019 Feb 14	-	Iridium	B	-	M	B	COM	S	-	-	US	ST/SG/SER.E/688	-	-	-	-	2019 Feb 16 	     170	     689	 86.37 	-
 S24946    	1997-051C	[Iridium 33]	1997 Sep 14 	2009 Feb	2009 Feb 10	2009 Feb 10	-	Iridium	B	-	M	B	COM	S	-	-	[US]	-	-	-	-	-	2009 Feb 12 	     775	     791	 86.39 	-
@@ -5997,7 +5997,7 @@ S26298    	2000-020A	[Galaxy 4R]	2000 Apr 19 	2009 Mar	2009 Apr  1	2009 Apr 20	-
 S26301    	2000-021A	Progress M1-2	2000 Apr 25 	2000 Oct 15	2000 Oct 15	2000 Oct 15	-	Progress M1	-	-	M	C	SS	S	TsUP	-	RU	ST/SG/SER.E/384	   88.7 	     193	     254	 51.6 	2000 Oct 17 	     326	     337	 51.65 	-
 S26352    	2000-022A	[GOES 11]	2000 May  3 	2006 Aug	2011 Dec  6	2011 Dec 16	-	GOES Next	-	-	M	C	MET	S	-	-	US	ST/SG/SER.E/379	 1436.2 	   35782	   35797	  0.2 	2011 Dec 18 	   35951	   36263	  0.51 	-
 S26354    	2000-023A	Cosmos-2370	2000 May  3 	2001 May  3	2001 May  3	2001 May  3	-	Neman	-	-	M	D	IMG	S	Gol-2	-	RU	ST/SG/SER.E/384	   89.1 	     189	     300	 64.8 	2001 May  3 	     203	     248	 64.69 	-
-S26356    	2000-024A	[DSP]	2000 May  8 	2023 Feb  5	*	*	-	DSP-14	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/379	 1443.9 	   35911	   35970	  2.9 	2026 Aug  7 	   35783	   35791	 13.21 	-
+S26356    	2000-024A	[DSP]	2000 May  8 	2026 Sep  3	2026 Sep  3	2026 Sep  3	-	DSP-14	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/379	 1443.9 	   35911	   35970	  2.9 	2026 Aug  7 	   35783	   35791	 13.21 	-
 S26360    	2000-025A	[GPS]	2000 May 11 	2023 Feb  5	*	*	-	GPS IIR	3	-	M	D	NAV	S	2SOPS/Schriever	-	US	ST/SG/SER.E/379	  718.0 	   20131	   20254	 54.8 	2026 Aug  7 	   20125	   20238	 55.17 	-
 S26365    	2000-026A	IKA-1	2000 May 16 	2000 May 16	2000 May 16	2000 May 16	-	Eurockot	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/384	   95.3 	     546	     547	 86.2 	2000 May 19 	     543	     557	 86.38 	-
 S26366    	2000-026B	IKA-2	2000 May 16 	2000 May 16	2000 May 16	2000 May 16	-	Eurockot	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/384	   95.3 	     546	     547	 86.2 	2000 May 20 	     542	     555	 86.38 	-
@@ -6127,7 +6127,7 @@ S26864    	2001-029B	[BSAT-2b]	2001 Jul 12 	2001 Sep?	2001 Sep?	2001 Sep?	-	BSAT
 S26867    	2001-030A	Molniya-3K	2001 Jul 20 	2002	2010?	2010?	-	Molniya-3K	-	-	M	C	COM	S	-	-	RU	ST/SG/SER.E/399	  736.0 	     455	   40811	 62.7 	2010 Jan  2 	    1665	   38684	 64.11 	C comms
 S26871    	2001-031A	[GOES 12]	2001 Jul 23 	2013 Aug	2013 Aug 16	2013 Aug 16	-	GOES Next	-	-	M	C	MET	S	-	-	US	ST/SG/SER.E/400	 1436.1 	   35770	   35803	  0.3 	2013 Aug 21 	   36090	   36126	  3.62 	Weather satellite
 S26873    	2001-032A	Koronas-F	2001 Jul 31 	2005 May?	2005 May?	2005 May?	-	AUOS	-	-	-	C	AST	S	-	SX*	RU	ST/SG/SER.E/399	   94.9 	     505	     544	 82.5 	2001 Aug  2 	     486	     530	 82.49 	Solar physics
-S26880    	2001-033A	[DSP]	2001 Aug  6 	2023 Feb  6	*	*	-	DSP-14	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/400	  639.1 	     367	   36033	 28.1 	2026 Aug  7 	   36081	   36100	 12.83 	Early Warning satellite
+S26880    	2001-033A	[DSP]	2001 Aug  6 	2026 Mar  8	2026 Mar  8	2026 Mar  8	-	DSP-14	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/400	  639.1 	     367	   36033	 28.1 	2026 Aug  7 	   36081	   36100	 12.83 	Early Warning satellite
 S26884    	2001-034A	[Genesis]	2001 Aug  8 	2004 Dec  1	2004 Dec  1	2004 Dec  1	-	Discovery	-	-	M	C	PLAN	S	JPL/LMA	PL	US	ST/SG/SER.E/400	  124.9 	     189	    3609	 26.8 	-	       0	       0	  0.00 	Solar wind collection probe at L1
 S26888    	2001-035A	[STS]	2001 Aug 10 	2001 Aug 22	2001 Aug 22	2001 Aug 22 1823	-	STS	-	-	M	C	SS	S	JSC	-	US	ST/SG/SER.E/400	   92.3 	     373	     402	 51.6 	2025 Jul 26 	     561	     563	 70.00 	Spaceship docked with ISS and returned.
 S26889    	2001-035B	[Simplesat]	2001 Aug 10 	2001 Aug 20?	2001 Aug 20?	2001 Aug 20?	-	Simplesat	-	-	-	C	AST	F	GSFC	OA	US	ST/SG/SER.E/400	   92.4 	     385	     404	 51.6 	2001 Aug 23 	     384	     402	 51.64 	Optical telescope
@@ -6360,7 +6360,7 @@ S28158    	2004-004A	USA 176	2004 Feb 14 	2023 Feb  6	*	*	-	DSP-14	-	-	M	D	EW	S	
 S28163    	2004-005A	Molniya-1T	2004 Feb 18 	2005	2010?	2010?	-	Molniya-1T	-	-	M	D	COM	S	-	-	RU	ST/SG/SER.E/450	  735.0 	     637	   40614	 62.8 	2010 Jan  2 	    1310	   39051	 64.89 	-
 S28169    	2004-006A	Rosetta	2004 Mar  2 	2016 Sep 30	2016 Sep 30	2016 Sep 30	-	ESA Plan	-	-	M	C	PLAN	S	-	PL	I-ESA	ST/SG/SER.E/447	-	-	-	-	-	       0	       0	  0.00 	Comet lander
 S28184    	2004-007A	[MBSAT]	2004 Mar 13 	2023 Feb  5	*	*	-	MBSAT	-	-	M	B	COM	S	SPE/Ibaraki	-	[KR]*	-	-	-	-	-	2026 Aug  7 	   35765	   35807	  6.17 	-
-S28187    	2004-008A	EUTELSAT W3A	2004 Mar 15 	2023 Feb  5	*	*	-	Eutelsat W	-	-	M	B	COM	S	Eutelsat/Paris	-	F	ST/SG/SER.E/461	 1436.0 	   35761	   35811	  1.3 	2026 Aug  7 	   36179	   36225	  5.96 	-
+S28187    	2004-008A	EUTELSAT W3A	2004 Mar 15 	2026 Apr  5	2026 Apr  5	2026 Apr  5?	-	Eutelsat W	-	-	M	B	COM	S	Eutelsat/Paris	-	F	ST/SG/SER.E/461	 1436.0 	   35761	   35811	  1.3 	2026 Aug  7 	   36179	   36225	  5.96 	-
 S28190    	2004-009A	Navstar 54	2004 Mar 20 	2023 Feb  5	*	*	-	GPS IIR	3	-	M	D	NAV	S	-	-	US	ST/SG/SER.E/451	  355.8 	     183	   20201	 38.9 	2026 Aug  7 	   19870	   20496	 54.79 	-
 S28194    	2004-010A	Globus-1	2004 Mar 27 	2010 Jan	2010 Dec?	2010 Dec?	-	Globus	-	-	M	D	COM	S	-	-	RU	ST/SG/SER.E/450	 1437.0 	   35887	   35916	  1.3 	2010 Dec  2 	   35778	   35797	  5.12 	-
 S28218    	2004-011A	Superbird A2	2004 Apr 16 	2005 Apr 12	2005 Mar 25	2005 Apr 12 0816	-	Superbird	-	-	M	B	COM	S	-	-	J	ST/SG/SER.E/471	 1436.0 	   35779	   35800	  0.0 	2005 Apr 25 	   35970	   36061	  0.44 	-
@@ -6460,7 +6460,7 @@ S28775    	2005-026A	STS-114	2005 Jul 26 	2005 Aug  9	2005 Aug  9	2005 Aug  9 12
 S28776    	2005-027A	Recoverable sat (21)	2005 Aug  2 	2005 Aug 28	2005 Aug 28	2005 Aug 28	-	FSW3	-	-	D	D	IMG	S	-	-	CN	ST/SG/SER.E/500	   91.0 	     169	     507	 63.0 	2005 Aug 30 	     169	     551	 63.00 	-
 S28786    	2005-028A	[Thaicom 4]	2005 Aug 11 	2023 Feb  6	*	*	-	Thaicom	-	-	M	B	COM	S	-	-	[T]	-	-	-	-	-	2026 Aug  7 	   35781	   35791	  0.37 	-
 S28788    	2005-029A	MRO	2005 Aug 12 	2023 Feb  6	*	*	E	Mars Program	-	-	M	C	PLAN	S	JPL/LMA	PL	US	ST/SG/SER.E/482	   88.2 	     183	     187	 38.9 	-	       0	       0	  0.00 	Mars orbiter
-S28790    	2005-030A	Galaxy 14	2005 Aug 13 	2023 Feb  6	*	*	-	Galaxy	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/482	 1311.5 	     291	   66023	 49.2 	2026 Aug  7 	   36158	   36183	  5.16 	-
+S28790    	2005-030A	Galaxy 14	2005 Aug 13 	2024 Oct 28	2024 Oct 28	2024 Oct 28	-	Galaxy	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/482	 1311.5 	     291	   66023	 49.2 	2026 Aug  7 	   36158	   36183	  5.16 	-
 S28809    	2005-031A	OICETS	2005 Aug 23 	2009 Sep 24	2009 Sep 24	2009 Sep 24	-	JAXA CTS	-	-	-	C	COM	S	-	-	J	ST/SG/SER.E/486	   97.0 	     610	     611	 97.8 	2005 Aug 26 	     597	     612	 97.83 	-
 S28810    	2005-031B	INDEX	2005 Aug 23 	2018 Jan	2025 Jul	2026 Mar  4	-	Reimei	-	-	-	C	SCI	S	Sagamihara	AUR/P	J	ST/SG/SER.E/486	   97.0 	     609	     655	 97.8 	2005 Aug 26 	     602	     648	 97.83 	Auroral imager, particles
 S28822    	2005-032A	Monitor-E	2005 Aug 26 	2010 Jan 31	2008 Aug?	2008 Aug	-	Monitor	-	-	-	B	IMG	F	-	-	RU	ST/SG/SER.E/483	  105.0 	     517	     538	 97.4 	2005 Aug 28 	     524	     544	 97.56 	-
@@ -6508,7 +6508,7 @@ S28939    	2006-005A	ASTRO-F "Akari"	2006 Feb 21 	2011 Nov 24	2011 Jun	2011 Nov 
 S28941    	2006-005C	Cute-1.7+APD	2006 Feb 21 	2006 Mar 15?	2006 Mar 15?	2006 Mar 15?	-	TIT	-	-	-	A	COM	S	TITech	-	J	ST/SG/SER.E/510	   94.6 	     300	     696	 98.2 	2006 Feb 23 	     298	     711	 98.19 	-
 S28943    	2006-006A	[Arabsat 4A]	2006 Feb 28 	2006 Mar 24	2006 Mar 24	2006 Mar 24	-	Arabsat	-	-	M	B	COM	S	-	-	[D]	-	-	-	-	-	2006 Mar 23 	     492	   14688	 51.56 	-
 S28945    	2006-007A	SpainSat	2006 Mar 11 	2023 Feb  5	*	*	-	Hisdesat	-	-	M	D	COM	S	-	-	E	ST/SG/SER.E/955	 1440.0 	   35786	   35786	  0.0 	2026 Aug  7 	   35767	   35806	  0.69 	-
-S28946    	2006-007B	HotBird 7A	2006 Mar 11 	2023 Feb  5	*	*	-	Eutelsat HB	-	-	M	B	COM	S	-	-	F	ST/SG/SER.E/499	 1436.0 	   35768	   35804	  0.0 	2026 Aug  7 	   36368	   36435	  2.22 	-
+S28946    	2006-007B	HotBird 7A	2006 Mar 11 	2025 Jun  9	2025 Jun  1	2025 Jun  9	-	Eutelsat HB	-	-	M	B	COM	S	-	-	F	ST/SG/SER.E/499	 1436.0 	   35768	   35804	  0.0 	2026 Aug  7 	   36368	   36435	  2.22 	-
 S28980    	2006-008A	ST5-A	2006 Mar 22 	2006 Jun 30	2006 Jun 30	2006 Jun 30	-	NewMil	-	-	-	C	SCI	S	GSFC	F	US	ST/SG/SER.E/493	  137.0 	     299	    4555	105.6 	2006 Mar 24 	     302	    4552	105.62 	Magnetometer
 S28981    	2006-008B	ST5-B	2006 Mar 22 	2006 Jun 30	2006 Jun 30	2006 Jun 30	-	NewMil	-	-	-	C	SCI	S	GSFC	F	US	ST/SG/SER.E/493	  136.5 	     298	    4514	105.6 	2006 Mar 24 	     302	    4548	105.62 	Magnetometer
 S28982    	2006-008C	ST5-C	2006 Mar 22 	2006 Jun 30	2006 Jun 30	2006 Jun 30	-	NewMil	-	-	-	C	SCI	S	GSFC	F	US	ST/SG/SER.E/493	  136.9 	     301	    4548	105.7 	2006 Mar 24 	     302	    4552	105.62 	Magnetometer
@@ -6574,7 +6574,7 @@ S29522    	2006-050A	DMSP 5D-3 F17	2006 Nov  4 	2023 Feb	*	*	-	DMSP 5D-3	-	-	-	D
 S29526    	2006-051A	[Arabsat 4A]	2006 Nov  8 	2023 Feb  5	*	*	-	Arabsat	-	-	M	B	COM	N	-	-	[I-ARAB]	-	-	-	-	-	2026 Aug  7 	   35766	   35806	  2.13 	-
 S29601    	2006-052A	Navstar 59 (USA 192)	2006 Nov 17 	2023 Feb  5	*	*	-	GPS IIRM	3	-	M	D	NAV	S	CSOC/Schriever	-	US	ST/SG/SER.E/506	  717.9 	   20088	   20277	 55.0 	2026 Aug  7 	   19957	   20407	 54.93 	Global Positioning System navigation satellite.
 S29640    	2006-053A	FY-2D	2006 Dec  8 	2019 Jan 25	2019 Jan 25	2019 Jan 25	-	FY-2	-	-	M	C	MET	S	Xi'an	-	CN	ST/SG/SER.E/566	-	-	-	-	2019 Jan 29 	   36329	   36430	  5.98 	-
-S29643    	2006-054A	WildBlue 1	2006 Dec  8 	2023 Feb  5	*	*	-	WildBlue	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/514	  636.8 	     307	   35978	  2.3 	2026 Aug  7 	   36075	   36117	  2.93 	-
+S29643    	2006-054A	WildBlue 1	2006 Dec  8 	2026 Jul 28	2026 Jul 22	2026 Jul 28	-	WildBlue	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/514	  636.8 	     307	   35978	  2.3 	2026 Aug  7 	   36075	   36117	  2.93 	-
 S29644    	2006-054B	AMC 18	2006 Dec  8 	2023 Nov  4	2023 Nov  4	2023 Nov  9	-	AMC	-	-	M	B	COM	S	-	-	UK	ST/SG/SER.E/554	  644.1 	     294	   35909	  1.8 	2023 Nov 11 	   36149	   36226	  0.17 	-
 S29647    	2006-055A	STS-116	2006 Dec 10 	2006 Dec 22	2006 Dec 22	2006 Dec 22 2232	-	STS	-	-	M	C	SS	S	-	-	US	ST/SG/SER.E/514	   89.3 	     228	     254	 51.6 	2006 Dec 22 	     313	     339	 51.63 	-
 S29648    	2006-056A	MEASAT-3	2006 Dec 11 	2021 Aug 30	2021 Jun 21	2021 Sep 10	-	Measat	-	-	M	B	COM	S	-	-	MY	A/AC.105/INF.415	 1437.6 	   35788	   35788	  0.0 	2021 Sep 12 	   35927	   35941	  0.25 	-
@@ -6656,7 +6656,7 @@ S31789    	2007-028A	Genesis 2	2007 Jun 28 	2009 Dec?	2009 Dec?	2009 Dec?	-	Bige
 S31792    	2007-029A	Cosmos-2428	2007 Jun 29 	2007 Jul	2020?	2020?	-	Tselina-2	-	-	-	D	SIG	S	Gol-2	-	RU	ST/SG/SER.E/520	-	-	-	-	2007 Jul  1 	     846	     856	 70.98 	-
 S31797    	2007-030A	SAR-Lupe SL 2	2007 Jul  2 	2025 Sep	2025 Oct?	*	-	SAR-Lupe	-	-	M	D	IMG-R	S	GSCC	-	D	ST/SG/SER.E/569	   94.4 	     474	     524	 98.2 	2026 Aug  7 	     390	     400	 98.11 	-
 S31800    	2007-031A	Zhongxing-6B	2007 Jul  5 	2025 Nov 25	2025 Nov 25	2025 Dec  2	-	ZX	-	-	M	C	COM	S	CAST/Beijing?	-	CN	ST/SG/SER.E/566	-	-	-	-	2025 Dec  8 	   36088	   36172	  1.95 	-
-S31862    	2007-032A	DirecTV 10	2007 Jul  7 	2023 Feb  6	*	*	-	DirecTV	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/524	  635.8 	     415	   35815	 45.5 	2026 Aug  7 	   36318	   36357	  0.54 	-
+S31862    	2007-032A	DirecTV 10	2007 Jul  7 	2026 Feb 11	2026 Feb  1	2026 Feb 11	-	DirecTV	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/524	  635.8 	     415	   35815	 45.5 	2026 Aug  7 	   36318	   36357	  0.54 	-
 S32001    	2007-033A	Progress M-61	2007 Aug  2 	2008 Jan 22	2008 Jan 22	2008 Jan 22	-	Progress M	-	-	M	C	SS	S	TsUP	-	RU	ST/SG/SER.E/523	   88.8 	     191	     268	 51.6 	2008 Jan 22 	     324	     335	 51.64 	-
 S32003    	2007-034A	Phoenix	2007 Aug  4 	2008 Nov  2	2008 Nov  2	2008 Nov  2	-	Mars Scout	-	-	M	C	PLAN	S	JPL/LMA	PL	US	ST/SG/SER.E/524	   87.8 	     170	     170	 28.5 	-	       0	       0	  0.00 	Mars lander
 S32008    	2007-035A	STS-118	2007 Aug  8 	2007 Aug 21	2007 Aug 21	2007 Aug 21 1632	-	STS	-	-	M	C	SS	S	JSC	-	US	ST/SG/SER.E/524	   90.0 	     230	     318	 51.6 	2007 Aug 21 	     -28	     342	 51.63 	-
@@ -6713,7 +6713,7 @@ S32500    	2008-007A	WINDS	2008 Feb 23 	2019 Feb 23	2019 Feb 23	2019 Feb 27	-	JA
 S32686    	2008-008A	Jules Verne	2008 Mar  9 	2008 Sep 29	2008 Sep 29	2008 Sep 29	-	ATV	-	-	M	C	SS	S	CNES-T	-	I-ESA	ST/SG/SER.E/591	   89.8 	     254	     272	 51.6 	2008 Sep 29 	     -11	     334	 51.64 	-
 S32699    	2008-009A	STS 123	2008 Mar 11 	2008 Mar 27	2008 Mar 27	2008 Mar 27 0039	-	STS	-	-	M	C	SS	S	JSC	-	US	ST/SG/SER.E/547	-	-	-	-	2008 Mar 26 	     341	     346	 51.64 	-
 S32706    	2008-010A	USA 200	2008 Mar 13 	2022 Oct	*	*	-	HEO SIGINT	-	-	M	D	SIG*	S	Schriever?	P/F	US	ST/SG/SER.E/547	-	-	-	-	2025 Apr  3 	    1056	   39295	 63.64 	Magnetosphere (TWINS-B)
-S32708    	2008-011A	AMC 14	2008 Mar 14 	2025 May  1	2025 May  1	*	-	AMC	-	-	M	B	COM	S	Woodbine?	-	US	ST/SG/SER.E/688	-	-	-	-	2026 Aug  6 	   35587	   35904	 24.07 	-
+S32708    	2008-011A	AMC 14	2008 Mar 14 	2025 May  1	2025 May  1	2026?	-	AMC	-	-	M	B	COM	S	Woodbine?	-	US	ST/SG/SER.E/688	-	-	-	-	2026 Aug  6 	   35587	   35904	 24.07 	-
 S32711    	2008-012A	Navstar 62 (USA 201)	2008 Mar 15 	2023 Feb  5	*	*	-	GPS IIRM	3	-	M	D	NAV	S	CSOC/Schriever	-	US	ST/SG/SER.E/547	-	-	-	-	2026 Aug  7 	   19622	   20744	 54.50 	Global Positioning System navigation satellite.
 S32729    	2008-013A	DirectTV 11	2008 Mar 19 	2023 Feb  5	*	*	-	DirecTV	-	-	M	B	COM	S	DTV/Long Beach	-	US	ST/SG/SER.E/547	-	-	-	-	2026 Aug  7 	   35786	   35787	  0.01 	-
 S32750    	2008-014A	SAR-Lupe SL 4	2008 Mar 27 	2020	*	*	-	SAR-Lupe	-	-	M	D	IMG-R	S	GSOC	-	D	ST/SG/SER.E/569	   94.4 	     477	     518	 98.2 	2026 Feb  4 	     479	     483	 98.13 	-
@@ -6754,7 +6754,7 @@ S33064    	2008-031E	Orbcomm FM37	2008 Jun 19 	2009?	2009?	2009?	-	Orbcomm	1	-	-
 S33065    	2008-031F	Orbcomm FM40	2008 Jun 19 	2009?	2009?	2009?	-	Orbcomm	1	-	-	B	COM	S	-	-	US	ST/SG/SER.E/562	   98.0 	     661	     673	 48.5 	2008 Jun 30 	     661	     671	 48.45 	-
 S33105    	2008-032A	Jason 2	2008 Jun 20 	2019 Oct  1	2019 Oct  1	2019 Oct 10	-	Jason	-	-	M	C	SCI	S	-	ALT	F	ST/SG/SER.E/563	  112.0 	    1332	    1344	 66.0 	2019 Oct 12 	    1305	    1316	 66.04 	Altimeter
 S33108    	2008-033A	Cosmos-2440	2008 Jun 26 	2010 Feb	2010 Feb?	2010 Feb?	-	Oko-1	-	-	M	D	EW	S	Solnechnogorsk	-	RU	ST/SG/SER.E/550	 1438.0 	   35671	   35906	  2.3 	2010 Feb  3 	   35772	   35800	  0.98 	-
-S33153    	2008-034A	Protostar 1	2008 Jul  7 	2023 Feb  5	*	*	-	Protostar	-	-	M	B	COM	S	-	-	US*	ST/SG/SER.E/1287	-	-	-	-	2026 Aug  7 	   36110	   36165	  2.84 	-
+S33153    	2008-034A	Protostar 1	2008 Jul  7 	2026 May 22	2026 Apr 13	2026 May 22	-	Protostar	-	-	M	B	COM	S	-	-	US*	ST/SG/SER.E/1287	-	-	-	-	2026 Aug  7 	   36110	   36165	  2.84 	-
 S33154    	2008-034B	[Badr 6]	2008 Jul  7 	2024 Nov 22	2024 Nov 22	2024 Nov 22	-	Arabsat	-	-	M	B	COM	S	-	-	[I-ARAB]	-	-	-	-	-	2024 Nov 24 	   36205	   36233	  1.37 	-
 S33207    	2008-035A	Echostar 11	2008 Jul 16 	2023 Feb  5	*	*	-	Echostar	-	-	M	B	COM	S	-	-	US	ST/SG/SER.E/562	  638.8 	     748	   35717	  0.1 	2026 Aug  7 	   35777	   35796	  1.13 	-
 S33244    	2008-036A	SAR-Lupe SL 5	2008 Jul 22 	2021 Apr	*	*	-	SAR-Lupe	-	-	M	D	IMG-R	S	GSOC	-	D	ST/SG/SER.E/569	   94.4 	     478	     513	 98.2 	2024 Aug 26 	     461	     465	 98.12 	-
@@ -8784,7 +8784,7 @@ S43277    	2018-034C	Yaogan 31 hao C	2018 Apr 10 	2023 Feb	*	*	-	JB-8	-	-	M	D	SI
 S43279    	2018-034E	Weina 1 hao B	2018 Apr 10 	2020	2019?	*	-	WJSW	-	-	-	D	TECH	S	-	-	CN	ST/SG/SER.E/898	  107.1 	    1062	    1118	 63.4 	2018 Apr 12 	    1085	    1099	 63.41 	-
 S43286    	2018-035A	IRNSS-1I	2018 Apr 11 	2023 Feb 25	*	*	-	IRNSS	-	-	M	C	NAV	S	-	-	IN	ST/SG/SER.E/889	 1436.0 	   35696	   35873	 29.1 	2026 Aug  7 	   35707	   35866	 28.87 	-
 S43339    	2018-036A	USA 283	2018 Apr 14 	2023 Feb 24	*	*	-	CBAS	-	-	M	D	COM*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2026 Aug  6 	   35783	   35790	  0.02 	-
-S43340    	2018-036B	USA 284	2018 Apr 14 	2020 Mar	2021?	*	-	LDPE	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2020 Aug  4 	   36079	   36113	  1.26 	-
+S43340    	2018-036B	USA 284	2018 Apr 14 	2020 Mar	2021?	2025?	-	LDPE	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2020 Aug  4 	   36079	   36113	  1.26 	-
 S43432    	2018-037A	Kosmos-2526	2018 Apr 18 	2023 Feb 25	*	*	-	Blagovest	-	-	M	D	COM	S	-	-	RU	ST/SG/SER.E/848	 1439.0 	   35786	   35786	  0.0 	2026 Aug  7 	   35785	   35788	  0.03 	-
 S43435    	2018-038A	TESS	2018 Apr 18 	2023 Feb	*	*	-	MIDEX	-	-	M	C	AST	S	-	-	US	ST/SG/SER.E/877	13168.8 	    1056	  355637	 28.9 	2024 Oct 14 	  121085	  335990	 52.34 	-
 S43437    	2018-039A	Sentinel-3B	2018 Apr 25 	2023 Feb	*	*	-	Sentinel	-	-	M	C	IMG	S	-	-	I-ESA*	ST/SG/SER.E/871	  100.9 	     802	     803	 98.7 	2026 Aug  7 	     801	     803	 98.62 	-
@@ -8793,8 +8793,8 @@ S43440    	2018-040B	ZHOBT1-02	2018 Apr 26 	2024 Jun	*	*	-	Zhuhai	-	-	M	B	IMG	S	
 S43441    	2018-040C	ZHOBT1-03	2018 Apr 26 	2024 Jun	*	*	-	Zhuhai	-	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/898	   95.0 	     509	     510	 97.4 	2026 Aug  8 	     478	     493	 97.04 	-
 S43442    	2018-040D	ZHOBT1-04	2018 Apr 26 	2019 Oct	2020?	2020?	-	Zhuhai	-	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/898	   95.0 	     509	     510	 97.4 	2020 Jan  2 	     506	     513	 97.35 	-
 S43443    	2018-040E	ZHOBT1-05	2018 Apr 26 	2023 Feb	2023?	2023?	-	Zhuhai	-	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/898	   95.0 	     509	     510	 97.4 	2023 Jan  2 	     487	     498	 97.22 	-
-S43445    	2018-036E	USA 285	2018 Apr 14 	2019 Mar	2022?	*	-	ESPASAT	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2026 Aug  6 	   35230	   35324	  7.23 	-
-S43446    	2018-036F	USA 286	2018 Apr 14 	2019 Mar	2022?	*	-	ESPASAT	-	-	M	D	TECH*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2026 Aug  4 	   35232	   35320	  7.23 	-
+S43445    	2018-036E	USA 285	2018 Apr 14 	2019 Mar	2022?	2026?	-	ESPASAT	-	-	M	D	EW*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2026 Aug  6 	   35230	   35324	  7.23 	-
+S43446    	2018-036F	USA 286	2018 Apr 14 	2019 Mar	2022?	2026?	-	ESPASAT	-	-	M	D	TECH*	S	-	-	US	ST/SG/SER.E/877	  622.4 	     187	   35352	 26.1 	2026 Aug  4 	   35232	   35320	  7.23 	-
 S43450    	2018-041A	Apstar 6C	2018 May  3 	2023 Feb 25	*	*	-	Apstar	-	-	M	B	COM	S	-	-	CN	ST/SG/SER.E/856	 1440.0 	   35786	   35786	  0.1 	2026 Aug  7 	   35782	   35791	  0.05 	-
 S43457    	2018-042A	Insight	2018 May  5 	2022 Dec 15	2022 Dec 15	2022 Dec 15	E	Discovery	-	-	M	C	PLAN	S	-	-	US	ST/SG/SER.E/877	   88.1 	     180	     184	 64.0 	-	       0	       0	  0.00 	-
 S43458    	2018-042B	Marco-A	2018 May  5 	2018 Aug	2018 Dec 29	2018 Dec 29	-	Mars Cubesat	-	-	M	C	PLAN	S	-	-	US	ST/SG/SER.E/877	   88.1 	     180	     184	 64.0 	-	       0	       0	  0.00 	-
@@ -11303,7 +11303,7 @@ S47814    	2021-018AD	Starlink-2395	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V
 S47815    	2021-018AE	Starlink-2396	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.5 	     349	     350	 53.1 	2026 Aug  7 	     470	     471	 53.16 	-
 S47816    	2021-018AF	Starlink-2399	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.5 	     349	     350	 53.1 	2026 Aug  7 	     469	     471	 53.16 	-
 S47817    	2021-018AG	Starlink-2400	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.5 	     349	     350	 53.1 	2026 Aug  7 	     470	     471	 53.16 	-
-S47818    	2021-018AH	Starlink-2401	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.7 	     357	     359	 53.1 	2026 Aug  8 	     297	     308	 53.04 	-
+S47818    	2021-018AH	Starlink-2401	2021 Mar 11 	2023 Mar  1	2026 Feb 18	2026 Jun 29?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.7 	     357	     359	 53.1 	2026 Aug  8 	     297	     308	 53.04 	-
 S47819    	2021-018AJ	Starlink-2402	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.5 	     349	     350	 53.1 	2026 Aug  7 	     469	     471	 53.16 	-
 S47820    	2021-018AK	Starlink-2403	2021 Mar 11 	2023 Mar  1	2025 Feb 19	2025 Apr  9?	-	Starlink 1.0V2	1 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   93.3 	     433	     434	 53.1 	2025 Apr 11 	     257	     260	 53.05 	-
 S47821    	2021-018AL	Starlink-2406	2021 Mar 11 	2023 Mar  1	*	*	-	Starlink 1.0V2	1 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/995	   91.5 	     349	     350	 53.1 	2026 Aug  7 	     469	     471	 53.16 	-
@@ -12551,7 +12551,7 @@ S49814    	2021-117C	Baoyun	2021 Dec  7 	2021 Dec  7	2023 Jul?	2023 Jul?	-	BUPT	
 S49815    	2021-117D	Lize 1	2021 Dec  7 	2022 Jun	2023 Jun?	2023 Jun?	-	Tianyi	-	-	-	B	TECH	S	-	-	[CN]	-	-	-	-	-	2021 Dec  9 	     482	     502	 97.40 	-
 S49816    	2021-117E	Jin Zijing 5	2021 Dec  7 	2021 Dec  7	2023 May?	2023 May?	-	Bauhinia	-	-	-	B	IMG	S	-	-	[CN]	-	-	-	-	-	2021 Dec  9 	     479	     501	 97.41 	-
 S49817    	2021-118A	STPSat-6	2021 Dec  7 	2023 Mar  4	*	*	-	STPSAT	-	-	-	D	TECH	S	-	-	US	ST/SG/SER.E/1041	 1436.1 	   35783	   35790	  0.0 	2021 Dec 10 	   36097	   36110	  0.03 	-
-S49818    	2021-118B	LDPE 1	2021 Dec  7 	2022 Mar	*	*	-	LDPE	-	-	-	D	TECH	S	-	-	US	ST/SG/SER.E/1041	 1445.8 	   35961	   35991	  0.1 	2021 Dec 10 	   36084	   36125	  0.03 	-
+S49818    	2021-118B	LDPE 1	2021 Dec  7 	2026 Jul	*	*	-	LDPE	-	-	-	D	TECH	S	-	-	US	ST/SG/SER.E/1041	 1445.8 	   35961	   35991	  0.1 	2021 Dec 10 	   36084	   36125	  0.03 	-
 S49922    	2021-119A	Soyuz MS-20	2021 Dec  8 	2021 Dec 20	2021 Dec 20	2021 Dec 20 0313:41	-	Soyuz MS	-	P	M	C	SS	S	-	-	RU	ST/SG/SER.E/1038	   88.7 	     200	     244	 51.7 	2021 Dec 19 	     416	     422	 51.64 	-
 S49949    	2021-120A	Global-17	2021 Dec  9 	2023 Mar	*	*	-	BlackSky	-	P	-	B	IMG	S	-	-	US	ST/SG/SER.E/1041	   93.2 	     429	     436	 42.0 	2021 Dec 11 	     429	     439	 42.02 	-
 S49950    	2021-120B	Global-16	2021 Dec  9 	2023 Mar	*	*	-	BlackSky	-	P	-	B	IMG	S	-	-	US	ST/SG/SER.E/1041	   93.2 	     426	     436	 42.0 	2021 Dec 11 	     425	     439	 42.02 	-
@@ -15206,7 +15206,7 @@ S55127    	1998-067UU	DANTESat	2022 Nov 26 	2022 Dec 30	2022 Dec 30?	2022 Dec 30
 S55128    	1998-067UV	TJREVERB	2022 Nov 26 	2022 Dec 29	2022 Dec 29	2022 Dec 29	-	TJHS	-	-	-	A	TECH	S	-	-	US	ST/SG/SER.E/1110	   92.4 	     391	     398	 51.6 	2023 Jan  3 	     411	     418	 51.64 	-
 S55129    	1998-067UW	SPORT	2022 Nov 26 	2023 Mar	2023 Oct?	2023 Oct?	-	ITA	-	-	-	C	TECH	S	-	-	[BR]	-	-	-	-	-	2023 Jan  3 	     413	     417	 51.64 	-
 S55130    	1998-067UX	PetitSat	2022 Nov 26 	2022 Dec 29	2023 Mar?	2023 Mar?	-	GSFC Cube	-	-	-	C	SCI	S	-	ION	US	ST/SG/SER.E/1110	   92.2 	     379	     389	 51.6 	2023 Jan  3 	     412	     417	 51.65 	-
-S55131    	2023-002A	Shijian-23 weixing	2023 Jan  8 	2023 Dec  3	2023 Dec  3	*	-	SJ GEO	-	-	M	C	COM	S	-	-	CN	ST/SG/SER.E/1237	 1437.0 	   35706	   35728	  1.1 	2026 Aug  7 	   35831	   35858	  3.84 	-
+S55131    	2023-002A	Shijian-23 weixing	2023 Jan  8 	2026 May	2023 Dec  3	*	-	SJ GEO	-	-	M	C	COM	S	-	-	CN	ST/SG/SER.E/1237	 1437.0 	   35706	   35728	  1.1 	2026 Aug  7 	   35831	   35858	  3.84 	-
 S55133    	2023-003A	Xiguang 003 xing	2023 Jan  9 	2023 Mar  9	2025 Nov?	2025 Nov?	-	Xiamen T	-	-	-	A	TECH	S	-	-	CN	ST/SG/SER.E/1237	   94.8 	     508	     509	 97.3 	2023 Jan 11 	     494	     511	 97.27 	-
 S55134    	2023-003B	Nantong Zhongxue Hao	2023 Jan  9 	2023 Jan  9	2024 Oct?	2024 Oct?	-	SWK	-	-	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1237	   94.8 	     507	     509	 97.5 	2023 Jan 11 	     494	     511	 97.27 	-
 S55135    	2023-003C	Tianmu yihao 01 weixing	2023 Jan  9 	2023 Jan  9	*	*	-	Tianmu	-	-	-	B	MET	S	-	-	CN	ST/SG/SER.E/1237	   92.0 	     490	     500	 97.1 	2023 Jan 11 	     494	     510	 97.27 	-
@@ -15261,8 +15261,8 @@ S55239    	2023-005A	Yatai 6E weixing	2023 Jan 12 	2023 Mar	*	*	-	Apstar	-	-	M	B
 S55242    	2023-006A	Shiyan ershi'er hao A xing	2023 Jan 13 	2023 Jan 13	2024 Jun?	2024 Jun?	-	SW22	-	-	-	D	TECH	S	-	-	CN	ST/SG/SER.E/1237	   95.0 	     534	     534	 43.2 	2023 Jan 15 	     508	     522	 43.20 	-
 S55243    	2023-006B	Shiyan ershi'er hao B xing	2023 Jan 13 	2023 Jan 13	2025 Sep?	2025 Sep?	-	SW22	-	-	-	D	TECH	S	-	-	CN	ST/SG/SER.E/1237	   95.0 	     534	     534	 43.2 	2023 Jan 15 	     508	     522	 43.20 	-
 S55244    	2023-006C	Yaogan sanshiqi hao weixing	2023 Jan 13 	2023 Mar	*	*	-	YG-37	-	-	-	D	IMG?	S	-	-	CN	ST/SG/SER.E/1237	   95.0 	     534	     534	 43.2 	2023 Jan 15 	     512	     522	 43.20 	-
-S55246    	2022-144G	LINUSS1	2022 Nov  1 	2023 Apr	*	*	-	LM Tech	-	-	-	B	TECH	S	-	-	US	ST/SG/SER.E/1110	  647.5 	     185	   36642	 26.3 	2023 Jan 29 	   36054	   36062	  2.10 	-
-S55247    	2022-144H	LINUSS2	2022 Nov  1 	2023 Apr	*	*	-	LM Tech	-	-	-	B	TECH	S	-	-	US	ST/SG/SER.E/1110	  647.5 	     185	   36642	 26.3 	2023 Mar 24 	   36091	   36171	  2.51 	-
+S55246    	2022-144G	LINUSS1	2022 Nov  1 	2023 Apr	2025?	2025?	-	LM Tech	-	-	-	B	TECH	S	-	-	US	ST/SG/SER.E/1110	  647.5 	     185	   36642	 26.3 	2023 Jan 29 	   36054	   36062	  2.10 	-
+S55247    	2022-144H	LINUSS2	2022 Nov  1 	2023 Apr	2025?	2025?	-	LM Tech	-	-	-	B	TECH	S	-	-	US	ST/SG/SER.E/1110	  647.5 	     185	   36642	 26.3 	2023 Mar 24 	   36091	   36171	  2.51 	-
 S55248    	2023-007A	Beiyou yi hao (BUPT-1)	2023 Jan 15 	2023 Jan 15	2024 Dec?	2024 Dec?	-	BUPT	-	-	-	A	TECH	S	-	-	CN	ST/SG/SER.E/1237	   94.5 	     490	     490	 97.4 	2023 Jan 18 	     487	     499	 97.38 	-
 S55249    	2023-007B	Jin Zijing liu hao	2023 Jan 15 	2023 Jan 15	2024 Oct?	2024 Oct?	-	Bauhinia	-	-	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1237	   93.5 	     490	     490	 97.3 	2023 Jan 17 	     487	     497	 97.38 	-
 S55250    	2023-007C	Haihe yi hao	2023 Jan 15 	2023 Jan 15	2024 Jun?	2024 Jun?	-	Jilin-1 HW	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1237	   95.3 	     535	     535	 97.5 	2023 Jan 17 	     487	     496	 97.38 	-
@@ -26334,7 +26334,7 @@ S68315    	2026-057X	Starlink 37150	2026 Mar 20 	2026 Mar 20	*	*	-	Starlink 2MO 
 S68316    	2026-057Y	Starlink 37154	2026 Mar 20 	2026 Mar 20	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     464	     466	 97.29 	-
 S68317    	2026-057Z	Starlink 37139	2026 Mar 20 	2026 Mar 20	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     464	     466	 97.28 	-
 S68318    	2026-057AA	Starlink 37113	2026 Mar 20 	2026 Mar 20	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     465	     465	 97.29 	-
-S68319    	2026-058A	Progress MS-33	2026 Mar 22 	2026 Mar 22	*	*	-	Progress MS	-	P	M	C	SS	S	-	-	[RU]	-	-	-	-	-	2026 Aug  7 	     413	     423	 51.63 	-
+S68319    	2026-058A	Progress MS-33	2026 Mar 22 	2026 Sep  7	2026 Sep  7	2026 Sep  7 1909?	-	Progress MS	-	P	M	C	SS	S	-	-	[RU]	-	-	-	-	-	2026 Aug  7 	     413	     423	 51.63 	-
 S68321    	2026-059A	Starlink 36987	2026 Mar 22 	2026 Mar 22	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     461	     463	 53.16 	-
 S68322    	2026-059B	Starlink 37088	2026 Mar 22 	2026 Mar 22	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     462	     463	 53.16 	-
 S68323    	2026-059C	Starlink 36983	2026 Mar 22 	2026 Mar 22	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     462	     463	 53.16 	-

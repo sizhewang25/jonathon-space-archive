@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Sep  7 2240:20
+# Updated 2026 Sep  9 0142:14
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -31097,7 +31097,7 @@
 2026-171 	2026 Jul 25 1551:21	2026-171X	P      A    	Starlink 38149	Starlink Group 17-51-22	S100169   	SPXS	US	Falcon 9	xxx/B1100.8  F670	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-171 	2026 Jul 25 1551:21	2026-171Y	P      A    	Starlink 38217	Starlink Group 17-51-23	S100170   	SPXS	US	Falcon 9	xxx/B1100.8  F670	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-171 	2026 Jul 25 1551:21	2026-171Z	P      D    	Starlink 38197	Starlink Group 17-51-24	S100171   	SPXS	US	Falcon 9	xxx/B1100.8  F670	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-172 	2026 Jul 29 1150	2026-172A	P           	Tianlian 3-01	Tianlian 3-01	S100172   	CAST	CN	Chang Zheng 7A	Y29	-	WEN	LC201	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-172 	2026 Jul 29 1150	2026-172A	P   G       	Tianlian 3-01	Tianlian 3-01	S100172   	CAST	CN	Chang Zheng 7A	Y29	-	WEN	LC201	-	-	CALT	CN	OS  	nasaspaceflight.com
 2026-173 	2026 Jul 30 0100	2026-173A	P           	TJS 27A	TJS 27A	S100174   	ZLZB	CN	Chang Zheng 6A	Y18	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-173 	2026 Jul 30 0100	2026-173C	P           	TJS 27B	TJS 27B	S100176   	ZLZB	CN	Chang Zheng 6A	Y18	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-174 	2026 Jul 30 0710:19	2026-174A	P ------C   	USA 619	[INTRUDER 20]	S100178   	NROC/USN	US	Falcon 9	xxx/B1096.7  F671	-	CC	LC40	-	-	SPX	US	OS  	nasaspaceflight.com
@@ -31189,7 +31189,7 @@
 2026-181 	2026 Aug  8 1635:02	2026-181Y	P      D    	Starlink 38129	Starlink Group 17-38-23	S100268   	SPXS	US	Falcon 9	xxx/B1093.16 F675	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-181 	2026 Aug  8 1635:02	2026-181Z	P      D    	Starlink 38255	Starlink Group 17-38-24	S100269   	SPXS	US	Falcon 9	xxx/B1093.16 F675	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-F06  	2026 Aug 10 1202?	2026-F06	P           	Zhongxing 4B	Fenghuo-3 04?	F01802    	ZLZB	CN	Chang Zheng 7A	Y16	-	WEN	LC201	-	-	CALT	CN	OF  	nasaspaceflight.com
-2026-182 	2026 Aug 10 1923:31	2026-182A	P           	Michibiki-7	QZS-7	S100270   	NUSS/JAXA	J	H3-22S	H3-F9	-	TNSC	Y2	-	-	JAXA	J	OS  	Wire
+2026-182 	2026 Aug 10 1923:31	2026-182A	P   G       	Michibiki-7	QZS-7	S100270   	NUSS/JAXA	J	H3-22S	H3-F9	-	TNSC	Y2	-	-	JAXA	J	OS  	Wire
 2026-183 	2026 Aug 11 1558:26	2026-183A	P      D    	Starlink 37697	Starlink Group 10-19-01	S100272   	SPXS	US	Falcon 9	xxx/B1085.18 F676	-	CC	LC40	-	-	SPX	US	OS  	SpaceX
 2026-183 	2026 Aug 11 1558:26	2026-183B	P      D    	Starlink 37705	Starlink Group 10-19-02	S100273   	SPXS	US	Falcon 9	xxx/B1085.18 F676	-	CC	LC40	-	-	SPX	US	OS  	SpaceX
 2026-183 	2026 Aug 11 1558:26	2026-183C	P      D    	Starlink 37696	Starlink Group 10-19-03	S100274   	SPXS	US	Falcon 9	xxx/B1085.18 F676	-	CC	LC40	-	-	SPX	US	OS  	SpaceX
@@ -31430,7 +31430,7 @@
 2026-197 	2026 Aug 26 0935:11	2026-197AA	P      A    	Starlink 38275	Starlink Group 15-22-25	S100526   	SPXS	US	Falcon 9	xxx/B1082.24 F684	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-197 	2026 Aug 26 0935:11	2026-197AB	P      A    	Starlink 38378	Starlink Group 15-22-26	S100527   	SPXS	US	Falcon 9	xxx/B1082.24 F684	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-197 	2026 Aug 26 0935:11	2026-197AC	P      A    	Starlink 38145	Starlink Group 15-22-27	S100528   	SPXS	US	Falcon 9	xxx/B1082.24 F684	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-198 	2026 Aug 27 2011:00	2026-198A	P           	Meteosat 14	MTG-I2	S100530   	EUMET	I-EUM	Ariane 62	VA270 (L6008)	-	CSG	ELA4	-	-	AE	F	OS  	youtube/arianespace
+2026-198 	2026 Aug 27 2011:00	2026-198A	P    G      	Meteosat 14	MTG-I2	S100530   	EUMET	I-EUM	Ariane 62	VA270 (L6008)	-	CSG	ELA4	-	-	AE	F	OS  	youtube/arianespace
 2026-199 	2026 Aug 30 1125:49	2026-199A	P   D       	Roman Space Telescope	Roman Space Telescope	D01208    	GSFC	US	Falcon Heavy	013/B1105.1  -	-	KSC	LC39A	-	-	SPX	US	DS  	Wire
 2026-199 	2026 Aug 30 1125:49	2026-199A	P   D      D	Roman Space Telescope	Roman Space Telescope	S100532   	GSFC	US	Falcon Heavy	013/B1105.1  -	-	KSC	LC39A	-	-	SPX	US	DS  	Wire
 2026-U05  	2026 Sep  1 0200:16	2026-U05	P  A        	ZSX-1 Instrumentation	Test payload	A11971    	XIDO	CN	Zhishenxing-1	Y1	-	JQ	LC-P1	-	-	XIDO	CN	OS  	nasaspaceflight.com
@@ -31462,7 +31462,7 @@
 2026-200 	2026 Sep  2 0842:12	2026-200AB	P      A    	Starlink 38353	Starlink Group 15-23-26	S100559   	SPXS	US	Falcon 9	xxx/B1063.35 F685	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-200 	2026 Sep  2 0842:12	2026-200AC	P      A    	Starlink 38358	Starlink Group 15-23-27	S100560   	SPXS	US	Falcon 9	xxx/B1063.35 F685	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-201 	2026 Sep  2 1201	2026-201A	P           	Strix-9	Strix-9	S100561   	SYNSP	J	Electron	94	-	MAHIA	LC1B	-	-	RLABN	NZ	OS  	Wire
-2026-202 	2026 Sep  3 2125	2026-202A	P           	EOS-05	GISAT-1A	S100607   	ISRO	IN	GSLV Mk II	GSLV-F17	-	SHAR	SLP	-	-	ISRO/NSIL	IN	OS  	Wire
+2026-202 	2026 Sep  3 2125	2026-202A	P   G       	EOS-05	GISAT-1A	S100607   	ISRO	IN	GSLV Mk II	GSLV-F17	-	SHAR	SLP	-	-	ISRO/NSIL	IN	OS  	Wire
 2026-203 	2026 Sep  5 2012:00	2026-203F	PXA         	Let It Go	DCubed Attached Payload	A11974    	DCUBED	D	Spectrum	2	-	AND	ISAR	-	-	ISAR	D	OS  	youtube.com
 2026-203 	2026 Sep  5 2012:00	2026-203A	P       ?   	CyBEEsat	CyBEEsat	S100609   	TUB	D	Spectrum	2	-	AND	ISAR	-	-	ISAR	D	OS  	youtube.com
 2026-203 	2026 Sep  5 2012:00	2026-203B	P       ?   	TriSat-S	TriSat-S	S100610   	UMARB	SI	Spectrum	2	-	AND	ISAR	-	-	ISAR	D	OS  	youtube.com
