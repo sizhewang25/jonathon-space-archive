@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Sep 13 2309:50
+# Updated 2026 Sep 15 1218:15
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -30057,7 +30057,7 @@
 2026-108 	2026 May 17 1443	2026-108R	P      O    	Qianfan Xingzuo 09-16	Qianfan	S69119    	YUANX	CN	Chang Zheng 8	Y8	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
 2026-108 	2026 May 17 1443	2026-108S	P      O    	Qianfan Xingzuo 09-17	Qianfan	S69120    	YUANX	CN	Chang Zheng 8	Y8	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
 2026-108 	2026 May 17 1443	2026-108T	P      O    	Qianfan Xingzuo 09-18	Qianfan	S69121    	YUANX	CN	Chang Zheng 8	Y8	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
-2026-109 	2026 May 19 0352	2026-109A	P           	SMILE	SMILE	S69123    	CAS/ESA	CN	Vega C	VV29	-	CSG	ZLV	-	-	AE	F	OS  	spaceflightnow.com
+2026-109 	2026 May 19 0352	2026-109A	P           	SMILE	SMILE	S69123    	CAS/ESA	CN	Vega C	VV29	-	CSG	ZLV	-	-	AVIO	I	OS  	spaceflightnow.com
 2026-110 	2026 May 20 0246:19	2026-110A	P      O    	Starlink 37726	Starlink Group 17-42-01	S69124    	SPXS	US	Falcon 9	xxx/B1103.2  F640	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-110 	2026 May 20 0246:19	2026-110B	P      O    	Starlink 37722	Starlink Group 17-42-02	S69125    	SPXS	US	Falcon 9	xxx/B1103.2  F640	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-110 	2026 May 20 0246:19	2026-110C	P      O    	Starlink 37715	Starlink Group 17-42-03	S69126    	SPXS	US	Falcon 9	xxx/B1103.2  F640	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -30800,14 +30800,14 @@
 2026-156 	2026 Jul  7 0712:00	2026-156R	P           	EDC-08	YAM-17	S69884    	LOFT/EDA	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156S	P           	GRUS-3A	GRUS-3A	S69885    	AXEL	J	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156T	P           	Firesat-1	EFA-1	S69886    	EFA	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-156 	2026 Jul  7 0712:00	2026-156U	P       ?   	SPEAR-1A	SPEAR-1A	S69887    	NRL	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-156 	2026 Jul  7 0712:00	2026-156V	P       ?   	Navigator	Argonaut Demo	S69888    	ARGOSP	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-156 	2026 Jul  7 0712:00	2026-156U	P           	Navigator	Argonaut Demo	S69887    	ARGOSP	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-156 	2026 Jul  7 0712:00	2026-156V	P       ?   	SPEAR-1A	SPEAR-1A	S69888    	NRL	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156W	P           	ICEYE-X81	ICEYE-X81	S69889    	ICEYE	FI	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156X	P           	Firesat-3	EFA-3	S69890    	EFA	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156Y	P           	GRUS-3C	GRUS-3C	S69891    	AXEL	J	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156Z	P           	ICEYE-X77	ICEYE-X77	S69892    	ICEYE	FI	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AA	P           	ICEYE-X80	ICEYE-X80	S69893    	ICEYE	FI	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-156 	2026 Jul  7 0712:00	2026-156AB	P       ?   	GRUS-3F	GRUS-3F	S69894    	AXEL	J	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-156 	2026 Jul  7 0712:00	2026-156AB	P           	GRUS-3F	GRUS-3F	S69894    	AXEL	J	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AC	P           	PIRX-1	Mikroglob-1	S69895    	ARGUS	PL	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AD	P           	BRO-31	BRO-31	S69896    	UNSEEN	F	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AE	P       ?   	SENTINEL-1	SENTINEL-1	S69897    	ETHD	D	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -30817,12 +30817,12 @@
 2026-156 	2026 Jul  7 0712:00	2026-156AJ	P           	R5-S9	R5-S9	S69901    	JSC	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AK	P           	Cuby-1	Cuby-1	S69902    	S4/ZFT	D	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AL	P           	Balkan-3	Balkan-3	S69903    	ENDUR	BGN	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-156 	2026 Jul  7 0712:00	2026-156AM	P       ?   	MAVERIC	MAVERIC	S69904    	USCLA	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-156 	2026 Jul  7 0712:00	2026-156AM	P           	Kita-53	Kita-53	S69904    	SONYC	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AN	P           	Lemur-2-Alex-Fulton	Lemur-2-Alex-Fulton	S69905    	SPIRE	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AP	P           	TOM-3	TOM-3	S69906    	ZFT	D	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AQ	P           	Cuby-5	Cuby-5	S69907    	S4/ZFT	D	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AR	P           	Flashpoint 1	MISR-D-1	S69908    	APEX	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-156 	2026 Jul  7 0712:00	2026-156AS	P       ?   	Kita-53	Kita-53	S69909    	SONYC	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-156 	2026 Jul  7 0712:00	2026-156AS	P           	Kita-36	Kita-36	S69909    	SONYC	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AT	P           	Lemur-2-Deloitte-5	Lemur-2-Deloitte-5	S69910    	DELSP/SPIRE	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AU	P       ?   	SPEAR-1B	SPEAR-1B	S69911    	NRL	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156AV	P           	MarmotSat	Marmotsat	S69912    	UVIC	CA	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -30834,7 +30834,7 @@
 2026-156 	2026 Jul  7 0712:00	2026-156BB	P           	GRUS-3B	GRUS-3B	S69918    	AXEL	J	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156BC	P           	GRUS-3D	GRUS-3D	S69919    	AXEL	J	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156BD	P           	Marina	Marina	S69920    	TUKE	SK	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-156 	2026 Jul  7 0712:00	2026-156BE	P       ?   	Kita-36	Kita-36	S69921    	SONYC	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-156 	2026 Jul  7 0712:00	2026-156BE	P       ?   	MAVERIC	MAVERIC	S69921    	USCLA	US	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156BF	P           	Posidonia	Posidonia	S69922    	ESIBG/UIB	ESIB	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156BG	P           	RAFS Cubesat	RAFS Cubesat	S69923    	ITUTR	TR	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-156 	2026 Jul  7 0712:00	2026-156BH	P           	Centauri 9	Tyvak	S69924    	FLEET	AU	Falcon 9	xxx/B1097.11 F662	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -31532,3 +31532,15 @@
 2026-208 	2026 Sep 13 1849:00	2026-208A	P           	O3b mPOWER F11	O3b mPOWER 11	S100686   	O3BS	UK	Falcon 9	xxx/B1080.29 F688	-	CC	LC40	-	-	SPX	US	OS  	nasaspaceflight.com
 2026-208 	2026 Sep 13 1849:00	2026-208B	P           	O3b mPOWER F12	O3b mPOWER 12	S100687   	O3BS	UK	Falcon 9	xxx/B1080.29 F688	-	CC	LC40	-	-	SPX	US	OS  	nasaspaceflight.com
 2026-208 	2026 Sep 13 1849:00	2026-208C	P           	O3b mPOWER F13	O3b mPOWER 13	S100688   	O3BS	UK	Falcon 9	xxx/B1080.29 F688	-	CC	LC40	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-209 	2026 Sep 15 0121:07	2026-209A	P           	FLEX	FLEX	S100689   	ESA	I-ESA	Vega C	VV30	-	CSG	ZLV	-	-	AVIO	I	OS  	spaceflightnow.com
+2026-209 	2026 Sep 15 0121:07	2026-209A	P           	Sentinel-3C	Sentinel-3C	S100690   	COPERN/ESA	I-EU	Vega C	VV30	-	CSG	ZLV	-	-	AVIO	I	OS  	spaceflightnow.com
+2026-210 	2026 Sep 15 0626	2026-210A	P      D    	Qianfan Xingzuo 19-01	Qianfan Jigui 19-01	S100692   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210B	P      D    	Qianfan Xingzuo 19-02	Qianfan Jigui 19-02	S100693   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210C	P      D    	Qianfan Xingzuo 19-03	Qianfan Jigui 19-03	S100694   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210D	P      D    	Qianfan Xingzuo 19-04	Qianfan Jigui 19-04	S100695   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210E	P      D    	Qianfan Xingzuo 19-05	Qianfan Jigui 19-05	S100696   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210F	P      D    	Qianfan Xingzuo 19-06	Qianfan Jigui 19-06	S100697   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210G	P      D    	Qianfan Xingzuo 19-07	Qianfan Jigui 19-07	S100698   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210H	P      D    	Qianfan Xingzuo 19-08	Qianfan Jigui 19-08	S100699   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210J	P      D    	Qianfan Xingzuo 19-09	Qianfan Jigui 19-09	S100700   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-210 	2026 Sep 15 0626	2026-210K	P      D    	Qianfan Xingzuo 19-10	Qianfan Jigui 19-10	S100701   	YUANX	CN	Zhuque-2E	Y7	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
