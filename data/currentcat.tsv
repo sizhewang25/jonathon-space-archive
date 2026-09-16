@@ -1,5 +1,5 @@
 #JCAT	DeepCat	Satcat	Piece	Active	Type	Name	LDate	Parent	Owner	State	SDate	ExpandedStatus	DDate	ODate	Period	Perigee	PF	Apogee	AF	Inc	IF	OpOrbit
-# Updated 2026 Sep 15 1302:37
+# Updated 2026 Sep 15 2027:52
 S00001    	-	00001	1957 ALP 1	R	R2          	8K71PS No. M1-10 Stage 2	1957 Oct  4	-	RKKE	SU	1957 Oct  4 1933	Reentered Earth atmosphere	1957 Dec  1 1000?	-	-	-	-	-	-	-	-	-
 S00002    	-	00002	1957 ALP 2	P	P           	1-y ISZ	1957 Oct  4	S00001	RKKE	SU	1957 Oct  4 1933	Reentered Earth atmosphere	1958 Jan  4?	-	-	-	-	-	-	-	-	-
 S00003    	-	00003	1957 BET 1	P	P A         	2-y ISZ	1957 Nov  3	A00002	RKKE	SU	1957 Nov  3 0235	Reentered attached to A00002 8K71PS No. M1-11 Stage 2	1958 Apr 14 0200?	-	-	-	-	-	-	-	-	-
@@ -69028,28 +69028,28 @@ S69047    	-	69047	2026-101Y	A	P      O    	Starlink 37576	2026 May  6	A11840	SP
 S69048    	-	69048	2026-101Z	A	P      O    	Starlink 37663	2026 May  6	A11840	SPXS	US	2026 May  6 0501:26	In Earth orbit	-	2026 Sep 15 	      93.906 	     464	 	     466	 	 97.28 	 	LLEO/S
 S69049    	-	69049	2026-102A	P	PP H V      	Tianzhou-10	2026 May 11	S69050	CMSEO	CN	2026 May 11 0024:28	Docked with S48274 Tianhe	-	-	-	-	-	-	-	-	-	-
 S69050    	-	69050	2026-102B	R	R2          	CZ-7 Y11 Stage 2	2026 May 11	R86322	CNSA	CN	2026 May 11 0024:24	Reentered Earth atmosphere	2026 May 22 0645	-	-	-	-	-	-	-	-	-
-S69051    	-	69051	2026-103A	A	P      D m  	USA 586	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.367 	     287	 	     298	 	 69.99 	 	LLEO/I
-S69052    	-	69052	2026-103B	A	P      D m  	USA 587	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.205 	     278	 	     291	 	 69.99 	 	LLEO/I
-S69053    	-	69053	2026-103C	A	P      D m  	USA 588	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.367 	     286	 	     299	 	 69.99 	 	LLEO/I
-S69054    	-	69054	2026-103D	A	P      D m  	USA 589	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.367 	     288	 	     297	 	 70.00 	 	LLEO/I
-S69055    	-	69055	2026-103E	A	P      D m  	USA 590	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.377 	     287	 	     299	 	 70.00 	 	LLEO/I
-S69056    	-	69056	2026-103F	A	P      D m  	USA 591	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.286 	     286	 	     291	 	 69.99 	 	LLEO/I
-S69057    	-	69057	2026-103G	A	P      D m  	USA 592	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.296 	     285	 	     293	 	 69.99 	 	LLEO/I
-S69058    	-	69058	2026-103H	A	P      D m  	USA 593	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.398 	     291	 	     297	 	 69.99 	 	LLEO/I
-S69059    	-	69059	2026-103J	A	P      D m  	USA 594	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.326 	     285	 	     296	 	 69.99 	 	LLEO/I
-S69060    	-	69060	2026-103K	A	P      D m  	USA 595	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.357 	     289	 	     295	 	 69.99 	 	LLEO/I
-S69061    	-	69061	2026-103L	A	P      D m  	USA 596	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.387 	     291	 	     296	 	 69.99 	 	LLEO/I
-S69062    	-	69062	2026-103M	A	P      D m  	USA 597	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.255 	     280	 	     294	 	 70.00 	 	LLEO/I
-S69063    	-	69063	2026-103N	A	P      D m  	USA 598	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.347 	     285	 	     298	 	 69.99 	 	LLEO/I
-S69064    	-	69064	2026-103P	A	P      D m  	USA 599	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.387 	     288	 	     299	 	 70.00 	 	LLEO/I
-S69065    	-	69065	2026-103Q	A	P      D m  	USA 600	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 12 	      90.271 	     287	 	     288	 	 70.01 	 	LLEO/I
-S69066    	-	69066	2026-103R	A	P      D m  	USA 601	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.387 	     286	 	     301	 	 70.00 	 	LLEO/I
-S69067    	-	69067	2026-103S	A	P      D m  	USA 602	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.418 	     293	 	     297	 	 70.00 	 	LLEO/I
-S69068    	-	69068	2026-103T	A	P      D m  	USA 603	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.479 	     267	 	     329	 	 69.99 	 	LLEO/I
-S69069    	-	69069	2026-103U	A	P      D m  	USA 604	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.479 	     292	 	     304	 	 69.99 	 	LLEO/I
-S69070    	-	69070	2026-103V	A	P      D m  	USA 605	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.377 	     287	 	     299	 	 70.00 	 	LLEO/I
-S69071    	-	69071	2026-103W	A	P      D m  	USA 606	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.225 	     282	 	     289	 	 70.00 	 	LLEO/I
-S69072    	-	69072	2026-103X	A	P      D m  	USA 607	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.326 	     283	 	     298	 	 69.99 	 	LLEO/I
+S69051    	-	69051	2026-103A	A	P      DCm  	USA 586	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.367 	     287	 	     298	 	 69.99 	 	LLEO/I
+S69052    	-	69052	2026-103B	A	P      DCm  	USA 587	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.205 	     278	 	     291	 	 69.99 	 	LLEO/I
+S69053    	-	69053	2026-103C	A	P      DCm  	USA 588	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.367 	     286	 	     299	 	 69.99 	 	LLEO/I
+S69054    	-	69054	2026-103D	A	P      DCm  	USA 589	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.367 	     288	 	     297	 	 70.00 	 	LLEO/I
+S69055    	-	69055	2026-103E	A	P      DCm  	USA 590	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.377 	     287	 	     299	 	 70.00 	 	LLEO/I
+S69056    	-	69056	2026-103F	A	P      DCm  	USA 591	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.286 	     286	 	     291	 	 69.99 	 	LLEO/I
+S69057    	-	69057	2026-103G	A	P      DCm  	USA 592	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.296 	     285	 	     293	 	 69.99 	 	LLEO/I
+S69058    	-	69058	2026-103H	A	P      DCm  	USA 593	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.398 	     291	 	     297	 	 69.99 	 	LLEO/I
+S69059    	-	69059	2026-103J	A	P      DCm  	USA 594	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.326 	     285	 	     296	 	 69.99 	 	LLEO/I
+S69060    	-	69060	2026-103K	A	P      DCm  	USA 595	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.357 	     289	 	     295	 	 69.99 	 	LLEO/I
+S69061    	-	69061	2026-103L	A	P      DCm  	USA 596	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.387 	     291	 	     296	 	 69.99 	 	LLEO/I
+S69062    	-	69062	2026-103M	A	P      DCm  	USA 597	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.255 	     280	 	     294	 	 70.00 	 	LLEO/I
+S69063    	-	69063	2026-103N	A	P      DCm  	USA 598	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.347 	     285	 	     298	 	 69.99 	 	LLEO/I
+S69064    	-	69064	2026-103P	A	P      DCm  	USA 599	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.387 	     288	 	     299	 	 70.00 	 	LLEO/I
+S69065    	-	69065	2026-103Q	A	P      DCm  	USA 600	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 12 	      90.271 	     287	 	     288	 	 70.01 	 	LLEO/I
+S69066    	-	69066	2026-103R	A	P      DCm  	USA 601	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.387 	     286	 	     301	 	 70.00 	 	LLEO/I
+S69067    	-	69067	2026-103S	A	P      DCm  	USA 602	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.418 	     293	 	     297	 	 70.00 	 	LLEO/I
+S69068    	-	69068	2026-103T	A	P      DCm  	USA 603	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.479 	     267	 	     329	 	 69.99 	 	LLEO/I
+S69069    	-	69069	2026-103U	A	P      DCm  	USA 604	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.479 	     292	 	     304	 	 69.99 	 	LLEO/I
+S69070    	-	69070	2026-103V	A	P      DCm  	USA 605	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.377 	     287	 	     299	 	 70.00 	 	LLEO/I
+S69071    	-	69071	2026-103W	A	P      DCm  	USA 606	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.225 	     282	 	     289	 	 70.00 	 	LLEO/I
+S69072    	-	69072	2026-103X	A	P      DCm  	USA 607	2026 May 12	A11844	NROC	US	2026 May 12 0314?	In Earth orbit	-	2026 May 13	      90.326 	     283	 	     298	 	 69.99 	 	LLEO/I
 S69073    	-	69073	2026-104A	A	P      O    	Qianfan Xingzuo 08-01	2026 May 12	S69091	YUANX	CN	2026 May 12 1232?	In Earth orbit	-	2026 Sep 14 	     106.588 	    1066	 	    1070	 	 88.99 	 	LEO/P
 S69074    	-	69074	2026-104B	A	P      O    	Qianfan Xingzuo 08-02	2026 May 12	S69091	YUANX	CN	2026 May 12 1232?	In Earth orbit	-	2026 Sep 14 	     106.586 	    1066	 	    1070	 	 88.99 	 	LEO/P
 S69075    	-	69075	2026-104C	A	P      O    	Qianfan Xingzuo 08-03	2026 May 12	S69091	YUANX	CN	2026 May 12 1232?	In Earth orbit	-	2026 Sep 14 	     106.586 	    1066	 	    1070	 	 88.99 	 	LEO/P
@@ -69418,8 +69418,8 @@ S69437    	-	69437	2026-126T	A	P      O    	Starlink 37792	2026 Jun  7	A11889	SP
 S69438    	-	69438	2026-126U	A	P      O    	Starlink 37783	2026 Jun  7	A11889	SPXS	US	2026 Jun  7 0526:44	In Earth orbit	-	2026 Sep 15 	      93.905 	     463	 	     467	 	 97.28 	 	LLEO/S
 S69439    	-	69439	2026-126V	A	P      O    	Starlink 37771	2026 Jun  7	A11889	SPXS	US	2026 Jun  7 0526:44	In Earth orbit	-	2026 Sep 15 	      93.906 	     464	 	     466	 	 97.28 	 	LLEO/S
 S69440    	-	69440	2026-126W	A	P      O    	Starlink 37747	2026 Jun  7	A11889	SPXS	US	2026 Jun  7 0526:44	In Earth orbit	-	2026 Sep 15 	      93.906 	     464	 	     466	 	 97.28 	 	LLEO/S
-S69441    	-	69441	2026-126X	A	P      D m  	USA 608	2026 Jun  7	A11889	NROC	US	2026 Jun  7 0530?	In Earth orbit	-	2026 Jun  7	      90.886 	     311	 	     325	 	 97.28 	 	LLEO/S
-S69442    	-	69442	2026-126Y	A	P      D m  	USA 609	2026 Jun  7	A11889	NROC	US	2026 Jun  7 0530?	In Earth orbit	-	2026 Jun  7	      90.886 	     311	 	     325	 	 97.28 	 	LLEO/S
+S69441    	-	69441	2026-126X	A	P      DCm  	USA 608	2026 Jun  7	A11889	NROC	US	2026 Jun  7 0530?	In Earth orbit	-	2026 Jun  7	      90.886 	     311	 	     325	 	 97.28 	 	LLEO/S
+S69442    	-	69442	2026-126Y	A	P      DCm  	USA 609	2026 Jun  7	A11889	NROC	US	2026 Jun  7 0530?	In Earth orbit	-	2026 Jun  7	      90.886 	     311	 	     325	 	 97.28 	 	LLEO/S
 S69443    	-	69443	2026-127A	A	P      O    	Starlink 37629	2026 Jun  8	A11890	SPXS	US	2026 Jun  8 1115:31	In Earth orbit	-	2026 Sep 15 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
 S69444    	-	69444	2026-127B	A	P      O    	Starlink 37509	2026 Jun  8	A11890	SPXS	US	2026 Jun  8 1115:31	In Earth orbit	-	2026 Sep 15 	      93.846 	     461	 	     463	 	 53.16 	 	LLEO/I
 S69445    	-	69445	2026-127C	A	P      O    	Starlink 37641	2026 Jun  8	A11890	SPXS	US	2026 Jun  8 1115:31	In Earth orbit	-	2026 Sep 15 	      93.847 	     461	 	     463	 	 53.16 	 	LLEO/I
@@ -69614,15 +69614,15 @@ S69633    	-	69633	2026-128H	D	D  P        	deb Zhuque-2E Y6	2026 Jun  9	S69537	
 S69634    	-	69634	2026-128J	D	D  P        	deb Zhuque-2E Y6	2026 Jun  9	S69537	LANDSP	CN	2026 Jun  9 0847	Reentered Earth atmosphere	2026 Jul  8	-	-	-	-	-	-	-	-	-
 S69635    	-	69635	2026-128K	D	D  P        	deb Zhuque-2E Y6	2026 Jun  9	S69537	LANDSP	CN	2026 Jun  9 0847	Reentered Earth atmosphere	2026 Jul  2	-	-	-	-	-	-	-	-	-
 S69636    	-	69636	2026-138J	P	P           	Weili Kongjian 05-08	2026 Jun 17	S69628	CENTI	CN	2026 Jun 17 0420?	In Earth orbit	-	2026 Sep 14 	     102.246 	     859	 	     870	 	 55.14 	 	LEO/I
-S69637    	-	69637	2026-141A	A	P      D m  	USA 610	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.463 	     442	 	     446	 	 70.00 	 	LLEO/I
-S69638    	-	69638	2026-141B	A	P      D m  	USA 611	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.494 	     443	 	     448	 	 70.00 	 	LLEO/I
-S69639    	-	69639	2026-141C	A	P      D m  	USA 612	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.504 	     442	 	     450	 	 70.00 	 	LLEO/I
-S69640    	-	69640	2026-141D	A	P      D m  	USA 613	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.473 	     442	 	     447	 	 70.00 	 	LLEO/I
-S69641    	-	69641	2026-141E	A	P      D m  	USA 614	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.453 	     441	 	     446	 	 70.00 	 	LLEO/I
-S69642    	-	69642	2026-141F	A	P      D m  	USA 615	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.02 	 	LLEO/I
-S69643    	-	69643	2026-141G	A	P      D m  	USA 616	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.01 	 	LLEO/I
-S69644    	-	69644	2026-141H	A	P      D m  	USA 617	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.02 	 	LLEO/I
-S69645    	-	69645	2026-141J	A	P      D m  	USA 618	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.02 	 	LLEO/I
+S69637    	-	69637	2026-141A	A	P      DCm  	USA 610	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.463 	     442	 	     446	 	 70.00 	 	LLEO/I
+S69638    	-	69638	2026-141B	A	P      DCm  	USA 611	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.494 	     443	 	     448	 	 70.00 	 	LLEO/I
+S69639    	-	69639	2026-141C	A	P      DCm  	USA 612	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.504 	     442	 	     450	 	 70.00 	 	LLEO/I
+S69640    	-	69640	2026-141D	A	P      DCm  	USA 613	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.473 	     442	 	     447	 	 70.00 	 	LLEO/I
+S69641    	-	69641	2026-141E	A	P      DCm  	USA 614	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.453 	     441	 	     446	 	 70.00 	 	LLEO/I
+S69642    	-	69642	2026-141F	A	P      DCm  	USA 615	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.02 	 	LLEO/I
+S69643    	-	69643	2026-141G	A	P      DCm  	USA 616	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.01 	 	LLEO/I
+S69644    	-	69644	2026-141H	A	P      DCm  	USA 617	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.02 	 	LLEO/I
+S69645    	-	69645	2026-141J	A	P      DCm  	USA 618	2026 Jun 19	A11904	NROC	US	2026 Jun 19 0952?	In Earth orbit	-	2026 Jun 30	      93.176 	     428	 	     432	 	 70.02 	 	LLEO/I
 S69646    	-	69646	2026-142A	A	P           	VICTUS HAZE Puma	2026 Jun 19	A11906	SFSSC	US	2026 Jun 19 1029?	Attached to A11906 Photon	-	-	-	-	-	-	-	-	-	-
 S69647    	-	69647	2026-142B	R	R2          	Electron 90 Stage 2	2026 Jun 19	R86478	RLABN	NZ	2026 Jun 19 1029?	Reentered Earth atmosphere	2026 Jun 28 0348	-	-	-	-	-	-	-	-	-
 S69648    	-	69648	1998-067YH	A	P    D      	Hokushin-1	2026 Apr 11	A11905	TOHO	J	2026 Jun 19 1110:40	In Earth orbit	-	2026 Sep 14 	      92.675 	     401	 	     409	 	 51.63 	 	LLEO/I
@@ -70309,29 +70309,29 @@ S100329   	-	100329	2026-185E	A	P      D    	Globalstar M106	2026 Aug 16	A11961	
 S100330   	-	100330	2026-185F	A	P      D    	Globalstar M101	2026 Aug 16	A11961	GLOBL	US	2026 Aug 16 0212?	In Earth orbit	-	2026 Aug 16	      98.365 	     674	 	     687	 	 51.99 	 	LEO/I
 S100331   	-	100331	2026-185G	A	P      D    	Globalstar M105	2026 Aug 16	A11961	GLOBL	US	2026 Aug 16 0214:56	In Earth orbit	-	2026 Aug 16	      98.355 	     674	 	     686	 	 51.99 	 	LEO/I
 S100332   	-	100332	2026-185H	A	P      D    	Globalstar M100	2026 Aug 16	A11961	GLOBL	US	2026 Aug 16 0214:56	In Earth orbit	-	2026 Aug 16	      98.355 	     674	 	     686	 	 52.00 	 	LEO/I
-S100333   	-	100333	2026-186A	A	P      D    	USA 620	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100334   	-	100334	2026-186B	A	P      D    	USA 621	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100335   	-	100335	2026-186C	A	P      D    	USA 622	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.079 	     312	 	     343	 	 70.03 	 	LLEO/I
-S100336   	-	100336	2026-186D	A	P      D    	USA 623	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.558 	     349	 	     353	 	 70.03 	 	LLEO/I
-S100337   	-	100337	2026-186E	A	P      D    	USA 624	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.232 	     310	 	     360	 	 70.02 	 	LLEO/I
-S100338   	-	100338	2026-186F	A	P      D    	USA 625	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.02 	 	LLEO/I
-S100339   	-	100339	2026-186G	A	P      D    	USA 626	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.620 	     342	 	     366	 	 69.99 	 	LLEO/I
-S100340   	-	100340	2026-186H	A	P      D    	USA 627	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.375 	     319	 	     365	 	 70.04 	 	LLEO/I
-S100341   	-	100341	2026-186J	A	P      D    	USA 628	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.395 	     319	 	     367	 	 70.03 	 	LLEO/I
-S100342   	-	100342	2026-186K	A	P      D    	USA 629	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100343   	-	100343	2026-186L	A	P      D    	USA 630	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.02 	 	LLEO/I
-S100344   	-	100344	2026-186M	A	P      D    	USA 631	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.446 	     330	 	     361	 	 70.03 	 	LLEO/I
-S100345   	-	100345	2026-186N	A	P      D    	USA 632	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.426 	     315	 	     374	 	 70.02 	 	LLEO/I
-S100346   	-	100346	2026-186P	A	P      D    	USA 633	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.558 	     347	 	     355	 	 70.02 	 	LLEO/I
-S100347   	-	100347	2026-186Q	A	P      D    	USA 634	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.222 	     308	 	     361	 	 70.03 	 	LLEO/I
-S100348   	-	100348	2026-186R	A	P      D    	USA 635	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100349   	-	100349	2026-186S	A	P      D    	USA 636	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.02 	 	LLEO/I
-S100350   	-	100350	2026-186T	A	P      D    	USA 637	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.385 	     337	 	     348	 	 70.01 	 	LLEO/I
-S100351   	-	100351	2026-186U	A	P      D    	USA 638	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100352   	-	100352	2026-186V	A	P      D    	USA 639	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100353   	-	100353	2026-186W	A	P      D    	USA 640	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100354   	-	100354	2026-186X	A	P      D    	USA 641	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
-S100355   	-	100355	2026-186Y	A	P      D    	USA 642	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100333   	-	100333	2026-186A	A	P      DC   	USA 620	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100334   	-	100334	2026-186B	A	P      DC   	USA 621	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100335   	-	100335	2026-186C	A	P      DC   	USA 622	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.079 	     312	 	     343	 	 70.03 	 	LLEO/I
+S100336   	-	100336	2026-186D	A	P      DC   	USA 623	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.558 	     349	 	     353	 	 70.03 	 	LLEO/I
+S100337   	-	100337	2026-186E	A	P      DC   	USA 624	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.232 	     310	 	     360	 	 70.02 	 	LLEO/I
+S100338   	-	100338	2026-186F	A	P      DC   	USA 625	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.02 	 	LLEO/I
+S100339   	-	100339	2026-186G	A	P      DC   	USA 626	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.620 	     342	 	     366	 	 69.99 	 	LLEO/I
+S100340   	-	100340	2026-186H	A	P      DC   	USA 627	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.375 	     319	 	     365	 	 70.04 	 	LLEO/I
+S100341   	-	100341	2026-186J	A	P      DC   	USA 628	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.395 	     319	 	     367	 	 70.03 	 	LLEO/I
+S100342   	-	100342	2026-186K	A	P      DC   	USA 629	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100343   	-	100343	2026-186L	A	P      DC   	USA 630	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.02 	 	LLEO/I
+S100344   	-	100344	2026-186M	A	P      DC   	USA 631	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.446 	     330	 	     361	 	 70.03 	 	LLEO/I
+S100345   	-	100345	2026-186N	A	P      DC   	USA 632	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.426 	     315	 	     374	 	 70.02 	 	LLEO/I
+S100346   	-	100346	2026-186P	A	P      DC   	USA 633	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.558 	     347	 	     355	 	 70.02 	 	LLEO/I
+S100347   	-	100347	2026-186Q	A	P      DC   	USA 634	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.222 	     308	 	     361	 	 70.03 	 	LLEO/I
+S100348   	-	100348	2026-186R	A	P      DC   	USA 635	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100349   	-	100349	2026-186S	A	P      DC   	USA 636	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.02 	 	LLEO/I
+S100350   	-	100350	2026-186T	A	P      DC   	USA 637	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.385 	     337	 	     348	 	 70.01 	 	LLEO/I
+S100351   	-	100351	2026-186U	A	P      DC   	USA 638	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100352   	-	100352	2026-186V	A	P      DC   	USA 639	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100353   	-	100353	2026-186W	A	P      DC   	USA 640	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100354   	-	100354	2026-186X	A	P      DC   	USA 641	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
+S100355   	-	100355	2026-186Y	A	P      DC   	USA 642	2026 Aug 16	A11962	SFSSC	US	2026 Aug 16 0250?	In Earth orbit	-	2026 Aug 28	      91.548 	     348	 	     353	 	 70.03 	 	LLEO/I
 S100356   	-	100356	2026-187A	A	P      A    	WHDW 24-01	2026 Aug 16	S100365	ZXW	CN	2026 Aug 16 0436?	In Earth orbit	-	2026 Aug 19	     103.424 	     914	 	     927	 	 50.00 	 	LEO/I
 S100357   	-	100357	2026-187B	A	P      A    	WHDW 24-02	2026 Aug 16	S100365	ZXW	CN	2026 Aug 16 0436?	In Earth orbit	-	2026 Aug 18	     103.424 	     912	 	     929	 	 50.00 	 	LEO/I
 S100358   	-	100358	2026-187C	A	P      A    	WHDW 24-03	2026 Aug 16	S100365	ZXW	CN	2026 Aug 16 0436?	In Earth orbit	-	2026 Aug 20	     103.445 	     913	 	     930	 	 50.00 	 	LEO/I
@@ -70619,7 +70619,7 @@ S100639   	-	100639	2026-204AA	A	P      A    	Starlink 38411	2026 Sep  6	A11975	
 S100640   	-	100640	2026-204AB	A	P      A    	Starlink 38412	2026 Sep  6	A11975	SPXS	US	2026 Sep  6 1529:10	In Earth orbit	-	2026 Sep  7	      89.616 	     249	 	     262	 	 70.00 	 	LLEO/I
 S100641   	-	100641	2026-204AC	A	P      A    	Starlink 38436	2026 Sep  6	A11975	SPXS	US	2026 Sep  6 1529:10	In Earth orbit	-	2026 Sep  7	      89.616 	     249	 	     262	 	 70.00 	 	LLEO/I
 S100642   	-	100642	2026-156CE	A	P           	Cesario	2026 Jul  7	A11919	LUSO	P	2026 Sep  3 1100?	In Earth orbit	-	2026 Sep  9	      96.448 	     582	 	     595	 	 97.59 	 	LLEO/S
-S100643   	-	100643	2026-029F	A	P           	USA 643	2026 Feb 12	S67761	USSF	US	2026 Sep?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100643   	-	100643	2026-029F	A	P       C   	USA 643	2026 Feb 12	S67761	USSF	US	2026 Sep?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
 S100644   	-	100644	1998-037G	D	D  IG       	I805 collision debris	1998 Jun 18	S25371	INTEL	I-INT	2026 Jul 29 1950?	In Earth orbit	-	2026 Sep  9	    1453.754 	   36017	 	   36246	 	  7.87 	 	GEO/ID
 S100645   	-	100645	1998-037H	D	D  IG       	I805 collision debris	1998 Jun 18	S25371	INTEL	I-INT	2026 Jul 29 1950?	In Earth orbit	-	2026 Sep 10	    1455.447 	   36051	 	   36278	 	  8.09 	 	GEO/ID
 S100646   	-	100646	1998-037J	D	D  IG       	I805 collision debris	1998 Jun 18	S25371	INTEL	I-INT	2026 Jul 29 1950?	In Earth orbit	-	2026 Sep  9	    1439.184 	   35601	 	   36093	 	  7.92 	 	GEO/ID
@@ -70634,34 +70634,34 @@ S100654   	-	100654	2026-205D	A	P           	Yaogan 56-01	2026 Sep 10	S100657	ZL
 S100655   	-	100655	2026-205E	A	P           	Yaogan 56-02	2026 Sep 10	S100657	ZLZB?	CN	2026 Sep 10 0915?	In Earth orbit	-	2026 Sep 10	      94.978 	     513	 	     522	 	 45.00 	 	LLEO/I
 S100656   	-	100656	2026-205F	A	P           	Yaogan 56-03	2026 Sep 10	S100657	ZLZB?	CN	2026 Sep 10 0915?	In Earth orbit	-	2026 Sep 10	      94.967 	     511	 	     523	 	 45.00 	 	LLEO/I
 S100657   	-	100657	2026-205G	R	R3          	CZ-4B Y78? Stage 3	2026 Sep 10	R86756	CNSA	CN	2026 Sep 10 0915?	In Earth orbit	-	2026 Sep 10	      92.745 	     300	 	     518	 	 45.09 	 	LLEO/I
-S100658   	-	100658	2026-206A	A	P      D    	USA 644	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100659   	-	100659	2026-206B	A	P      D    	USA 645	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100660   	-	100660	2026-206C	A	P      D    	USA 646	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100661   	-	100661	2026-206D	A	P      D    	USA 647	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100662   	-	100662	2026-206E	A	P      D    	USA 648	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100663   	-	100663	2026-206F	A	P      D    	USA 649	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100664   	-	100664	2026-206G	A	P      D    	USA 650	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100665   	-	100665	2026-206H	A	P      D    	USA 651	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100666   	-	100666	2026-206J	A	P      D    	USA 652	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100667   	-	100667	2026-206K	A	P      D    	USA 653	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100668   	-	100668	2026-206L	A	P      D    	USA 654	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100669   	-	100669	2026-206M	A	P      D    	USA 655	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100670   	-	100670	2026-206N	A	P      D    	USA 656	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100671   	-	100671	2026-206P	A	P      D    	USA 657	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100672   	-	100672	2026-206Q	A	P      D    	USA 658	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100673   	-	100673	2026-206R	A	P      D    	USA 659	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100674   	-	100674	2026-206S	A	P      D    	USA 660	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100675   	-	100675	2026-206T	A	P      D    	USA 661	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100676   	-	100676	2026-206U	A	P      D    	USA 662	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100677   	-	100677	2026-206V	A	P      D    	USA 663	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100678   	-	100678	2026-206X	A	P      D    	USA 664	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100679   	-	100679	2026-206X	A	P      D    	USA 665	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
-S100680   	-	100680	2026-206Y	A	P      D    	USA 666	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100658   	-	100658	2026-206A	A	P      DC   	USA 644	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100659   	-	100659	2026-206B	A	P      DC   	USA 645	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100660   	-	100660	2026-206C	A	P      DC   	USA 646	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100661   	-	100661	2026-206D	A	P      DC   	USA 647	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100662   	-	100662	2026-206E	A	P      DC   	USA 648	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100663   	-	100663	2026-206F	A	P      DC   	USA 649	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100664   	-	100664	2026-206G	A	P      DC   	USA 650	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100665   	-	100665	2026-206H	A	P      DC   	USA 651	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100666   	-	100666	2026-206J	A	P      DC   	USA 652	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100667   	-	100667	2026-206K	A	P      DC   	USA 653	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100668   	-	100668	2026-206L	A	P      DC   	USA 654	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100669   	-	100669	2026-206M	A	P      DC   	USA 655	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100670   	-	100670	2026-206N	A	P      DC   	USA 656	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100671   	-	100671	2026-206P	A	P      DC   	USA 657	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100672   	-	100672	2026-206Q	A	P      DC   	USA 658	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100673   	-	100673	2026-206R	A	P      DC   	USA 659	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100674   	-	100674	2026-206S	A	P      DC   	USA 660	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100675   	-	100675	2026-206T	A	P      DC   	USA 661	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100676   	-	100676	2026-206U	A	P      DC   	USA 662	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100677   	-	100677	2026-206V	A	P      DC   	USA 663	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100678   	-	100678	2026-206X	A	P      DC   	USA 664	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100679   	-	100679	2026-206X	A	P      DC   	USA 665	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100680   	-	100680	2026-206Y	A	P      DC   	USA 666	2026 Sep 10	A11976	SFSSC	US	2026 Sep 10 1642?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
 S100681   	-	100681	2026-024J	A	P           	CSSHQ Subsatellite 3B	2026 Feb  7	S67689	ZLZB	CN	2026 Sep 10?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
 S100682   	-	100682	2026-207A	A	P           	Global-36	2026 Sep 11	S100684	BSKG	US	2026 Sep 11 0428?	In Earth orbit	-	2026 Sep 11	      94.585 	     491	 	     506	 	 36.02 	 	LLEO/I
 S100683   	-	100683	2026-207B	R	R2          	Electron 95 Stage 2	2026 Sep 11	R86762	RLABN	NZ	2026 Sep 11 0337	In Earth orbit	-	2026 Sep 11	      91.385 	     193	 	     492	 	 36.07 	 	LLEO/I
 S100684   	-	100684	2026-207C	R	R3          	Electron 95 Kick Stage	2026 Sep 11	S100683	RLABN	NZ	2026 Sep 11 0337	In Earth orbit	-	2026 Sep 11	      92.141 	     248	 	     511	 	 36.01 	 	LLEO/I
-S100685   	-	100685	2024-134M	A	P   G       	USA 667	2024 Jul 30	S60322	SFSSC	US	2026 Sep?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
+S100685   	-	100685	2024-134M	A	P   G   C   	USA 667	2024 Jul 30	S60322	SFSSC	US	2026 Sep?	In Earth orbit	-	-	-	-	-	-	-	-	-	-
 S100686   	-	100686	2026-208A	A	P           	O3b mPOWER F11	2026 Sep 13	A11977	O3BS	UK	2026 Sep 13 1922:41	In Earth orbit	-	-	-	-	-	-	-	-	-	-
 S100687   	-	100687	2026-208B	A	P           	O3b mPOWER F12	2026 Sep 13	A11977	O3BS	UK	2026 Sep 13 1929:41	In Earth orbit	-	-	-	-	-	-	-	-	-	-
 S100688   	-	100688	2026-208C	A	P           	O3b mPOWER F13	2026 Sep 13	A11977	O3BS	UK	2026 Sep 13 1936:41	In Earth orbit	-	-	-	-	-	-	-	-	-	-
