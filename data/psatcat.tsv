@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Sep 28 2218:34
+# Updated 2026 Oct  2 1352:19
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -10734,7 +10734,7 @@ S46959    	2020-085AG	SpaceBEENZ-1	2020 Nov 20 	2020 Nov 20	2023 Mar?	2023 Mar?	
 S46960    	2020-085AH	Spacebee-23	2020 Nov 20 	2020 Nov 20	2022 Oct 28?	2022 Oct 28?	-	Swarm	-	-	-	B	COM	S	-	-	US	ST/SG/SER.E/967	   94.7 	     494	     514	 97.4 	2020 Nov 30 	     495	     514	 97.37 	-
 S46984    	2020-086A	Sentinel-6 Michael Freilich	2020 Nov 21 	2023 Mar	*	*	-	Sentinel	-	-	M	C	EOSCI	S	-	ATM	[I-EU]	-	-	-	-	-	2026 Aug  7 	    1331	    1343	 66.04 	-
 S47097    	2020-087A	Chang'e-5	2020 Nov 23 	2024 Apr	2024 Apr 30	2024 Apr 30	-	Chang'e	-	-	M	C	PLAN	S	-	-	CN	ST/SG/SER.E/1033	-	-	-	-	2024 Apr 23 	  417008	49774419	 29.61 	-
-S47122    	2020-088A	Starlink-1777	2020 Nov 25 	2023 Mar  1	*	*	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/967	   92.1 	     379	     381	 53.1 	2026 Aug  7 	     318	     330	 53.04 	-
+S47122    	2020-088A	Starlink-1777	2020 Nov 25 	2023 Mar  1	2025 Dec 22	2026 Jan  9	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/967	   92.1 	     379	     381	 53.1 	2026 Aug  7 	     318	     330	 53.04 	-
 S47123    	2020-088B	Starlink-1779	2020 Nov 25 	2021 Aug 15	2021 Aug 15	2021 Aug 15?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/967	   92.1 	     379	     381	 53.1 	2021 Aug 17 	     285	     292	 53.05 	-
 S47124    	2020-088C	Starlink-1785	2020 Nov 25 	2023 Mar  1	2024 Oct 27	2024 Dec 22?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/967	   92.1 	     379	     381	 53.1 	2024 Dec 24 	     370	     372	 53.05 	-
 S47125    	2020-088D	Starlink-1787	2020 Nov 25 	2021 Sep  3	2021 Sep  3	2021 Sep  3?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/967	   92.1 	     379	     381	 53.1 	2021 Sep  5 	     281	     296	 53.05 	-
@@ -12506,7 +12506,7 @@ S49733    	2021-115K	Starlink-3252	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S49734    	2021-115L	Starlink-3238	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   93.5 	     443	     446	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S49735    	2021-115M	Starlink-3113	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   95.4 	     538	     541	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S49736    	2021-115N	Starlink-3148	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   93.5 	     443	     446	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S49737    	2021-115P	Starlink-3225	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   93.5 	     443	     446	 53.2 	2026 Aug  8 	     518	     520	 53.16 	-
+S49737    	2021-115P	Starlink-3225	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   93.5 	     443	     446	 53.2 	2026 Aug  8 	     518	     520	 53.16 	-
 S49738    	2021-115Q	Starlink-3143	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   93.5 	     443	     446	 53.2 	2026 Aug  7 	     527	     529	 53.21 	-
 S49739    	2021-115R	Starlink-3155	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   95.4 	     538	     541	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S49740    	2021-115S	Starlink-3226	2021 Dec  2 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   93.5 	     443	     446	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
@@ -12564,7 +12564,7 @@ S50005    	2021-124A	Tian Lian 2 hao 02 xing	2021 Dec 13 	2023 Mar  4	*	*	-	TL-2
 S50156    	2021-125A	Starlink-3317	2021 Dec 18 	2023 Mar  1	2025 Oct  4	2025 Dec 20?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     350	     352	 53.2 	2025 Dec 22 	     246	     249	 53.21 	-
 S50157    	2021-125B	Starlink-3313	2021 Dec 18 	2023 Mar  1	2025 Jul  6	2025 Oct  5	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2025 Oct  7 	     302	     304	 53.21 	-
 S50158    	2021-125C	Starlink-3309	2021 Dec 18 	2023 Mar  1	2025 Sep 28	2025 Nov 13?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2025 Nov 15 	     247	     249	 53.21 	-
-S50159    	2021-125D	Starlink-3297	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S50159    	2021-125D	Starlink-3297	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S50160    	2021-125E	Starlink-3288	2021 Dec 18 	2023 Mar  1	2024 Dec 11	2024 Dec 11?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2024 Dec 13 	     251	     254	 53.21 	-
 S50161    	2021-125F	Starlink-3304	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S50162    	2021-125G	Starlink-3303	2021 Dec 18 	2022 Apr  8	2022 Jan 21	2024 Feb  9?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     339	     340	 53.2 	2024 Feb 11 	     253	     266	 53.17 	-
@@ -12605,7 +12605,7 @@ S50196    	2021-125AS	Starlink-3263	2021 Dec 18 	2024 Feb 28	2024 Feb 28	2024 Fe
 S50197    	2021-125AT	Starlink-3267	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2026 Aug  8 	     462	     463	 53.16 	-
 S50198    	2021-125AU	Starlink-3264	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     515	     517	 53.16 	-
 S50199    	2021-125AV	Starlink-3270	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2026 Aug  8 	     471	     471	 53.16 	-
-S50200    	2021-125AW	Starlink-3235	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2026 Aug  8 	     478	     479	 53.16 	-
+S50200    	2021-125AW	Starlink-3235	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2026 Aug  8 	     478	     479	 53.16 	-
 S50201    	2021-125AX	Starlink-3255	2021 Dec 18 	2023 Mar  1	2025 May  7	2025 May 28?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     350	 53.2 	2025 May 30 	     440	     442	 53.21 	-
 S50202    	2021-125AY	Starlink-3256	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.2 	     334	     335	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S50203    	2021-125AZ	Starlink-3257	2021 Dec 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1041	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
@@ -12687,12 +12687,12 @@ S50825    	2022-001Y	Starlink-3332	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S50826    	2022-001Z	Starlink-3337	2022 Jan  6 	2023 Nov  7	2023 Oct 28	2023 Nov  7	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2023 Nov  9 	     534	     538	 53.22 	-
 S50827    	2022-001AA	Starlink-3329	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S50828    	2022-001AB	Starlink-3290	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
-S50829    	2022-001AC	Starlink-3294	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     465	 53.16 	-
+S50829    	2022-001AC	Starlink-3294	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     465	 53.16 	-
 S50830    	2022-001AD	Starlink-3278	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
-S50831    	2022-001AE	Starlink-3299	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
+S50831    	2022-001AE	Starlink-3299	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S50832    	2022-001AF	Starlink-3328	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     533	     536	 53.17 	-
 S50833    	2022-001AG	Starlink-3316	2022 Jan  6 	2023 Mar  1	2024 Jun 13	2024 Jun 13?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2024 Jun 15 	     432	     443	 53.20 	-
-S50834    	2022-001AH	Starlink-3331	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S50834    	2022-001AH	Starlink-3331	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S50835    	2022-001AJ	Starlink-3310	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     528	     531	 53.21 	-
 S50836    	2022-001AK	Starlink-3330	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S50837    	2022-001AL	Starlink-3318	2022 Jan  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1050	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
@@ -12946,7 +12946,7 @@ S51660    	2022-014A	Progress MS-19	2022 Feb 15 	2022 Oct 24	2022 Oct 24	2022 Oc
 S51712    	2022-015A	Cygnus NG-17	2022 Feb 19 	2022 Jun 29	2022 Jun 29	2022 Jun 29 0654:03	-	Cygnus	-	P	M	B	SS	S	-	-	US	ST/SG/SER.E/1055	   92.9 	     414	     422	 51.6 	2022 Jun 29 	     164	     396	 51.64 	-
 S51714    	2022-016A	Starlink-3528	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     351	 53.2 	2026 Aug  8 	     461	     462	 53.16 	-
 S51715    	2022-016B	Starlink-3533	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
-S51716    	2022-016C	Starlink-3543	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     351	 53.2 	2026 Aug  8 	     464	     465	 53.16 	-
+S51716    	2022-016C	Starlink-3543	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     351	 53.2 	2026 Aug  8 	     464	     465	 53.16 	-
 S51717    	2022-016D	Starlink-3445	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S51718    	2022-016E	Starlink-3546	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     498	     501	 53.20 	-
 S51719    	2022-016F	Starlink-3540	2022 Feb 21 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.5 	     349	     350	 53.2 	2026 Aug  8 	     468	     470	 53.16 	-
@@ -13031,7 +13031,7 @@ S51805    	2022-017AP	Starlink-3605	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 
 S51806    	2022-017AQ	Starlink-3581	2022 Feb 25 	2024 Feb 13	2024 Feb 13	2024 Apr 21?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     326	     328	 53.2 	2024 Apr 23 	     246	     248	 53.21 	-
 S51807    	2022-017AR	Starlink-3606	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     328	 53.2 	2026 Aug  7 	     459	     460	 53.16 	-
 S51808    	2022-017AS	Starlink-3609	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     326	     328	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S51809    	2022-017AT	Starlink-3607	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     328	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S51809    	2022-017AT	Starlink-3607	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     327	     328	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S51810    	2022-017AU	Starlink-3613	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     326	     328	 53.2 	2026 Aug  8 	     462	     464	 53.16 	-
 S51811    	2022-017AV	Starlink-3569	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     326	     328	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
 S51812    	2022-017AW	Starlink-3610	2022 Feb 25 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1055	   91.1 	     326	     328	 53.2 	2026 Aug  8 	     459	     460	 53.16 	-
@@ -13363,7 +13363,7 @@ S52332    	2022-045B	Starlink-3831	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S52333    	2022-045C	Starlink-3847	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S52334    	2022-045D	Starlink-3880	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S52335    	2022-045E	Starlink-3814	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
-S52336    	2022-045F	Starlink-3823	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S52336    	2022-045F	Starlink-3823	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S52337    	2022-045G	Starlink-3797	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S52338    	2022-045H	Starlink-3815	2022 Apr 29 	2024 Jul  3	2024 Jul  3	2024 Jul  3?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     351	 53.2 	2024 Jul  5 	     525	     526	 53.22 	-
 S52339    	2022-045J	Starlink-3792	2022 Apr 29 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1071	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
@@ -13459,7 +13459,7 @@ S52448    	2022-048F	Jilin-1 GaoFen 03D 31	2022 May  5 	2023 Feb	2026 Jun?	2026 
 S52449    	2022-048G	Jilin-1 GaoFen 03D 32	2022 May  5 	2022 May  5	2025 Aug?	2025 Aug?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 May  7 	     527	     545	 97.68 	-
 S52450    	2022-048H	Jilin-1 GaoFen 03D 33	2022 May  5 	2023 Feb	2025 Oct?	2025 Oct?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 May  7 	     527	     545	 97.68 	-
 S52451    	2022-049A	Starlink-3870	2022 May  6 	2023 Mar  1	2026 Mar 11?	2026 May 10?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.8 	     409	     411	 53.2 	2026 May 12 	     251	     255	 53.21 	-
-S52452    	2022-049B	Starlink-3909	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.8 	     409	     411	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52452    	2022-049B	Starlink-3909	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.8 	     409	     411	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52453    	2022-049C	Starlink-3872	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.8 	     409	     411	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52454    	2022-049D	Starlink-3888	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.8 	     409	     411	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52455    	2022-049E	Starlink-3890	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.8 	     409	     411	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
@@ -13480,7 +13480,7 @@ S52469    	2022-049U	Starlink-3828	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S52470    	2022-049V	Starlink-3859	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  8 	     461	     463	 53.16 	-
 S52471    	2022-049W	Starlink-3862	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S52472    	2022-049X	Starlink-3881	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  8 	     464	     466	 53.16 	-
-S52473    	2022-049Y	Starlink-3879	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  8 	     472	     475	 53.16 	-
+S52473    	2022-049Y	Starlink-3879	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  8 	     472	     475	 53.16 	-
 S52474    	2022-049Z	Starlink-3855	2022 May  6 	2023 Mar  1	2026 Jan 28	2026 Mar 14?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Mar 16 	     247	     249	 53.21 	-
 S52475    	2022-049AA	Starlink-3882	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     459	     460	 53.16 	-
 S52476    	2022-049AB	Starlink-3835	2022 May  6 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  8 	     465	     466	 53.16 	-
@@ -13641,20 +13641,20 @@ S52675    	2022-053V	Starlink-3934	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S52676    	2022-053W	Starlink-4006	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.9 	     416	     418	 53.2 	2026 Aug  8 	     458	     460	 53.16 	-
 S52677    	2022-053X	Starlink-4028	2022 May 18 	2023 Mar  1	2025 Feb  7	2025 Jun 29	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2025 Jul  1 	     362	     364	 53.22 	-
 S52678    	2022-053Y	Starlink-4074	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   92.9 	     416	     418	 53.2 	2026 Aug  8 	     520	     522	 53.16 	-
-S52679    	2022-053Z	Starlink-4031	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S52680    	2022-053AA	Starlink-3774	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
+S52679    	2022-053Z	Starlink-4031	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52680    	2022-053AA	Starlink-3774	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S52681    	2022-053AB	Starlink-4068	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     352	 53.2 	2026 Aug  8 	     522	     526	 53.16 	-
-S52682    	2022-053AC	Starlink-4017	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52682    	2022-053AC	Starlink-4017	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52683    	2022-053AD	Starlink-4039	2022 May 18 	2023 Mar  1	2024 Nov 30?	2024 Nov 30?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2024 Dec  2 	     278	     278	 53.21 	-
-S52684    	2022-053AE	Starlink-4014	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S52685    	2022-053AF	Starlink-4029	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S52686    	2022-053AG	Starlink-4005	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
-S52687    	2022-053AH	Starlink-3981	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S52688    	2022-053AJ	Starlink-4032	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52684    	2022-053AE	Starlink-4014	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52685    	2022-053AF	Starlink-4029	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52686    	2022-053AG	Starlink-4005	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
+S52687    	2022-053AH	Starlink-3981	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52688    	2022-053AJ	Starlink-4032	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52689    	2022-053AK	Starlink-4078	2022 May 18 	2023 Mar  1	2025 Jan 12	2025 Jun 26?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2025 Jun 28 	     476	     478	 53.22 	-
 S52690    	2022-053AL	Starlink-4035	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  8 	     521	     525	 53.16 	-
 S52691    	2022-053AM	Starlink-3945	2022 May 18 	2023 Mar  1	2024 Nov  5	2024 Dec 16?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2024 Dec 18 	     249	     253	 53.21 	-
-S52692    	2022-053AN	Starlink-3993	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S52692    	2022-053AN	Starlink-3993	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52693    	2022-053AP	Starlink-3946	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S52694    	2022-053AQ	Starlink-4072	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S52695    	2022-053AR	Starlink-4041	2022 May 18 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1074	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
@@ -13774,7 +13774,7 @@ S52862    	2022-062AJ	Starlink-4010	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 
 S52863    	2022-062AK	Starlink-4270	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S52864    	2022-062AL	Starlink-4267	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  8 	     458	     460	 53.16 	-
 S52865    	2022-062AM	Starlink-4274	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S52866    	2022-062AN	Starlink-4272	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  8 	     464	     465	 53.16 	-
+S52866    	2022-062AN	Starlink-4272	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  8 	     464	     465	 53.16 	-
 S52867    	2022-062AP	Starlink-4126	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S52868    	2022-062AQ	Starlink-4261	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     472	     475	 53.16 	-
 S52869    	2022-062AR	Starlink-4266	2022 Jun 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1076	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -13863,7 +13863,7 @@ S53015    	2022-076AF	Starlink-4262	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 
 S53016    	2022-076AG	Starlink-4283	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S53017    	2022-076AH	Starlink-4281	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     401	     403	 53.21 	-
 S53018    	2022-076AJ	Starlink-4279	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     458	     460	 53.22 	-
-S53019    	2022-076AK	Starlink-4282	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     533	     535	 53.16 	-
+S53019    	2022-076AK	Starlink-4282	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     533	     535	 53.16 	-
 S53020    	2022-076AL	Starlink-4287	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     516	     517	 53.16 	-
 S53021    	2022-076AM	Starlink-4203	2022 Jul  7 	2023 Mar  1	2024 Dec  7	2024 Dec  7?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2024 Dec  9 	     250	     254	 53.21 	-
 S53022    	2022-076AN	Starlink-4216	2022 Jul  7 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -13953,7 +13953,7 @@ S53140    	2022-083J	Starlink-4170	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S53141    	2022-083K	Starlink-4103	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53142    	2022-083L	Starlink-4101	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S53143    	2022-083M	Starlink-4102	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     499	     501	 53.16 	-
-S53144    	2022-083N	Starlink-4100	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     464	     465	 53.16 	-
+S53144    	2022-083N	Starlink-4100	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     464	     465	 53.16 	-
 S53145    	2022-083P	Starlink-4106	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53146    	2022-083Q	Starlink-4099	2022 Jul 17 	2023 Mar  1	2025 Apr  9	2025 May 24?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2025 May 26 	     255	     258	 53.22 	-
 S53147    	2022-083R	Starlink-4094	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   92.9 	     415	     417	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -13961,7 +13961,7 @@ S53148    	2022-083S	Starlink-4066	2022 Jul 17 	2023 Oct 23	2023 Oct 23	2024 Jun
 S53149    	2022-083T	Starlink-4021	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S53150    	2022-083U	Starlink-4038	2022 Jul 17 	2023 Mar  1	2025 Oct 28	2026 Jan 16?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Jan 18 	     352	     353	 53.22 	-
 S53151    	2022-083V	Starlink-4040	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S53152    	2022-083W	Starlink-4045	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     337	     339	 53.22 	-
+S53152    	2022-083W	Starlink-4045	2022 Jul 17 	2023 Mar  1	2026 Apr  8	2026 Jul 26?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     337	     339	 53.22 	-
 S53153    	2022-083X	Starlink-4098	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     536	     538	 53.16 	-
 S53154    	2022-083Y	Starlink-4077	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     509	     511	 53.16 	-
 S53155    	2022-083Z	Starlink-4088	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     539	     539	 53.16 	-
@@ -13977,9 +13977,9 @@ S53164    	2022-083AJ	Starlink-4116	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 
 S53165    	2022-083AK	Starlink-4090	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53166    	2022-083AL	Starlink-4110	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     485	     487	 53.22 	-
 S53167    	2022-083AM	Starlink-3683	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     531	     531	 53.16 	-
-S53168    	2022-083AN	Starlink-4105	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     528	     529	 53.16 	-
+S53168    	2022-083AN	Starlink-4105	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     528	     529	 53.16 	-
 S53169    	2022-083AP	Starlink-4117	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
-S53170    	2022-083AQ	Starlink-4095	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53170    	2022-083AQ	Starlink-4095	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53171    	2022-083AR	Starlink-4052	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53172    	2022-083AS	Starlink-4299	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     476	     478	 53.16 	-
 S53173    	2022-083AT	Starlink-4300	2022 Jul 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
@@ -14052,7 +14052,7 @@ S53249    	2022-086H	Starlink-4128	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S53250    	2022-086J	Starlink-4059	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S53251    	2022-086K	Starlink-4129	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     476	     478	 53.16 	-
 S53252    	2022-086L	Starlink-4132	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
-S53253    	2022-086M	Starlink-4133	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     344	     355	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
+S53253    	2022-086M	Starlink-4133	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     344	     355	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53254    	2022-086N	Starlink-4134	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53255    	2022-086P	Starlink-4142	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     344	     356	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53256    	2022-086Q	Starlink-4147	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     355	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
@@ -14073,7 +14073,7 @@ S53270    	2022-086AE	Starlink-4113	2022 Jul 24 	2022 Aug  8	2022 Aug  8	2022 Au
 S53271    	2022-086AF	Starlink-4069	2022 Jul 24 	2024 Mar  2	2024 Mar  2	2024 Jun 24?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2024 Jun 26 	     228	     237	 53.21 	-
 S53272    	2022-086AG	Starlink-4122	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
 S53273    	2022-086AH	Starlink-4051	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
-S53274    	2022-086AJ	Starlink-4050	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S53274    	2022-086AJ	Starlink-4050	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S53275    	2022-086AK	Starlink-4179	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53276    	2022-086AL	Starlink-4174	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53277    	2022-086AM	Starlink-4178	2022 Jul 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1079	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
@@ -14162,16 +14162,16 @@ S53404    	2022-097S	Starlink-4509	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S53405    	2022-097T	Starlink-4510	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   95.1 	     524	     527	 53.2 	2026 Aug  7 	     493	     496	 53.16 	-
 S53406    	2022-097U	Starlink-4533	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     409	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53407    	2022-097V	Starlink-4537	2022 Aug 10 	2023 Mar  1	2025 May 23	2025 Oct 30?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     348	     352	 53.2 	2025 Nov  1 	     253	     262	 53.20 	-
-S53408    	2022-097W	Starlink-4491	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     409	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53408    	2022-097W	Starlink-4491	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     409	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53409    	2022-097X	Starlink-4490	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S53410    	2022-097Y	Starlink-4492	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53410    	2022-097Y	Starlink-4492	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53411    	2022-097Z	Starlink-4497	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53412    	2022-097AA	Starlink-4496	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53413    	2022-097AB	Starlink-4500	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53414    	2022-097AC	Starlink-4304	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53415    	2022-097AD	Starlink-4479	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
-S53416    	2022-097AE	Starlink-4480	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S53417    	2022-097AF	Starlink-4484	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
+S53416    	2022-097AE	Starlink-4480	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53417    	2022-097AF	Starlink-4484	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S53418    	2022-097AG	Starlink-4481	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53419    	2022-097AH	Starlink-4476	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53420    	2022-097AJ	Starlink-4552	2022 Aug 10 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.7 	     406	     408	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -14329,7 +14329,7 @@ S53594    	2022-104G	Starlink-4681	2022 Aug 28 	2023 Mar  1	2026 Mar 12	2026 Jun
 S53595    	2022-104H	Starlink-4684	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53596    	2022-104J	Starlink-4668	2022 Aug 28 	2023 Mar  1	2023 Dec 24	2023 Dec 24?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2023 Dec 26 	     538	     540	 53.22 	-
 S53597    	2022-104K	Starlink-4682	2022 Aug 28 	2023 Mar  1	2024 Aug  3	2024 Oct 14?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2024 Oct 16 	     326	     326	 53.22 	-
-S53598    	2022-104L	Starlink-4676	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     529	     530	 53.16 	-
+S53598    	2022-104L	Starlink-4676	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     529	     530	 53.16 	-
 S53599    	2022-104M	Starlink-4665	2022 Aug 28 	2022 Oct 23	2022 Oct 23	2022 Oct 23	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   90.9 	     319	     320	 53.2 	2022 Oct 25 	     290	     296	 53.21 	-
 S53600    	2022-104N	Starlink-4677	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53601    	2022-104P	Starlink-4675	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
@@ -14357,7 +14357,7 @@ S53622    	2022-104AL	Starlink-4568	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 
 S53623    	2022-104AM	Starlink-4573	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S53624    	2022-104AN	Starlink-4596	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53625    	2022-104AP	Starlink-4603	2022 Aug 28 	2023 Mar  1	2024 Nov  7	2024 Dec 21?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2024 Dec 23 	     251	     252	 53.21 	-
-S53626    	2022-104AQ	Starlink-4554	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     464	     466	 53.17 	-
+S53626    	2022-104AQ	Starlink-4554	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     464	     466	 53.17 	-
 S53627    	2022-104AR	Starlink-4595	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53628    	2022-104AS	Starlink-4600	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S53629    	2022-104AT	Starlink-4602	2022 Aug 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1080	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
@@ -14488,7 +14488,7 @@ S53773    	2022-111A	Starlink-4718	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S53774    	2022-111B	Starlink-4719	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   93.5 	     444	     445	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53775    	2022-111C	Starlink-4722	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     476	     478	 53.16 	-
 S53776    	2022-111D	Starlink-4708	2022 Sep 11 	2023 Mar  1	2025 Feb 26	2025 Jul 23?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   92.0 	     373	     374	 53.2 	2025 Jul 24 	     199	     201	 53.20 	-
-S53777    	2022-111E	Starlink-4664	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53777    	2022-111E	Starlink-4664	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53778    	2022-111F	Starlink-4709	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   92.0 	     373	     374	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S53779    	2022-111G	Starlink-4706	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S53780    	2022-111H	Starlink-4678	2022 Sep 11 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
@@ -14545,7 +14545,7 @@ S53838    	2022-114W	Starlink-4773	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S53839    	2022-114X	Starlink-4784	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53840    	2022-114Y	Starlink-4766	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S53841    	2022-114Z	Starlink-4750	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S53842    	2022-114AA	Starlink-4754	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53842    	2022-114AA	Starlink-4754	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53843    	2022-114AB	Starlink-4769	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53844    	2022-114AC	Starlink-4745	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     541	     542	 53.16 	-
 S53845    	2022-114AD	Starlink-4753	2022 Sep 19 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
@@ -14609,10 +14609,10 @@ S53910    	2022-119AA	Starlink-5056	2022 Sep 24 	2023 Mar  1	2024 Aug 11	2025 No
 S53911    	2022-119AB	Starlink-5048	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53912    	2022-119AC	Starlink-5059	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53913    	2022-119AD	Starlink-5053	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S53914    	2022-119AE	Starlink-5040	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53914    	2022-119AE	Starlink-5040	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53915    	2022-119AF	Starlink-5017	2022 Sep 24 	2023 Mar  1	2026 Mar 14	2026 Jun  4?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Jun  6 	     246	     248	 53.21 	-
 S53916    	2022-119AG	Starlink-5051	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
-S53917    	2022-119AH	Starlink-5036	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     485	     486	 53.21 	-
+S53917    	2022-119AH	Starlink-5036	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     485	     486	 53.21 	-
 S53918    	2022-119AJ	Starlink-5012	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53919    	2022-119AK	Starlink-5023	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     485	     487	 53.17 	-
 S53920    	2022-119AL	Starlink-5025	2022 Sep 24 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1082	   91.5 	     349	     350	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
@@ -14662,11 +14662,11 @@ S53974    	2022-125L	Starlink-5159	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S53975    	2022-125M	Starlink-5137	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   94.7 	     501	     504	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S53976    	2022-125N	Starlink-5134	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     477	     478	 53.16 	-
 S53977    	2022-125P	Starlink-5094	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   94.6 	     496	     499	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S53978    	2022-125Q	Starlink-5148	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   94.5 	     492	     494	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
+S53978    	2022-125Q	Starlink-5148	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   94.5 	     492	     494	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S53979    	2022-125R	Starlink-5123	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   94.5 	     494	     496	 53.2 	2026 Aug  7 	     523	     525	 53.16 	-
 S53980    	2022-125S	Starlink-5133	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   94.4 	     489	     491	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
-S53981    	2022-125T	Starlink-5149	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
-S53982    	2022-125U	Starlink-5120	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S53981    	2022-125T	Starlink-5149	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
+S53982    	2022-125U	Starlink-5120	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 4	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S53983    	2022-125V	Starlink-5103	2022 Oct  5 	2023 Mar  1	2025 Nov 30	2026 Jan 23	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Jan 25 	     248	     250	 53.22 	-
 S53984    	2022-125W	Starlink-5142	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S53985    	2022-125X	Starlink-5147	2022 Oct  5 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.9 	     416	     417	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
@@ -14715,11 +14715,11 @@ S54044    	2022-133C	CZ-2D Deorbit Sail 6	2022 Oct 14 	2023 Jan 22	2023 Feb?	202
 S54045    	2022-133D	Yaogan 36 02 zu 03 xing	2022 Oct 14 	2023 Mar	*	*	-	YG-36C	4	-	-	D	SIG	S	-	-	CN	ST/SG/SER.E/1123	   94.6 	     492	     506	 35.0 	2022 Oct 17 	     484	     497	 35.00 	-
 S54048    	2022-134A	EUTELSAT HOTBIRDTM 13F	2022 Oct 15 	2023 Mar  7	*	*	-	Eutelsat HB	-	-	M	B	COM	S	-	-	F	ST/SG/SER.E/1113	 1436.0 	   35786	   35786	  0.0 	2026 Aug  7 	   35778	   35795	  0.06 	-
 S54050    	2022-135A	Kosmos-2560	2022 Oct 15 	2022 Oct 15	2022 Dec 10?	2022 Dec 10?	-	EMKA	-	-	M	D	IMG	S	-	-	RU	ST/SG/SER.E/1081	   91.0 	     317	     345	 96.2 	2022 Dec 10 	     130	     150	 96.27 	-
-S54051    	2022-136A	Starlink-5195	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     432	     434	 53.2 	2026 Aug  7 	     541	     543	 53.17 	-
+S54051    	2022-136A	Starlink-5195	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     432	     434	 53.2 	2026 Aug  7 	     541	     543	 53.17 	-
 S54052    	2022-136B	Starlink-5189	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54053    	2022-136C	Starlink-5176	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     431	     433	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S54054    	2022-136D	Starlink-5163	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     429	     431	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
-S54055    	2022-136E	Starlink-5158	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     430	     432	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S54055    	2022-136E	Starlink-5158	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     430	     432	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S54056    	2022-136F	Starlink-5226	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.2 	     428	     431	 53.2 	2026 Aug  7 	     477	     479	 53.16 	-
 S54057    	2022-136G	Starlink-5216	2022 Oct 20 	2022 Nov 10	2022 Nov 10	2022 Nov 10	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.0 	     372	     376	 53.2 	2022 Nov 12 	     374	     377	 53.22 	-
 S54058    	2022-136H	Starlink-5167	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   93.1 	     426	     429	 53.2 	2026 Aug  7 	     459	     460	 53.16 	-
@@ -14749,11 +14749,11 @@ S54081    	2022-136AG	Starlink-5165	2022 Oct 20 	2023 Mar  1	2025 Aug 16	2025 Oc
 S54082    	2022-136AH	Starlink-5210	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54083    	2022-136AJ	Starlink-5178	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54084    	2022-136AK	Starlink-5183	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S54085    	2022-136AL	Starlink-5166	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54085    	2022-136AL	Starlink-5166	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54086    	2022-136AM	Starlink-5211	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     486	     487	 53.16 	-
-S54087    	2022-136AN	Starlink-5184	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S54088    	2022-136AP	Starlink-5153	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S54089    	2022-136AQ	Starlink-5143	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54087    	2022-136AN	Starlink-5184	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54088    	2022-136AP	Starlink-5153	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54089    	2022-136AQ	Starlink-5143	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54090    	2022-136AR	Starlink-5177	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54091    	2022-136AS	Starlink-5221	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S54092    	2022-136AT	Starlink-5190	2022 Oct 20 	2023 Oct 26	2023 Oct 26	2024 Feb 21	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2024 Feb 23 	     517	     519	 53.22 	-
@@ -14766,7 +14766,7 @@ S54098    	2022-136AZ	Starlink-5217	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 
 S54099    	2022-136BA	Starlink-5198	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54100    	2022-136BB	Starlink-5185	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     539	     540	 53.16 	-
 S54101    	2022-136BC	Starlink-5204	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
-S54102    	2022-136BD	Starlink-5179	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54102    	2022-136BD	Starlink-5179	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     353	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54103    	2022-136BE	Starlink-5200	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S54104    	2022-136BF	Starlink-5203	2022 Oct 20 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S54109    	2022-137A	Kosmos-2561	2022 Oct 21 	2023 Mar	*	*	-	K14F164	-	-	-	D	TECH	S	-	-	RU	ST/SG/SER.E/1081	   93.0 	     417	     438	 97.1 	2022 Oct 23 	     409	     419	 97.08 	-
@@ -14814,20 +14814,20 @@ S54153    	2022-139D	SKIF-D	2022 Oct 22 	2022 Dec	*	*	-	SferaCon	G	-	-	C	COM	S	-
 S54155    	2022-140A	Progress MS-21	2022 Oct 26 	2023 Feb 19	2023 Feb 19	2023 Feb 19 0347	-	Progress MS	-	P	M	C	SS	S	-	-	RU	ST/SG/SER.E/1081	   88.5 	     193	     241	 51.7 	2023 Feb 18 	     410	     423	 51.64 	-
 S54157    	2022-141A	Starlink-5290	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54158    	2022-141B	Starlink-5297	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     396	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
-S54159    	2022-141C	Starlink-5294	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     396	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54159    	2022-141C	Starlink-5294	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     396	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54160    	2022-141D	Starlink-5233	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S54161    	2022-141E	Starlink-5269	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
-S54162    	2022-141F	Starlink-5273	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54162    	2022-141F	Starlink-5273	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54163    	2022-141G	Starlink-5161	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S54164    	2022-141H	Starlink-5278	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
-S54165    	2022-141J	Starlink-5279	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54165    	2022-141J	Starlink-5279	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54166    	2022-141K	Starlink-5280	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
-S54167    	2022-141L	Starlink-5243	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54167    	2022-141L	Starlink-5243	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   92.5 	     395	     397	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54168    	2022-141M	Starlink-5245	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
 S54169    	2022-141N	Starlink-5282	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S54170    	2022-141P	Starlink-5155	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
 S54171    	2022-141Q	Starlink-5229	2022 Oct 28 	2023 Mar  1	2025 Mar 20	2025 May  4?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2025 May  6 	     247	     260	 53.21 	-
-S54172    	2022-141R	Starlink-5117	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
+S54172    	2022-141R	Starlink-5117	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     347	     352	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S54173    	2022-141S	Starlink-5242	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
 S54174    	2022-141T	Starlink-5248	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     459	     460	 53.16 	-
 S54175    	2022-141U	Starlink-5256	2022 Oct 28 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1086	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -14987,7 +14987,7 @@ S54759    	2022-175B	Starlink-5215	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S54760    	2022-175C	Starlink-5220	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54761    	2022-175D	Starlink-5202	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S54762    	2022-175E	Starlink-5214	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 5	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
-S54763    	2022-175F	Starlink-5191	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54763    	2022-175F	Starlink-5191	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54764    	2022-175G	Starlink-5458	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S54765    	2022-175H	Starlink-5466	2022 Dec 17 	2023 Mar  1	2024 Nov  7	2024 Dec  5?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2024 Dec  7 	     347	     348	 53.22 	-
 S54766    	2022-175J	Starlink-5471	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
@@ -15013,10 +15013,10 @@ S54785    	2022-175AD	Starlink-5440	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 
 S54786    	2022-175AE	Starlink-5438	2022 Dec 17 	2023 Mar  1	2024 Jun 15	2024 Aug 16	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2024 Aug 18 	     208	     217	 53.20 	-
 S54787    	2022-175AF	Starlink-5441	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     415	     419	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S54788    	2022-175AG	Starlink-5399	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     458	     460	 53.16 	-
-S54789    	2022-175AH	Starlink-5446	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.0 	     320	     322	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
+S54789    	2022-175AH	Starlink-5446	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.0 	     320	     322	 53.2 	2026 Aug  7 	     538	     540	 53.16 	-
 S54790    	2022-175AJ	Starlink-5445	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     348	     351	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S54791    	2022-175AK	Starlink-5425	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
-S54792    	2022-175AL	Starlink-5431	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 6	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
+S54792    	2022-175AL	Starlink-5431	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S54793    	2022-175AM	Starlink-5433	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     528	     529	 53.16 	-
 S54794    	2022-175AN	Starlink-5392	2022 Dec 17 	2023 Mar  1	2024 Jul 23	2024 Nov 14?	-	Starlink 1.5 G4	4 1	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2024 Nov 16 	     461	     465	 53.20 	-
 S54795    	2022-175AP	Starlink-5436	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     348	     352	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -21729,7 +21729,7 @@ S63433    	2025-069A	Starlink-33682	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO 
 S63434    	2025-069B	Starlink-33710	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     446	     448	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S63435    	2025-069C	Starlink-33733	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     446	     448	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S63436    	2025-069D	Starlink-33638	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     447	     448	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
-S63437    	2025-069E	Starlink-33726	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 0	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     447	     448	 53.2 	2026 Aug  7 	     417	     419	 53.16 	-
+S63437    	2025-069E	Starlink-33726	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     447	     448	 53.2 	2026 Aug  7 	     417	     419	 53.16 	-
 S63438    	2025-069F	Starlink-33681	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     446	     448	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
 S63439    	2025-069G	Starlink-33730	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     446	     448	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S63440    	2025-069H	Starlink-33743	2025 Apr  4 	2025 Apr  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1290	   93.5 	     446	     448	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -22393,7 +22393,7 @@ S64116    	2025-110W	Starlink-34080	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO 
 S64117    	2025-110X	Starlink-34122	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   92.9 	     416	     422	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S64118    	2025-110Y	Starlink-33964	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   93.3 	     414	     454	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S64119    	2025-110Z	Starlink-34160	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   92.9 	     418	     420	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
-S64120    	2025-110AA	Starlink-34151	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   92.9 	     418	     419	 53.2 	2026 Aug  7 	     469	     472	 53.16 	-
+S64120    	2025-110AA	Starlink-34151	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   92.9 	     418	     419	 53.2 	2026 Aug  7 	     469	     472	 53.16 	-
 S64121    	2025-110AB	Starlink-34189	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   92.9 	     418	     419	 53.2 	2026 Aug  7 	     474	     475	 53.16 	-
 S64122    	2025-110AC	Starlink-33991	2025 May 23 	2025 May 23	*	*	-	Starlink 2MO S1	7 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   92.9 	     418	     419	 53.2 	2026 Aug  7 	     470	     471	 53.16 	-
 S64123    	2025-111A	Starlink 11727	2025 May 24 	2025 May 24	*	*	-	Starlink 2M D2	9 0	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1302	   91.3 	     335	     337	 43.0 	2026 Aug  7 	     355	     357	 43.00 	-
@@ -22801,7 +22801,7 @@ S64555    	2025-135AD	Connecta IOT-10	2025 Jun 23 	2025 Jun 23	*	*	-	Plan S	-	-	
 S64556    	2025-135AE	MOBIUS-1	2025 Jun 23 	2025 Jun 23	*	*	-	Galaxia	-	-	-	B	IMG	S	-	-	[CA]	-	-	-	-	-	2025 Jul 17 	     508	     512	 97.45 	-
 S64557    	2025-135AF	Connecta IOT-11	2025 Jun 23 	2025 Jun 23	*	*	-	Plan S	-	-	-	B	COM	S	-	-	TR	ST/SG/SER.E/1300	   94.8 	     509	     510	 97.5 	2025 Jul 17 	     508	     512	 97.45 	-
 S64558    	2025-135AG	Quick3	2025 Jun 23 	2025 Jun 23	*	*	-	Jena	-	-	-	A	TECH	S	-	-	[LT]*	-	-	-	-	-	2025 Jul 17 	     511	     518	 97.45 	-
-S64559    	2025-135AH	PADRE	2025 Jun 23 	2025 Jun 23	*	*	-	UCB	-	-	-	A	AST	S	-	-	BGN*	ST/SG/SER.E/1295	   96.6 	     594	     595	 97.8 	2025 Jul 17 	     594	     595	 97.75 	-
+S64559    	2025-135AH	PADRE	2025 Jun 23 	2025 Nov 28	*	*	-	UCB	-	-	-	A	AST	S	-	-	BGN*	ST/SG/SER.E/1295	   96.6 	     594	     595	 97.8 	2025 Jul 17 	     594	     595	 97.75 	-
 S64560    	2025-135AJ	ADDCUBE	2025 Jun 23 	2025 Jun 23	*	*	-	Nara Space	-	-	-	B	COM	S	-	-	KR	ST/SG/SER.E/1306	   96.5 	     576	     600	 97.7 	2025 Jul 17 	     593	     594	 97.75 	-
 S64561    	2025-135AK	Lemur-2 Krish	2025 Jun 23 	2025 Jun 23	*	*	-	Spire	2	-	-	B	COM/MET-RO	S	-	-	[US]	-	-	-	-	-	2025 Jul 17 	     593	     595	 97.75 	-
 S64562    	2025-135AL	Lilo	2025 Jun 23 	2025 Jun 23	*	*	-	Hubble Net	-	-	-	B	COM	S	-	-	[US]	-	-	-	-	-	2025 Jul 17 	     593	     595	 97.75 	-
@@ -23577,7 +23577,7 @@ S65450    	2025-194S	Starlink-34970	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO 
 S65451    	2025-194T	Starlink-35039	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     547	     551	 97.29 	-
 S65452    	2025-194U	Starlink-35084	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     533	     535	 97.29 	-
 S65453    	2025-194V	Starlink-34988	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 4	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     550	     553	 97.35 	-
-S65454    	2025-194W	Starlink-35059	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 4	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     550	     554	 97.35 	-
+S65454    	2025-194W	Starlink-35059	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     550	     554	 97.35 	-
 S65455    	2025-194X	Starlink-34728	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     533	     535	 97.28 	-
 S65456    	2025-194Y	Starlink-35005	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     547	     551	 97.28 	-
 S65457    	2025-194Z	Starlink-35076	2025 Sep  3 	2025 Sep  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     533	     535	 97.29 	-
@@ -23713,14 +23713,14 @@ S65595    	2025-207D	Starlink-35261	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO 
 S65596    	2025-207E	Starlink-35253	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65597    	2025-207F	Starlink-35263	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65598    	2025-207G	Starlink-35248	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
-S65599    	2025-207H	Starlink-35245	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 4	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
+S65599    	2025-207H	Starlink-35245	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65600    	2025-207J	Starlink-35229	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65601    	2025-207K	Starlink-35234	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     547	     551	 97.28 	-
 S65602    	2025-207L	Starlink-35255	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65603    	2025-207M	Starlink-35250	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65604    	2025-207N	Starlink-35251	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     547	     551	 97.28 	-
 S65605    	2025-207P	Starlink-35171	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
-S65606    	2025-207Q	Starlink-35195	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 4	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
+S65606    	2025-207Q	Starlink-35195	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65607    	2025-207R	Starlink-35156	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65608    	2025-207S	Starlink-35185	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
 S65609    	2025-207T	Starlink-35053	2025 Sep 13 	2025 Sep 13	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     548	     550	 97.28 	-
@@ -23837,7 +23837,7 @@ S65720    	2025-214J	Geely Xingzuo 06 zu 08	2025 Sep 24 	2025 Sep 24	*	*	-	GeeSp
 S65721    	2025-214K	Geely Xingzuo 06 zu 09	2025 Sep 24 	2025 Sep 24	*	*	-	GeeSpace	-	-	M	B	NAV	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	     612	     624	 49.98 	-
 S65722    	2025-214L	Geely Xingzuo 06 zu 10	2025 Sep 24 	2025 Sep 24	*	*	-	GeeSpace	-	-	M	B	NAV	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	     610	     626	 49.99 	-
 S65723    	2025-214M	Geely Xingzuo 06 zu 11	2025 Sep 24 	2025 Sep 24	*	*	-	GeeSpace	-	-	M	B	NAV	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	     611	     625	 49.98 	-
-S65724    	2024-134H	USA 566	2024 Jul 30 	2025 Oct  1	*	*	-	USSF GEO Unk	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S65724    	2024-134H	USA 566	2024 Jul 30 	2025 Oct  1	*	*	-	USSF GEO Patrol	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S65725    	2025-215A	IMAP	2025 Sep 24 	2025 Sep 24	*	*	-	SOLTP	-	P	M	C	SCI	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S65726    	2025-215B	SWFO-L1	2025 Sep 24 	2025 Sep 24	*	*	-	Triana	-	P	M	C	SCI	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S65727    	2025-215C	Carruthers Geocorona Obs	2025 Sep 24 	2025 Sep 24	*	*	-	SOLTP	-	P	M	C	SCI	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
@@ -24242,7 +24242,7 @@ S66140    	2025-237AC	Starlink-35625	2025 Oct 22 	2025 Oct 22	*	*	-	Starlink 2MO
 S66141    	2025-237AD	Starlink-35603	2025 Oct 22 	2025 Oct 22	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     461	     463	 53.16 	-
 S66142    	2025-238A	Tongxin Jishu Shiyan 20	2025 Oct 23 	2025 Oct 23	*	*	-	TJS11	-	P	M	D	SIG	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	   35769	   35802	  5.36 	-
 S66144    	2025-239A	Spainsat NG-2	2025 Oct 24 	2025 Oct 24	2025 Nov 28	2025 Dec?	-	Hisdesat	-	P	M	D	COM	S	-	-	[E]	-	-	-	-	-	2025 Dec 14 	    3958	   69520	 15.93 	-
-S66145    	2024-134J	USA 567	2024 Jul 30 	2025 Oct 20?	*	*	-	USSF GEO Unk	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S66145    	2024-134J	USA 567	2024 Jul 30 	2025 Oct 20?	*	*	-	USSF GEO Patrol	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S66146    	2025-240A	Starlink-35318	2025 Oct 25 	2025 Oct 25	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     461	     463	 53.16 	-
 S66147    	2025-240B	Starlink-33948	2025 Oct 25 	2025 Oct 25	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     461	     463	 53.16 	-
 S66148    	2025-240C	Starlink-35081	2025 Oct 25 	2025 Oct 25	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     461	     463	 53.16 	-
@@ -24634,8 +24634,8 @@ S66545    	2025-266A	Shi Jian 30A	2025 Nov 19 	2025 Nov 19	*	*	-	SJ30	-	-	M	D	TE
 S66546    	2025-266B	Shi Jian 30B	2025 Nov 19 	2025 Nov 19	*	*	-	SJ30	-	-	M	D	TECH	S	-	-	[CN]	-	-	-	-	-	2026 Aug  8 	     514	     523	 51.80 	-
 S66547    	2025-266C	Shi Jian 30C	2025 Nov 19 	2025 Nov 19	*	*	-	SJ30	-	-	M	D	TECH	S	-	-	[CN]	-	-	-	-	-	2026 Aug  8 	     513	     523	 51.80 	-
 S66549    	2025-277A	Shi Jian 28	2025 Nov 30 	2025 Nov 30	*	*	-	SJ28	-	-	-	C	TECH	S	-	-	[CN]	-	-	-	-	-	2025 Dec 11 	   35783	   35789	  5.02 	-
-S66551    	2024-134K	USA 568	2024 Jul 30 	2025 Nov 30?	*	*	-	USSF GEO Unk	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S66552    	2024-134L	USA 569	2024 Jul 30 	2025 Nov 30?	*	*	-	USSF GEO Unk	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S66551    	2024-134K	USA 568	2024 Jul 30 	2025 Nov 30?	*	*	-	USSF GEO Patrol	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
+S66552    	2024-134L	USA 569	2024 Jul 30 	2025 Nov 30?	*	*	-	USSF GEO Patrol	-	-	M	D	EW*	S	-	-	[US]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S66554    	2025-267A	Global-33	2025 Nov 20 	2025 Nov 20	*	*	-	BlackSky	-	P	-	B	IMG	S	-	-	[US]	-	-	-	-	-	2025 Nov 25 	     468	     477	 42.02 	-
 S66557    	2025-268A	Starlink 35699	2025 Nov 21 	2025 Nov 21	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     482	     484	 43.00 	-
 S66558    	2025-268B	Starlink 35695	2025 Nov 21 	2025 Nov 21	*	*	-	Starlink 2MO S2	6 0	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     481	     484	 43.00 	-
@@ -24768,7 +24768,7 @@ S66688    	2025-276Y	WISDOM A	2025 Nov 28 	2025 Nov 28	*	*	-	C3S	-	-	-	B	TECH	S	
 S66689    	2025-276Z	AC1-003	2025 Nov 28 	2025 Nov 28	*	*	-	Azalea	-	-	-	B	SIG/IMG	S	-	-	UK	ST/SG/SER.E/1319	   94.9 	     518	     523	 97.4 	2025 Dec 18 	     513	     515	 97.44 	-
 S66690    	2025-276AA	SPiN 2	2025 Nov 28 	2025 Nov 28	*	*	-	SPIN	-	-	-	B	TECH	S	-	-	[L]	-	-	-	-	-	2025 Dec 18 	     512	     517	 97.44 	-
 S66691    	2025-276AB	TRYAD 1	2025 Nov 28 	2025 Nov 28	*	*	-	Auburn	-	-	-	A	SCI	S	-	-	[US]	-	-	-	-	-	2025 Dec 18 	     511	     516	 97.44 	-
-S66692    	2025-276AC	Beatrice Tinsley	2025 Nov 28 	2025 Nov 28	*	*	-	Satelog	1	-	M	B	IMG	S	-	-	[UY]	-	-	-	-	-	2026 Aug  7 	     502	     507	 97.42 	-
+S66692    	2025-276AC	NewSat-52	2025 Nov 28 	2025 Nov 28	*	*	-	Satelog	1	-	M	B	IMG	S	-	-	UY	ST/SG/SER.E/1329	   94.9 	     510	     527	 97.5 	2026 Aug  7 	     502	     507	 97.42 	-
 S66693    	2025-276AD	AE5RB	2025 Nov 28 	2025 Nov 28	*	*	-	ArkEdge	-	-	-	B	SIG	S	-	-	[J]	-	-	-	-	-	2025 Dec 18 	     511	     515	 97.44 	-
 S66694    	2025-276AE	YAM-9	2025 Nov 28 	2025 Nov 28	*	*	-	LOFT	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec 18 	     512	     514	 97.44 	-
 S66695    	2025-276AF	IRIDE-MS1-Eaglet-2-1	2025 Nov 28 	2025 Nov 28	*	*	-	OHBI	-	-	-	B	TECH	S	-	-	[I]	-	-	-	-	-	2025 Nov 30 	     512	     518	 97.44 	-
@@ -24816,10 +24816,10 @@ S66736    	2025-276BY	Flock 4h-33	2025 Nov 28 	2025 Nov 28	*	*	-	Flock-4	2	-	-	B
 S66737    	2025-276BZ	Flock 4h-34	2025 Nov 28 	2025 Nov 28	*	*	-	Flock-4	2	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	2025 Nov 30 	     511	     514	 97.45 	-
 S66738    	2025-276CA	Flock 4h-35	2025 Nov 28 	2025 Nov 28	*	*	-	Flock-4	2	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	2025 Nov 30 	     512	     518	 97.45 	-
 S66739    	2025-276CB	Flock 4h-16	2025 Nov 28 	2025 Nov 28	*	*	-	Flock-4	2	-	-	B	IMG	S	-	-	[US]	-	-	-	-	-	2025 Nov 30 	     512	     518	 97.44 	-
-S66740    	2025-276CC	Yvonne Brill	2025 Nov 28 	2025 Nov 28	*	*	-	Satelog	1	-	M	B	IMG	S	-	-	[UY]	-	-	-	-	-	2026 Aug  7 	     500	     506	 97.42 	-
+S66740    	2025-276CC	NewSat-51	2025 Nov 28 	2025 Nov 28	*	*	-	Satelog	1	-	M	B	IMG	S	-	-	UY	ST/SG/SER.E/1329	   94.8 	     510	     526	 97.5 	2026 Aug  7 	     500	     506	 97.42 	-
 S66741    	2025-276CD	Black Kite 1	2025 Nov 28 	2025 Nov 28	*	*	-	TASA Cube	-	-	-	B	COM	S	-	-	[TW]	-	-	-	-	-	2025 Nov 30 	     512	     518	 97.44 	-
 S66742    	2025-276CE	Mercury One	2025 Nov 28 	2025 Nov 28	*	*	-	Proteus	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	2025 Nov 30 	     511	     513	 97.44 	-
-S66743    	2025-276CF	Melina Furman	2025 Nov 28 	2025 Nov 28	*	*	-	Satelog	1	-	M	B	IMG	S	-	-	[UY]	-	-	-	-	-	2026 Aug  7 	     501	     505	 97.42 	-
+S66743    	2025-276CF	NewSat-47	2025 Nov 28 	2025 Nov 28	*	*	-	Satelog	1	-	M	B	IMG	S	-	-	UY	ST/SG/SER.E/1329	   94.9 	     510	     527	 97.5 	2026 Aug  7 	     501	     505	 97.42 	-
 S66744    	2025-276CG	AC1-001	2025 Nov 28 	2025 Nov 28	*	*	-	Azalea	-	-	-	B	SIG/IMG	S	-	-	UK	ST/SG/SER.E/1319	   94.9 	     518	     523	 97.4 	2025 Nov 30 	     511	     514	 97.45 	-
 S66745    	2025-276CH	AC1-002	2025 Nov 28 	2025 Nov 28	*	*	-	Azalea	-	-	-	B	SIG/IMG	S	-	-	UK	ST/SG/SER.E/1319	   94.9 	     518	     523	 97.4 	2025 Nov 30 	     512	     517	 97.45 	-
 S66746    	2025-276CJ	CTC-1B	2025 Nov 28 	2025 Nov 28	*	*	-	SpaceCoin	-	-	-	B	COM	S	-	-	[US]	-	-	-	-	-	2025 Dec 18 	     510	     517	 97.43 	-
@@ -24830,8 +24830,8 @@ S66750    	2025-276CN	CTC-1C	2025 Nov 28 	2025 Nov 28	*	*	-	SpaceCoin	-	-	-	B	CO
 S66751    	2025-276CP	ICEYE-X58	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[FI]	-	-	-	-	-	2025 Nov 30 	     513	     516	 97.44 	-
 S66752    	2025-276CQ	ICEYE-X59	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[GR]	-	-	-	-	-	2025 Nov 30 	     512	     513	 97.44 	-
 S66753    	2025-276CR	ICEYE-X60	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[GR]	-	-	-	-	-	2025 Nov 30 	     511	     515	 97.45 	-
-S66754    	2025-276CS	ICEYE-X61	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[PL]	-	-	-	-	-	2025 Nov 30 	     512	     517	 97.45 	-
-S66755    	2025-276CT	ICEYE-X62	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[FI]	-	-	-	-	-	2025 Dec 18 	     512	     513	 97.44 	-
+S66754    	2025-276CS	ICEYE-X61	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	[FI]	-	-	-	-	-	2025 Nov 30 	     512	     517	 97.45 	-
+S66755    	2025-276CT	POLSARIS-01 (ICEYE-X62)	2025 Nov 28 	2025 Nov 28	*	*	-	ICEYE	-	P	-	B	IMG-R	S	-	-	PL	ST/SG/SER.E/1347	   96.0 	     400	     600	 97.0 	2025 Dec 18 	     512	     513	 97.44 	 -
 S66756    	2025-276CU	MAUVE	2025 Nov 28 	2025 Nov 28	*	*	-	Blue Skies	-	-	-	B	AST	S	-	-	[UK]	-	-	-	-	-	2025 Dec 18 	     511	     512	 97.44 	-
 S66757    	2025-276CV	PIAST-S2	2025 Nov 28 	2025 Nov 28	*	*	-	PIAST	-	-	-	A	IMG	S	-	-	[PL]	-	-	-	-	-	2025 Dec 18 	     510	     512	 97.44 	-
 S66758    	2025-276CW	PIAST-M	2025 Nov 28 	2025 Nov 28	*	*	-	PIAST	-	-	-	A	IMG	S	-	-	[PL]	-	-	-	-	-	2025 Dec 18 	     511	     512	 97.44 	-
@@ -24982,7 +24982,7 @@ S66904    	2025-283AC	Starlink 36059	2025 Dec  4 	2025 Dec  4	*	*	-	Starlink 2MO
 S66905    	2025-283AD	Starlink 36075	2025 Dec  4 	2025 Dec  4	*	*	-	Starlink 2MO S1	7 8	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     462	     463	 53.16 	-
 S66906    	1998-067XT	DUPLEX	2025 Sep 14 	2025 Sep 14	*	*	-	CUA	-	-	-	B	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     413	     419	 51.63 	-
 S66907    	1998-067XU	RHOK-SAT	2025 Sep 14 	2025 Sep 14	2026 Jan?	2026 Jan?	-	Rhodes	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     411	     418	 51.63 	-
-S66908    	1998-067XV	CU Alpha	2025 Sep 14 	2025 Dec  5	2026 Jan?	2026 Jan?	-	Cornell	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     411	     419	 51.63 	-
+S66908    	1998-067XV	CU Alpha	2025 Sep 14 	2026 May  5	2026 May  6	2026 May  6?	-	Cornell	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     411	     419	 51.63 	-
 S66909    	1998-067XW	SilverSat	2025 Sep 14 	2025 Sep 14	2026 Mar?	2026 Mar?	-	SilverSat	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     411	     418	 51.63 	-
 S66910    	1998-067XX	ContentCube	2025 Sep 14 	2025 Sep 14	2026 Jan?	2026 Jan?	-	VPI Cube	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     410	     418	 51.63 	-
 S66911    	1998-067XY	EagleSat-2	2025 Sep 14 	2025 Sep 14	2026 Jan?	2026 Jan?	-	ERAU	-	-	-	A	TECH	S	-	-	[US]	-	-	-	-	-	2025 Dec  6 	     410	     418	 51.63 	-
@@ -25290,7 +25290,7 @@ S67226    	2025-306A	Tongxin Jishu Shiyan 23	2025 Dec 20 	2025 Dec 20	*	*	-	TJS1
 S67228    	2025-307A	QPS-SAR-15	2025 Dec 21 	2025 Dec 21	*	*	-	QPS	-	P	M	B	IMG-R	S	-	-	[J]	-	-	-	-	-	2026 Aug  7 	     561	     576	 42.01 	-
 S67231    	2025-308A	Dummy CZ-12A payload	2025 Dec 23 	2025 Dec 23	2025 Dec 23	2025 Dec 23 0230?	-	SAST LV	-	-	-	C	TECH	S	-	-	[CN]	-	-	-	-	-	-	       0	       0	  0.00 	-
 S67232    	2025-309A	SpaceMobile-006	2025 Dec 24 	2025 Dec 24	*	*	-	BlueBird2	-	-	-	B	COM	S	-	-	[US]	-	-	-	-	-	2025 Dec 26 	     505	     520	 53.00 	-
-S67234    	2025-310A	Obzor-R No. 1	2025 Dec 25 	2025 Dec 25	*	*	-	Obzor-R	-	-	-	C	IMG-R	S	-	-	[RU]	-	-	-	-	-	2025 Dec 27 	     427	     637	 97.97 	-
+S67234    	2025-310A	Obzor-R No. 1	2025 Dec 25 	2025 Dec 25	*	*	-	Obzor-R	-	-	-	C	IMG-R	S	-	-	RU	ST/SG/SER.E/1321	   93.1 	     230	     659	 98.0 	2025 Dec 27 	     427	     637	 97.97 	-
 S67236    	2025-311A	Hulianwang W. Digui 17-01	2025 Dec 25 	2025 Dec 25	*	*	-	HWD	3 0	P	M	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1148	    1149	 50.01 	-
 S67237    	2025-311B	Hulianwang W. Digui 17-02	2025 Dec 25 	2025 Dec 25	*	*	-	HWD	3 0	P	M	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1148	    1149	 50.01 	-
 S67238    	2025-311C	Hulianwang W. Digui 17-03	2025 Dec 25 	2025 Dec 25	*	*	-	HWD	3 0	P	M	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1148	    1149	 50.01 	-
@@ -25301,54 +25301,54 @@ S67242    	2025-311G	Hulianwang W. Digui 17-07	2025 Dec 25 	2025 Dec 25	*	*	-	HW
 S67243    	2025-311H	Hulianwang W. Digui 17-08	2025 Dec 25 	2025 Dec 25	*	*	-	HWD	3 0	P	M	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1148	    1149	 50.00 	-
 S67244    	2025-311J	Hulianwang W. Digui 17-09	2025 Dec 25 	2025 Dec 25	*	*	-	HWD	3 0	P	M	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1148	    1149	 50.01 	-
 S67246    	2025-312A	Feng Yun 4C	2025 Dec 26 	2025 Dec 26	*	*	-	FY-4	-	P	M	C	MET	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	   35783	   35790	  0.01 	-
-S67250    	2025-313B	Marafon No. 1	2025 Dec 28 	2025 Dec 28	*	*	-	SferaCon	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     501	     729	 97.64 	-
-S67251    	2025-313D	Marafon No. 2 GMM?	2025 Dec 28 	2025 Dec 28	2025 Dec 28	2025 Dec 28 1800?	-	SferaCon	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     708	 97.59 	-
-S67252    	2025-313E	Zorkiy-2M VPE	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     494	     508	 97.41 	-
-S67253    	2025-313F	Aist-2T No. 1	2025 Dec 28 	2025 Dec 28	*	*	-	AIST	-	-	-	A	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     368	     382	 97.10 	-
-S67254    	2025-313G	Aist-2T No. 2	2025 Dec 28 	2025 Dec 28	*	*	-	AIST	-	-	-	A	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     368	     382	 97.10 	-
+S67249    	2025-313B	Eksp. KA Marafon (EKA)	2025 Dec 28 	2025 Dec 28	*	*	-	SferaCon	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   97.9 	     499	     866	 97.5 	2026 Jan  6 	     501	     729	 97.64 	-
+S67251    	2025-313D	Gabaritno-massoviy maket	2025 Dec 28 	2025 Dec 28	2025 Dec 28	2025 Dec 28 1800?	-	SferaCon	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   96.0 	     509	     625	 97.3 	2026 Jan  6 	     495	     708	 97.59 	-
+S67252    	2025-313E	Zorkiy-2M VPE	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     494	     508	 97.41 	-
+S67253    	2025-313F	Aist-2T No. 1	2025 Dec 28 	2025 Dec 28	*	*	-	AIST	-	-	-	A	IMG	S	-	-	RU	ST/SG/SER.E/1321	   92.2 	     384	     386	 97.1 	2026 Jan  6 	     368	     382	 97.10 	-
+S67254    	2025-313G	Aist-2T No. 2	2025 Dec 28 	2025 Dec 28	*	*	-	AIST	-	-	-	A	IMG	S	-	-	RU	ST/SG/SER.E/1321	   92.2 	     384	     386	 97.1 	2026 Jan  6 	     368	     382	 97.10 	-
 S67255    	2025-313H	Paya	2025 Dec 28 	2025 Dec 28	*	*	-	Iran	-	-	-	C	TECH	S	-	-	[IR]	-	-	-	-	-	2026 Jan  6 	     497	     622	 97.31 	-
-S67256    	2025-313J	SITRO-AIS-57	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     517	 97.41 	-
-S67257    	2025-313K	SITRO-AIS-59	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     517	 97.41 	-
-S67258    	2025-313L	SITRO-AIS-58	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     517	 97.41 	-
-S67259    	2025-313M	CSTP-3.1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.42 	-
-S67260    	2025-313N	SITRO-AIS-60	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.41 	-
-S67261    	2025-313P	SM-3.1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     494	     515	 97.42 	-
-S67262    	2025-313Q	Ansat-1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.41 	-
-S67263    	2025-313R	DCS-1	2025 Dec 28 	2025 Dec 28	*	*	-	Telnet	-	-	-	B	TECH	S	-	-	[TN]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.41 	-
-S67264    	2025-313S	Kowsar-1.5	2025 Dec 28 	2025 Dec 28	*	*	-	SpaceOmid	-	-	-	B	TECH	S	-	-	[IR]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.42 	-
-S67265    	2025-313T	SITRO-TD-4	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
-S67266    	2025-313U	SITRO-AIS-65	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
-S67267    	2025-313V	Grifon-1	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
-S67268    	2025-313W	Zorkiy-2M No. 7	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.41 	-
-S67269    	2025-313X	Grifon-2	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.42 	-
-S67270    	2025-313Y	SITRO-TD-3	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.41 	-
-S67271    	2025-313Z	SCH-619	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.41 	-
-S67272    	2025-313AA	Polytech-Univers-6	2025 Dec 28 	2025 Dec 28	*	*	-	Polytech	-	-	-	A	SCI	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
-S67273    	2025-313AB	VM-3.1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     496	     515	 97.41 	-
-S67274    	2025-313AC	Mokha-1	2025 Dec 28 	2025 Dec 28	*	*	-	Kaisant	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
-S67275    	2025-313AD	Vladivostok-2	2025 Dec 28 	2025 Dec 28	*	*	-	DVFU	-	-	-	B	SCI	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
-S67276    	2025-313AE	Argus-312	2025 Dec 28 	2025 Dec 28	*	*	-	Kaisant	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     496	     514	 97.41 	-
-S67277    	2025-313AF	SITRO-AIS-64	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     496	     515	 97.41 	-
-S67278    	2025-313AG	MorSat-1	2025 Dec 28 	2025 Dec 28	*	*	-	AMGU	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     496	     514	 97.41 	-
-S67279    	2025-313AH	UTE-Galapagos	2025 Dec 28 	2025 Dec 28	*	*	-	UTE	-	-	-	A	TECH	S	-	-	[EC]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
+S67256    	2025-313J	SITRO-AIS-57	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     517	 97.41 	-
+S67257    	2025-313K	SITRO-AIS-59	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     517	 97.41 	-
+S67258    	2025-313L	SITRO-AIS-58	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     517	 97.41 	-
+S67259    	2025-313M	CSTP-3.1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67260    	2025-313N	SITRO-AIS-60	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67261    	2025-313P	SM-3.1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67262    	2025-313Q	ANSAT-1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67263    	2025-313R	DCS-1	2025 Dec 28 	2025 Dec 28	*	*	-	Telnet	-	-	-	B	TECH	S	-	-	RU*	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67264    	2025-313S	2SEE-1	2025 Dec 28 	2025 Dec 28	*	*	-	SpaceOmid	-	-	-	B	TECH	S	-	-	[IR]	-	-	-	-	-	2026 Jan  6 	     495	     516	 97.42 	-
+S67265    	2025-313T	SITRO-TD-4	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67266    	2025-313U	SITRO-AIS-65	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67267    	2025-313V	Grifon No. 1	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.8 	     511	     515	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67268    	2025-313W	Zorkiy-2M No. 7	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67269    	2025-313X	Grifon No. 2	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.8 	     511	     515	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67270    	2025-313Y	SITRO-TD-3	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67271    	2025-313Z	SCH-619	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     516	 97.41 	-
+S67272    	2025-313AA	Polytekh Univers-6	2025 Dec 28 	2025 Dec 28	*	*	-	Polytech	-	-	-	A	SCI	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67273    	2025-313AB	VM-3.1	2025 Dec 28 	2025 Dec 28	*	*	-	STTs	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     496	     515	 97.41 	-
+S67274    	2025-313AC	Mokha-1	2025 Dec 28 	2025 Dec 28	*	*	-	Kaisant	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67275    	2025-313AD	Vladivostok-2	2025 Dec 28 	2025 Dec 28	*	*	-	DVFU	-	-	-	B	SCI	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67276    	2025-313AE	Argus-312	2025 Dec 28 	2025 Dec 28	*	*	-	Kaisant	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     514	 97.41 	-
+S67277    	2025-313AF	SITRO-AIS-64	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     515	 97.41 	-
+S67278    	2025-313AG	MorSat-1	2025 Dec 28 	2025 Dec 28	*	*	-	AMGU	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     514	 97.41 	-
+S67279    	2025-313AH	Galapagos-UTE	2025 Dec 28 	2025 Dec 28	*	*	-	UTE	-	-	-	A	TECH	S	-	-	[EC]	-	-	-	-	-	2026 Jan  6 	     495	     515	 97.41 	-
 S67280    	2025-313AJ	Zafar-2	2025 Dec 28 	2025 Dec 28	*	*	-	Iran	-	-	-	C	TECH	S	-	-	[IR]	-	-	-	-	-	2026 Jan  6 	     495	     513	 97.42 	-
-S67281    	2025-313AK	Aist-ST	2025 Dec 28 	2025 Dec 28	*	*	-	AIST	-	-	-	A	IMG-R	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     512	 97.41 	-
-S67282    	2025-313AL	Grifon-3	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     510	 97.41 	-
-S67283    	2025-313AM	Khors No. 5	2025 Dec 28 	2025 Dec 28	*	*	-	Khors	-	-	-	A	MET-RO	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     510	 97.41 	-
-S67284    	2025-313AN	Lobachevskiy	2025 Dec 28 	2025 Dec 28	*	*	-	LobU	-	-	-	B	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     510	 97.41 	-
+S67281    	2025-313AK	AIST-ST	2025 Dec 28 	2025 Dec 28	*	*	-	AIST	-	-	-	A	IMG-R	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     512	 97.41 	-
+S67282    	2025-313AL	Grifon No. 3	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.8 	     511	     515	 97.4 	2026 Jan  6 	     495	     510	 97.41 	-
+S67283    	2025-313AM	Khors No. 5	2025 Dec 28 	2025 Dec 28	*	*	-	Khors	-	-	-	A	MET-RO	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     510	 97.41 	-
+S67284    	2025-313AN	Lobachevskiy	2025 Dec 28 	2025 Dec 28	*	*	-	LobU	-	-	-	B	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     510	 97.41 	-
 S67285    	2025-313AP	NASBSat-2	2025 Dec 28 	2025 Dec 28	*	*	-	NASB	-	-	-	A	IMG	S	-	-	BY	ST/SG/SER.E/1317	   94.6 	     510	     511	 97.4 	2026 Jan  6 	     495	     509	 97.41 	-
-S67286    	2025-313AQ	Mule-4T	2025 Dec 28 	2025 Dec 28	*	*	-	OKB5P	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     509	 97.41 	-
-S67287    	2025-313AR	Luca	2025 Dec 28 	2025 Dec 28	*	*	-	MSR	-	-	-	B	TECH	S	-	-	[ME]	-	-	-	-	-	2026 Jan  6 	     495	     508	 97.41 	-
-S67288    	2025-313AS	Eya-2	2025 Dec 28 	2025 Dec 28	*	*	-	Kaisant	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     494	     510	 97.41 	-
+S67286    	2025-313AQ	Mule 4T	2025 Dec 28 	2025 Dec 28	*	*	-	OKB5P	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     509	 97.41 	-
+S67287    	2025-313AR	Luca	2025 Dec 28 	2025 Dec 28	*	*	-	MSR	-	-	-	B	TECH	S	-	-	RU*	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     508	 97.41 	-
+S67288    	2025-313AS	Eya-2	2025 Dec 28 	2025 Dec 28	*	*	-	Kaisant	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     510	 97.41 	-
 S67289    	2025-313AT	NASBSat-1	2025 Dec 28 	2025 Dec 28	*	*	-	NASB	-	-	-	A	SCI	S	-	-	BY	ST/SG/SER.E/1317	   94.6 	     510	     511	 97.4 	2026 Jan  6 	     495	     508	 97.41 	-
-S67290    	2025-313AU	SakhaCube-Cholbon	2025 Dec 28 	2025 Dec 28	*	*	-	Sakha	-	-	-	B	TECH	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     508	 97.41 	-
-S67291    	2025-313AV	QMR-KWT-2	2025 Dec 28 	2025 Dec 28	*	*	-	OrbSp Kwt	-	-	-	B	TECH	S	-	-	[KW]	-	-	-	-	-	2026 Jan  6 	     495	     508	 97.41 	-
-S67292    	2025-313AW	Grifon-4	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     508	 97.41 	-
-S67293    	2025-313AX	Skorpion	2025 Dec 28 	2025 Dec 28	*	*	-	MGU	-	-	-	B	SCI	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     494	     509	 97.41 	-
-S67294    	2025-313AY	SITRO-AIS-63	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     507	 97.41 	-
-S67295    	2025-313AZ	Zorkiy-2M No. 5	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     494	     508	 97.41 	-
-S67296    	2025-313BA	SITRO-AIS-62	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     507	 97.41 	-
-S67297    	2025-313BB	SITRO-AIS-61	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	[RU]	-	-	-	-	-	2026 Jan  6 	     495	     507	 97.41 	-
+S67290    	2025-313AU	SAKHACUBE-CHOLBON	2025 Dec 28 	2025 Dec 28	*	*	-	Sakha	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     508	 97.41 	-
+S67291    	2025-313AV	QMR-KWT-2	2025 Dec 28 	2025 Dec 28	*	*	-	OrbSp Kwt	-	-	-	B	TECH	S	-	-	[KW]	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     508	 97.41 	-
+S67292    	2025-313AW	Grifon No. 4	2025 Dec 28 	2025 Dec 28	*	*	-	Grifon	-	-	-	A	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.8 	     511	     515	 97.4 	2026 Jan  6 	     495	     508	 97.41 	-
+S67293    	2025-313AX	Skorpion	2025 Dec 28 	2025 Dec 28	*	*	-	MGU	-	-	-	B	SCI	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     494	     509	 97.41 	-
+S67294    	2025-313AY	SITRO-AIS-63	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     507	 97.41 	-
+S67295    	2025-313AZ	Zorkiy-2M No. 5	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	IMG	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     494	     508	 97.41 	-
+S67296    	2025-313BA	SITRO-AIS-62	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     507	 97.41 	-
+S67297    	2025-313BB	SITRO-AIS-61	2025 Dec 28 	2025 Dec 28	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1321	   94.7 	     501	     509	 97.4 	2026 Jan  6 	     495	     507	 97.41 	-
 S67298    	2025-313BC	Trisat-2	2025 Dec 28 	2025 Dec 28	2026 Jul?	2026 Jul?	-	OKB5P	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1326	   94.7 	     494	     509	 97.4 	2026 Feb  4 	     485	     497	 97.40 	-
 S67299    	2025-313BD	TriSat-3	2025 Dec 28 	2025 Dec 28	2026 Jul?	2026 Jul?	-	QAU	-	-	-	A	TECH	S	-	-	RU*	ST/SG/SER.E/1326	   94.7 	     494	     509	 97.4 	2026 Feb  2 	     486	     498	 97.41 	-
 S67300    	2025-314A	Tianhui-7	2025 Dec 30 	2025 Dec 30	*	*	-	TH-7	-	-	-	C	IMG	S	-	-	[CN]	-	-	-	-	-	2026 Jan  4 	     488	     490	 97.42 	-
@@ -26424,7 +26424,7 @@ S68412    	2026-066A	Bai Xiang	2026 Mar 30 	2026 Mar 30	*	*	-	Qingzhou	-	-	-	B	S
 S68414    	2026-066C	Xinzhengcheng-01	2026 Mar 30 	2026 Mar 30	*	*	-	AIRSAT	-	-	-	B	TECH	S	-	-	[CN]	-	-	-	-	-	2026 Apr  5 	     583	     621	 84.96 	-
 S68415    	2026-066D	Tianshi-01	2026 Mar 30 	2026 Mar 30	*	*	-	Tianshi	-	-	-	A	TECH	S	-	-	[CN]	-	-	-	-	-	2026 Apr  6 	     584	     621	 84.96 	-
 S68416    	2026-067A	Peaksat	2026 Mar 30 	2026 Mar 30	*	*	-	AUTH	-	-	-	A	COM	S	-	-	[GR]	-	-	-	-	-	-	       0	       0	  0.00 	-
-S68417    	2026-067B	JACK-002	2026 Mar 30 	2026 Mar 30	*	*	-	Cosmoworks	-	-	-	B	IMG	S	-	-	[KR]	-	-	-	-	-	2026 Apr 14 	     507	     512	 97.45 	-
+S68417    	2026-067B	JACK-002	2026 Mar 30 	2026 Mar 30	*	*	-	Cosmoworks	-	-	-	B	IMG	S	-	-	[KR]	-	-	-	-	-	2026 Apr 14 	     507	     512	 97.45 	-v
 S68418    	2026-067C	Optisat	2026 Mar 30 	2026 Mar 30	*	*	-	Planetek	-	-	-	B	TECH	S	-	-	[GR]	-	-	-	-	-	2026 Apr 14 	     507	     512	 97.45 	-
 S68419    	2026-067D	ARQSAT-1	2026 Mar 30 	2026 Mar 30	*	*	-	Arquimea	-	-	-	B	TECH	S	-	-	[E]	-	-	-	-	-	2026 Apr 14 	     508	     512	 97.45 	-
 S68420    	2026-067E	ERMIS 2	2026 Mar 30 	2026 Mar 30	*	*	-	NKUA	-	-	-	A	COM	S	-	-	[GR]	-	-	-	-	-	2026 Apr 14 	     507	     512	 97.44 	-
@@ -26830,7 +26830,7 @@ S68833    	2026-091C	Xingwang Jishu Shiyan W.	2026 Apr 24 	2026 Apr 24	*	*	-	XWJ
 S68834    	2026-091D	Xingwang Jishu Shiyan W.	2026 Apr 24 	2026 Apr 24	*	*	-	XWJSW55	7 1	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Apr 26 	     499	     511	 55.00 	-
 S68835    	2026-092A	PRSC-EO3	2026 Apr 25 	2026 Apr 25	*	*	-	PakTES	-	-	M	C	IMG	S	-	-	[PK]	-	-	-	-	-	2026 Aug  7 	     543	     547	 38.00 	-
 S68836    	2026-067CX	Lusiada-2	2026 Mar 30 	2026 Mar 30	*	*	-	LUSO	-	-	-	B	COM	S	-	-	[P]	-	-	-	-	-	2026 Jun 19 	     503	     518	 97.45 	-
-S68837    	2026-093A	Progress MS-34	2026 Apr 25 	2026 Apr 25	*	*	-	Progress MS	-	P	M	C	SS	S	-	-	[RU]	-	-	-	-	-	2026 Aug  7 	     413	     423	 51.63 	-
+S68837    	2026-093A	Progress MS-34	2026 Apr 25 	2026 Apr 25	*	*	-	Progress MS	-	P	M	C	SS	S	-	-	RU	ST/SG/SER.E/1339	   89.9 	     237	     297	 51.7 	2026 Aug  7 	     413	     423	 51.63 	-
 S68839    	2026-094A	Starlink 37475	2026 Apr 26 	2026 Apr 26	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     464	     466	 97.28 	-
 S68840    	2026-094B	Starlink 37452	2026 Apr 26 	2026 Apr 26	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     464	     466	 97.28 	-
 S68841    	2026-094C	Starlink 37495	2026 Apr 26 	2026 Apr 26	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     465	     465	 97.28 	-
@@ -27302,7 +27302,7 @@ S69319    	2026-119Z	Starlink 37803	2026 May 30 	2026 May 30	*	*	-	Starlink 2MO 
 S69320    	2026-120A	Xingwang Jishu Shiyan W.	2026 May 30 	2026 May 30	*	*	-	XWJSW55	7 1	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Jun  4 	     443	     456	 55.00 	-
 S69321    	2026-120B	Xingwang Jishu Shiyan W.	2026 May 30 	2026 May 30	*	*	-	XWJSW55	7 0	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Jun  4 	     442	     454	 55.00 	-
 S69322    	2026-120C	Xingwang Jishu Shiyan W.	2026 May 30 	2026 May 30	*	*	-	XWJSW55	7 0	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Jun  4 	     441	     454	 55.00 	-
-S69323    	2026-120D	Xingwang Jishu Shiyan W.	2026 May 30 	2026 May 30	*	*	-	XWJSW55	7 0	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Jun  4 	     441	     452	 55.00 	-
+S69323    	2026-120D	Xingwang Jishu Shiyan W.	2026 May 30 	2026 May 30	*	*	-	XWJSW55	7 1	P	-	C	COM	S	-	-	[CN]	-	-	-	-	-	2026 Jun  4 	     441	     452	 55.00 	-
 S69325    	2026-121A	Qianfan Xingzuo 10-01	2026 Jun  1 	2026 Jun  1	*	*	-	Qianfan	1	P	M	B	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1067	    1069	 89.02 	-
 S69326    	2026-121B	Qianfan Xingzuo 10-02	2026 Jun  1 	2026 Jun  1	*	*	-	Qianfan	1	P	M	B	COM	S	-	-	[CN]	-	-	-	-	-	2026 Aug  7 	    1067	    1069	 89.02 	-
 S69329    	2026-122A	Starlink 37733	2026 Jun  3 	2026 Jun  3	*	*	-	Starlink 2MO S4	11 2	P	M	B	COM	S	-	-	[US]	-	-	-	-	-	2026 Aug  7 	     464	     466	 97.28 	-
