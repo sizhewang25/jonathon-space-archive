@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	GDate	ODate	Period	Perigee	PF	Apogee	AF	Inc	IF	OType	Longitude	DriftRate	TDate	TF	Flags
-# Updated 2026 Oct  2 1438:47
+# Updated 2026 Oct  2 2238:44
 S00553	1963-004A	Syncom 1	1963 Feb 14	1963 Feb 14	2026 Sep 20 2136	    1236.221 	   28692.1 	 	   34862.7 	 	 26.51 	 	MEO	 53.31W	-	1963 Feb 14	P	-
 S00634	1963-031A	Syncom 2	1963 Jul 26	1963 Jul 26	2026 Oct  1 1957	    1435.987 	   35754.7 	 	   35814.2 	 	 29.76 	 	GEO/T	 63.52E	 +   0.020E	1969 Apr	P	-
 S00858	1964-047A	Syncom 3	1964 Aug 19	1964 Aug 20	2026 Oct  1 1958	    1434.902 	   35743.3 	 	   35783.1 	 	  7.22 	 	GEO/ID	122.49E	 +   0.293E	1974 Dec 29	P	-
