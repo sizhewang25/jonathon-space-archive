@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Oct 13 2143:50
+# Updated 2026 Oct 15 1030:49
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -19636,7 +19636,7 @@
 2023-102 	2023 Jul 20 0409:30	2023-102F	P      O  M 	Starlink 30222	Starlink Group 6-15-06	S57409    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102G	P      L  M 	Starlink 30172	Starlink Group 6-15-07	S57410    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102H	P      O  M 	Starlink 30214	Starlink Group 6-15-08	S57411    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2023-102 	2023 Jul 20 0409:30	2023-102J	P      L  M 	Starlink 30182	Starlink Group 6-15-09	S57412    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2023-102 	2023 Jul 20 0409:30	2023-102J	P      R  M 	Starlink 30182	Starlink Group 6-15-09	S57412    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102K	P      L  M 	Starlink 30191	Starlink Group 6-15-10	S57413    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102L	P      L  M 	Starlink 30193	Starlink Group 6-15-11	S57414    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102M	P      O  M 	Starlink 30208	Starlink Group 6-15-12	S57415    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
@@ -23298,8 +23298,8 @@
 2024-220 	2024 Nov 25 1002:20	2024-220W	P      O  M 	Starlink 33553	Starlink Group 12-1-21	S62108    	SPXS	US	Falcon 9	404/B1080.13 F402	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-220 	2024 Nov 25 1002:20	2024-220X	P      O  M 	Starlink 33556	Starlink Group 12-1-22	S62109    	SPXS	US	Falcon 9	404/B1080.13 F402	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-220 	2024 Nov 25 1002:20	2024-220Y	P      O  M 	Starlink 33551	Starlink Group 12-1-23	S62110    	SPXS	US	Falcon 9	404/B1080.13 F402	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2024-221 	2024 Nov 27 0200	2024-221A	P           	Guangchuan 01	Guangchuan 01	S62111    	HONGQ?	CN	Zhuque-2E	Y1	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
-2024-221 	2024 Nov 27 0200	2024-221B	P           	Guangchuan 02	Guangchuan 02	S62112    	HONGQ?	CN	Zhuque-2E	Y1	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2024-221 	2024 Nov 27 0200	2024-221A	P           	Guangchuan 01	Guangchuan 01	S62111    	LTZH	CN	Zhuque-2E	Y1	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2024-221 	2024 Nov 27 0200	2024-221B	P           	Guangchuan 02	Guangchuan 02	S62112    	LTZH	CN	Zhuque-2E	Y1	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
 2024-222 	2024 Nov 27 0441:30	2024-222A	P      O  M 	Starlink 32311	Starlink Group 6-76-01	S62114    	SPXS	US	Falcon 9	405/B1078.15 F403	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2024-222 	2024 Nov 27 0441:30	2024-222B	P      O  M 	Starlink 32470	Starlink Group 6-76-02	S62115    	SPXS	US	Falcon 9	405/B1078.15 F403	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2024-222 	2024 Nov 27 0441:30	2024-222C	P      O  M 	Starlink 32502	Starlink Group 6-76-03	S62116    	SPXS	US	Falcon 9	405/B1078.15 F403	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -31874,4 +31874,16 @@
 2026-232 	2026 Oct 13 0028:11	2026-232AA	P      D    	Starlink 38469	Starlink Group 15-25-25	S101028   	SPXS	US	Falcon 9	xxx/B1088.20 F695	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-232 	2026 Oct 13 0028:11	2026-232AB	P      D    	Starlink 38473	Starlink Group 15-25-26	S101029   	SPXS	US	Falcon 9	xxx/B1088.20 F695	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-232 	2026 Oct 13 0028:11	2026-232AC	P      D    	Starlink 38472	Starlink Group 15-25-27	S101030   	SPXS	US	Falcon 9	xxx/B1088.20 F695	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-233 	2026 Oct 13 1033:44	1998-067	P       ?   	Proves-Maia	Proves-Maia	T00052    	TSU	US	Falcon 9	xxx/B1096.8  F696	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2026-233 	2026 Oct 13 1033:44	1998-067	P       ?   	Proves-Taygeta	Proves-Taygeta	T00053    	BRONC	US	Falcon 9	xxx/B1096.8  F696	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2026-233 	2026 Oct 13 1033:44	2026-233A	PP-H-V-     	Dragon CRS-35	Dragon C211.4	S101031   	SPX	US	Falcon 9	xxx/B1096.8  F696	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2026-234 	2026 Oct 14 1140	2026-234A	P       ?   	Xingshidai 39	XSD-39	S101060   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234B	P       ?   	Xingshidai 44	XSD-44	S101061   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234C	P       ?   	Xingshidai 45	XSD-45	S101062   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234D	P       ?   	Xingshidai 46	XSD-46	S101063   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234E	P       ?   	Xingshidai 47	XSD-47	S101064   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234F	P       ?   	Xingshidai 48	XSD-48	S101065   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234G	P       ?   	Xingshidai 49	XSD-49	S101066   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234H	P       ?   	Xingshidai 50	XSD-50	S101067   	GUOX	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234J	P       ?   	Guangchuan 03	LT-03	S101068   	LTZH	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
+2026-234 	2026 Oct 14 1140	2026-234K	P       ?   	Guangchuan 04	LT-04	S101069   	LTZH	CN	Zhuque-2E	Y4	-	JQ	LC43/96A	-	-	LANDSP	CN	OS  	nasaspaceflight.com
