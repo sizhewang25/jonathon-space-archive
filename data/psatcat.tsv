@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Oct 15 2355:35
+# Updated 2026 Oct 16 2335:51
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -15000,7 +15000,7 @@ S54772    	2022-175Q	Starlink-5452	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G
 S54773    	2022-175R	Starlink-5453	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     464	     466	 53.16 	-
 S54774    	2022-175S	Starlink-5454	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S54775    	2022-175T	Starlink-5465	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     461	     464	 53.16 	-
-S54776    	2022-175U	Starlink-5470	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
+S54776    	2022-175U	Starlink-5470	2022 Dec 17 	2023 Mar  1	2026 Jul 13	2026 Oct  3?	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
 S54777    	2022-175V	Starlink-5468	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   92.9 	     416	     418	 53.2 	2026 Aug  7 	     469	     471	 53.16 	-
 S54778    	2022-175W	Starlink-5450	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     462	     463	 53.16 	-
 S54779    	2022-175X	Starlink-5447	2022 Dec 17 	2023 Mar  1	*	*	-	Starlink 1.5 G4	4 7	P	M	B	COM	S	-	-	US	ST/SG/SER.E/1096	   91.5 	     349	     351	 53.2 	2026 Aug  7 	     461	     463	 53.16 	-
@@ -20226,11 +20226,11 @@ S61752    	2024-199T	SITRO-AIS-14	2024 Nov  4 	2024 Nov  4	*	*	-	Sputnix	-	-	-	B
 S61753    	2024-199U	Khors No. 3	2024 Nov  4 	2024 Nov  4	*	*	-	Khors	-	-	-	A	MET-RO	S	-	-	RU	ST/SG/SER.E/1238	   94.3 	     476	     505	 97.4 	2024 Dec  6 	     480	     499	 97.38 	-
 S61754    	2024-199V	Khors No. 4	2024 Nov  4 	2024 Nov  4	*	*	-	Khors	-	-	-	A	MET-RO	S	-	-	RU	ST/SG/SER.E/1238	   94.3 	     479	     506	 97.4 	2024 Dec  6 	     479	     499	 97.38 	-
 S61755    	2024-199W	SITRO-AIS-43	2024 Nov  4 	2024 Nov  4	2026 Aug?	2026 Aug?	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   94.2 	     474	     505	 97.4 	2024 Dec  6 	     479	     497	 97.38 	-
-S61756    	2024-199X	SITRO-AIS-42	2024 Nov  4 	2024 Nov  4	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   94.2 	     474	     503	 97.4 	2024 Dec  6 	     479	     497	 97.38 	-
+S61756    	2024-199X	SITRO-AIS-42	2024 Nov  4 	2024 Nov  4	2026 Sep?	2026 Sep?	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   94.2 	     474	     503	 97.4 	2024 Dec  6 	     479	     497	 97.38 	-
 S61757    	2024-199Y	Gorizont	2024 Nov  4 	2024 Nov  4	2026 Apr?	2026 Apr?	-	BGTU	-	-	-	A	TECH	S	-	-	RU	ST/SG/SER.E/1238	   94.6 	     499	     512	 97.4 	2024 Dec  6 	     477	     499	 97.38 	-
 S61758    	2024-199Z	SITRO-AIS-20	2024 Nov  4 	2024 Nov  4	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   96.3 	     574	     600	 97.4 	2024 Dec  6 	     583	     593	 97.38 	-
 S61759    	2024-199AA	SITRO-AIS-19	2024 Nov  4 	2024 Nov  4	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   96.3 	     578	     600	 97.4 	2024 Dec  6 	     583	     593	 97.38 	-
-S61760    	2024-199AB	SITRO-AIS-41	2024 Nov  4 	2024 Nov  4	*	*	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   94.2 	     474	     503	 97.4 	2024 Dec  6 	     479	     497	 97.38 	-
+S61760    	2024-199AB	SITRO-AIS-41	2024 Nov  4 	2024 Nov  4	2026 Sep?	2026 Sep?	-	Sputnix	-	-	-	B	COM	S	-	-	RU	ST/SG/SER.E/1238	   94.2 	     474	     503	 97.4 	2024 Dec  6 	     479	     497	 97.38 	-
 S61761    	2024-199AC	CSTP-2.2	2024 Nov  4 	2024 Nov  4	*	*	-	STTs	-	-	-	B	TECH	S	-	-	RU	ST/SG/SER.E/1238	   94.3 	     480	     506	 97.4 	2024 Dec  6 	     479	     497	 97.38 	-
 S61762    	2024-199AD	SXC3-2361 ArcticSat-1	2024 Nov  4 	2024 Nov  4	2026 Apr?	2026 Apr?	-	NARFU	-	-	-	A	SCI/COM	S	-	-	RU	ST/SG/SER.E/1238	   94.5 	     496	     515	 97.4 	2024 Dec  6 	     476	     498	 97.38 	-
 S61763    	2024-199AE	SIT-HSE	2024 Nov  4 	2024 Nov  4	*	*	-	SPbGUT	-	-	-	A	TECH	S	-	-	RU	ST/SG/SER.E/1238	   94.2 	     475	     502	 97.4 	2024 Dec  6 	     479	     496	 97.38 	-
