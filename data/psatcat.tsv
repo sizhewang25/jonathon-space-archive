@@ -1,5 +1,5 @@
 #JCAT	Piece	Name	LDate	TLast	TOp	TDate	TF	Program	Plane	Att	Mvr	Class	Category	Result	Control	Discipline	UNState	UNReg	UNPeriod	UNPerigee	UNApogee	UNInc	DispEpoch	DispPeri	DispApo	DispInc	Comment
-# Updated 2026 Oct 24 0114:19
+# Updated 2026 Oct 24 1903:32
 S00002    	1957 ALP 2	First Sputnik	1957 Oct  4 	1957 Oct 27	1957 Oct 27	1957 Oct 27	-	Sputnik	-	-	-	C	TECH	S	-	ENV*	SU	A/AC.105/INF.002	-	     227	     947	 65.1 	-	       0	       0	  0.00 	First Earth satellite
 S00003    	1957 BET 1	Second Sputnik	1957 Nov  3 	1957 Nov  9	1957 Nov  9	1957 Nov  9	-	Sputnik	-	-	-	C	BIO	S	-	BIO	SU	A/AC.105/INF.002	-	     225	    1671	 65.3 	-	       0	       0	  0.00 	First animal payload
 S00004    	1958 ALP	Explorer 1	1958 Feb  1 	1958 Apr  1	1958 Apr  1	1958 Apr  1	-	Explorer ABMA	-	-	-	C	SCI	S	JPL	P*	US	A/AC.105/INF.001	-	-	-	-	-	       0	       0	  0.00 	Discovered trapped radiation
@@ -10297,7 +10297,7 @@ S46170    	2020-057BF	Starlink-1632	2020 Aug 18 	2021 Sep  4	2021 Sep  4	2021 Se
 S46171    	2020-057BG	Starlink-1633	2020 Aug 18 	2023 Mar  1	2025 Oct 11	2025 Oct 23?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/954	   91.7 	     361	     367	 53.0 	2025 Oct 25 	     472	     473	 53.05 	-
 S46172    	2020-057BH	Starlink-1635	2020 Aug 18 	2023 Mar  1	2025 Oct  9	2026 Jun  8?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/954	   91.7 	     361	     367	 53.0 	2026 Jun 10 	     300	     302	 53.04 	-
 S46173    	2020-057BJ	Starlink-1640	2020 Aug 18 	2023 Mar  1	2025 Dec 24	2026 Feb  1?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/954	   93.0 	     361	     367	 53.0 	2026 Aug  8 	     288	     302	 53.03 	-
-S46174    	2020-057BK	Starlink-1641	2020 Aug 18 	2023 Mar  1	*	*	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/954	   93.0 	     361	     367	 53.0 	2026 Aug  7 	     342	     353	 53.04 	-
+S46174    	2020-057BK	Starlink-1641	2020 Aug 18 	2023 Mar  1	2025 Dec  2	2026 Jun  2?	-	Starlink 1.0V1	1 1	-	M	B	COM	S	-	-	US	ST/SG/SER.E/954	   93.0 	     361	     367	 53.0 	2026 Aug  7 	     342	     353	 53.04 	-
 S46179    	2020-057BQ	SkySat C17	2020 Aug 18 	2024 Feb 21	2024 Feb 21	2024 Feb 21	-	Skysat	-	-	M	B	IMG	S	-	-	US	ST/SG/SER.E/954	   93.0 	     349	     365	 53.0 	2024 Feb 23 	     203	     214	 52.96 	-
 S46180    	2020-057BR	SkySat C18	2020 Aug 18 	2023 Jun 22	2023 Jun 22	2023 Jun 22	-	Skysat	-	-	M	B	IMG	S	-	-	US	ST/SG/SER.E/954	   90.8 	     273	     351	 53.0 	2023 Jun 24 	     198	     211	 52.96 	-
 S46232    	2020-058A	Gao Fen 9 05 xing	2020 Aug 23 	2024 Dec 18	2025 Jun?	2025 Jun?	-	LKW	-	-	M	D	IMG	S	-	-	CN	ST/SG/SER.E/1033	   94.5 	     487	     504	 97.5 	2025 Jun  2 	     483	     496	 97.26 	-
@@ -10428,7 +10428,7 @@ S46456    	2020-065C	Jilin-1 GaoFen 03B03 xing	2020 Sep 15 	2023 Feb	2025 Dec?	2
 S46457    	2020-065D	Jilin-1 GaoFen 03B04 xing	2020 Sep 15 	2023 Feb	*	*	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     527	     546	 97.5 	2026 Aug  7 	     353	     361	 97.22 	-
 S46458    	2020-065E	Jilin-1 GaoFen 03B05 xing	2020 Sep 15 	2023 Feb	*	*	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     527	     546	 97.5 	2026 Aug  7 	     363	     373	 97.21 	-
 S46459    	2020-065F	Jilin-1 GaoFen 03B06 xing	2020 Sep 15 	2023 Feb	2026 Aug?	2026 Aug?	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     525	     547	 97.5 	2026 Aug  7 	     314	     326	 97.22 	-
-S46460    	2020-065G	Jilin-1 GaoFen 03C01 xing	2020 Sep 15 	2023 Feb	*	*	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     526	     546	 97.5 	2026 Aug  7 	     333	     344	 97.21 	-
+S46460    	2020-065G	Jilin-1 GaoFen 03C01 xing	2020 Sep 15 	2023 Feb	2026 Sep?	2026 Sep?	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     526	     546	 97.5 	2026 Aug  7 	     333	     344	 97.21 	-
 S46461    	2020-065H	Jilin-1 GaoFen 03C02 xing	2020 Sep 15 	2023 Feb	2026 May?	2026 May?	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     526	     546	 97.5 	2026 May  2 	     309	     320	 97.23 	-
 S46462    	2020-065J	Jilin-1 GaoFen 03C03 xing	2020 Sep 15 	2023 Feb	2026 Apr?	2026 Apr?	-	Jilin-1 GF	1	-	M	B	IMG	S	-	-	CN	ST/SG/SER.E/1033	   95.4 	     527	     546	 97.5 	2026 Apr  2 	     318	     319	 97.23 	-
 S46469    	2020-066A	Haiyang er hao 03 weixing	2020 Sep 21 	2023 Feb	*	*	-	HY-2	-	-	-	C	EOSCI	S	-	-	CN	ST/SG/SER.E/1033	  104.1 	     943	     960	 66.0 	2020 Sep 23 	     943	     948	 66.00 	-
@@ -14198,7 +14198,7 @@ S53444    	2022-098A	Dongpo 07	2022 Aug 10 	2023 Mar	2026 Aug?	2026 Aug?	-	Jilin
 S53445    	2022-098B	Jilin-1 Gaofen 03D09	2022 Aug 10 	2023 Mar	*	*	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 15 	     530	     545	 97.53 	-
 S53446    	2022-098C	Henan-1	2022 Aug 10 	2023 Mar	*	*	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	[CN]	-	-	-	-	-	2022 Aug 12 	     532	     547	 97.54 	-
 S53447    	2022-098D	Dongpo 06	2022 Aug 10 	2023 Mar	2026 Mar?	2026 Mar?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 12 	     532	     546	 97.53 	-
-S53448    	2022-098E	Jilin-1 Gaofen 03D43	2022 Aug 10 	2023 Mar	*	*	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 12 	     531	     545	 97.53 	-
+S53448    	2022-098E	Jilin-1 Gaofen 03D43	2022 Aug 10 	2023 Mar	2026 Sep?	2026 Sep?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 12 	     531	     545	 97.53 	-
 S53449    	2022-098F	Dongpo 05	2022 Aug 10 	2023 Mar	2026 Jul?	2026 Jul?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 12 	     531	     545	 97.53 	-
 S53450    	2022-098G	Dongpo 03	2022 Aug 10 	2023 Mar	2026 May?	2026 May?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 12 	     532	     543	 97.53 	-
 S53451    	2022-098H	Dongpo 04	2022 Aug 10 	2023 Mar	2026 Mar?	2026 Mar?	-	Jilin-1 GF	1	P	-	B	IMG	S	-	-	CN	ST/SG/SER.E/1123	   95.3 	     535	     535	 97.5 	2022 Aug 12 	     531	     543	 97.54 	-
