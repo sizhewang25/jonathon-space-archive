@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Oct 24 1901:37
+# Updated 2026 Oct 26 0019:48
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -19547,7 +19547,7 @@
 2023-096 	2023 Jul 10 0358:50	2023-096H	P      R  M 	Starlink 30234	Starlink Group 6-5-08	S57297    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096J	P      R  M 	Starlink 30241	Starlink Group 6-5-09	S57298    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096K	P      R  M 	Starlink 30199	Starlink Group 6-5-10	S57299    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2023-096 	2023 Jul 10 0358:50	2023-096L	P      L  M 	Starlink 30236	Starlink Group 6-5-11	S57300    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2023-096 	2023 Jul 10 0358:50	2023-096L	P      R  M 	Starlink 30236	Starlink Group 6-5-11	S57300    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096M	P      O  M 	Starlink 30201	Starlink Group 6-5-12	S57301    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096N	P      L  M 	Starlink 30233	Starlink Group 6-5-13	S57302    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096P	P      R  M 	Starlink 30232	Starlink Group 6-5-14	S57303    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -19640,7 +19640,7 @@
 2023-102 	2023 Jul 20 0409:30	2023-102K	P      L  M 	Starlink 30191	Starlink Group 6-15-10	S57413    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102L	P      L  M 	Starlink 30193	Starlink Group 6-15-11	S57414    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102M	P      O  M 	Starlink 30208	Starlink Group 6-15-12	S57415    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2023-102 	2023 Jul 20 0409:30	2023-102N	P      L  M 	Starlink 30224	Starlink Group 6-15-13	S57416    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2023-102 	2023 Jul 20 0409:30	2023-102N	P      R  M 	Starlink 30224	Starlink Group 6-15-13	S57416    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102P	P      O  M 	Starlink 30043	Starlink Group 6-15-14	S57417    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-102 	2023 Jul 20 0409:30	2023-102Q	P      L  M 	Starlink 30221	Starlink Group 6-15-15	S57418    	SPXS	US	Falcon 9	241/B1071.10 F241	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2023-103 	2023 Jul 22 0507	2023-103A	P           	Taian	Xingshidai 16	S57421    	GUOX	CN	Gushenxing 1	Y6	-	JQ	LC43/95A	-	-	XIDO	CN	OS  	nasaspaceflight.com
@@ -31623,15 +31623,15 @@
 2026-220 	2026 Sep 20 0403	2026-220G	P       ?   	Qinling 02	Qingling 02	S100786   	NWPU	CN	Lijian-1	Y18	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
 2026-220 	2026 Sep 20 0403	2026-220H	P       ?   	Yunxiao Tanluzhe	Yunxiao Tanluzhe	S100787   	CASIOM	CN	Lijian-1	Y18	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
 2026-220 	2026 Sep 20 0403	2026-220J	P       ?   	Pujiang-4	PJ-4	S100788   	SAST	CN	Lijian-1	Y18	-	JQ	LC130	-	-	ZKYT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221A	P      O  M 	WHDW 23-01	Xingwang Digui 23-01	S100791   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221B	P      O  M 	WHDW 23-02	Xingwang Digui 23-02	S100792   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221C	P      O  M 	WHDW 23-03	Xingwang Digui 23-03	S100793   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221D	P      O  M 	WHDW 23-04	Xingwang Digui 23-04	S100794   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221E	P      O  M 	WHDW 23-05	Xingwang Digui 23-05	S100795   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221F	P      A  M 	WHDW 23-06	Xingwang Digui 23-06	S100796   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221G	P      A  M 	WHDW 23-07	Xingwang Digui 23-07	S100797   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221H	P      A  M 	WHDW 23-08	Xingwang Digui 23-08	S100798   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
-2026-221 	2026 Sep 23 1332	2026-221J	P      A  M 	WHDW 23-09	Xingwang Digui 23-09	S100799   	ZXW	CN	Chang Zheng 8A	Y11?	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221A	P      O  M 	WHDW 23-01	Xingwang Digui 23-01	S100791   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221B	P      O  M 	WHDW 23-02	Xingwang Digui 23-02	S100792   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221C	P      O  M 	WHDW 23-03	Xingwang Digui 23-03	S100793   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221D	P      O  M 	WHDW 23-04	Xingwang Digui 23-04	S100794   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221E	P      O  M 	WHDW 23-05	Xingwang Digui 23-05	S100795   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221F	P      A  M 	WHDW 23-06	Xingwang Digui 23-06	S100796   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221G	P      A  M 	WHDW 23-07	Xingwang Digui 23-07	S100797   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221H	P      A  M 	WHDW 23-08	Xingwang Digui 23-08	S100798   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
+2026-221 	2026 Sep 23 1332	2026-221J	P      A  M 	WHDW 23-09	Xingwang Digui 23-09	S100799   	ZXW	CN	Chang Zheng 8A	Y11	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
 2026-222 	2026 Sep 24 0846	2026-222A	P           	Yaogan 40-04-01	Yaogan 40 hao 04 zu 01 xing	S100823   	CAST	CN	Chang Zheng 6A	Y13	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-222 	2026 Sep 24 0846	2026-222B	P           	Yaogan 40-04-02	Yaogan 40 hao 04 zu 02 xing	S100824   	CAST	CN	Chang Zheng 6A	Y13	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-222 	2026 Sep 24 0846	2026-222C	P           	Yaogan 40-04-03	Yaogan 40 hao 04 zu 03 xing	S100825   	CAST	CN	Chang Zheng 6A	Y13	-	TYSC	LC9A	-	-	SAST	CN	OS  	nasaspaceflight.com
@@ -31789,8 +31789,8 @@
 2026-227 	2026 Oct  1 1832:00	2026-227CG	P       ?   	IRIDE-MS1-Eaglet-2-20	IRIDE-MS1-Eaglet-2-20	S101094   	ASI/OHBI	I	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227CH	P       ?   	ELEAF-01	ELEAF-01	S101095   	TERMR	NL	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227CJ	P       ?   	Newsat-64	Newsat-64	S101096   	URUGUS	UY	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-227 	2026 Oct  1 1832:00	2026-227CK	P       ?   	ERMINAZ-2V	ERMINAZ-2V	S101097   	AMDL	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-227 	2026 Oct  1 1832:00	2026-227CL	P           	ERMINAZ-2U	ERMINAZ-2U	S101098   	AMDL	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-227 	2026 Oct  1 1832:00	2026-227CK	P       ?   	AMSAT-OSCAR-130	ERMINAZ-2V	S101097   	AMDL	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-227 	2026 Oct  1 1832:00	2026-227CL	P           	AMSAT-OSCAR-129	ERMINAZ-2U	S101098   	AMDL	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227CM	P       ?   	Orbital Temple	Orbital Temple 2	S101099   	ORBTEM/IDEIA	BR	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227CN	P       ?   	ANT-1	ANT-1	S101100   	CSHARK	I	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227CP	P           	UNNE-1B	UNNE-1B	S101101   	AMEA/HYDRA	E	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -31942,7 +31942,7 @@
 2026-237 	2026 Oct 20 1104:00	2026-237AD	P       ?   	Umbra-13	Umbra-13	S101138   	UMBRA	US	Falcon 9	xxx/B1085.19 F698	-	CC	LC40	-	-	SPX	US	OS  	SpaceX
 2026-237 	2026 Oct 20 1104:00	2026-237AE	P       ?   	Umbra-14	Umbra-14	S101139   	UMBRA	US	Falcon 9	xxx/B1085.19 F698	-	CC	LC40	-	-	SPX	US	OS  	SpaceX
 2026-237 	2026 Oct 20 1104:00	2026-237AF	P       ?   	Capella 22	Acadia-12	S101140   	CAPSP	US	Falcon 9	xxx/B1085.19 F698	-	CC	LC40	-	-	SPX	US	OS  	SpaceX
-2026-238 	2026 Oct 21 0339	2026-238A	P           	Xiguang 4-01	Xiguang 4-01	S101142   	ZXHK	CN	Gushenxing 1	Y8	DEFU1?	HHAI	LP6	-	-	XIDO	CN	OS  	Wire
+2026-238 	2026 Oct 21 0339	2026-238A	P           	Xiguang 4-01	Xiguang 4-01	S101142   	GUDA/ZXHK	CN	Gushenxing 1	Y8	DFHT	HHAI	LP6	-	-	XIDO	CN	OS  	Wire
 2026-239 	2026 Oct 23 0711	2026-239A	P           	Hawk 16A	Hawk 16A	S101144   	HE360	US	Electron	98	-	MAHIA	LC1A	-	-	RLABN	NZ	OS  	Wire
 2026-239 	2026 Oct 23 0711	2026-239B	P           	Hawk 16B	Hawk 16B	S101145   	HE360	US	Electron	98	-	MAHIA	LC1A	-	-	RLABN	NZ	OS  	Wire
 2026-239 	2026 Oct 23 0711	2026-239C	P           	Hawk 16C	Hawk 16C	S101146   	HE360	US	Electron	98	-	MAHIA	LC1A	-	-	RLABN	NZ	OS  	Wire
@@ -31952,7 +31952,7 @@
 2026-241 	2026 Oct 23 1925	2026-241C	P           	Yaogan 53-09	Yaogan 53-09	S101153   	ZLZB?	CN	Chang Zheng 4B	Y81	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-241 	2026 Oct 23 1925	2026-241D	P           	Yaogan 56-19	Yaogan 56-19	S101154   	ZLZB?	CN	Chang Zheng 4B	Y81	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-241 	2026 Oct 23 1925	2026-241E	P           	Yaogan 56-20	Yaogan 56-20	S101155   	ZLZB?	CN	Chang Zheng 4B	Y81	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
-2026-241 	2026 Oct 23 1925	2026-241F	P           	Yaogan 56-21	Yaogan 56-21	S101156   	ZLZB?	CN	Chang Zheng 4B	Y81	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
+2026-241 	2026 Oct 23 1925	2026-241G	P           	Yaogan 56-21	Yaogan 56-21	S101157   	ZLZB?	CN	Chang Zheng 4B	Y81	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-242 	2026 Oct 23 2248:44	2026-242A	P      D  M 	Starlink 38434	Starlink Group 15-15-01	S101158   	SPXS	US	Falcon 9	xxx/B1063.36 F699	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-242 	2026 Oct 23 2248:44	2026-242B	P      D  M 	Starlink 38479	Starlink Group 15-15-02	S101159   	SPXS	US	Falcon 9	xxx/B1063.36 F699	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-242 	2026 Oct 23 2248:44	2026-242C	P      D  M 	Starlink 38454	Starlink Group 15-15-03	S101160   	SPXS	US	Falcon 9	xxx/B1063.36 F699	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -31980,3 +31980,12 @@
 2026-242 	2026 Oct 23 2248:44	2026-242AA	P      D  M 	Starlink 38131	Starlink Group 15-15-25	S101182   	SPXS	US	Falcon 9	xxx/B1063.36 F699	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-242 	2026 Oct 23 2248:44	2026-242AB	P      D  M 	Starlink 37885	Starlink Group 15-15-26	S101183   	SPXS	US	Falcon 9	xxx/B1063.36 F699	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-242 	2026 Oct 23 2248:44	2026-242AC	P      D  M 	Starlink 38426	Starlink Group 15-15-27	S101184   	SPXS	US	Falcon 9	xxx/B1063.36 F699	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-243 	2026 Oct 25 0203	2026-243A	P      O  M 	WHDW 28-01	Xingwang Digui 28-01	S101185   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243B	P      O  M 	WHDW 28-02	Xingwang Digui 28-02	S101186   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243C	P      O  M 	WHDW 28-03	Xingwang Digui 28-03	S101187   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243D	P      O  M 	WHDW 28-04	Xingwang Digui 28-04	S101188   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243E	P      O  M 	WHDW 28-05	Xingwang Digui 28-05	S101189   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243F	P      O  M 	WHDW 28-06	Xingwang Digui 28-06	S101190   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243G	P      O  M 	WHDW 28-07	Xingwang Digui 28-07	S101191   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243H	P      O  M 	WHDW 28-08	Xingwang Digui 28-08	S101192   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
+2026-243 	2026 Oct 25 0203	2026-243J	P      O  M 	WHDW 28-09	Xingwang Digui 28-09	S101193   	ZXW	CN	Chang Zheng 8A	Y12	-	HCSLS	LC1	-	-	ZHSH/CALT	CN	OS  	nasaspaceflight.com
