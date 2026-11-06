@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Nov  2 0003:02
+# Updated 2026 Nov  6 1114:47
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -16786,23 +16786,23 @@
 2022-095 	2022 Aug  9 0411	2022-095A	P           	Ping'an 3	Taijing yi hao 01 xing	S53367    	WEINA	CN	Gushenxing 1	Y3	-	JQ	LC43/95A	-	-	XIDO	CN	OS  	nasaspaceflight.com
 2022-095 	2022 Aug  9 0411	2022-095B	P           	Taijing-1 02	Taijing yi hao 02 xing	S53368    	WEINA	CN	Gushenxing 1	Y3	-	JQ	LC43/95A	-	-	XIDO	CN	OS  	nasaspaceflight.com
 2022-095 	2022 Aug  9 0411	2022-095C	P       ?   	Donghai 1	Donghai 1	S53369    	ASES	CN	Gushenxing 1	Y3	-	JQ	LC43/95A	-	-	XIDO	CN	OS  	nasaspaceflight.com
-2022-096 	2022 Aug  9 0552:38	2022-096A	P           	Khayyam	Khayyam	S53370    	IRSA/BDS	IR	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096B	P           	Polytech Univers-2	Polytech Univers-2	S53371    	SPBPU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096C	P           	Polytech Univers-1	Polytech Univers-1	S53372    	SPBPU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096D	P           	CYCLOPS	CYCLOPS	S53373    	BGTU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096E	P           	Monitor-1	KODIZ	S53374    	MGU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096F	P           	Kuzbass-300	Kuzbass-300	S53375    	KUZGTU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096G	P           	UTMN	UTMN	S53376    	UTMN	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096H	P           	MIET-AIS	MIET-AIS	S53377    	MIET	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096J	P           	KAI-1	KAI-1	S53378    	KNITU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096K	P           	Skoltech-B1	Skoltech-B1	S53379    	SKOLT	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096L	P           	Skoltech-B2	Skoltech-B2	S53380    	SKOLT	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096M	P           	ISOI	ISOI	S53381    	ISOI	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096N	P           	ReshUCube	ReshUCube	S53382    	SIBGAU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096P	P           	CubeSX-HSE-2	CubeSX-HSE-2	S53383    	VSHE	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096Q	P           	Siren	Siren	S53384    	BELGU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096R	P           	Geoskan-Edel'veys	Geoskan-Edel'veys	S53385    	GEOSK	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
-2022-096 	2022 Aug  9 0552:38	2022-096S	P       ?   	VIZARD-SS1	VIZARD	S53386    	VIZ/NISYS	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	FKA	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096A	P           	Khayyam	Khayyam	S53370    	IRSA/BDS	IR	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096B	P           	Polytech Univers-2	Polytech Univers-2	S53371    	SPBPU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096C	P           	Polytech Univers-1	Polytech Univers-1	S53372    	SPBPU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096D	P           	CYCLOPS	CYCLOPS	S53373    	BGTU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096E	P           	Monitor-1	KODIZ	S53374    	MGU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096F	P           	Kuzbass-300	Kuzbass-300	S53375    	KUZGTU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096G	P           	UTMN	UTMN	S53376    	UTMN	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096H	P           	MIET-AIS	MIET-AIS	S53377    	MIET	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096J	P           	KAI-1	KAI-1	S53378    	KNITU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096K	P           	Skoltech-B1	Skoltech-B1	S53379    	SKOLT	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096L	P           	Skoltech-B2	Skoltech-B2	S53380    	SKOLT	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096M	P           	ISOI	ISOI	S53381    	ISOI	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096N	P           	ReshUCube	ReshUCube	S53382    	SIBGAU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096P	P           	CubeSX-HSE-2	CubeSX-HSE-2	S53383    	VSHE	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096Q	P           	Siren	Siren	S53384    	BELGU	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096R	P           	Geoskan-Edel'veys	Geoskan-Edel'veys	S53385    	GEOSK	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
+2022-096 	2022 Aug  9 0552:38	2022-096S	P       ?   	VIZARD-SS1	VIZARD	S53386    	VIZ/NISYS	RU	Soyuz-2-1B	Ya15000-055/ 123-06	-	GIK-5	LC31	-	-	GKLS	RU	OS  	spaceflightnow.com
 2022-097 	2022 Aug 10 0214:40	2022-097A	P      O  M 	Starlink 4522	Starlink Group 4-26-01	S53388    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097B	P      O  M 	Starlink 4523	Starlink Group 4-26-02	S53389    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2022-097 	2022 Aug 10 0214:40	2022-097C	P      O  M 	Starlink 4517	Starlink Group 4-26-03	S53390    	SPXS	US	Falcon 9	171/B1073.3  F170	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -19435,55 +19435,55 @@
 2023-090 	2023 Jun 23 1535:10	2023-090BF	P      O  M 	Starlink 6106	Starlink Group 5-12-54	S57154    	SPXS	US	Falcon 9	234/B1069.8  F236	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-090 	2023 Jun 23 1535:10	2023-090BG	P      O  M 	Starlink 6108	Starlink Group 5-12-55	S57155    	SPXS	US	Falcon 9	234/B1069.8  F236	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-090 	2023 Jun 23 1535:10	2023-090BH	P      R  M 	Starlink 6137	Starlink Group 5-12-56	S57156    	SPXS	US	Falcon 9	234/B1069.8  F236	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2023-091 	2023 Jun 27 1134:49	2023-091A	P           	Meteor-M No. 2-3	Meteor-M No. 2-3	S57166    	RGMS/VNIIEMI	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091B	P           	Stratosat TK-1	Stratosat TK-1	S57167    	STRAT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091C	P       ?   	Samsat-ION	SamSat-ION	S57168    	SNIU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091D	P       ?   	ReshUCube-2	ReshUCube-2	S57169    	SIBGAU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091E	P      M?   	Rassvet-1 No. 3	Rassvet-1 No. 3	S57170    	B1440	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091F	P       ?   	Yarilo-4	Yarilo-4	S57171    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091G	P       ?   	UmKA-1	UmKA-1	S57172    	S29POD	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091H	P       ?   	Impul's-1	Impul's-1	S57173    	QSP/MISIS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091J	P       ?   	SATURN	SATURN	S57174    	KGTU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091K	P           	CubeBel-2	BSUSat-2	S57175    	BSUBY	BY	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091L	P           	Katys G.P.	SITRO-AIS-5	S57176    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091M	P           	Zorkiy-2M	Zorkiy-2M	S57177    	SPUT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091N	P           	CubeSX-HSE-3	CubeSX-HSE-3	S57178    	VSHE	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091P	P      M?   	Rassvet-1 No. 1	Rassvet-1 No. 1	S57179    	B1440	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091Q	P           	Monitor-3	Monitor-3	S57180    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091R	P       ?   	Akhmat-1	Akhmat-1	S57181    	CHGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091S	P           	Monitor-4	Monitor-4	S57182    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091T	P      M?   	Rassvet-1 No. 2	Rassvet-1 No. 2	S57183    	B1440	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091U	P           	Monitor-2	Monitor-2	S57184    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091V	P       ?   	Sirius-SINP-3U	Sirius-SINP-3U	S57185    	BGOPT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091W	P           	CSTP-1.2	CSTP-1.2	S57186    	STTS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091X	P           	Svyatobor-1	Svyatobor-1	S57187    	SPUT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091Y	P           	Khors No. 1	Khors No. 1	S57188    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091Z	P           	VIZARD-meteo	VIZARD-meteo	S57189    	VIZ/NISYS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AA	P           	Nanozond-1	Nanozond-1	S57190    	OGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AB	P           	Polytech Univers-3	Polytech Univers-3	S57191    	SPBPU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AC	P           	Chirkin V.N.	SITRO-AIS-6	S57192    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AD	P           	Anokhin S.N.	SITRO-AIS-8	S57193    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AE	P           	Fartushniy V.G.	SITRO-AIS-7	S57194    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AF	P           	Avion-Kaluga 650	Avion-Kaluga 650	S57195    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AG	P           	Khors No. 2	Khors No. 2	S57196    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AH	P           	A-SEANSAT-PG1	A-SEANSAT-PG1	S57197    	ANGKX	MY	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AJ	P           	Yarilo-3	Yarilo-3	S57198    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AK	P           	Burdaev M.N.	SITRO-AIS-10	S57199    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AL	P       ?   	PHI-DEMO	PHI-DEMO	S57200    	MBRSC	UAE	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AM	P           	Shchukin A.V.	SITRO-AIS-9	S57201    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AN	P           	CSTP-1.1	CSTP-1.1	S57202    	STTS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AP	P           	UTMN-2	UTMN-2	S57203    	UTMN	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AQ	P           	Smirenniy L.N.	SITRO-AIS-12	S57204    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AR	P           	ArcCube-01	ArcCube-01	S57205    	FIRON	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AS	P       ?   	Norbi-2	Norbi-2	S57206    	NOVSU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AU	P           	Sheffer Yu.P.	SITRO-AIS-11	S57208    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AV	P           	KuzGTU-1	KuzGTU-1	S57217    	KUZGTU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AW	P           	Stratosat TK-1-A	Stratosat TK-1-A	S57322    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AX	P           	Stratosat TK-1-B	Stratosat TK-1-B	S57323    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AY	P           	Stratosat TK-1-V	Stratosat TK-1-V	S57324    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091AZ	P           	Stratosat TK-1-G	Stratosat TK-1-G	S57325    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091BA	P           	Stratosat TK-1-D	Stratosat TK-1-D	S57326    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2023-091 	2023 Jun 27 1134:49	2023-091BB	P           	Stratosat TK-1-E	Stratosat TK-1-E	S57327    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091A	P           	Meteor-M No. 2-3	Meteor-M No. 2-3	S57166    	RGMS/VNIIEMI	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091B	P           	Stratosat TK-1	Stratosat TK-1	S57167    	STRAT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091C	P       ?   	Samsat-ION	SamSat-ION	S57168    	SNIU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091D	P       ?   	ReshUCube-2	ReshUCube-2	S57169    	SIBGAU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091E	P      M?   	Rassvet-1 No. 3	Rassvet-1 No. 3	S57170    	B1440	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091F	P       ?   	Yarilo-4	Yarilo-4	S57171    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091G	P       ?   	UmKA-1	UmKA-1	S57172    	S29POD	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091H	P       ?   	Impul's-1	Impul's-1	S57173    	QSP/MISIS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091J	P       ?   	SATURN	SATURN	S57174    	KGTU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091K	P           	CubeBel-2	BSUSat-2	S57175    	BSUBY	BY	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091L	P           	Katys G.P.	SITRO-AIS-5	S57176    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091M	P           	Zorkiy-2M	Zorkiy-2M	S57177    	SPUT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091N	P           	CubeSX-HSE-3	CubeSX-HSE-3	S57178    	VSHE	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091P	P      M?   	Rassvet-1 No. 1	Rassvet-1 No. 1	S57179    	B1440	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091Q	P           	Monitor-3	Monitor-3	S57180    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091R	P       ?   	Akhmat-1	Akhmat-1	S57181    	CHGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091S	P           	Monitor-4	Monitor-4	S57182    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091T	P      M?   	Rassvet-1 No. 2	Rassvet-1 No. 2	S57183    	B1440	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091U	P           	Monitor-2	Monitor-2	S57184    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091V	P       ?   	Sirius-SINP-3U	Sirius-SINP-3U	S57185    	BGOPT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091W	P           	CSTP-1.2	CSTP-1.2	S57186    	STTS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091X	P           	Svyatobor-1	Svyatobor-1	S57187    	SPUT	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091Y	P           	Khors No. 1	Khors No. 1	S57188    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091Z	P           	VIZARD-meteo	VIZARD-meteo	S57189    	VIZ/NISYS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AA	P           	Nanozond-1	Nanozond-1	S57190    	OGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AB	P           	Polytech Univers-3	Polytech Univers-3	S57191    	SPBPU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AC	P           	Chirkin V.N.	SITRO-AIS-6	S57192    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AD	P           	Anokhin S.N.	SITRO-AIS-8	S57193    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AE	P           	Fartushniy V.G.	SITRO-AIS-7	S57194    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AF	P           	Avion-Kaluga 650	Avion-Kaluga 650	S57195    	MGU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AG	P           	Khors No. 2	Khors No. 2	S57196    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AH	P           	A-SEANSAT-PG1	A-SEANSAT-PG1	S57197    	ANGKX	MY	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AJ	P           	Yarilo-3	Yarilo-3	S57198    	BAUM	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AK	P           	Burdaev M.N.	SITRO-AIS-10	S57199    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AL	P       ?   	PHI-DEMO	PHI-DEMO	S57200    	MBRSC	UAE	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AM	P           	Shchukin A.V.	SITRO-AIS-9	S57201    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AN	P           	CSTP-1.1	CSTP-1.1	S57202    	STTS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AP	P           	UTMN-2	UTMN-2	S57203    	UTMN	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AQ	P           	Smirenniy L.N.	SITRO-AIS-12	S57204    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AR	P           	ArcCube-01	ArcCube-01	S57205    	FIRON	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AS	P       ?   	Norbi-2	Norbi-2	S57206    	NOVSU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AU	P           	Sheffer Yu.P.	SITRO-AIS-11	S57208    	SITRO	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AV	P           	KuzGTU-1	KuzGTU-1	S57217    	KUZGTU	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AW	P           	Stratosat TK-1-A	Stratosat TK-1-A	S57322    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AX	P           	Stratosat TK-1-B	Stratosat TK-1-B	S57323    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AY	P           	Stratosat TK-1-V	Stratosat TK-1-V	S57324    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091AZ	P           	Stratosat TK-1-G	Stratosat TK-1-G	S57325    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091BA	P           	Stratosat TK-1-D	Stratosat TK-1-D	S57326    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2023-091 	2023 Jun 27 1134:49	2023-091BB	P           	Stratosat TK-1-E	Stratosat TK-1-E	S57327    	STRAT/MKS	RU	Soyuz-2-1B	Kh15000-010/ 142-02	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
 2023-092 	2023 Jul  1 1512	2023-092A	P   D      D	Euclid	Euclid	S57209    	ESA	I-ESA	Falcon 9	238/B1080.2  F237	-	CC	LC40	-	-	SPX	US	DS  	Wire
 2023-093 	2023 Jul  5 2200:07	2023-093A	P   G       	Heinrich-Hertz-Satellit	H2SAT	S57213    	DLR	D	Ariane 5ECA+	VA261 (5119)	-	CSG	ELA3	-	-	AE	F	OS  	Wire
 2023-093 	2023 Jul  5 2200:07	2023-093B	P   G       	Syracuse 4B	Syracuse 4B	S57214    	DGA	F	Ariane 5ECA+	VA261 (5119)	-	CSG	ELA3	-	-	AE	F	OS  	Wire
@@ -19538,7 +19538,7 @@
 2023-095 	2023 Jul  9 1100	2023-095A	P        bM 	Xingwang Jishu SW 01-01	WHJSW-01	S57288    	ZXW	CN	Chang Zheng 2C/YZ-1S	Y52/Y3	-	JQ	LC43/94	-	-	CALT	CN	OS  	nasaspaceflight.com
 2023-095 	2023 Jul  9 1100	2023-095B	P        mM 	Xingwang Jishu SW 01-02	WHJSW-02	S57289    	ZXW	CN	Chang Zheng 2C/YZ-1S	Y52/Y3	-	JQ	LC43/94	-	-	CALT	CN	OS  	nasaspaceflight.com
 2023-096 	2023 Jul 10 0358:50	2023-096A	P      R  M 	Starlink 30198	Starlink Group 6-5-01	S57290    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2023-096 	2023 Jul 10 0358:50	2023-096B	P      L  M 	Starlink 30239	Starlink Group 6-5-02	S57291    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2023-096 	2023 Jul 10 0358:50	2023-096B	P      R  M 	Starlink 30239	Starlink Group 6-5-02	S57291    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096C	P      R  M 	Starlink 30210	Starlink Group 6-5-03	S57292    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096D	P      M  M 	Starlink 30202	Starlink Group 6-5-04	S57293    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-096 	2023 Jul 10 0358:50	2023-096E	P      L  M 	Starlink 30235	Starlink Group 6-5-05	S57294    	SPXS	US	Falcon 9	240/B1058.16 F239	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -21083,26 +21083,26 @@
 2024-038 	2024 Feb 25 2206:00	2024-038X	P      O  M 	Starlink 31153	Starlink Group 6-39-22	S59044    	SPXS	US	Falcon 9	300/B1069.13 F304	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-038 	2024 Feb 25 2206:00	2024-038Y	P      O  M 	Starlink 31241	Starlink Group 6-39-23	S59045    	SPXS	US	Falcon 9	300/B1069.13 F304	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-038 	2024 Feb 25 2206:00	2024-038Z	P      O  M 	Starlink 31205	Starlink Group 6-39-24	S59046    	SPXS	US	Falcon 9	300/B1069.13 F304	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2024-039 	2024 Feb 29 0543:26	2024-039A	P           	Meteor-M No. 2-4	Meteor-M No. 2-4	S59051    	RGMS/VNIIEMI	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039B	P           	SITRO-AIS-29	SITRO-AIS-29	S59052    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039C	P           	SITRO-AIS-30	SITRO-AIS-30	S59053    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039D	P           	SITRO-AIS-31	SITRO-AIS-31	S59054    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039E	P           	SITRO-AIS-33	SITRO-AIS-33	S59055    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039F	P           	SITRO-AIS-35	SITRO-AIS-35	S59056    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039G	P           	SITRO-AIS-32	SITRO-AIS-32	S59057    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039H	P           	SITRO-AIS-34	SITRO-AIS-34	S59058    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039J	P           	SITRO-AIS-36	SITRO-AIS-36	S59059    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039K	P           	SITRO-AIS-49	SITRO-AIS-49	S59060    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039L	P           	SITRO-AIS-50	SITRO-AIS-50	S59061    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039M	P           	SITRO-AIS-51	SITRO-AIS-51	S59062    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039N	P           	SITRO-AIS-52	SITRO-AIS-52	S59063    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039P	P           	Zorkiy-2M No. 2	Zorkiy-2M	S59064    	SPUT	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039Q	P           	Pars-1	Pars-1	S59065    	IRSA	IR	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039R	P           	SITRO-AIS-25	SITRO-AIS-25	S59066    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039S	P           	SITRO-AIS-26	SITRO-AIS-26	S59067    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039T	P           	SITRO-AIS-27	SITRO-AIS-27	S59068    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039U	P           	SITRO-AIS-28	SITRO-AIS-28	S59071    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-039 	2024 Feb 29 0543:26	2024-039V	P  D        	Marafon-D GVM	Marafon-D GVM	S59072    	NPOPM	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039A	P           	Meteor-M No. 2-4	Meteor-M No. 2-4	S59051    	RGMS/VNIIEMI	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039B	P           	SITRO-AIS-29	SITRO-AIS-29	S59052    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039C	P           	SITRO-AIS-30	SITRO-AIS-30	S59053    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039D	P           	SITRO-AIS-31	SITRO-AIS-31	S59054    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039E	P           	SITRO-AIS-33	SITRO-AIS-33	S59055    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039F	P           	SITRO-AIS-35	SITRO-AIS-35	S59056    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039G	P           	SITRO-AIS-32	SITRO-AIS-32	S59057    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039H	P           	SITRO-AIS-34	SITRO-AIS-34	S59058    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039J	P           	SITRO-AIS-36	SITRO-AIS-36	S59059    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039K	P           	SITRO-AIS-49	SITRO-AIS-49	S59060    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039L	P           	SITRO-AIS-50	SITRO-AIS-50	S59061    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039M	P           	SITRO-AIS-51	SITRO-AIS-51	S59062    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039N	P           	SITRO-AIS-52	SITRO-AIS-52	S59063    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039P	P           	Zorkiy-2M No. 2	Zorkiy-2M	S59064    	SPUT	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039Q	P           	Pars-1	Pars-1	S59065    	IRSA	IR	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039R	P           	SITRO-AIS-25	SITRO-AIS-25	S59066    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039S	P           	SITRO-AIS-26	SITRO-AIS-26	S59067    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039T	P           	SITRO-AIS-27	SITRO-AIS-27	S59068    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039U	P           	SITRO-AIS-28	SITRO-AIS-28	S59071    	SITRO	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-039 	2024 Feb 29 0543:26	2024-039V	P  D        	Marafon-D GVM	Marafon-D GVM	S59072    	NPOPM	RU	Soyuz-2-1B	S 15000-012/ 142-03	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
 2024-040 	2024 Feb 29 1303	2024-040A	P           	HG-01	Hulianwang Gaogui 01	S59069    	CNSA	CN	Chang Zheng 3B	Y95	-	XSC	LC2	-	-	CALT	CN	OS  	nasaspaceflight.com
 2024-041 	2024 Feb 29 1530:00	2024-041A	P      O  M 	Starlink 31265	Starlink Group 6-40-01	S59074    	SPXS	US	Falcon 9	306/B1076.11 F305	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-041 	2024 Feb 29 1530:00	2024-041B	P      O  M 	Starlink 31276	Starlink Group 6-40-02	S59075    	SPXS	US	Falcon 9	306/B1076.11 F305	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -21773,16 +21773,16 @@
 2024-091 	2024 May 14 1839:00	2024-091T	P      O  M 	Starlink 31829	Starlink Group 8-7-18	S59770    	SPXS	US	Falcon 9	337/B1063.18 F336	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2024-091 	2024 May 14 1839:00	2024-091U	P      O  M 	Starlink 31786	Starlink Group 8-7-19	S59771    	SPXS	US	Falcon 9	337/B1063.18 F336	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2024-091 	2024 May 14 1839:00	2024-091V	P      O  M 	Starlink 31835	Starlink Group 8-7-20	S59772    	SPXS	US	Falcon 9	337/B1063.18 F336	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2024-092 	2024 May 16 2121	2024-092A	P           	Kosmos-2576	Nivelir-L No. 4?	S59773    	TSVS	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092B	P           	Zorkiy-2M No. 4	Zorkiy-2M	S59774    	SPUT	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092C	P           	Zorkiy-2M No. 6	Zorkiy-2M	S59775    	SPUT	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092D	P           	SITRO-AIS-53	SITRO-AIS-53	S59776    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092E	P           	SITRO-AIS-54	SITRO-AIS-54	S59777    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092F	P           	SITRO-AIS-55	SITRO-AIS-55	S59778    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092G	P      T    	Rassvet-2 No. 1	Rassvet-2 No. 1	S59779    	B1440	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092H	P      T    	Rassvet-2 No. 2	Rassvet-2 No. 2	S59780    	B1440	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092J	P      T    	Rassvet-2 No. 3	Rassvet-2 No. 3	S59781    	B1440	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
-2024-092 	2024 May 16 2121	2024-092K	P           	SITRO-AIS-56	SITRO-AIS-56	S59809    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092A	P           	Kosmos-2576	Nivelir-L No. 4?	S59773    	TSVS	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092B	P           	Zorkiy-2M No. 4	Zorkiy-2M	S59774    	SPUT	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092C	P           	Zorkiy-2M No. 6	Zorkiy-2M	S59775    	SPUT	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092D	P           	SITRO-AIS-53	SITRO-AIS-53	S59776    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092E	P           	SITRO-AIS-54	SITRO-AIS-54	S59777    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092F	P           	SITRO-AIS-55	SITRO-AIS-55	S59778    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092G	P      T    	Rassvet-2 No. 1	Rassvet-2 No. 1	S59779    	B1440	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092H	P      T    	Rassvet-2 No. 2	Rassvet-2 No. 2	S59780    	B1440	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092J	P      T    	Rassvet-2 No. 3	Rassvet-2 No. 3	S59781    	B1440	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
+2024-092 	2024 May 16 2121	2024-092K	P           	SITRO-AIS-56	SITRO-AIS-56	S59809    	SITRO	RU	Soyuz-2-1B	770-53-735   111-601	-	GIK-1	LC43/4	-	-	VVKO/GKLS	RU	OS  	nasaspaceflight.com
 2024-093 	2024 May 18 0032:00	2024-093A	P      O  M 	Starlink 31363	Starlink Group 6-59-01	S59782    	SPXS	US	Falcon 9	338/B1062.21 F337	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-093 	2024 May 18 0032:00	2024-093B	P      O  M 	Starlink 31868	Starlink Group 6-59-02	S59783    	SPXS	US	Falcon 9	338/B1062.21 F337	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-093 	2024 May 18 0032:00	2024-093C	P      O  M 	Starlink 31848	Starlink Group 6-59-03	S59784    	SPXS	US	Falcon 9	338/B1062.21 F337	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -23003,61 +23003,61 @@
 2024-196 	2024 Oct 30 2110	2024-196Y	P      O  M 	Starlink 32442	Starlink Group 10-13-23	S61729    	SPXS	US	Falcon 9	393/B1078.14 F389	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2024-197 	2024 Oct 31 0751:31	2024-197A	P           	Kosmos-2579	Bars-M No. 6L	S61730    	VVKOV	RU	Soyuz-2-1A	760-72-531	-	GIK-1	LC43/4	-	-	VVKO	RU	OS  	nasaspaceflight.com
 2024-198 	2024 Nov  4 0648	2024-198A	P   G       	Kirameki 3	DSN 3	S61733    	DSNC	J	H3-22S	H3-F4	-	TNSC	Y2	-	-	JAXA	J	OS  	Wire
-2024-199 	2024 Nov  4 2318:40	2024-199A	P           	Ionosfera-M No. 1	Ionosfera-M No. 1	S61735    	VNIIEMI	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199B	P           	Ionosfera-M No. 2	Ionosfera-M No. 2	S61736    	VNIIEMI	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199C	P           	SITRO-AIS-16	SITRO-AIS-16	S61737    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199D	P           	SITRO-AIS-15	SITRO-AIS-15	S61738    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199E	P           	SITRO-AIS-21	SITRO-AIS-21	S61739    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199F	P           	SITRO-AIS-22	SITRO-AIS-22	S61740    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199G	P           	SITRO-AIS-24	SITRO-AIS-24	S61741    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199H	P           	SITRO-AIS-23	SITRO-AIS-23	S61742    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199J	P           	SITRO-AIS-13	SITRO-AIS-13	S61743    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199K	P       ?   	CSTP-2.11	CSTP-2.11	S61744    	STTS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199L	P           	Polytech Univers-5	Polytech Univers-5	S61745    	SPBPU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199M	P           	Colibri-S	Kolibri-S	S61746    	SNIU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199N	P           	Polytech Univers-4	Polytech Univers-4	S61747    	SPBPU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199P	P           	SITRO-AIS-44	SITRO-AIS-44	S61748    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199Q	P           	Vizard-ion	Vizard-ion	S61749    	MGUS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199R	P       ?   	Vladivostok-1	Vladivostok-1	S61750    	DVFU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199S	P       ?   	CSTP-2.1	CSTP-2.1	S61751    	STTS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199T	P           	SITRO-AIS-14	SITRO-AIS-14	S61752    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199U	P           	Khors No. 3	Khors No. 3	S61753    	BAUM	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199V	P           	Khors No. 4	Khors No. 4	S61754    	BAUM	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199W	P           	SITRO-AIS-43	SITRO-AIS-43	S61755    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199X	P           	SITRO-AIS-42	SITRO-AIS-42	S61756    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199Y	P           	Gorizont	Gorizont	S61757    	BGTU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199Z	P           	SITRO-AIS-20	SITRO-AIS-20	S61758    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AA	P           	SITRO-AIS-19	SITRO-AIS-19	S61759    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AB	P           	SITRO-AIS-41	SITRO-AIS-41	S61760    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AC	P       ?   	CSTP-2.2	CSTP-2.2	S61761    	STTS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AD	P           	ArcticSat-1	ArcticSat-1	S61762    	NARFU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AE	P           	SIT-HSE	SIT-HSE	S61763    	SPBGUT	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AF	P           	SIT-2086	SIT-2086	S61764    	S2086/SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AG	P           	Mordovia-IOT	Mordovia-IOT	S61765    	SARPT	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AH	P           	Ruzaevka-390	Ruzaevka-390	S61766    	SARPT	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AJ	P           	Nokhcho	Nokhcho	S61767    	CHGU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AL	P           	Kowsar	Kowsar	S61769    	OMID/ISRC	IR	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AM	P       ?   	Norbi-3	Norbi-3	S61770    	NOVSU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AN	P           	SITRO-AIS-48	SITRO-AIS-48	S61771    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AP	P           	Hyperview-1G	Hyperview-1G	S61772    	SNIU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AQ	P           	SITRO-AIS-47	SITRO-AIS-47	S61773    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AR	P           	SITRO-AIS-46	SITRO-AIS-46	S61774    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AS	P       ?   	MTUSI-1	MTUSI-1	S61775    	MTUSI	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AT	P           	SITRO-AIS-40	SITRO-AIS-40	S61776    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AU	P       ?   	Hodhod	Hodhod	S61777    	OMID/ISRC	IR	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AV	P           	SITRO-AIS-39	SITRO-AIS-39	S61778    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AW	P           	Al'tair	Al'tair	S61779    	MGU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AX	P           	SITRO-AIS-37	SITRO-AIS-37	S61780    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AY	P           	ASRTU-OSCAR-123	ASRTU-1	S61781    	AMGU/HARB	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199AZ	P           	TUSUR GO	TUSUR GO	S61782    	TUSUR	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BA	P           	ZIMSAT-2	AMAISAT	S61783    	ZINGSA/YUZGU	ZW	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BB	P           	SamSat-Ion 2	SamSat-Ion 2	S61784    	SNIU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BC	P           	RTU MIREA1	RTU MIREA1	S61785    	MIREA	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BD	P           	SITRO-AIS-38	SITRO-AIS-38	S61786    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BE	P       ?   	YUZGU-60	YUZGU-60	S61787    	YUZGU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BF	P           	SITRO-AIS-45	SITRO-AIS-45	S61788    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BG	P           	SITRO-AIS-17	SITRO-AIS-17	S61789    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
-2024-199 	2024 Nov  4 2318:40	2024-199BH	P           	SITRO-AIS-18	SITRO-AIS-18	S61790    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	FKA	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199A	P           	Ionosfera-M No. 1	Ionosfera-M No. 1	S61735    	VNIIEMI	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199B	P           	Ionosfera-M No. 2	Ionosfera-M No. 2	S61736    	VNIIEMI	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199C	P           	SITRO-AIS-16	SITRO-AIS-16	S61737    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199D	P           	SITRO-AIS-15	SITRO-AIS-15	S61738    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199E	P           	SITRO-AIS-21	SITRO-AIS-21	S61739    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199F	P           	SITRO-AIS-22	SITRO-AIS-22	S61740    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199G	P           	SITRO-AIS-24	SITRO-AIS-24	S61741    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199H	P           	SITRO-AIS-23	SITRO-AIS-23	S61742    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199J	P           	SITRO-AIS-13	SITRO-AIS-13	S61743    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199K	P       ?   	CSTP-2.11	CSTP-2.11	S61744    	STTS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199L	P           	Polytech Univers-5	Polytech Univers-5	S61745    	SPBPU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199M	P           	Colibri-S	Kolibri-S	S61746    	SNIU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199N	P           	Polytech Univers-4	Polytech Univers-4	S61747    	SPBPU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199P	P           	SITRO-AIS-44	SITRO-AIS-44	S61748    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199Q	P           	Vizard-ion	Vizard-ion	S61749    	MGUS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199R	P       ?   	Vladivostok-1	Vladivostok-1	S61750    	DVFU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199S	P       ?   	CSTP-2.1	CSTP-2.1	S61751    	STTS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199T	P           	SITRO-AIS-14	SITRO-AIS-14	S61752    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199U	P           	Khors No. 3	Khors No. 3	S61753    	BAUM	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199V	P           	Khors No. 4	Khors No. 4	S61754    	BAUM	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199W	P           	SITRO-AIS-43	SITRO-AIS-43	S61755    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199X	P           	SITRO-AIS-42	SITRO-AIS-42	S61756    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199Y	P           	Gorizont	Gorizont	S61757    	BGTU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199Z	P           	SITRO-AIS-20	SITRO-AIS-20	S61758    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AA	P           	SITRO-AIS-19	SITRO-AIS-19	S61759    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AB	P           	SITRO-AIS-41	SITRO-AIS-41	S61760    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AC	P       ?   	CSTP-2.2	CSTP-2.2	S61761    	STTS	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AD	P           	ArcticSat-1	ArcticSat-1	S61762    	NARFU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AE	P           	SIT-HSE	SIT-HSE	S61763    	SPBGUT	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AF	P           	SIT-2086	SIT-2086	S61764    	S2086/SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AG	P           	Mordovia-IOT	Mordovia-IOT	S61765    	SARPT	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AH	P           	Ruzaevka-390	Ruzaevka-390	S61766    	SARPT	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AJ	P           	Nokhcho	Nokhcho	S61767    	CHGU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AL	P           	Kowsar	Kowsar	S61769    	OMID/ISRC	IR	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AM	P       ?   	Norbi-3	Norbi-3	S61770    	NOVSU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AN	P           	SITRO-AIS-48	SITRO-AIS-48	S61771    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AP	P           	Hyperview-1G	Hyperview-1G	S61772    	SNIU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AQ	P           	SITRO-AIS-47	SITRO-AIS-47	S61773    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AR	P           	SITRO-AIS-46	SITRO-AIS-46	S61774    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AS	P       ?   	MTUSI-1	MTUSI-1	S61775    	MTUSI	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AT	P           	SITRO-AIS-40	SITRO-AIS-40	S61776    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AU	P       ?   	Hodhod	Hodhod	S61777    	OMID/ISRC	IR	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AV	P           	SITRO-AIS-39	SITRO-AIS-39	S61778    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AW	P           	Al'tair	Al'tair	S61779    	MGU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AX	P           	SITRO-AIS-37	SITRO-AIS-37	S61780    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AY	P           	ASRTU-OSCAR-123	ASRTU-1	S61781    	AMGU/HARB	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199AZ	P           	TUSUR GO	TUSUR GO	S61782    	TUSUR	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BA	P           	ZIMSAT-2	AMAISAT	S61783    	ZINGSA/YUZGU	ZW	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BB	P           	SamSat-Ion 2	SamSat-Ion 2	S61784    	SNIU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BC	P           	RTU MIREA1	RTU MIREA1	S61785    	MIREA	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BD	P           	SITRO-AIS-38	SITRO-AIS-38	S61786    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BE	P       ?   	YUZGU-60	YUZGU-60	S61787    	YUZGU	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BF	P           	SITRO-AIS-45	SITRO-AIS-45	S61788    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BG	P           	SITRO-AIS-17	SITRO-AIS-17	S61789    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2024-199 	2024 Nov  4 2318:40	2024-199BH	P           	SITRO-AIS-18	SITRO-AIS-18	S61790    	SITRO	RU	Soyuz-2-1B	S 15000-013  142-601	-	VOST	PU1S	-	-	GKLS	RU	OS  	nasaspaceflight.com
 2024-200 	2024 Nov  5 0229:30	2024-200A	PP-H-V-     	Dragon CRS-31	Dragon C208.5	S61791    	SPX	US	Falcon 9	390/B1083.5  F390	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2024-200 	2024 Nov  5 0229:30	1998-067XC	P  D        	Yodaka	AE1b	S62295    	ARKE	J	Falcon 9	390/B1083.5  F390	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
 2024-200 	2024 Nov  5 0229:30	1998-067XD	P  D    ?   	DENDEN-01	DENDEN-01	S62296    	KANSAI	J	Falcon 9	390/B1083.5  F390	-	KSC	LC39A	-	-	SPX	US	OS  	Wire
@@ -25934,26 +25934,26 @@
 2025-154 	2025 Jul 23 1813	2025-154J	P           	Skykraft 4A	Skykraft 4A	S64897    	SKYKR	AU	Falcon 9	503/B1081.16 F508	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2025-154 	2025 Jul 23 1813	2025-154K	P           	Skykraft 4D	Skykraft 4D	S64898    	SKYKR	AU	Falcon 9	503/B1081.16 F508	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2025-154 	2025 Jul 23 1813	2025-154L	P           	Skykraft 4E	Skykraft 4E	S65227    	SKYKR	AU	Falcon 9	503/B1081.16 F508	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2025-155 	2025 Jul 25 0554:04	2025-155A	P           	Ionosfera-M No. 3	Ionosfera-M No. 3	S64876    	VNIIEMI	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155B	P           	Ionosfera-M No. 4	Ionosfera-M No. 4	S64877    	VNIIEMI	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155C	P           	Innosat16	Geoskan ?	S64878    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155D	P           	Geoskan-6	Geoskan ?	S64879    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155E	P           	Geoskan-1	Geoskan ?	S64880    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155F	P           	239Alferov	FTS-239	S64881    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155G	P       ?   	CSTP-4.3	CSTP-4.3	S64882    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155H	P       ?   	CSTP-4.2	CSTP-4.2	S64883    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155J	P       ?   	CSTP-4.1	CSTP-4.1	S64884    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155K	P       ?   	FSKL5695-14	Rateks-3U-4	S64885    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155L	P       ?   	FSKL5695-12	Rateks-3U-2	S64886    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155M	P       ?   	FSKL5695-13	Rateks-3U-3	S64887    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155N	P       ?   	FSKL5695-11	Rateks-3U-1	S64888    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155P	P       ?   	Nahid 2	Nahid 2	S64889    	IRSA/IUST	IR	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155Q	P           	Geoskan-2	Geoskan ?	S64890    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155R	P           	Geoskan-5	Geoskan ?	S64891    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155S	P           	Geoskan-4	Geoskan ?	S64892    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155T	P           	Geoskan-3	Geoskan ?	S64893    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155U	P           	Innosat3	Geoskan ?	S64894    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
-2025-155 	2025 Jul 25 0554:04	2025-155V	P       ?   	CSTP-4.4	CSTP-4.4	S64895    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	FKA	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155A	P           	Ionosfera-M No. 3	Ionosfera-M No. 3	S64876    	VNIIEMI	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155B	P           	Ionosfera-M No. 4	Ionosfera-M No. 4	S64877    	VNIIEMI	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155C	P           	Innosat16	Geoskan ?	S64878    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155D	P           	Geoskan-6	Geoskan ?	S64879    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155E	P           	Geoskan-1	Geoskan ?	S64880    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155F	P           	239Alferov	FTS-239	S64881    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155G	P       ?   	CSTP-4.3	CSTP-4.3	S64882    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155H	P       ?   	CSTP-4.2	CSTP-4.2	S64883    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155J	P       ?   	CSTP-4.1	CSTP-4.1	S64884    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155K	P       ?   	FSKL5695-14	Rateks-3U-4	S64885    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155L	P       ?   	FSKL5695-12	Rateks-3U-2	S64886    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155M	P       ?   	FSKL5695-13	Rateks-3U-3	S64887    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155N	P       ?   	FSKL5695-11	Rateks-3U-1	S64888    	RATEKS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155P	P       ?   	Nahid 2	Nahid 2	S64889    	IRSA/IUST	IR	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155Q	P           	Geoskan-2	Geoskan ?	S64890    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155R	P           	Geoskan-5	Geoskan ?	S64891    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155S	P           	Geoskan-4	Geoskan ?	S64892    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155T	P           	Geoskan-3	Geoskan ?	S64893    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155U	P           	Innosat3	Geoskan ?	S64894    	GEOSK	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
+2025-155 	2025 Jul 25 0554:04	2025-155V	P       ?   	CSTP-4.4	CSTP-4.4	S64895    	STTS	RU	Soyuz-2-1B	K 15000-015	-	VOST	PU1S	-	-	GKLS	RU	OS  	russianspaceweb.com
 2025-156 	2025 Jul 26 0203:48	2025-156A	P           	MicroCarb	MicroCarb	S64899    	CNES	F	Vega C	VV27	-	CSG	ZLV	-	-	AE	F	OS  	spaceflightnow.com
 2025-156 	2025 Jul 26 0203:48	2025-156B	P           	CO3D F3	CO3D3	S64900    	CNES	F	Vega C	VV27	-	CSG	ZLV	-	-	AE	F	OS  	spaceflightnow.com
 2025-156 	2025 Jul 26 0203:48	2025-156C	P           	CO3D F4	CO3D4	S64901    	CNES	F	Vega C	VV27	-	CSG	ZLV	-	-	AE	F	OS  	spaceflightnow.com
@@ -28207,58 +28207,58 @@
 2025-311 	2025 Dec 25 2326	2025-311H	P      O  M 	WHDW 17-08	Xingwang Digui 17-08	S67243    	ZXW	CN	Chang Zheng 8A	Y6	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
 2025-311 	2025 Dec 25 2326	2025-311J	P      O  M 	WHDW 17-09	Xingwang Digui 17-09	S67244    	ZXW	CN	Chang Zheng 8A	Y6	-	HCSLS	LC1	-	-	CALT	CN	OS  	nasaspaceflight.com
 2025-312 	2025 Dec 26 1607	2025-312A	P   G       	Feng Yun 4C	FY-4 03 xing	S67246    	NSMC	CN	Chang Zheng 3B	Y113	-	XSC	LC2	-	-	CALT	CN	OS  	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313B	P       ?   	Marafon No. 1	Marafon E	S67249    	NPOPM/MAIO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313D	P       ?   	Marafon No. 2 GMM?	Marafon	S67251    	NPOPM/MAIO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313E	P           	Zorkiy-2M VPE	Zorkiy-2M No. 3	S67252    	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313F	P           	Aist-2T No. 1	Aist-2T No. 1	S67253    	ROSK	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313G	P           	Aist-2T No. 2	Aist-2T No. 2	S67254    	ROSK	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313H	P           	Paya	Tolou-3	S67255    	IRSA/IEI	IR	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313J	P           	SITRO-AIS-57	SITRO-AIS-57	S67256    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313K	P           	SITRO-AIS-59	SITRO-AIS-59	S67257    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313L	P           	SITRO-AIS-58	SITRO-AIS-58	S67258    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313M	P       ?   	CSTP-3.10	CSTP-3.10 (3.1)	S67259    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313N	P           	SITRO-AIS-60	SITRO-AIS-60	S67260    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313P	P       ?   	SM-3.1	CSTP-x.3	S67261    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313Q	P       ?   	Ansat-1	CSTP-x.4	S67262    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313R	P           	DCS-1	IoT-5	S67263    	TELTN?	TN	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313S	P           	Kowsar-1.5	Kowsar-1.5	S67264    	OMID/ISRC	IR	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313T	P           	SITRO-TD-4	SITRO-TD-4	S67265    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313U	P           	SITRO-AIS-65	SITRO-AIS-65	S67266    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313V	P       ?   	Grifon-1	Grifon-1	S67267    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313W	P           	Zorkiy-2M No. 7	Zorkiy-2M No. 7	S67268    	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313X	P       ?   	Grifon-2	Grifon-2	S67269    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313Y	P           	SITRO-TD-3	SITRO-TD-3	S67270    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313Z	P       ?   	SCH-619	CSTP-x.1	S67271    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AA	P       ?   	Polytech-Univers-6	Polytech Univers-6	S67272    	SPBPU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AB	P       ?   	VM-3.1	CSTP-x.2	S67273    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AC	P       ?   	Mokha-1	Germes 1	S67274    	KAIS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AD	P       ?   	Vladivostok-2	CSTP-3.11	S67275    	DVFU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AE	P       ?   	Argus-312	Germes 3	S67276    	KAIS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AF	P       ?   	Grifon-4	Grifon-4	S67277    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AG	P       ?   	MorSat-1	MorSat-1	S67278    	AMGU/MAIO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AH	P           	UTE-Galapagos	UTE-Galapagos	S67279    	UTE/YUZGU	EC	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AJ	P       ?   	Zafar-2	Zafar-2	S67280    	IRSA/IUST	IR	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AK	P       ?   	Aist-ST	Aist-ST	S67281    	SNIU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AL	P       ?   	Grifon-3	Grifon-3	S67282    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AM	P           	Khors No. 5	Khors No. 5	S67283    	BAUM	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AN	P           	Lobachevskiy	Lobachevskiy	S67284    	LOBU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AP	P           	NASBSat-2	NASBSat-2	S67285    	ANBEL	BY	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AQ	P           	Mule-4T	Mule-4T	S67286    	OKB5P	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AR	P           	Luca	Luca	S67287    	MSR	ME	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AS	P       ?   	Yeya-2	Germes 2	S67288    	KAIS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AT	P           	NASBSat-1	NASBSat-1	S67289    	ANBEL	BY	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AU	P           	SakhaCube-Cholbon	SakhaCube-Cholbon	S67290    	MANYA	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AV	P           	QMR-KWT-2	QMR-KWT-2	S67291    	ORBSKW	KW	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AW	P           	SITRO-AIS-64	SITRO-AIS-64	S67292    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AX	P           	Skorpion	NIIYaF-MGU-80	S67293    	MGU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AY	P           	SITRO-AIS-63	SITRO-AIS-63	S67294    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313AZ	P           	Zorkiy-2M No. 5	Zorkiy-2M No. 5	S67295    	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313BA	P           	SITRO-AIS-62	SITRO-AIS-62	S67296    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313BB	P           	SITRO-AIS-61	SITRO-AIS-61	S67297    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313BC	P           	TriSat-2	Trisat-2	S67298    	OKB5P?	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313BD	P           	Trisat-3	QUBeSat-1	S67299    	QAU	QA	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313BE	P           	Trisat-4	Trisat-4	S67482    	OKB5P	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
-2025-313 	2025 Dec 28 1318:05	2025-313BF	P           	Trisat-1	RUVDSSat-1	S67755    	RUVDS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313B	P       ?   	Marafon No. 1	Marafon E	S67249    	NPOPM/MAIO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313D	P       ?   	Marafon No. 2 GMM?	Marafon	S67251    	NPOPM/MAIO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313E	P           	Zorkiy-2M VPE	Zorkiy-2M No. 3	S67252    	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313F	P           	Aist-2T No. 1	Aist-2T No. 1	S67253    	ROSK	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313G	P           	Aist-2T No. 2	Aist-2T No. 2	S67254    	ROSK	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313H	P           	Paya	Tolou-3	S67255    	IRSA/IEI	IR	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313J	P           	SITRO-AIS-57	SITRO-AIS-57	S67256    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313K	P           	SITRO-AIS-59	SITRO-AIS-59	S67257    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313L	P           	SITRO-AIS-58	SITRO-AIS-58	S67258    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313M	P       ?   	CSTP-3.10	CSTP-3.10 (3.1)	S67259    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313N	P           	SITRO-AIS-60	SITRO-AIS-60	S67260    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313P	P       ?   	SM-3.1	CSTP-x.3	S67261    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313Q	P       ?   	Ansat-1	CSTP-x.4	S67262    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313R	P           	DCS-1	IoT-5	S67263    	TELTN?	TN	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313S	P           	Kowsar-1.5	Kowsar-1.5	S67264    	OMID/ISRC	IR	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313T	P           	SITRO-TD-4	SITRO-TD-4	S67265    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313U	P           	SITRO-AIS-65	SITRO-AIS-65	S67266    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313V	P       ?   	Grifon-1	Grifon-1	S67267    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313W	P           	Zorkiy-2M No. 7	Zorkiy-2M No. 7	S67268    	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313X	P       ?   	Grifon-2	Grifon-2	S67269    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313Y	P           	SITRO-TD-3	SITRO-TD-3	S67270    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313Z	P       ?   	SCH-619	CSTP-x.1	S67271    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AA	P       ?   	Polytech-Univers-6	Polytech Univers-6	S67272    	SPBPU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AB	P       ?   	VM-3.1	CSTP-x.2	S67273    	STTS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AC	P       ?   	Mokha-1	Germes 1	S67274    	KAIS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AD	P       ?   	Vladivostok-2	CSTP-3.11	S67275    	DVFU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AE	P       ?   	Argus-312	Germes 3	S67276    	KAIS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AF	P       ?   	Grifon-4	Grifon-4	S67277    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AG	P       ?   	MorSat-1	MorSat-1	S67278    	AMGU/MAIO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AH	P           	UTE-Galapagos	UTE-Galapagos	S67279    	UTE/YUZGU	EC	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AJ	P       ?   	Zafar-2	Zafar-2	S67280    	IRSA/IUST	IR	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AK	P       ?   	Aist-ST	Aist-ST	S67281    	SNIU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AL	P       ?   	Grifon-3	Grifon-3	S67282    	NOVSU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AM	P           	Khors No. 5	Khors No. 5	S67283    	BAUM	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AN	P           	Lobachevskiy	Lobachevskiy	S67284    	LOBU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AP	P           	NASBSat-2	NASBSat-2	S67285    	ANBEL	BY	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AQ	P           	Mule-4T	Mule-4T	S67286    	OKB5P	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AR	P           	Luca	Luca	S67287    	MSR	ME	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AS	P       ?   	Yeya-2	Germes 2	S67288    	KAIS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AT	P           	NASBSat-1	NASBSat-1	S67289    	ANBEL	BY	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AU	P           	SakhaCube-Cholbon	SakhaCube-Cholbon	S67290    	MANYA	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AV	P           	QMR-KWT-2	QMR-KWT-2	S67291    	ORBSKW	KW	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AW	P           	SITRO-AIS-64	SITRO-AIS-64	S67292    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AX	P           	Skorpion	NIIYaF-MGU-80	S67293    	MGU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AY	P           	SITRO-AIS-63	SITRO-AIS-63	S67294    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313AZ	P           	Zorkiy-2M No. 5	Zorkiy-2M No. 5	S67295    	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313BA	P           	SITRO-AIS-62	SITRO-AIS-62	S67296    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313BB	P           	SITRO-AIS-61	SITRO-AIS-61	S67297    	SITRO	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313BC	P           	TriSat-2	Trisat-2	S67298    	OKB5P?	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313BD	P           	Trisat-3	QUBeSat-1	S67299    	QAU	QA	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313BE	P           	Trisat-4	Trisat-4	S67482    	OKB5P	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
+2025-313 	2025 Dec 28 1318:05	2025-313BF	P           	Trisat-1	RUVDSSat-1	S67755    	RUVDS	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS95 	nasaspaceflight.com
 2025-314 	2025 Dec 30 0412	2025-314A	P           	Tianhui-7	Tianhui-7	S67300    	GCDX	CN	Chang Zheng 4B	Y69	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
 2025-315 	2025 Dec 30 2240:07	2025-315A	P   G       	Shi Jian 29A	Shi Jian 29 A xing	S67302    	ZLZB	CN	Chang Zheng 7A	Y7	-	WEN	LC201	-	-	CALT	CN	OS  	nasaspaceflight.com
 2025-315 	2025 Dec 30 2240:07	2025-315C	P           	Shi Jian 29B	Shi Jian 29 B xing	S67403    	ZLZB	CN	Chang Zheng 7A	Y7	-	WEN	LC201	-	-	CALT	CN	OS  	nasaspaceflight.com
@@ -29302,23 +29302,23 @@
 2026-060 	2026 Mar 22 1549	2026-060H	P           	Weili Kongjian 02-08	Centispace-02-08	S68357    	CENTI	CN	Jielong-3	Y10	DFHT	HHAI	LP4	-	-	CZHJ	CN	OS  	nasaspaceflight.com
 2026-060 	2026 Mar 22 1549	2026-060J	P           	Weili Kongjian 02-09	Centispace-02-09	S68358    	CENTI	CN	Jielong-3	Y10	DFHT	HHAI	LP4	-	-	CZHJ	CN	OS  	nasaspaceflight.com
 2026-060 	2026 Mar 22 1549	2026-060K	P           	Weili Kongjian 02-10	Centispace-02-10	S68359    	CENTI	CN	Jielong-3	Y10	DFHT	HHAI	LP4	-	-	CZHJ	CN	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061A	P      O    	Rassvet-3 No. 1	Rassvet-3 No. 1	S68360    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061B	P      O    	Rassvet-3 No. 2	Rassvet-3 No. 2	S68361    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061C	P      O    	Rassvet-3 No. 3	Rassvet-3 No. 3	S68362    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061D	P      F r  	Rassvet-3 No. 4	Rassvet-3 No. 4	S68363    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061E	P      O    	Rassvet-3 No. 5	Rassvet-3 No. 5	S68364    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061F	P      O    	Rassvet-3 No. 6	Rassvet-3 No. 6	S68365    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061G	P      O    	Rassvet-3 No. 7	Rassvet-3 No. 7	S68366    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061H	P      O    	Rassvet-3 No. 8	Rassvet-3 No. 8	S68367    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061J	P      O    	Rassvet-3 No. 9	Rassvet-3 No. 9	S68368    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061K	P      O    	Rassvet-3 No. 10	Rassvet-3 No. 10	S68369    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061L	P      F r  	Rassvet-3 No. 11	Rassvet-3 No. 11	S68370    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061M	P      O    	Rassvet-3 No. 12	Rassvet-3 No. 12	S68371    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061N	P      O    	Rassvet-3 No. 13	Rassvet-3 No. 13	S68372    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061P	P      F r  	Rassvet-3 No. 14	Rassvet-3 No. 14	S68373    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061Q	P      O    	Rassvet-3 No. 15	Rassvet-3 No. 15	S68374    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061R	P      O    	Rassvet-3 No. 16	Rassvet-3 No. 16	S68375    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
-2026-061 	2026 Mar 23 1724	2026-061S	P A         	OBZP-1	OBZP-1	S68537    	UNKRU	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061A	P      O    	Rassvet-3 No. 1	Rassvet-3 No. 1	S68360    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061B	P      O    	Rassvet-3 No. 2	Rassvet-3 No. 2	S68361    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061C	P      O    	Rassvet-3 No. 3	Rassvet-3 No. 3	S68362    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061D	P      F r  	Rassvet-3 No. 4	Rassvet-3 No. 4	S68363    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061E	P      O    	Rassvet-3 No. 5	Rassvet-3 No. 5	S68364    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061F	P      O    	Rassvet-3 No. 6	Rassvet-3 No. 6	S68365    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061G	P      O    	Rassvet-3 No. 7	Rassvet-3 No. 7	S68366    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061H	P      O    	Rassvet-3 No. 8	Rassvet-3 No. 8	S68367    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061J	P      O    	Rassvet-3 No. 9	Rassvet-3 No. 9	S68368    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061K	P      O    	Rassvet-3 No. 10	Rassvet-3 No. 10	S68369    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061L	P      F r  	Rassvet-3 No. 11	Rassvet-3 No. 11	S68370    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061M	P      O    	Rassvet-3 No. 12	Rassvet-3 No. 12	S68371    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061N	P      O    	Rassvet-3 No. 13	Rassvet-3 No. 13	S68372    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061P	P      F r  	Rassvet-3 No. 14	Rassvet-3 No. 14	S68373    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061Q	P      O    	Rassvet-3 No. 15	Rassvet-3 No. 15	S68374    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061R	P      O    	Rassvet-3 No. 16	Rassvet-3 No. 16	S68375    	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
+2026-061 	2026 Mar 23 1724	2026-061S	P A         	OBZP-1	OBZP-1	S68537    	UNKRU	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	nasaspaceflight.com
 2026-062 	2026 Mar 25 2251	2026-062A	P           	Siwei Gaojing 2-05	Siwei 2-05	S68377    	SIWEI	CN	Chang Zheng 2D	Y105	-	TYSC	LC9	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-062 	2026 Mar 25 2251	2026-062B	P           	Siwei Gaojing 2-06	Siwei 2-06	S68378    	SIWEI	CN	Chang Zheng 2D	Y105	-	TYSC	LC9	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-063 	2026 Mar 26 2303:19	2026-063A	P      O  M 	Starlink 36296	Starlink Group 17-17-01	S68380    	SPXS	US	Falcon 9	xxx/B1081.23 F621	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -30995,22 +30995,22 @@
 2026-163 	2026 Jul 16 2032:36	2026-163W	P      O  M 	Praetorian SDA-521	SDA T1TL-E-21	S100079   	SDA	US	Falcon 9	xxx/B1103.4  F667	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-164 	2026 Jul 18 0635:30	2026-164A	P           	Solaras-S3	Solaras-S3	S100080   	GRAHAA	IN	Vikram-1	F1	-	SDSC	FLP	-	-	SKYRT	IN	OS  	youtube.com
 2026-164 	2026 Jul 18 0635:30	2026-164B	P           	SCOPE	SCOPE	S100081   	SKYRT	IN	Vikram-1	F1	-	SDSC	FLP	-	-	SKYRT	IN	OS  	youtube.com
-2026-165 	2026 Jul 19 1750?	2026-165A	P      F m  	Rassvet-3 No. 17	Rassvet-3 No. 2-01	S100083   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165B	P      A    	Rassvet-3 No. 18	Rassvet-3 No. 2-02	S100084   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165C	P      A    	Rassvet-3 No. 19	Rassvet-3 No. 2-03	S100085   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165D	P      A    	Rassvet-3 No. 20	Rassvet-3 No. 2-04	S100086   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165E	P      A    	Rassvet-3 No. 21	Rassvet-3 No. 2-05	S100087   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165F	P      A    	Rassvet-3 No. 22	Rassvet-3 No. 2-06	S100088   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165G	P      A m  	Rassvet-3 No. 23	Rassvet-3 No. 2-07	S100089   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165H	P      A    	Rassvet-3 No. 24	Rassvet-3 No. 2-08	S100090   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165J	P      A    	Rassvet-3 No. 25	Rassvet-3 No. 2-09	S100091   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165K	P      A m  	Rassvet-3 No. 26	Rassvet-3 No. 2-10	S100092   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165L	P      A    	Rassvet-3 No. 27	Rassvet-3 No. 2-11	S100093   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165M	P      A    	Rassvet-3 No. 28	Rassvet-3 No. 2-12	S100094   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165N	P      A    	Rassvet-3 No. 29	Rassvet-3 No. 2-13	S100095   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165P	P      A    	Rassvet-3 No. 30	Rassvet-3 No. 2-14	S100096   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165Q	P      A    	Rassvet-3 No. 31	Rassvet-3 No. 2-15	S100097   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
-2026-165 	2026 Jul 19 1750?	2026-165R	P      A    	Rassvet-3 No. 32	Rassvet-3 No. 2-16	S100098   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	FKA	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165A	P      F m  	Rassvet-3 No. 17	Rassvet-3 No. 2-01	S100083   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165B	P      A    	Rassvet-3 No. 18	Rassvet-3 No. 2-02	S100084   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165C	P      A    	Rassvet-3 No. 19	Rassvet-3 No. 2-03	S100085   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165D	P      A    	Rassvet-3 No. 20	Rassvet-3 No. 2-04	S100086   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165E	P      A    	Rassvet-3 No. 21	Rassvet-3 No. 2-05	S100087   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165F	P      A    	Rassvet-3 No. 22	Rassvet-3 No. 2-06	S100088   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165G	P      A m  	Rassvet-3 No. 23	Rassvet-3 No. 2-07	S100089   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165H	P      A    	Rassvet-3 No. 24	Rassvet-3 No. 2-08	S100090   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165J	P      A    	Rassvet-3 No. 25	Rassvet-3 No. 2-09	S100091   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165K	P      A m  	Rassvet-3 No. 26	Rassvet-3 No. 2-10	S100092   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165L	P      A    	Rassvet-3 No. 27	Rassvet-3 No. 2-11	S100093   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165M	P      A    	Rassvet-3 No. 28	Rassvet-3 No. 2-12	S100094   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165N	P      A    	Rassvet-3 No. 29	Rassvet-3 No. 2-13	S100095   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165P	P      A    	Rassvet-3 No. 30	Rassvet-3 No. 2-14	S100096   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165Q	P      A    	Rassvet-3 No. 31	Rassvet-3 No. 2-15	S100097   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
+2026-165 	2026 Jul 19 1750?	2026-165R	P      A    	Rassvet-3 No. 32	Rassvet-3 No. 2-16	S100098   	B1440	RU	Soyuz-2-1B	-	-	GIK-1	LC43/4	-	-	GKLS	RU	OS  	TLE
 2026-166 	2026 Jul 21 1449:34	2026-166A	P      O  M 	Starlink 38222	Starlink Group 17-39-01	S100101   	SPXS	US	Falcon 9	xxx/B1082.23 F668	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-166 	2026 Jul 21 1449:34	2026-166B	P      D  M 	Starlink 37740	Starlink Group 17-39-02	S100102   	SPXS	US	Falcon 9	xxx/B1082.23 F668	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-166 	2026 Jul 21 1449:34	2026-166C	P      D  M 	Starlink 38214	Starlink Group 17-39-03	S100103   	SPXS	US	Falcon 9	xxx/B1082.23 F668	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -32045,3 +32045,4 @@
 2026-246 	2026 Oct 31 0404:34	2026-246AA	P      D  M 	Starlink 37806	Starlink Group 15-18-25	S101254   	SPXS	US	Falcon 9	xxx/B1093.18 F701	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-246 	2026 Oct 31 0404:34	2026-246AB	P      D  M 	Starlink 38155	Starlink Group 15-18-26	S101255   	SPXS	US	Falcon 9	xxx/B1093.18 F701	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-246 	2026 Oct 31 0404:34	2026-246AC	P      D  M 	Starlink 38457	Starlink Group 15-18-27	S101256   	SPXS	US	Falcon 9	xxx/B1093.18 F701	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-247 	2026 Nov  2 1641	2026-247A	P           	QPS-SAR-20	QPS-SAR-20	S101257   	QPS	J	Electron	99	-	MAHIA	LC1A	-	-	RLABN	NZ	OS  	Wire
