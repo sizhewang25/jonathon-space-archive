@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Nov 13 0019:59
+# Updated 2026 Nov 15 1016:34
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -16881,7 +16881,7 @@
 2022-099 	2022 Aug 12 2140:20	2022-099H	P      L  M 	Starlink 4447	Starlink Group 3-3-08	S53472    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-099 	2022 Aug 12 2140:20	2022-099J	P      L  M 	Starlink 4383	Starlink Group 3-3-09	S53473    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-099 	2022 Aug 12 2140:20	2022-099K	P      L  M 	Starlink 4445	Starlink Group 3-3-10	S53474    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2022-099 	2022 Aug 12 2140:20	2022-099L	P      L  M 	Starlink 4389	Starlink Group 3-3-11	S53475    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2022-099 	2022 Aug 12 2140:20	2022-099L	P      R  M 	Starlink 4389	Starlink Group 3-3-11	S53475    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-099 	2022 Aug 12 2140:20	2022-099M	P      L  M 	Starlink 4378	Starlink Group 3-3-12	S53476    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-099 	2022 Aug 12 2140:20	2022-099N	P      R  M 	Starlink 4412	Starlink Group 3-3-13	S53477    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-099 	2022 Aug 12 2140:20	2022-099P	P      L  M 	Starlink 4433	Starlink Group 3-3-14	S53478    	SPXS	US	Falcon 9	170/B1061.10 F171	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
@@ -31690,12 +31690,11 @@
 2026-227 	2026 Oct  1 1832:00	2026-227	PXAA        	Transporter-18	Rideshare Adapter Stack	A11991    	SPX	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	PXSR        	W-8 Reentry Vehicle	W-Series 8 RV	A11995    	VARDA	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	PXSR        	W-9 Reentry Vehicle	W-Series 9 RV	A11996    	VARDA	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	Kensat	Kensat	T00002    	KCHAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	IRIDE-MS1-Eaglet-2-21	IRIDE-MS1-Eaglet-2-21	T00002    	ASI/OHBI	I	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	ETNS	ETNS	T00005    	CITED	AR	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	ERMINAZ-2Z	ERMINAZ-2Z	T00006    	AMDL	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	UTNH	UTNH	T00019    	UTNH	AR	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	Flock 4j-11	Dove 2588	T00034    	PLAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	Flock 4j-14	Dove 25a4	T00037    	PLAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	SENTINEL-2	OSIRIS-C	T00040    	ETHD	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	SENTINEL-3	OSIRIS-D	T00041    	ETHD	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227	P       ?   	SENTINEL-5	OSIRIS-F	T00043    	ETHD	D	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -31727,7 +31726,7 @@
 2026-227 	2026 Oct  1 1832:00	2026-227Y	P           	GNOMES-10	GNOMES-10	S100905   	PLANQ	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227Z	P           	MERLIN-1	MERLIN-1	S100906   	URUGUS	UY	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227AA	P           	Edmee Chandon	Newsat-57	S100907   	URUGUS	UY	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
-2026-227 	2026 Oct  1 1832:00	2026-227AB	P       ?   	IRIDE-MS1-Eaglet-2-21	IRIDE-MS1-Eaglet-2-21	S100908   	ASI/OHBI	I	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-227 	2026 Oct  1 1832:00	2026-227AB	P           	Kensat	Kensat	S100908   	KCHAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227AC	P           	Terra Nova	Terra Nova	S100909   	NORDSP	CA	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227AD	P           	ICEYE-X86	ICEYE-X86	S100910   	FMV/ICEYE	S	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227AE	P           	ELEAF-01	ELEAF-01	S100911   	TERMR	NL	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
@@ -31802,6 +31801,7 @@
 2026-227 	2026 Oct  1 1832:00	2026-227DB	P           	Flock 4j-13	Dove 25c1	S101288   	PLAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227DC	P           	Flock 4j-15	Dove 25a8	S101289   	PLAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-227 	2026 Oct  1 1832:00	2026-227DD	P           	Flock 4j-16	Dove 258b	S101290   	PLAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
+2026-227 	2026 Oct  1 1832:00	2026-227DE	P       ?   	Flock 4j-14	Dove 25a4	S101357   	PLAN	US	Falcon 9	xxx/B1082.25 F693	-	VSFBS	SLC4E	-	-	SPX	US	OS  	SpaceX
 2026-228 	2026 Oct  2 0354:00	2026-228A	P   G       	USA 708	[Unk NRO MEO 2]	S100953   	NROC	US	Falcon Heavy	014/B1106.1	-	KSC	LC39A	-	-	SPX	US	OS  	SpaceX
 2026-229 	2026 Oct  7 0325	2026-229A	P           	Neonsat-02	Neonsat-2	S100955   	KAIST	KR	Nuri	5	-	NARO	LC2	-	-	KARI	KR	OS  	Wire
 2026-229 	2026 Oct  7 0325	2026-229B	P           	CPSat	CPSat	S100956   	CHOSU	KR	Nuri	5	-	NARO	LC2	-	-	KARI	KR	OS  	Wire
@@ -32108,26 +32108,67 @@
 2026-254 	2026 Nov 11 1141	2026-254	P           	Tanluzhe C	Tanluzhe C	T00011    	CAS	CN	Chang Zheng 2D	Y108	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-254 	2026 Nov 11 1141	2026-254	P           	Tanluzhe D	Tanluzhe D	T00012    	CAS	CN	Chang Zheng 2D	Y108	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
 2026-254 	2026 Nov 11 1141	2026-254A	P           	Tanluzhe A	Tanluzhe A	S101330   	CAS	CN	Chang Zheng 2D	Y108	-	JQ	LC43/94	-	-	SAST	CN	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255A	P      DC   	USA 749	SBST R-5 PL01	S101331   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255B	P      DC   	USA 750	SBST R-5 PL02	S101332   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255C	P      DC   	USA 751	SBST R-5 PL03	S101333   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255D	P      DC   	USA 752	SBST R-5 PL04	S101334   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255E	P      DC   	USA 753	SBST R-5 PL05	S101335   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255F	P      DC   	USA 754	SBST R-5 PL06	S101336   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255G	P      DC   	USA 755	SBST R-5 PL07	S101337   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255H	P      DC   	USA 756	SBST R-5 PL08	S101338   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255J	P      DC   	USA 757	SBST R-5 PL09	S101339   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255K	P      DC   	USA 758	SBST R-5 PL10	S101340   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255L	P      DC   	USA 759	SBST R-5 PL11	S101341   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255M	P      DC   	USA 760	SBST R-5 PL12	S101342   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255N	P      DC   	USA 761	SBST R-5 PL13	S101343   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255P	P      DC   	USA 762	SBST R-5 PL14	S101344   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255Q	P      DC   	USA 763	SBST R-5 PL15	S101345   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255R	P      DC   	USA 764	SBST R-5 PL16	S101346   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255S	P      DC   	USA 765	SBST R-5 PL17	S101347   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255T	P      DC   	USA 766	SBST R-5 PL18	S101348   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255U	P      DC   	USA 767	SBST R-5 PL19	S101349   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255V	P      DC   	USA 768	SBST R-5 PL20	S101350   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255W	P      DC   	USA 769	SBST R-5 PL21	S101351   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255X	P      DC   	USA 770	SBST R-5 PL22	S101352   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
-2026-255 	2026 Nov 12 0436:30	2026-255Y	P      DC   	USA 771	SBST R-5 PL23	S101353   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255A	P      DC   	USA 749	SBST R-5 PL01	S101334   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255B	P      DC   	USA 750	SBST R-5 PL02	S101335   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255C	P      DC   	USA 751	SBST R-5 PL03	S101336   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255D	P      DC   	USA 752	SBST R-5 PL04	S101337   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255E	P      DC   	USA 753	SBST R-5 PL05	S101338   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255F	P      DC   	USA 754	SBST R-5 PL06	S101339   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255G	P      DC   	USA 755	SBST R-5 PL07	S101340   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255H	P      DC   	USA 756	SBST R-5 PL08	S101341   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255J	P      DC   	USA 757	SBST R-5 PL09	S101342   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255K	P      DC   	USA 758	SBST R-5 PL10	S101343   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255L	P      DC   	USA 759	SBST R-5 PL11	S101344   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255M	P      DC   	USA 760	SBST R-5 PL12	S101345   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255N	P      DC   	USA 761	SBST R-5 PL13	S101346   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255P	P      DC   	USA 762	SBST R-5 PL14	S101347   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255Q	P      DC   	USA 763	SBST R-5 PL15	S101348   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255R	P      DC   	USA 764	SBST R-5 PL16	S101349   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255S	P      DC   	USA 765	SBST R-5 PL17	S101350   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255T	P      DC   	USA 766	SBST R-5 PL18	S101351   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255U	P      DC   	USA 767	SBST R-5 PL19	S101352   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255V	P      DC   	USA 768	SBST R-5 PL20	S101353   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255W	P      DC   	USA 769	SBST R-5 PL21	S101354   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255X	P      DC   	USA 770	SBST R-5 PL22	S101355   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-255 	2026 Nov 12 0436:30	2026-255Y	P      DC   	USA 771	SBST R-5 PL23	S101356   	SFSSC	US	Falcon 9	xxx/B1103.7  F703	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256A	P      D  M 	Starlink 40096	Starlink Group 31-2-01	S101358   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256B	P      D  M 	Starlink 40127	Starlink Group 31-2-02	S101359   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256C	P      D  M 	Starlink 40104	Starlink Group 31-2-03	S101360   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256D	P      D  M 	Starlink 40120	Starlink Group 31-2-04	S101361   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256E	P      D  M 	Starlink 40117	Starlink Group 31-2-05	S101362   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256F	P      D  M 	Starlink 40115	Starlink Group 31-2-06	S101363   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256G	P      D  M 	Starlink 40114	Starlink Group 31-2-07	S101364   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256H	P      D  M 	Starlink 40118	Starlink Group 31-2-08	S101365   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256J	P      D  M 	Starlink 40113	Starlink Group 31-2-09	S101366   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256K	P      D  M 	Starlink 40111	Starlink Group 31-2-10	S101367   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256L	P      D  M 	Starlink 40119	Starlink Group 31-2-11	S101368   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256M	P      D  M 	Starlink 40109	Starlink Group 31-2-12	S101369   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256N	P      D  M 	Starlink 40126	Starlink Group 31-2-13	S101370   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256P	P      D  M 	Starlink 40110	Starlink Group 31-2-14	S101371   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256Q	P      D  M 	Starlink 40121	Starlink Group 31-2-15	S101372   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256R	P      D  M 	Starlink 40124	Starlink Group 31-2-16	S101373   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256S	P      D  M 	Starlink 40134	Starlink Group 31-2-17	S101374   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256T	P      D  M 	Starlink 40102	Starlink Group 31-2-18	S101375   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256U	P      D  M 	Starlink 40130	Starlink Group 31-2-19	S101376   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256V	P      D  M 	Starlink 40108	Starlink Group 31-2-20	S101377   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256W	P      D  M 	Starlink 40133	Starlink Group 31-2-21	S101378   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256X	P      D  M 	Starlink 40132	Starlink Group 31-2-22	S101379   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256Y	P      D  M 	Starlink 40129	Starlink Group 31-2-23	S101380   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256Z	P      D  M 	Starlink 40128	Starlink Group 31-2-24	S101381   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256AA	P      D  M 	Starlink 40131	Starlink Group 31-2-25	S101382   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256AB	P      D  M 	Starlink 40125	Starlink Group 31-2-26	S101383   	SPXS	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-256 	2026 Nov 13 2247:36	2026-256AC	P           	Starship FT-15	Starship 42	S101384   	SPX	US	Starship V3	B22/S42	-	STB	OLP2	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257A	P           	KOEN	KOEN	S101388   	MTLAB	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257B	P           	Kinosputnik	Kinosputnik	S101389   	SPUT	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257C	P           	RU Rideshare Sat 17-01	RU Rideshare Sat 17-01	S101390   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257D	P           	RU Rideshare Sat 17-02	RU Rideshare Sat 17-02	S101391   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257E	P           	RU Rideshare Sat 17-03	RU Rideshare Sat 17-03	S101392   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257F	P           	RU Rideshare Sat 17-04	RU Rideshare Sat 17-04	S101393   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257G	P           	RU Rideshare Sat 17-05	RU Rideshare Sat 17-05	S101394   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257H	P           	RU Rideshare Sat 17-06	RU Rideshare Sat 17-06	S101395   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257J	P           	RU Rideshare Sat 17-07	RU Rideshare Sat 17-07	S101396   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257K	P           	RU Rideshare Sat 17-08	RU Rideshare Sat 17-08	S101397   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257L	P           	RU Rideshare Sat 17-09	RU Rideshare Sat 17-09	S101398   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257M	P           	RU Rideshare Sat 17-10	RU Rideshare Sat 17-10	S101399   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-257 	2026 Nov 14 0116:15	2026-257N	P           	RU Rideshare Sat 17-11	RU Rideshare Sat 17-11	S101400   	UNKRU	RU	Soyuz-2-1B	-	-	VOST	PU1S	-	-	GKLS/FKA	RU	OS  	nasaspaceflight.com
+2026-258 	2026 Nov 14 0530	2026-258A	P           	QPS-SAR-19	QPS-SAR-19	S101385   	QPS	J	Electron	100	-	MAHIA	LC1A	-	-	RLABN	NZ	OS  	Wire
