@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Nov 18 0142:42
+# Updated 2026 Nov 19 0315:29
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -16673,7 +16673,7 @@
 2022-084 	2022 Jul 22 1739:40	2022-084K	P      L  M 	Starlink 4385	Starlink Group 3-2-10	S53198    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-084 	2022 Jul 22 1739:40	2022-084L	P      L  M 	Starlink 4395	Starlink Group 3-2-11	S53199    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-084 	2022 Jul 22 1739:40	2022-084M	P      L  M 	Starlink 4417	Starlink Group 3-2-12	S53200    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2022-084 	2022 Jul 22 1739:40	2022-084N	P      L  M 	Starlink 4405	Starlink Group 3-2-13	S53201    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2022-084 	2022 Jul 22 1739:40	2022-084N	P      R  M 	Starlink 4405	Starlink Group 3-2-13	S53201    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-084 	2022 Jul 22 1739:40	2022-084P	P      L  M 	Starlink 4411	Starlink Group 3-2-14	S53202    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-084 	2022 Jul 22 1739:40	2022-084Q	P      L  M 	Starlink 4409	Starlink Group 3-2-15	S53203    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-084 	2022 Jul 22 1739:40	2022-084R	P      L  M 	Starlink 4410	Starlink Group 3-2-16	S53204    	SPXS	US	Falcon 9	167/B1071.4  F167	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
