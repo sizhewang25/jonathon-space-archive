@@ -1,5 +1,5 @@
 #Launch_Tag	Launch_Date	Piece	Type	Name	PLName	JCAT	SatOwner	SatState	LV_Type	Flight_ID	Platform	Launch_Site	Launch_Pad	Ascent_Site	Ascent_Pad	Agency	LVState	Launch_Code	LTCite
-# Updated 2026 Nov 22 0105:57
+# Updated 2026 Nov 23 0024:13
 1957 ALP  	1957 Oct  4 1928:34	1957 ALP 2	P           	1-y ISZ	PS-1	S00002    	OKB1	SU	Sputnik 8K71PS	M1-PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Energiya
 1957 BET  	1957 Nov  3 0230:42	1957 BET 1	P A         	2-y ISZ	PS-2	S00003    	OKB1	SU	Sputnik 8K71PS	M1-2PS	-	NIIP-5	LC1	-	-	MVS	SU	OS  	Grahn-WWW
 1957-F01  	1957 Dec  6 1644:35	1957-F01	P   F       	Vanguard	Vanguard Test Satellite F	F00002    	NRL	US	Vanguard	TV-3	-	CC	LC18A	-	-	NRL	US	OF  	Vang-ER9948
@@ -14308,7 +14308,7 @@
 2021-036 	2021 Apr 29 0344:30	2021-036BE	P      R  M 	Starlink 2504	Starlink V1.0-L24-54	S48328    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-036 	2021 Apr 29 0344:30	2021-036BF	P      R  M 	Starlink 2510	Starlink V1.0-L24-55	S48329    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-036 	2021 Apr 29 0344:30	2021-036BG	P      R  M 	Starlink 2501	Starlink V1.0-L24-56	S48330    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2021-036 	2021 Apr 29 0344:30	2021-036BH	P      L  M 	Starlink 2514	Starlink V1.0-L24-57	S48331    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2021-036 	2021 Apr 29 0344:30	2021-036BH	P      R  M 	Starlink 2514	Starlink V1.0-L24-57	S48331    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-036 	2021 Apr 29 0344:30	2021-036BJ	P      R  M 	Starlink 2511	Starlink V1.0-L24-58	S48332    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-036 	2021 Apr 29 0344:30	2021-036BK	P      R  M 	Starlink 2518	Starlink V1.0-L24-59	S48333    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2021-036 	2021 Apr 29 0344:30	2021-036BL	P      R  M 	Starlink 2470	Starlink V1.0-L24-60	S48334    	SPXS	US	Falcon 9	115/B1060.7  F116	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -16197,7 +16197,7 @@
 2022-051 	2022 May 13 2207:50	2022-051AM	P      O  M 	Starlink 3930	Starlink Group 4-13-36	S52568    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AN	P      O  M 	Starlink 3927	Starlink Group 4-13-37	S52569    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AP	P      R  M 	Starlink 3924	Starlink Group 4-13-38	S52570    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
-2022-051 	2022 May 13 2207:50	2022-051AQ	P      L  M 	Starlink 3901	Starlink Group 4-13-39	S52574    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
+2022-051 	2022 May 13 2207:50	2022-051AQ	P      R  M 	Starlink 3901	Starlink Group 4-13-39	S52574    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AR	P      R  M 	Starlink 3920	Starlink Group 4-13-40	S52575    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AS	P      O  M 	Starlink 3932	Starlink Group 4-13-41	S52576    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
 2022-051 	2022 May 13 2207:50	2022-051AT	P      O  M 	Starlink 3836	Starlink Group 4-13-42	S52577    	SPXS	US	Falcon 9	154/B1063.5  F154	-	VSFBS	SLC4E	-	-	SPX	US	OS  	Wire
@@ -19201,7 +19201,7 @@
 2023-083 	2023 Jun 12 0710:50	2023-083AN	P      O  M 	Starlink 5805	Starlink Group 5-11-37	S56912    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-083 	2023 Jun 12 0710:50	2023-083AP	P      O  M 	Starlink 5950	Starlink Group 5-11-38	S56913    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-083 	2023 Jun 12 0710:50	2023-083AQ	P      O  M 	Starlink 5961	Starlink Group 5-11-39	S56914    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
-2023-083 	2023 Jun 12 0710:50	2023-083AR	P      R  M 	Starlink 5965	Starlink Group 5-11-40	S56915    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
+2023-083 	2023 Jun 12 0710:50	2023-083AR	P      O  M 	Starlink 5965	Starlink Group 5-11-40	S56915    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-083 	2023 Jun 12 0710:50	2023-083AS	P      O  M 	Starlink 5973	Starlink Group 5-11-41	S56916    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-083 	2023 Jun 12 0710:50	2023-083AT	P      O  M 	Starlink 5971	Starlink Group 5-11-42	S56917    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
 2023-083 	2023 Jun 12 0710:50	2023-083AU	P      O  M 	Starlink 5951	Starlink Group 5-11-43	S56918    	SPXS	US	Falcon 9	230/B1073.9  F232	-	CC	LC40	-	-	SPX	US	OS  	Wire
@@ -32192,7 +32192,7 @@
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00653	Kuiper LV01-17	F01822    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00654	Kuiper LV01-18	F01823    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00655	Kuiper LV01-19	F01824    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
-2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00658	Kuiper LV01-20	F01824    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
+2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00658	Kuiper LV01-20	F01825    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00660	Kuiper LV01-21	F01826    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00663	Kuiper LV01-22	F01827    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00664	Kuiper LV01-23	F01828    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
@@ -32202,7 +32202,7 @@
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00668	Kuiper LV01-27	F01832    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00671	Kuiper LV01-28	F01833    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00672	Kuiper LV01-29	F01834    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
-2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00673	Kuiper LV01-30	F01834    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
+2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00673	Kuiper LV01-30	F01835    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00674	Kuiper LV01-31	F01836    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00676	Kuiper LV01-32	F01837    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
 2026-F07  	2026 Nov 15 1740	2026-F07	P      F  M 	Kuiper-00677	Kuiper LV01-33	F01838    	KUIP	US	Vulcan Centaur VC6L	V-012	-	CC	SLC41	-	-	ULAD	US	OF  	Wire
@@ -32246,3 +32246,15 @@
 2026-261 	2026 Nov 21 0420:35	2026-261W	P      DC   	USA 792	SBST R-6 PL21	S101446   	SFSSC	US	Falcon 9	xxx/B1100.11 F704	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
 2026-261 	2026 Nov 21 0420:35	2026-261X	P      DC   	USA 793	SBST R-6 PL22	S101447   	SFSSC	US	Falcon 9	xxx/B1100.11 F704	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
 2026-261 	2026 Nov 21 0420:35	2026-261Y	P      DC   	USA 794	SBST R-6 PL23	S101448   	SFSSC	US	Falcon 9	xxx/B1100.11 F704	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262A	P      DCmM 	USA 795	Starshield 15-01	S101449   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262B	P      DCmM 	USA 796	Starshield 15-02	S101450   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262C	P      DCmM 	USA 797	Starshield 15-03	S101451   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262D	P      DCmM 	USA 798	Starshield 15-04	S101452   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262E	P      DCmM 	USA 799	Starshield 15-05	S101453   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262F	P      DCmM 	USA 800	Starshield 15-06	S101454   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262G	P      DCmM 	USA 801	Starshield 15-07	S101455   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262H	P      DCmM 	USA 802	Starshield 15-08	S101456   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262J	P      DCmM 	USA 803	Starshield 15-09	S101457   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262K	P      DCmM 	USA 804	Starshield 15-10	S101458   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262L	P      DCmM 	USA 805	Starshield 15-11	S101459   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
+2026-262 	2026 Nov 22 1223:56	2026-262M	P      DCmM 	USA 806	Starshield 15-12	S101460   	NROC	US	Falcon 9	xxx/B1097.14 F705	-	VSFBS	SLC4E	-	-	SPX	US	OS  	nasaspaceflight.com
